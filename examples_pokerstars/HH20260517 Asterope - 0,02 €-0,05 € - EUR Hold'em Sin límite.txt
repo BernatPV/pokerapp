@@ -1,0 +1,4212 @@
+﻿PokerStars Zoom Hand #260838995493:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 18:45:49 CET [2026/05/17 12:45:49 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: cazadorconan (€5 in chips) 
+Seat 2: BerbatP (€4.95 in chips) 
+Seat 3: nitramonon (€8.75 in chips) 
+Seat 4: AbiJouA (€7.95 in chips) 
+Seat 5: DiegoCámara (€5.37 in chips) 
+Seat 6: cobra131165 (€16.11 in chips) 
+BerbatP: posts small blind €0.02
+nitramonon: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [4h 6c]
+AbiJouA: folds 
+DiegoCámara: raises €0.10 to €0.15
+cobra131165: folds 
+cazadorconan: folds 
+BerbatP: folds 
+nitramonon: folds 
+Uncalled bet (€0.10) returned to DiegoCámara
+DiegoCámara collected €0.12 from pot
+DiegoCámara: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 1: cazadorconan (button) folded before Flop (didn't bet)
+Seat 2: BerbatP (small blind) folded before Flop
+Seat 3: nitramonon (big blind) folded before Flop
+Seat 4: AbiJouA folded before Flop (didn't bet)
+Seat 5: DiegoCámara collected (€0.12)
+Seat 6: cobra131165 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #260838997682:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 18:45:59 CET [2026/05/17 12:45:59 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: BerbatP (€4.93 in chips) 
+Seat 2: joaobrito710 (€3.24 in chips) 
+Seat 3: cobra131165 (€5 in chips) 
+Seat 4: 13ROS13 (€6.08 in chips) 
+Seat 5: Héct8r75 (€8.13 in chips) 
+Seat 6: AbiJouA (€7.93 in chips) 
+joaobrito710: posts small blind €0.02
+cobra131165: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [2d 6h]
+13ROS13: folds 
+Héct8r75: folds 
+AbiJouA: folds 
+BerbatP: folds 
+joaobrito710: folds 
+Uncalled bet (€0.03) returned to cobra131165
+cobra131165 collected €0.04 from pot
+cobra131165: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.04 | Rake €0 
+Seat 1: BerbatP (button) folded before Flop (didn't bet)
+Seat 2: joaobrito710 (small blind) folded before Flop
+Seat 3: cobra131165 (big blind) collected (€0.04)
+Seat 4: 13ROS13 folded before Flop (didn't bet)
+Seat 5: Héct8r75 folded before Flop (didn't bet)
+Seat 6: AbiJouA folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #260838998524:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 18:46:03 CET [2026/05/17 12:46:03 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: AbiJouA (€7.93 in chips) 
+Seat 2: kurtconlei14 (€4.78 in chips) 
+Seat 3: 13ROS13 (€6.08 in chips) 
+Seat 4: No_prints338 (€9.32 in chips) 
+Seat 5: neutron2275 (€3.56 in chips) 
+Seat 6: BerbatP (€4.93 in chips) 
+kurtconlei14: posts small blind €0.02
+13ROS13: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [5h 9h]
+No_prints338: raises €0.06 to €0.11
+neutron2275: folds 
+BerbatP: folds 
+AbiJouA: folds 
+kurtconlei14: calls €0.09
+13ROS13: folds 
+*** FLOP *** [Ac 7h Qh]
+kurtconlei14: checks 
+No_prints338: bets €0.09
+kurtconlei14: folds 
+Uncalled bet (€0.09) returned to No_prints338
+No_prints338 collected €0.26 from pot
+No_prints338: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.27 | Rake €0.01 
+Board [Ac 7h Qh]
+Seat 1: AbiJouA (button) folded before Flop (didn't bet)
+Seat 2: kurtconlei14 (small blind) folded on the Flop
+Seat 3: 13ROS13 (big blind) folded before Flop
+Seat 4: No_prints338 collected (€0.26)
+Seat 5: neutron2275 folded before Flop (didn't bet)
+Seat 6: BerbatP folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #260838991584:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 18:45:30 CET [2026/05/17 12:45:30 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: mue_16v (€5 in chips) 
+Seat 2: HotRounder (€8.97 in chips) 
+Seat 3: BerbatP (€5 in chips) 
+Seat 4: soouf94110 (€6.89 in chips) 
+Seat 5: Thebaby1128 (€7.37 in chips) 
+Seat 6: pokerikb (€11.63 in chips) 
+HotRounder: posts small blind €0.02
+BerbatP: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [6s Js]
+soouf94110: raises €0.10 to €0.15
+Thebaby1128: raises €0.37 to €0.52
+pokerikb: folds 
+mue_16v: folds 
+HotRounder: folds 
+BerbatP: folds 
+soouf94110: calls €0.37
+*** FLOP *** [9h Kc Ks]
+soouf94110: checks 
+Thebaby1128: bets €0.43
+soouf94110: folds 
+Uncalled bet (€0.43) returned to Thebaby1128
+Thebaby1128 collected €1.05 from pot
+Thebaby1128: doesn't show hand 
+*** SUMMARY ***
+Total pot €1.11 | Rake €0.06 
+Board [9h Kc Ks]
+Seat 1: mue_16v (button) folded before Flop (didn't bet)
+Seat 2: HotRounder (small blind) folded before Flop
+Seat 3: BerbatP (big blind) folded before Flop
+Seat 4: soouf94110 folded on the Flop
+Seat 5: Thebaby1128 collected (€1.05)
+Seat 6: pokerikb folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #260839001700:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 18:46:18 CET [2026/05/17 12:46:18 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: 13ROS13 (€5 in chips) 
+Seat 2: Donjuani_72 (€2.22 in chips) 
+Seat 3: BerbatP (€4.93 in chips) 
+Seat 4: duarteriezas (€5.61 in chips) 
+Seat 5: BarraCarbono (€5.64 in chips) 
+Seat 6: EVETS75 (€3.45 in chips) 
+Donjuani_72: posts small blind €0.02
+BerbatP: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [7s 8c]
+duarteriezas: raises €0.07 to €0.12
+BarraCarbono: raises €0.26 to €0.38
+EVETS75: folds 
+13ROS13: folds 
+Donjuani_72: folds 
+BerbatP: folds 
+duarteriezas: folds 
+Uncalled bet (€0.26) returned to BarraCarbono
+BarraCarbono collected €0.31 from pot
+BarraCarbono: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.31 | Rake €0 
+Seat 1: 13ROS13 (button) folded before Flop (didn't bet)
+Seat 2: Donjuani_72 (small blind) folded before Flop
+Seat 3: BerbatP (big blind) folded before Flop
+Seat 4: duarteriezas folded before Flop
+Seat 5: BarraCarbono collected (€0.31)
+Seat 6: EVETS75 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #260839000885:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 18:46:14 CET [2026/05/17 12:46:14 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: HotRounder (€8.88 in chips) 
+Seat 2: OleksiiKozak (€13.19 in chips) 
+Seat 3: Fusga (€2.22 in chips) 
+Seat 4: zegatoo (€10.43 in chips) 
+Seat 5: BerbatP (€4.93 in chips) 
+Seat 6: Donjuani_72 (€2.22 in chips) 
+OleksiiKozak: posts small blind €0.02
+Fusga: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [2h Kh]
+zegatoo: calls €0.05
+BerbatP: folds 
+Donjuani_72: folds 
+HotRounder: folds 
+OleksiiKozak: folds 
+Fusga: checks 
+*** FLOP *** [5h Ah 6c]
+Fusga: checks 
+zegatoo: checks 
+*** TURN *** [5h Ah 6c] [6d]
+Fusga: checks 
+zegatoo: checks 
+*** RIVER *** [5h Ah 6c 6d] [9h]
+Fusga: checks 
+zegatoo: checks 
+*** SHOW DOWN ***
+Fusga: shows [9s 3h] (two pair, Nines and Sixes)
+zegatoo: mucks hand 
+Fusga collected €0.11 from pot
+*** SUMMARY ***
+Total pot €0.12 | Rake €0.01 
+Board [5h Ah 6c 6d 9h]
+Seat 1: HotRounder (button) folded before Flop (didn't bet)
+Seat 2: OleksiiKozak (small blind) folded before Flop
+Seat 3: Fusga (big blind) showed [9s 3h] and won (€0.11) with two pair, Nines and Sixes
+Seat 4: zegatoo mucked [Qs Jh]
+Seat 5: BerbatP folded before Flop (didn't bet)
+Seat 6: Donjuani_72 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #260839005051:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 18:46:34 CET [2026/05/17 12:46:34 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: KKKJJJ730 (€5 in chips) 
+Seat 2: pokerikb (€5.07 in chips) 
+Seat 3: kurtconlei14 (€4.67 in chips) 
+Seat 4: mue_16v (€7.45 in chips) 
+Seat 5: BerbatP (€4.88 in chips) 
+Seat 6: caracabra25 (€2.03 in chips) 
+pokerikb: posts small blind €0.02
+kurtconlei14: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [Ks 7c]
+mue_16v: folds 
+BerbatP: folds 
+caracabra25: folds 
+KKKJJJ730: folds 
+pokerikb: raises €0.07 to €0.12
+kurtconlei14: folds 
+Uncalled bet (€0.07) returned to pokerikb
+pokerikb collected €0.10 from pot
+pokerikb: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Seat 1: KKKJJJ730 (button) folded before Flop (didn't bet)
+Seat 2: pokerikb (small blind) collected (€0.10)
+Seat 3: kurtconlei14 (big blind) folded before Flop
+Seat 4: mue_16v folded before Flop (didn't bet)
+Seat 5: BerbatP folded before Flop (didn't bet)
+Seat 6: caracabra25 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #260839006634:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 18:46:41 CET [2026/05/17 12:46:41 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: Donjuani_72 (€2.15 in chips) 
+Seat 2: BerbatP (€4.88 in chips) 
+Seat 3: No_prints338 (€10.73 in chips) 
+Seat 4: eyeeel (€3.45 in chips) 
+Seat 5: HotRounder (€5.39 in chips) 
+Seat 6: christgear (€5.28 in chips) 
+BerbatP: posts small blind €0.02
+No_prints338: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [9h 7h]
+eyeeel: folds 
+HotRounder: folds 
+christgear: folds 
+Donjuani_72: folds 
+BerbatP: raises €0.07 to €0.12
+No_prints338: folds 
+Uncalled bet (€0.07) returned to BerbatP
+BerbatP collected €0.10 from pot
+BerbatP: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Seat 1: Donjuani_72 (button) folded before Flop (didn't bet)
+Seat 2: BerbatP (small blind) collected (€0.10)
+Seat 3: No_prints338 (big blind) folded before Flop
+Seat 4: eyeeel folded before Flop (didn't bet)
+Seat 5: HotRounder folded before Flop (didn't bet)
+Seat 6: christgear folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #260839011085:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 18:47:02 CET [2026/05/17 12:47:02 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: BerbatP (€4.93 in chips) 
+Seat 2: Donjuani_72 (€2.03 in chips) 
+Seat 3: Fusga (€2.46 in chips) 
+Seat 4: duarteriezas (€11.13 in chips) 
+Seat 5: pokerikb (€7.15 in chips) 
+Seat 6: laualvz (€5.24 in chips) 
+Donjuani_72: posts small blind €0.02
+Fusga: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [Qd Td]
+duarteriezas: folds 
+pokerikb: folds 
+laualvz: folds 
+BerbatP: raises €0.07 to €0.12
+Donjuani_72: calls €0.10
+Fusga: folds 
+*** FLOP *** [7c 9s 6h]
+Donjuani_72: bets €0.28
+BerbatP: folds 
+Uncalled bet (€0.28) returned to Donjuani_72
+Donjuani_72 collected €0.28 from pot
+Donjuani_72: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.29 | Rake €0.01 
+Board [7c 9s 6h]
+Seat 1: BerbatP (button) folded on the Flop
+Seat 2: Donjuani_72 (small blind) collected (€0.28)
+Seat 3: Fusga (big blind) folded before Flop
+Seat 4: duarteriezas folded before Flop (didn't bet)
+Seat 5: pokerikb folded before Flop (didn't bet)
+Seat 6: laualvz folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #260839020271:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 18:47:45 CET [2026/05/17 12:47:45 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: monboisse (€6.85 in chips) 
+Seat 2: MATADOR473 (€5.30 in chips) 
+Seat 3: caracabra25 (€1.90 in chips) 
+Seat 4: brpsp (€5.34 in chips) 
+Seat 5: Jumby34 (€9.18 in chips) 
+Seat 6: BerbatP (€4.81 in chips) 
+MATADOR473: posts small blind €0.02
+caracabra25: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [8h 2c]
+brpsp: folds 
+Jumby34: folds 
+BerbatP: folds 
+monboisse: folds 
+MATADOR473: folds 
+Uncalled bet (€0.03) returned to caracabra25
+caracabra25 collected €0.04 from pot
+caracabra25: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.04 | Rake €0 
+Seat 1: monboisse (button) folded before Flop (didn't bet)
+Seat 2: MATADOR473 (small blind) folded before Flop
+Seat 3: caracabra25 (big blind) collected (€0.04)
+Seat 4: brpsp folded before Flop (didn't bet)
+Seat 5: Jumby34 folded before Flop (didn't bet)
+Seat 6: BerbatP folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #260839022126:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 18:47:54 CET [2026/05/17 12:47:54 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: laualvz (€5.17 in chips) 
+Seat 2: duarteriezas (€5.37 in chips) 
+Seat 3: cazadorconan (€5.29 in chips) 
+Seat 4: harriwillson (€1.32 in chips) 
+Seat 5: BerbatP (€4.81 in chips) 
+Seat 6: TheRealKyrie (€4.74 in chips) 
+duarteriezas: posts small blind €0.02
+cazadorconan: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [5h Ad]
+harriwillson: folds 
+BerbatP: folds 
+TheRealKyrie: raises €0.10 to €0.15
+laualvz: calls €0.15
+duarteriezas: folds 
+cazadorconan: folds 
+*** FLOP *** [Qh 9s Qc]
+TheRealKyrie: bets €0.35
+laualvz: folds 
+Uncalled bet (€0.35) returned to TheRealKyrie
+TheRealKyrie collected €0.35 from pot
+TheRealKyrie: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.37 | Rake €0.02 
+Board [Qh 9s Qc]
+Seat 1: laualvz (button) folded on the Flop
+Seat 2: duarteriezas (small blind) folded before Flop
+Seat 3: cazadorconan (big blind) folded before Flop
+Seat 4: harriwillson folded before Flop (didn't bet)
+Seat 5: BerbatP folded before Flop (didn't bet)
+Seat 6: TheRealKyrie collected (€0.35)
+
+
+
+PokerStars Zoom Hand #260839023203:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 18:47:59 CET [2026/05/17 12:47:59 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: kurtconlei14 (€4.66 in chips) 
+Seat 2: cobra131165 (€16.15 in chips) 
+Seat 3: BerbatP (€4.81 in chips) 
+Seat 4: HotRounder (€5.37 in chips) 
+Seat 5: pokerikb (€7.22 in chips) 
+Seat 6: chiinche (€5 in chips) 
+cobra131165: posts small blind €0.02
+BerbatP: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [Th 9c]
+HotRounder: folds 
+pokerikb: folds 
+chiinche: folds 
+kurtconlei14: folds 
+cobra131165: raises €0.05 to €0.10
+BerbatP: calls €0.05
+*** FLOP *** [5d Tc 2d]
+cobra131165: checks 
+BerbatP: bets €0.07
+cobra131165: calls €0.07
+*** TURN *** [5d Tc 2d] [Td]
+cobra131165: checks 
+BerbatP: checks 
+*** RIVER *** [5d Tc 2d Td] [Qh]
+cobra131165: bets €0.32
+BerbatP: calls €0.32
+*** SHOW DOWN ***
+cobra131165: shows [Ks Ah] (a pair of Tens)
+BerbatP: shows [Th 9c] (three of a kind, Tens)
+BerbatP collected €0.93 from pot
+*** SUMMARY ***
+Total pot €0.98 | Rake €0.05 
+Board [5d Tc 2d Td Qh]
+Seat 1: kurtconlei14 (button) folded before Flop (didn't bet)
+Seat 2: cobra131165 (small blind) showed [Ks Ah] and lost with a pair of Tens
+Seat 3: BerbatP (big blind) showed [Th 9c] and won (€0.93) with three of a kind, Tens
+Seat 4: HotRounder folded before Flop (didn't bet)
+Seat 5: pokerikb folded before Flop (didn't bet)
+Seat 6: chiinche folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #260839033421:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 18:48:47 CET [2026/05/17 12:48:47 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: neutron2275 (€3.95 in chips) 
+Seat 2: BerbatP (€5.25 in chips) 
+Seat 3: christgear (€5 in chips) 
+Seat 4: KKKJJJ730 (€11.66 in chips) 
+Seat 5: Fusga (€3.82 in chips) 
+Seat 6: harriwillson (€1.25 in chips) 
+BerbatP: posts small blind €0.02
+christgear: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [Tc 5d]
+KKKJJJ730: folds 
+Fusga: folds 
+harriwillson: folds 
+neutron2275: raises €0.10 to €0.15
+BerbatP: folds 
+christgear: folds 
+Uncalled bet (€0.10) returned to neutron2275
+neutron2275 collected €0.12 from pot
+neutron2275: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 1: neutron2275 (button) collected (€0.12)
+Seat 2: BerbatP (small blind) folded before Flop
+Seat 3: christgear (big blind) folded before Flop
+Seat 4: KKKJJJ730 folded before Flop (didn't bet)
+Seat 5: Fusga folded before Flop (didn't bet)
+Seat 6: harriwillson folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #260839034437:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 18:48:52 CET [2026/05/17 12:48:52 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: soouf94110 (€6.49 in chips) 
+Seat 2: 13ROS13 (€5 in chips) 
+Seat 3: jepad62 (€4.67 in chips) 
+Seat 4: BerbatP (€5.23 in chips) 
+Seat 5: cazadorconan (€5.20 in chips) 
+Seat 6: AbiJouA (€3.01 in chips) 
+13ROS13: posts small blind €0.02
+jepad62: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [Ah 4h]
+BerbatP: raises €0.07 to €0.12
+cazadorconan: folds 
+AbiJouA: folds 
+soouf94110: folds 
+13ROS13: folds 
+jepad62: folds 
+Uncalled bet (€0.07) returned to BerbatP
+BerbatP collected €0.12 from pot
+BerbatP: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 1: soouf94110 (button) folded before Flop (didn't bet)
+Seat 2: 13ROS13 (small blind) folded before Flop
+Seat 3: jepad62 (big blind) folded before Flop
+Seat 4: BerbatP collected (€0.12)
+Seat 5: cazadorconan folded before Flop (didn't bet)
+Seat 6: AbiJouA folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #260839043902:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 18:49:36 CET [2026/05/17 12:49:36 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: joaobrito710 (€3.15 in chips) 
+Seat 2: chiinche (€5.24 in chips) 
+Seat 3: cobra131165 (€15.51 in chips) 
+Seat 4: mue_16v (€5 in chips) 
+Seat 5: DiegoCámara (€5.16 in chips) 
+Seat 6: BerbatP (€5.30 in chips) 
+chiinche: posts small blind €0.02
+cobra131165: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [4s 8d]
+mue_16v: folds 
+DiegoCámara: folds 
+BerbatP: folds 
+joaobrito710: raises €0.10 to €0.15
+chiinche: folds 
+cobra131165: folds 
+Uncalled bet (€0.10) returned to joaobrito710
+joaobrito710 collected €0.12 from pot
+joaobrito710: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 1: joaobrito710 (button) collected (€0.12)
+Seat 2: chiinche (small blind) folded before Flop
+Seat 3: cobra131165 (big blind) folded before Flop
+Seat 4: mue_16v folded before Flop (didn't bet)
+Seat 5: DiegoCámara folded before Flop (didn't bet)
+Seat 6: BerbatP folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #260839040921:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 18:49:22 CET [2026/05/17 12:49:22 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: BerbatP (€5.30 in chips) 
+Seat 2: le pistash (€5 in chips) 
+Seat 3: KKKJJJ730 (€8.83 in chips) 
+Seat 4: OleksiiKozak (€13.22 in chips) 
+Seat 5: QUIQUE JONES (€1.02 in chips) 
+Seat 6: 13ROS13 (€5 in chips) 
+le pistash: posts small blind €0.02
+KKKJJJ730: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [Qc Ts]
+OleksiiKozak: folds 
+QUIQUE JONES: folds 
+13ROS13: raises €0.07 to €0.12
+BerbatP: folds 
+le pistash: calls €0.10
+KKKJJJ730: folds 
+*** FLOP *** [Ac 2s Jd]
+le pistash: checks 
+13ROS13: bets €0.10
+le pistash: folds 
+Uncalled bet (€0.10) returned to 13ROS13
+13ROS13 collected €0.28 from pot
+13ROS13: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.29 | Rake €0.01 
+Board [Ac 2s Jd]
+Seat 1: BerbatP (button) folded before Flop (didn't bet)
+Seat 2: le pistash (small blind) folded on the Flop
+Seat 3: KKKJJJ730 (big blind) folded before Flop
+Seat 4: OleksiiKozak folded before Flop (didn't bet)
+Seat 5: QUIQUE JONES folded before Flop (didn't bet)
+Seat 6: 13ROS13 collected (€0.28)
+
+
+
+PokerStars Zoom Hand #260839044959:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 18:49:41 CET [2026/05/17 12:49:41 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: MATADOR473 (€5.33 in chips) 
+Seat 2: OleksiiKozak (€13.22 in chips) 
+Seat 3: BerbatP (€5.30 in chips) 
+Seat 4: ALF0780 (€5.96 in chips) 
+Seat 5: Richwell7 (€5.20 in chips) 
+Seat 6: BarraCarbono (€5.54 in chips) 
+OleksiiKozak: posts small blind €0.02
+BerbatP: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [3d Ad]
+ALF0780: folds 
+Richwell7: folds 
+BarraCarbono: folds 
+MATADOR473: folds 
+OleksiiKozak: raises €0.05 to €0.10
+BerbatP: calls €0.05
+*** FLOP *** [9s Ks 4c]
+OleksiiKozak: checks 
+BerbatP: bets €0.07
+OleksiiKozak: folds 
+Uncalled bet (€0.07) returned to BerbatP
+BerbatP collected €0.19 from pot
+BerbatP: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.20 | Rake €0.01 
+Board [9s Ks 4c]
+Seat 1: MATADOR473 (button) folded before Flop (didn't bet)
+Seat 2: OleksiiKozak (small blind) folded on the Flop
+Seat 3: BerbatP (big blind) collected (€0.19)
+Seat 4: ALF0780 folded before Flop (didn't bet)
+Seat 5: Richwell7 folded before Flop (didn't bet)
+Seat 6: BarraCarbono folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #260839053669:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 18:50:23 CET [2026/05/17 12:50:23 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: HotRounder (€6.36 in chips) 
+Seat 2: daniel_majno (€5.73 in chips) 
+Seat 3: OleksiiKozak (€13.12 in chips) 
+Seat 4: rockola14 (€5 in chips) 
+Seat 5: Jumby34 (€5.20 in chips) 
+Seat 6: BerbatP (€5.37 in chips) 
+daniel_majno: posts small blind €0.02
+OleksiiKozak: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [Tc 7c]
+rockola14: folds 
+Jumby34: folds 
+BerbatP: folds 
+HotRounder: folds 
+daniel_majno: folds 
+Uncalled bet (€0.03) returned to OleksiiKozak
+OleksiiKozak collected €0.04 from pot
+OleksiiKozak: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.04 | Rake €0 
+Seat 1: HotRounder (button) folded before Flop (didn't bet)
+Seat 2: daniel_majno (small blind) folded before Flop
+Seat 3: OleksiiKozak (big blind) collected (€0.04)
+Seat 4: rockola14 folded before Flop (didn't bet)
+Seat 5: Jumby34 folded before Flop (didn't bet)
+Seat 6: BerbatP folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #260839052326:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 18:50:16 CET [2026/05/17 12:50:16 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: Red Skywalk (€6.96 in chips) 
+Seat 2: BerbatP (€5.39 in chips) 
+Seat 3: EVETS75 (€3.59 in chips) 
+Seat 4: mue_16v (€5 in chips) 
+Seat 5: chiinche (€5.15 in chips) 
+Seat 6: pokerikb (€4.98 in chips) 
+BerbatP: posts small blind €0.02
+EVETS75: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [2d 4h]
+mue_16v: raises €0.08 to €0.13
+chiinche: folds 
+pokerikb: folds 
+Red Skywalk: folds 
+BerbatP: folds 
+EVETS75: calls €0.08
+*** FLOP *** [3c Kd Qs]
+EVETS75: checks 
+mue_16v: checks 
+*** TURN *** [3c Kd Qs] [9c]
+EVETS75: checks 
+mue_16v: bets €0.32
+EVETS75: folds 
+Uncalled bet (€0.32) returned to mue_16v
+mue_16v collected €0.27 from pot
+mue_16v: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.28 | Rake €0.01 
+Board [3c Kd Qs 9c]
+Seat 1: Red Skywalk (button) folded before Flop (didn't bet)
+Seat 2: BerbatP (small blind) folded before Flop
+Seat 3: EVETS75 (big blind) folded on the Turn
+Seat 4: mue_16v collected (€0.27)
+Seat 5: chiinche folded before Flop (didn't bet)
+Seat 6: pokerikb folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #260839063106:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 18:51:07 CET [2026/05/17 12:51:07 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: mikoandy69 (€3.85 in chips) 
+Seat 2: HotRounder (€5.65 in chips) 
+Seat 3: pokerikb (€4.76 in chips) 
+Seat 4: BerbatP (€5.37 in chips) 
+Seat 5: harriwillson (€1.86 in chips) 
+Seat 6: eskiuter (€3.94 in chips) 
+HotRounder: posts small blind €0.02
+pokerikb: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [Qd 9h]
+BerbatP: folds 
+harriwillson: folds 
+eskiuter: raises €0.07 to €0.12
+mikoandy69: folds 
+HotRounder: folds 
+pokerikb: folds 
+Uncalled bet (€0.07) returned to eskiuter
+eskiuter collected €0.12 from pot
+eskiuter: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 1: mikoandy69 (button) folded before Flop (didn't bet)
+Seat 2: HotRounder (small blind) folded before Flop
+Seat 3: pokerikb (big blind) folded before Flop
+Seat 4: BerbatP folded before Flop (didn't bet)
+Seat 5: harriwillson folded before Flop (didn't bet)
+Seat 6: eskiuter collected (€0.12)
+
+
+
+PokerStars Zoom Hand #260839062128:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 18:51:03 CET [2026/05/17 12:51:03 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: pokerikb (€7.42 in chips) 
+Seat 2: cobra131165 (€5.62 in chips) 
+Seat 3: chiinche (€5.08 in chips) 
+Seat 4: TheRealKyrie (€5.06 in chips) 
+Seat 5: BerbatP (€5.37 in chips) 
+Seat 6: Luismari65 (€2.01 in chips) 
+cobra131165: posts small blind €0.02
+chiinche: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [5c 2c]
+TheRealKyrie: calls €0.05
+BerbatP: folds 
+Luismari65: folds 
+pokerikb: folds 
+cobra131165: calls €0.03
+chiinche: checks 
+*** FLOP *** [Ad Qd 7h]
+cobra131165: checks 
+chiinche: bets €0.10
+TheRealKyrie: folds 
+cobra131165: folds 
+Uncalled bet (€0.10) returned to chiinche
+chiinche collected €0.14 from pot
+chiinche: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.15 | Rake €0.01 
+Board [Ad Qd 7h]
+Seat 1: pokerikb (button) folded before Flop (didn't bet)
+Seat 2: cobra131165 (small blind) folded on the Flop
+Seat 3: chiinche (big blind) collected (€0.14)
+Seat 4: TheRealKyrie folded on the Flop
+Seat 5: BerbatP folded before Flop (didn't bet)
+Seat 6: Luismari65 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #260839065209:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 18:51:17 CET [2026/05/17 12:51:17 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: samoney25000 (€6.61 in chips) 
+Seat 2: Luismari65 (€1.96 in chips) 
+Seat 3: BerbatP (€5.37 in chips) 
+Seat 4: cazadorconan (€5 in chips) 
+Seat 5: trumoan (€5.18 in chips) 
+Seat 6: pokerikb (€4.71 in chips) 
+Luismari65: posts small blind €0.02
+BerbatP: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [4h Qs]
+cazadorconan: folds 
+trumoan: folds 
+pokerikb: raises €0.05 to €0.10
+samoney25000: folds 
+Luismari65: folds 
+BerbatP: folds 
+Uncalled bet (€0.05) returned to pokerikb
+pokerikb collected €0.12 from pot
+pokerikb: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 1: samoney25000 (button) folded before Flop (didn't bet)
+Seat 2: Luismari65 (small blind) folded before Flop
+Seat 3: BerbatP (big blind) folded before Flop
+Seat 4: cazadorconan folded before Flop (didn't bet)
+Seat 5: trumoan folded before Flop (didn't bet)
+Seat 6: pokerikb collected (€0.12)
+
+
+
+PokerStars Zoom Hand #260839064018:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 18:51:12 CET [2026/05/17 12:51:12 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: pokerikb (€4.98 in chips) 
+Seat 2: heroe_vsb (€3.48 in chips) 
+Seat 3: KKKJJJ730 (€11.82 in chips) 
+Seat 4: Donjuani_72 (€2.23 in chips) 
+Seat 5: BerbatP (€5.37 in chips) 
+Seat 6: RichardP16120 (€8.34 in chips) 
+heroe_vsb: posts small blind €0.02
+KKKJJJ730: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [8d 4s]
+Donjuani_72: folds 
+BerbatP: folds 
+RichardP16120: raises €0.05 to €0.10
+pokerikb: folds 
+heroe_vsb: folds 
+KKKJJJ730: raises €0.30 to €0.40
+RichardP16120: calls €0.30
+*** FLOP *** [Ks 9s 4h]
+KKKJJJ730: bets €0.39
+RichardP16120: folds 
+Uncalled bet (€0.39) returned to KKKJJJ730
+KKKJJJ730 collected €0.78 from pot
+KKKJJJ730: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.82 | Rake €0.04 
+Board [Ks 9s 4h]
+Seat 1: pokerikb (button) folded before Flop (didn't bet)
+Seat 2: heroe_vsb (small blind) folded before Flop
+Seat 3: KKKJJJ730 (big blind) collected (€0.78)
+Seat 4: Donjuani_72 folded before Flop (didn't bet)
+Seat 5: BerbatP folded before Flop (didn't bet)
+Seat 6: RichardP16120 folded on the Flop
+
+
+
+PokerStars Zoom Hand #260839072309:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 18:51:51 CET [2026/05/17 12:51:51 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: christgear (€5 in chips) 
+Seat 2: No_prints338 (€10.09 in chips) 
+Seat 3: Luismari65 (€1.94 in chips) 
+Seat 4: BerbatP (€5.30 in chips) 
+Seat 5: Fusga (€2.38 in chips) 
+Seat 6: cobra131165 (€4.38 in chips) 
+No_prints338: posts small blind €0.02
+Luismari65: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [2h 7h]
+BerbatP: folds 
+Fusga: folds 
+cobra131165: folds 
+christgear: folds 
+No_prints338: folds 
+Uncalled bet (€0.03) returned to Luismari65
+Luismari65 collected €0.04 from pot
+Luismari65: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.04 | Rake €0 
+Seat 1: christgear (button) folded before Flop (didn't bet)
+Seat 2: No_prints338 (small blind) folded before Flop
+Seat 3: Luismari65 (big blind) collected (€0.04)
+Seat 4: BerbatP folded before Flop (didn't bet)
+Seat 5: Fusga folded before Flop (didn't bet)
+Seat 6: cobra131165 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #260839073381:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 18:51:56 CET [2026/05/17 12:51:56 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: BerbatP (€5.30 in chips) 
+Seat 2: cazadorconan (€5 in chips) 
+Seat 3: kurtconlei14 (€3.75 in chips) 
+Seat 4: Jumby34 (€9.23 in chips) 
+Seat 5: trumoan (€5.11 in chips) 
+Seat 6: mue_16v (€5.15 in chips) 
+cazadorconan: posts small blind €0.02
+kurtconlei14: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [3h 3d]
+Jumby34: raises €0.05 to €0.10
+trumoan: folds 
+mue_16v: folds 
+BerbatP: folds 
+cazadorconan: raises €0.30 to €0.40
+kurtconlei14: folds 
+Jumby34: folds 
+Uncalled bet (€0.30) returned to cazadorconan
+cazadorconan collected €0.25 from pot
+cazadorconan: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.25 | Rake €0 
+Seat 1: BerbatP (button) folded before Flop (didn't bet)
+Seat 2: cazadorconan (small blind) collected (€0.25)
+Seat 3: kurtconlei14 (big blind) folded before Flop
+Seat 4: Jumby34 folded before Flop
+Seat 5: trumoan folded before Flop (didn't bet)
+Seat 6: mue_16v folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #260839054292:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 18:50:26 CET [2026/05/17 12:50:26 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: BerbatP (€5.37 in chips) 
+Seat 2: Fusga (€2.38 in chips) 
+Seat 3: chiinche (€5.15 in chips) 
+Seat 4: mue_16v (€5 in chips) 
+Seat 5: alotor (€3.62 in chips) 
+Seat 6: le pistash (€5 in chips) 
+Fusga: posts small blind €0.02
+chiinche: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [Ah Ts]
+mue_16v: folds 
+alotor: calls €0.05
+le pistash: raises €0.12 to €0.17
+BerbatP has timed out
+BerbatP: folds 
+Fusga: folds 
+chiinche: folds 
+alotor: calls €0.12
+*** FLOP *** [Qh Qs 8h]
+alotor: checks 
+le pistash: bets €0.28
+alotor: calls €0.28
+*** TURN *** [Qh Qs 8h] [3h]
+alotor: checks 
+le pistash: bets €0.64
+alotor: raises €2.20 to €2.84
+le pistash: raises €1.71 to €4.55 and is all-in
+alotor: calls €0.33 and is all-in
+Uncalled bet (€1.38) returned to le pistash
+*** RIVER *** [Qh Qs 8h 3h] [2d]
+*** SHOW DOWN ***
+alotor: shows [9h Jh] (a flush, Queen high)
+le pistash: shows [Qd Td] (three of a kind, Queens)
+alotor collected €6.94 from pot
+*** SUMMARY ***
+Total pot €7.31 | Rake €0.37 
+Board [Qh Qs 8h 3h 2d]
+Seat 1: BerbatP (button) folded before Flop (didn't bet)
+Seat 2: Fusga (small blind) folded before Flop
+Seat 3: chiinche (big blind) folded before Flop
+Seat 4: mue_16v folded before Flop (didn't bet)
+Seat 5: alotor showed [9h Jh] and won (€6.94) with a flush, Queen high
+Seat 6: le pistash showed [Qd Td] and lost with three of a kind, Queens
+
+
+
+PokerStars Zoom Hand #260839067617:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 18:51:29 CET [2026/05/17 12:51:29 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: HarmoBlues (€4.54 in chips) 
+Seat 2: BerbatP (€5.32 in chips) 
+Seat 3: BarraCarbono (€5.71 in chips) 
+Seat 4: Jesusnpt1 (€5.12 in chips) 
+Seat 5: mue_16v (€6.14 in chips) 
+Seat 6: eskiuter (€8.20 in chips) 
+BerbatP: posts small blind €0.02
+BarraCarbono: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [Ac 2c]
+Jesusnpt1: folds 
+mue_16v: folds 
+eskiuter: raises €0.07 to €0.12
+HarmoBlues: folds 
+BerbatP: folds 
+BarraCarbono: calls €0.07
+*** FLOP *** [6d 7s 2d]
+BarraCarbono: checks 
+eskiuter: bets €0.08
+BarraCarbono: raises €0.26 to €0.34
+eskiuter: calls €0.26
+*** TURN *** [6d 7s 2d] [5s]
+BarraCarbono: bets €0.70
+eskiuter: folds 
+Uncalled bet (€0.70) returned to BarraCarbono
+BarraCarbono collected €0.89 from pot
+BarraCarbono: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.94 | Rake €0.05 
+Board [6d 7s 2d 5s]
+Seat 1: HarmoBlues (button) folded before Flop (didn't bet)
+Seat 2: BerbatP (small blind) folded before Flop
+Seat 3: BarraCarbono (big blind) collected (€0.89)
+Seat 4: Jesusnpt1 folded before Flop (didn't bet)
+Seat 5: mue_16v folded before Flop (didn't bet)
+Seat 6: eskiuter folded on the Turn
+
+
+
+PokerStars Zoom Hand #260839077159:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 18:52:14 CET [2026/05/17 12:52:14 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: SKARDES (€3.04 in chips) 
+Seat 2: eyeeel (€0.61 in chips) 
+Seat 3: KKKJJJ730 (€5.07 in chips) 
+Seat 4: cobra131165 (€5 in chips) 
+Seat 5: monboisse (€5.57 in chips) 
+Seat 6: BerbatP (€5.30 in chips) 
+eyeeel: posts small blind €0.02
+KKKJJJ730: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [3c 3h]
+cobra131165: folds 
+monboisse: folds 
+BerbatP: calls €0.05
+SKARDES: folds 
+eyeeel: folds 
+KKKJJJ730: checks 
+*** FLOP *** [6s Qs 6c]
+KKKJJJ730: checks 
+BerbatP: checks 
+*** TURN *** [6s Qs 6c] [5h]
+KKKJJJ730: checks 
+BerbatP: checks 
+*** RIVER *** [6s Qs 6c 5h] [5s]
+KKKJJJ730: checks 
+BerbatP: checks 
+*** SHOW DOWN ***
+KKKJJJ730: shows [Ts 2h] (two pair, Sixes and Fives)
+BerbatP: shows [3c 3h] (two pair, Sixes and Fives)
+KKKJJJ730 collected €0.06 from pot
+BerbatP collected €0.05 from pot
+*** SUMMARY ***
+Total pot €0.12 | Rake €0.01 
+Board [6s Qs 6c 5h 5s]
+Seat 1: SKARDES (button) folded before Flop (didn't bet)
+Seat 2: eyeeel (small blind) folded before Flop
+Seat 3: KKKJJJ730 (big blind) showed [Ts 2h] and won (€0.06) with two pair, Sixes and Fives
+Seat 4: cobra131165 folded before Flop (didn't bet)
+Seat 5: monboisse folded before Flop (didn't bet)
+Seat 6: BerbatP showed [3c 3h] and won (€0.05) with two pair, Sixes and Fives
+
+
+
+PokerStars Zoom Hand #260839086150:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 18:52:57 CET [2026/05/17 12:52:57 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: nezzi77 (€9.38 in chips) 
+Seat 2: Jumby34 (€5 in chips) 
+Seat 3: BerbatP (€5.30 in chips) 
+Seat 4: alotor (€6.94 in chips) 
+Seat 5: chiinche (€5.38 in chips) 
+Seat 6: la_nikta (€15.20 in chips) 
+Jumby34: posts small blind €0.02
+BerbatP: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [Th 4c]
+alotor: calls €0.05
+chiinche: folds 
+la_nikta: raises €0.17 to €0.22
+nezzi77: folds 
+Jumby34: folds 
+BerbatP: folds 
+alotor: folds 
+Uncalled bet (€0.17) returned to la_nikta
+la_nikta collected €0.17 from pot
+la_nikta: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.17 | Rake €0 
+Seat 1: nezzi77 (button) folded before Flop (didn't bet)
+Seat 2: Jumby34 (small blind) folded before Flop
+Seat 3: BerbatP (big blind) folded before Flop
+Seat 4: alotor folded before Flop
+Seat 5: chiinche folded before Flop (didn't bet)
+Seat 6: la_nikta collected (€0.17)
+
+
+
+PokerStars Zoom Hand #260839088779:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 18:53:09 CET [2026/05/17 12:53:09 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: cobra131165 (€4.90 in chips) 
+Seat 2: 13ROS13 (€5.18 in chips) 
+Seat 3: HotRounder (€6.46 in chips) 
+Seat 4: kurtconlei14 (€4.63 in chips) 
+Seat 5: BerbatP (€5.25 in chips) 
+Seat 6: MATADOR473 (€5.19 in chips) 
+13ROS13: posts small blind €0.02
+HotRounder: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [9c Th]
+kurtconlei14: folds 
+BerbatP has timed out
+BerbatP: folds 
+MATADOR473: folds 
+cobra131165: folds 
+13ROS13: folds 
+Uncalled bet (€0.03) returned to HotRounder
+HotRounder collected €0.04 from pot
+HotRounder: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.04 | Rake €0 
+Seat 1: cobra131165 (button) folded before Flop (didn't bet)
+Seat 2: 13ROS13 (small blind) folded before Flop
+Seat 3: HotRounder (big blind) collected (€0.04)
+Seat 4: kurtconlei14 folded before Flop (didn't bet)
+Seat 5: BerbatP folded before Flop (didn't bet)
+Seat 6: MATADOR473 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #260839094003:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 18:53:34 CET [2026/05/17 12:53:34 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: la_nikta (€5.62 in chips) 
+Seat 2: BerbatP (€5.25 in chips) 
+Seat 3: Luismari65 (€1.82 in chips) 
+Seat 4: le pistash (€5.95 in chips) 
+Seat 5: Richwell7 (€5 in chips) 
+Seat 6: Donjuani_72 (€2.30 in chips) 
+BerbatP: posts small blind €0.02
+Luismari65: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [5d Jc]
+le pistash: folds 
+Richwell7: folds 
+Donjuani_72: folds 
+la_nikta: folds 
+BerbatP: folds 
+Uncalled bet (€0.03) returned to Luismari65
+Luismari65 collected €0.04 from pot
+Luismari65: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.04 | Rake €0 
+Seat 1: la_nikta (button) folded before Flop (didn't bet)
+Seat 2: BerbatP (small blind) folded before Flop
+Seat 3: Luismari65 (big blind) collected (€0.04)
+Seat 4: le pistash folded before Flop (didn't bet)
+Seat 5: Richwell7 folded before Flop (didn't bet)
+Seat 6: Donjuani_72 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #260839096845:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 18:53:47 CET [2026/05/17 12:53:47 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: BerbatP (€5.23 in chips) 
+Seat 2: KKKJJJ730 (€5.01 in chips) 
+Seat 3: cazadorconan (€5 in chips) 
+Seat 4: ricarduche (€8.53 in chips) 
+Seat 5: espi5169 (€5.07 in chips) 
+Seat 6: cobra131165 (€4.95 in chips) 
+KKKJJJ730: posts small blind €0.02
+cazadorconan: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [8d 7h]
+ricarduche: folds 
+espi5169: raises €0.08 to €0.13
+cobra131165: folds 
+BerbatP: folds 
+KKKJJJ730: folds 
+cazadorconan: folds 
+Uncalled bet (€0.08) returned to espi5169
+espi5169 collected €0.12 from pot
+espi5169: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 1: BerbatP (button) folded before Flop (didn't bet)
+Seat 2: KKKJJJ730 (small blind) folded before Flop
+Seat 3: cazadorconan (big blind) folded before Flop
+Seat 4: ricarduche folded before Flop (didn't bet)
+Seat 5: espi5169 collected (€0.12)
+Seat 6: cobra131165 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #260839098923:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 18:53:57 CET [2026/05/17 12:53:57 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: chiinche (€5.24 in chips) 
+Seat 2: la_nikta (€15.47 in chips) 
+Seat 3: kurtconlei14 (€3.39 in chips) 
+Seat 4: BerbatP (€5.23 in chips) 
+Seat 5: ricarduche (€8.51 in chips) 
+Seat 6: EVETS75 (€3.54 in chips) 
+la_nikta: posts small blind €0.02
+kurtconlei14: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [Th Jd]
+BerbatP: folds 
+ricarduche: raises €0.10 to €0.15
+EVETS75: folds 
+chiinche: folds 
+la_nikta: folds 
+kurtconlei14: calls €0.10
+*** FLOP *** [Ah Qd Ac]
+kurtconlei14: checks 
+ricarduche: bets €0.10
+kurtconlei14: folds 
+Uncalled bet (€0.10) returned to ricarduche
+ricarduche collected €0.30 from pot
+ricarduche: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.32 | Rake €0.02 
+Board [Ah Qd Ac]
+Seat 1: chiinche (button) folded before Flop (didn't bet)
+Seat 2: la_nikta (small blind) folded before Flop
+Seat 3: kurtconlei14 (big blind) folded on the Flop
+Seat 4: BerbatP folded before Flop (didn't bet)
+Seat 5: ricarduche collected (€0.30)
+Seat 6: EVETS75 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #260839102876:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 18:54:16 CET [2026/05/17 12:54:16 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: eskiuter (€4.07 in chips) 
+Seat 2: Jumby34 (€5 in chips) 
+Seat 3: BarraCarbono (€6.13 in chips) 
+Seat 4: mikoandy69 (€3.77 in chips) 
+Seat 5: kurtconlei14 (€7.86 in chips) 
+Seat 6: BerbatP (€5.23 in chips) 
+Jumby34: posts small blind €0.02
+BarraCarbono: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [Jc 2c]
+mikoandy69: folds 
+kurtconlei14: folds 
+BerbatP: folds 
+eskiuter: folds 
+Jumby34: folds 
+Uncalled bet (€0.03) returned to BarraCarbono
+BarraCarbono collected €0.04 from pot
+BarraCarbono: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.04 | Rake €0 
+Seat 1: eskiuter (button) folded before Flop (didn't bet)
+Seat 2: Jumby34 (small blind) folded before Flop
+Seat 3: BarraCarbono (big blind) collected (€0.04)
+Seat 4: mikoandy69 folded before Flop (didn't bet)
+Seat 5: kurtconlei14 folded before Flop (didn't bet)
+Seat 6: BerbatP folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #260839100195:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 18:54:03 CET [2026/05/17 12:54:03 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: Héct8r75 (€8.55 in chips) 
+Seat 2: Axl33610 (€2.62 in chips) 
+Seat 3: Fusga (€2.48 in chips) 
+Seat 4: espi5169 (€5.14 in chips) 
+Seat 5: BerbatP (€5.23 in chips) 
+Seat 6: trumoan (€5 in chips) 
+Axl33610: posts small blind €0.02
+Fusga: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [Jd 3d]
+espi5169: folds 
+BerbatP: folds 
+trumoan: folds 
+Héct8r75: folds 
+Axl33610: calls €0.03
+Fusga: checks 
+*** FLOP *** [4s Ah 2h]
+Axl33610: bets €0.05
+Fusga: folds 
+Uncalled bet (€0.05) returned to Axl33610
+Axl33610 collected €0.10 from pot
+Axl33610: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Board [4s Ah 2h]
+Seat 1: Héct8r75 (button) folded before Flop (didn't bet)
+Seat 2: Axl33610 (small blind) collected (€0.10)
+Seat 3: Fusga (big blind) folded on the Flop
+Seat 4: espi5169 folded before Flop (didn't bet)
+Seat 5: BerbatP folded before Flop (didn't bet)
+Seat 6: trumoan folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #260839104299:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 18:54:23 CET [2026/05/17 12:54:23 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: chiinche (€5.17 in chips) 
+Seat 2: kurtconlei14 (€3.24 in chips) 
+Seat 3: BerbatP (€5.23 in chips) 
+Seat 4: MATADOR473 (€5.34 in chips) 
+Seat 5: HotRounder (€9.09 in chips) 
+Seat 6: cobra131165 (€5.51 in chips) 
+kurtconlei14: posts small blind €0.02
+BerbatP: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [2d Js]
+MATADOR473: folds 
+HotRounder: folds 
+cobra131165: folds 
+chiinche: folds 
+kurtconlei14: raises €0.10 to €0.15
+BerbatP: folds 
+Uncalled bet (€0.10) returned to kurtconlei14
+kurtconlei14 collected €0.10 from pot
+kurtconlei14: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Seat 1: chiinche (button) folded before Flop (didn't bet)
+Seat 2: kurtconlei14 (small blind) collected (€0.10)
+Seat 3: BerbatP (big blind) folded before Flop
+Seat 4: MATADOR473 folded before Flop (didn't bet)
+Seat 5: HotRounder folded before Flop (didn't bet)
+Seat 6: cobra131165 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #260839108004:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 18:54:40 CET [2026/05/17 12:54:40 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: pokerikb (€12.56 in chips) 
+Seat 2: BerbatP (€5.18 in chips) 
+Seat 3: kurtconlei14 (€7.84 in chips) 
+Seat 4: Fusga (€2.41 in chips) 
+Seat 5: KKKJJJ730 (€5.13 in chips) 
+Seat 6: Fili7777 (€6.71 in chips) 
+BerbatP: posts small blind €0.02
+kurtconlei14: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [2d Jc]
+Fusga: folds 
+KKKJJJ730: folds 
+Fili7777: folds 
+pokerikb: folds 
+BerbatP: folds 
+Uncalled bet (€0.03) returned to kurtconlei14
+kurtconlei14 collected €0.04 from pot
+kurtconlei14: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.04 | Rake €0 
+Seat 1: pokerikb (button) folded before Flop (didn't bet)
+Seat 2: BerbatP (small blind) folded before Flop
+Seat 3: kurtconlei14 (big blind) collected (€0.04)
+Seat 4: Fusga folded before Flop (didn't bet)
+Seat 5: KKKJJJ730 folded before Flop (didn't bet)
+Seat 6: Fili7777 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #260839111183:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 18:54:55 CET [2026/05/17 12:54:55 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: jepad62 (€2 in chips) 
+Seat 2: christgear (€5.63 in chips) 
+Seat 3: 13ROS13 (€5.07 in chips) 
+Seat 4: BerbatP (€5.16 in chips) 
+Seat 5: cobra131165 (€4.83 in chips) 
+Seat 6: alotor (€7.03 in chips) 
+christgear: posts small blind €0.02
+13ROS13: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [6c 7c]
+BerbatP: raises €0.07 to €0.12
+cobra131165: folds 
+alotor: calls €0.12
+jepad62: raises €0.43 to €0.55
+christgear: folds 
+13ROS13: folds 
+BerbatP: folds 
+alotor: folds 
+Uncalled bet (€0.43) returned to jepad62
+jepad62 collected €0.43 from pot
+jepad62: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.43 | Rake €0 
+Seat 1: jepad62 (button) collected (€0.43)
+Seat 2: christgear (small blind) folded before Flop
+Seat 3: 13ROS13 (big blind) folded before Flop
+Seat 4: BerbatP folded before Flop
+Seat 5: cobra131165 folded before Flop (didn't bet)
+Seat 6: alotor folded before Flop
+
+
+
+PokerStars Zoom Hand #260839115633:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 18:55:17 CET [2026/05/17 12:55:17 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: BerbatP (€5.04 in chips) 
+Seat 2: Axl33610 (€2.66 in chips) 
+Seat 3: mue_16v (€5.08 in chips) 
+Seat 4: caaspersito (€4.84 in chips) 
+Seat 5: 13ROS13 (€5 in chips) 
+Seat 6: ricarduche (€8.37 in chips) 
+Axl33610: posts small blind €0.02
+mue_16v: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [8d As]
+caaspersito: folds 
+13ROS13: folds 
+ricarduche: folds 
+BerbatP: raises €0.07 to €0.12
+Axl33610: folds 
+mue_16v: folds 
+Uncalled bet (€0.07) returned to BerbatP
+BerbatP collected €0.12 from pot
+BerbatP: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 1: BerbatP (button) collected (€0.12)
+Seat 2: Axl33610 (small blind) folded before Flop
+Seat 3: mue_16v (big blind) folded before Flop
+Seat 4: caaspersito folded before Flop (didn't bet)
+Seat 5: 13ROS13 folded before Flop (didn't bet)
+Seat 6: ricarduche folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #260839118187:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 18:55:39 CET [2026/05/17 12:55:39 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: ricarduche (€8.30 in chips) 
+Seat 2: blasahermoso (€1.95 in chips) 
+Seat 3: brpsp (€4.78 in chips) 
+Seat 4: BerbatP (€5.11 in chips) 
+Seat 5: SKARDES (€3.75 in chips) 
+Seat 6: KKKJJJ730 (€5.36 in chips) 
+blasahermoso: posts small blind €0.02
+brpsp: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [7d 8s]
+BerbatP: folds 
+SKARDES: folds 
+KKKJJJ730: raises €0.07 to €0.12
+ricarduche: folds 
+blasahermoso: folds 
+brpsp: folds 
+Uncalled bet (€0.07) returned to KKKJJJ730
+KKKJJJ730 collected €0.12 from pot
+KKKJJJ730: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 1: ricarduche (button) folded before Flop (didn't bet)
+Seat 2: blasahermoso (small blind) folded before Flop
+Seat 3: brpsp (big blind) folded before Flop
+Seat 4: BerbatP folded before Flop (didn't bet)
+Seat 5: SKARDES folded before Flop (didn't bet)
+Seat 6: KKKJJJ730 collected (€0.12)
+
+
+
+PokerStars Zoom Hand #260839118755:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 18:55:43 CET [2026/05/17 12:55:43 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: espi5169 (€5.43 in chips) 
+Seat 2: Fili7777 (€6.59 in chips) 
+Seat 3: cazadorconan (€5.15 in chips) 
+Seat 4: Fusga (€2.15 in chips) 
+Seat 5: cobra131165 (€16.74 in chips) 
+Seat 6: BerbatP (€5.11 in chips) 
+Fili7777: posts small blind €0.02
+cazadorconan: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [Jh Ah]
+Fusga: folds 
+cobra131165: folds 
+BerbatP: raises €0.07 to €0.12
+espi5169: folds 
+Fili7777: folds 
+cazadorconan: calls €0.07
+*** FLOP *** [5d Ac 3c]
+cazadorconan: checks 
+BerbatP: bets €0.09
+cazadorconan: folds 
+Uncalled bet (€0.09) returned to BerbatP
+BerbatP collected €0.25 from pot
+BerbatP: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.26 | Rake €0.01 
+Board [5d Ac 3c]
+Seat 1: espi5169 (button) folded before Flop (didn't bet)
+Seat 2: Fili7777 (small blind) folded before Flop
+Seat 3: cazadorconan (big blind) folded on the Flop
+Seat 4: Fusga folded before Flop (didn't bet)
+Seat 5: cobra131165 folded before Flop (didn't bet)
+Seat 6: BerbatP collected (€0.25)
+
+
+
+PokerStars Zoom Hand #260839122822:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 18:56:16 CET [2026/05/17 12:56:16 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: kurtconlei14 (€8.42 in chips) 
+Seat 2: HotRounder (€8.75 in chips) 
+Seat 3: BerbatP (€5.24 in chips) 
+Seat 4: ricarduche (€8.45 in chips) 
+Seat 5: Luismari65 (€1.98 in chips) 
+Seat 6: AbiJouA (€1.17 in chips) 
+HotRounder: posts small blind €0.02
+BerbatP: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [Ts 6d]
+ricarduche: folds 
+Luismari65: raises €0.05 to €0.10
+AbiJouA: folds 
+kurtconlei14: folds 
+HotRounder: folds 
+BerbatP: folds 
+Uncalled bet (€0.05) returned to Luismari65
+Luismari65 collected €0.12 from pot
+Luismari65: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 1: kurtconlei14 (button) folded before Flop (didn't bet)
+Seat 2: HotRounder (small blind) folded before Flop
+Seat 3: BerbatP (big blind) folded before Flop
+Seat 4: ricarduche folded before Flop (didn't bet)
+Seat 5: Luismari65 collected (€0.12)
+Seat 6: AbiJouA folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #260839126710:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 18:56:47 CET [2026/05/17 12:56:47 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: BerbatP (€5.19 in chips) 
+Seat 2: HarmoBlues (€5.34 in chips) 
+Seat 3: Axl33610 (€2.96 in chips) 
+Seat 4: blasahermoso (€1.93 in chips) 
+Seat 5: Donjuani_72 (€1.93 in chips) 
+Seat 6: espi5169 (€5.06 in chips) 
+HarmoBlues: posts small blind €0.02
+Axl33610: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [Js Qd]
+blasahermoso: folds 
+Donjuani_72: folds 
+espi5169: raises €0.08 to €0.13
+BerbatP: raises €0.27 to €0.40
+HarmoBlues: folds 
+Axl33610: folds 
+espi5169: calls €0.27
+*** FLOP *** [Th 7s 8h]
+espi5169: bets €0.35
+BerbatP: folds 
+Uncalled bet (€0.35) returned to espi5169
+espi5169 collected €0.83 from pot
+espi5169: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.87 | Rake €0.04 
+Board [Th 7s 8h]
+Seat 1: BerbatP (button) folded on the Flop
+Seat 2: HarmoBlues (small blind) folded before Flop
+Seat 3: Axl33610 (big blind) folded before Flop
+Seat 4: blasahermoso folded before Flop (didn't bet)
+Seat 5: Donjuani_72 folded before Flop (didn't bet)
+Seat 6: espi5169 collected (€0.83)
+
+
+
+PokerStars Zoom Hand #260839131802:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 18:57:27 CET [2026/05/17 12:57:27 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: cobra131165 (€5.42 in chips) 
+Seat 2: BerbatP (€4.79 in chips) 
+Seat 3: lolo76747 (€6.95 in chips) 
+Seat 4: brpsp (€4.52 in chips) 
+Seat 5: ALF0780 (€5.76 in chips) 
+Seat 6: Luismari65 (€1.91 in chips) 
+BerbatP: posts small blind €0.02
+lolo76747: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [2c 3c]
+brpsp: folds 
+ALF0780: folds 
+Luismari65: folds 
+cobra131165: raises €0.05 to €0.10
+BerbatP: calls €0.08
+lolo76747: folds 
+*** FLOP *** [6s 7s 3d]
+BerbatP: checks 
+cobra131165: checks 
+*** TURN *** [6s 7s 3d] [4h]
+BerbatP: checks 
+cobra131165: checks 
+*** RIVER *** [6s 7s 3d 4h] [Qc]
+BerbatP: bets €0.05
+cobra131165: folds 
+Uncalled bet (€0.05) returned to BerbatP
+BerbatP collected €0.24 from pot
+BerbatP: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.25 | Rake €0.01 
+Board [6s 7s 3d 4h Qc]
+Seat 1: cobra131165 (button) folded on the River
+Seat 2: BerbatP (small blind) collected (€0.24)
+Seat 3: lolo76747 (big blind) folded before Flop
+Seat 4: brpsp folded before Flop (didn't bet)
+Seat 5: ALF0780 folded before Flop (didn't bet)
+Seat 6: Luismari65 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #260839135695:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 18:57:58 CET [2026/05/17 12:57:58 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: Richwell7 (€5.90 in chips) 
+Seat 2: monboisse (€5.46 in chips) 
+Seat 3: BarraCarbono (€6.60 in chips) 
+Seat 4: Axl33610 (€3.28 in chips) 
+Seat 5: BerbatP (€4.93 in chips) 
+Seat 6: pokerikb (€4.60 in chips) 
+monboisse: posts small blind €0.02
+BarraCarbono: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [Ad Ks]
+Axl33610: calls €0.05
+BerbatP: raises €0.25 to €0.30
+pokerikb: folds 
+Richwell7: folds 
+monboisse: folds 
+BarraCarbono: folds 
+Axl33610: folds 
+Uncalled bet (€0.25) returned to BerbatP
+BerbatP collected €0.17 from pot
+BerbatP: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.17 | Rake €0 
+Seat 1: Richwell7 (button) folded before Flop (didn't bet)
+Seat 2: monboisse (small blind) folded before Flop
+Seat 3: BarraCarbono (big blind) folded before Flop
+Seat 4: Axl33610 folded before Flop
+Seat 5: BerbatP collected (€0.17)
+Seat 6: pokerikb folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #260839137361:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 18:58:11 CET [2026/05/17 12:58:11 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: Piekolitto31 (€5.16 in chips) 
+Seat 2: pokerikb (€7.89 in chips) 
+Seat 3: trumoan (€5.90 in chips) 
+Seat 4: ALF0780 (€5.64 in chips) 
+Seat 5: BerbatP (€5.05 in chips) 
+Seat 6: boneman0 (€2.23 in chips) 
+pokerikb: posts small blind €0.02
+trumoan: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [Kd 4c]
+ALF0780: folds 
+BerbatP: folds 
+boneman0: folds 
+Piekolitto31: raises €0.07 to €0.12
+pokerikb: folds 
+trumoan: folds 
+Uncalled bet (€0.07) returned to Piekolitto31
+Piekolitto31 collected €0.12 from pot
+Piekolitto31: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 1: Piekolitto31 (button) collected (€0.12)
+Seat 2: pokerikb (small blind) folded before Flop
+Seat 3: trumoan (big blind) folded before Flop
+Seat 4: ALF0780 folded before Flop (didn't bet)
+Seat 5: BerbatP folded before Flop (didn't bet)
+Seat 6: boneman0 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #260839138816:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 18:58:23 CET [2026/05/17 12:58:23 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: EVETS75 (€6.13 in chips) 
+Seat 2: HarmoBlues (€4.66 in chips) 
+Seat 3: ALF0780 (€5.62 in chips) 
+Seat 4: ricarduche (€7.98 in chips) 
+Seat 5: joaobrito710 (€3.64 in chips) 
+Seat 6: BerbatP (€5.05 in chips) 
+HarmoBlues: posts small blind €0.02
+ALF0780: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [Qs 5c]
+ricarduche: folds 
+joaobrito710: folds 
+BerbatP: folds 
+EVETS75: folds 
+HarmoBlues: calls €0.03
+ALF0780: raises €0.10 to €0.15
+HarmoBlues: calls €0.10
+*** FLOP *** [Tc 7s 9d]
+HarmoBlues: checks 
+ALF0780: checks 
+*** TURN *** [Tc 7s 9d] [3s]
+HarmoBlues: bets €0.21
+ALF0780: folds 
+Uncalled bet (€0.21) returned to HarmoBlues
+HarmoBlues collected €0.28 from pot
+HarmoBlues: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.30 | Rake €0.02 
+Board [Tc 7s 9d 3s]
+Seat 1: EVETS75 (button) folded before Flop (didn't bet)
+Seat 2: HarmoBlues (small blind) collected (€0.28)
+Seat 3: ALF0780 (big blind) folded on the Turn
+Seat 4: ricarduche folded before Flop (didn't bet)
+Seat 5: joaobrito710 folded before Flop (didn't bet)
+Seat 6: BerbatP folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #260839139716:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 18:58:30 CET [2026/05/17 12:58:30 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: pokerikb (€4.62 in chips) 
+Seat 2: 13ROS13 (€5.09 in chips) 
+Seat 3: BerbatP (€5.05 in chips) 
+Seat 4: EVETS75 (€6.13 in chips) 
+Seat 5: No_prints338 (€13.78 in chips) 
+Seat 6: RichardP16120 (€10.05 in chips) 
+13ROS13: posts small blind €0.02
+BerbatP: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [7s 2d]
+EVETS75: raises €0.07 to €0.12
+No_prints338: folds 
+RichardP16120: calls €0.12
+pokerikb: folds 
+13ROS13: folds 
+BerbatP: folds 
+*** FLOP *** [Ad 4h 7c]
+EVETS75: checks 
+RichardP16120: checks 
+*** TURN *** [Ad 4h 7c] [5d]
+EVETS75: bets €0.19
+RichardP16120: calls €0.19
+*** RIVER *** [Ad 4h 7c 5d] [Qh]
+EVETS75: bets €0.44
+RichardP16120: folds 
+Uncalled bet (€0.44) returned to EVETS75
+EVETS75 collected €0.66 from pot
+EVETS75: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.69 | Rake €0.03 
+Board [Ad 4h 7c 5d Qh]
+Seat 1: pokerikb (button) folded before Flop (didn't bet)
+Seat 2: 13ROS13 (small blind) folded before Flop
+Seat 3: BerbatP (big blind) folded before Flop
+Seat 4: EVETS75 collected (€0.66)
+Seat 5: No_prints338 folded before Flop (didn't bet)
+Seat 6: RichardP16120 folded on the River
+
+
+
+PokerStars Zoom Hand #260839147113:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 18:59:29 CET [2026/05/17 12:59:29 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: espi5169 (€5 in chips) 
+Seat 2: BerbatP (€5 in chips) 
+Seat 3: ALF0780 (€5.64 in chips) 
+Seat 4: KKKJJJ730 (€5.26 in chips) 
+Seat 5: blasahermoso (€1.51 in chips) 
+Seat 6: Héct8r75 (€5.54 in chips) 
+BerbatP: posts small blind €0.02
+ALF0780: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [8h 2s]
+KKKJJJ730: raises €0.07 to €0.12
+blasahermoso: folds 
+Héct8r75: folds 
+espi5169: folds 
+BerbatP: folds 
+ALF0780: folds 
+Uncalled bet (€0.07) returned to KKKJJJ730
+KKKJJJ730 collected €0.12 from pot
+KKKJJJ730: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 1: espi5169 (button) folded before Flop (didn't bet)
+Seat 2: BerbatP (small blind) folded before Flop
+Seat 3: ALF0780 (big blind) folded before Flop
+Seat 4: KKKJJJ730 collected (€0.12)
+Seat 5: blasahermoso folded before Flop (didn't bet)
+Seat 6: Héct8r75 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #260839149821:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 18:59:50 CET [2026/05/17 12:59:50 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: BerbatP (€4.98 in chips) 
+Seat 2: HS CHEFE (€3.32 in chips) 
+Seat 3: espi5169 (€7.29 in chips) 
+Seat 4: 13ROS13 (€5.15 in chips) 
+Seat 5: monboisse (€5.65 in chips) 
+Seat 6: mue_16v (€5.39 in chips) 
+HS CHEFE: posts small blind €0.02
+espi5169: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [Ad 8s]
+13ROS13: folds 
+monboisse: raises €0.10 to €0.15
+mue_16v: folds 
+BerbatP: folds 
+HS CHEFE: folds 
+espi5169: folds 
+Uncalled bet (€0.10) returned to monboisse
+monboisse collected €0.12 from pot
+monboisse: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 1: BerbatP (button) folded before Flop (didn't bet)
+Seat 2: HS CHEFE (small blind) folded before Flop
+Seat 3: espi5169 (big blind) folded before Flop
+Seat 4: 13ROS13 folded before Flop (didn't bet)
+Seat 5: monboisse collected (€0.12)
+Seat 6: mue_16v folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #260839154470:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 19:00:26 CET [2026/05/17 13:00:26 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: HotRounder (€5.15 in chips) 
+Seat 2: Luismari65 (€1.24 in chips) 
+Seat 3: espi5169 (€5 in chips) 
+Seat 4: mue_16v (€5.34 in chips) 
+Seat 5: BarraCarbono (€6.40 in chips) 
+Seat 6: BerbatP (€4.98 in chips) 
+Luismari65: posts small blind €0.02
+espi5169: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [7d 2h]
+mue_16v: folds 
+BarraCarbono: folds 
+BerbatP: folds 
+HotRounder: folds 
+Luismari65: folds 
+Uncalled bet (€0.03) returned to espi5169
+espi5169 collected €0.04 from pot
+espi5169: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.04 | Rake €0 
+Seat 1: HotRounder (button) folded before Flop (didn't bet)
+Seat 2: Luismari65 (small blind) folded before Flop
+Seat 3: espi5169 (big blind) collected (€0.04)
+Seat 4: mue_16v folded before Flop (didn't bet)
+Seat 5: BarraCarbono folded before Flop (didn't bet)
+Seat 6: BerbatP folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #260839155094:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 19:00:31 CET [2026/05/17 13:00:31 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: MATADOR473 (€5 in chips) 
+Seat 2: No_prints338 (€6.16 in chips) 
+Seat 3: Ivangennaro (€9.77 in chips) 
+Seat 4: BerbatP (€4.98 in chips) 
+Seat 5: boneman0 (€1.90 in chips) 
+Seat 6: chiinche (€4.49 in chips) 
+No_prints338: posts small blind €0.02
+Ivangennaro: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [As Th]
+BerbatP: raises €0.07 to €0.12
+boneman0: raises €1.78 to €1.90 and is all-in
+chiinche: folds 
+MATADOR473: folds 
+No_prints338: folds 
+Ivangennaro: folds 
+BerbatP: folds 
+Uncalled bet (€1.78) returned to boneman0
+boneman0 collected €0.31 from pot
+boneman0: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.31 | Rake €0 
+Seat 1: MATADOR473 (button) folded before Flop (didn't bet)
+Seat 2: No_prints338 (small blind) folded before Flop
+Seat 3: Ivangennaro (big blind) folded before Flop
+Seat 4: BerbatP folded before Flop
+Seat 5: boneman0 collected (€0.31)
+Seat 6: chiinche folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #260839156599:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 19:00:42 CET [2026/05/17 13:00:42 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: No_prints338 (€14.03 in chips) 
+Seat 2: AbiJouA (€0.98 in chips) 
+Seat 3: JMiguelPeGa (€1.67 in chips) 
+Seat 4: Donjuani_72 (€3.47 in chips) 
+Seat 5: BerbatP (€4.86 in chips) 
+Seat 6: pokerikb (€4.74 in chips) 
+AbiJouA: posts small blind €0.02
+JMiguelPeGa: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [Ts 4c]
+Donjuani_72: folds 
+BerbatP: folds 
+pokerikb: folds 
+No_prints338: folds 
+AbiJouA: folds 
+Uncalled bet (€0.03) returned to JMiguelPeGa
+JMiguelPeGa collected €0.04 from pot
+JMiguelPeGa: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.04 | Rake €0 
+Seat 1: No_prints338 (button) folded before Flop (didn't bet)
+Seat 2: AbiJouA (small blind) folded before Flop
+Seat 3: JMiguelPeGa (big blind) collected (€0.04)
+Seat 4: Donjuani_72 folded before Flop (didn't bet)
+Seat 5: BerbatP folded before Flop (didn't bet)
+Seat 6: pokerikb folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #260839153290:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 19:00:17 CET [2026/05/17 13:00:17 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: Richwell7 (€5.18 in chips) 
+Seat 2: trumoan (€5.47 in chips) 
+Seat 3: Jumby34 (€5 in chips) 
+Seat 4: BerbatP (€4.98 in chips) 
+Seat 5: Ivangennaro (€8.58 in chips) 
+Seat 6: BarraCarbono (€6.40 in chips) 
+trumoan: posts small blind €0.02
+Jumby34: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [9d 4c]
+BerbatP: folds 
+Ivangennaro: raises €0.07 to €0.12
+BarraCarbono: folds 
+Richwell7: folds 
+trumoan: calls €0.10
+Jumby34: calls €0.07
+*** FLOP *** [4s 6s 2d]
+trumoan: checks 
+Jumby34: checks 
+Ivangennaro: checks 
+*** TURN *** [4s 6s 2d] [5d]
+trumoan: checks 
+Jumby34: bets €0.50
+Ivangennaro: calls €0.50
+trumoan: folds 
+*** RIVER *** [4s 6s 2d 5d] [2s]
+Jumby34: checks 
+Ivangennaro: checks 
+*** SHOW DOWN ***
+Jumby34: shows [9c Kc] (a pair of Deuces)
+Ivangennaro: mucks hand 
+Jumby34 collected €1.29 from pot
+*** SUMMARY ***
+Total pot €1.36 | Rake €0.07 
+Board [4s 6s 2d 5d 2s]
+Seat 1: Richwell7 (button) folded before Flop (didn't bet)
+Seat 2: trumoan (small blind) folded on the Turn
+Seat 3: Jumby34 (big blind) showed [9c Kc] and won (€1.29) with a pair of Deuces
+Seat 4: BerbatP folded before Flop (didn't bet)
+Seat 5: Ivangennaro mucked [7d Kd]
+Seat 6: BarraCarbono folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #260839158741:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 19:00:56 CET [2026/05/17 13:00:56 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: BerbatP (€4.79 in chips) 
+Seat 2: KKKJJJ730 (€9.76 in chips) 
+Seat 3: pokerikb (€4.72 in chips) 
+Seat 4: MATADOR473 (€5.99 in chips) 
+Seat 5: eyeeel (€1.72 in chips) 
+Seat 6: daniel_majno (€5.81 in chips) 
+KKKJJJ730: posts small blind €0.02
+pokerikb: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [4h 7d]
+MATADOR473: folds 
+eyeeel: folds 
+daniel_majno: raises €0.10 to €0.15
+BerbatP: folds 
+KKKJJJ730: folds 
+pokerikb: calls €0.10
+*** FLOP *** [7h As 4c]
+pokerikb: checks 
+daniel_majno: bets €0.10
+pokerikb: folds 
+Uncalled bet (€0.10) returned to daniel_majno
+daniel_majno collected €0.30 from pot
+daniel_majno: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.32 | Rake €0.02 
+Board [7h As 4c]
+Seat 1: BerbatP (button) folded before Flop (didn't bet)
+Seat 2: KKKJJJ730 (small blind) folded before Flop
+Seat 3: pokerikb (big blind) folded on the Flop
+Seat 4: MATADOR473 folded before Flop (didn't bet)
+Seat 5: eyeeel folded before Flop (didn't bet)
+Seat 6: daniel_majno collected (€0.30)
+
+
+
+PokerStars Zoom Hand #260839161277:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 19:01:11 CET [2026/05/17 13:01:11 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: BerbatP (€4.79 in chips) 
+Seat 2: Luismari65 (€1.28 in chips) 
+Seat 3: Richwell7 (€5.16 in chips) 
+Seat 4: cobra131165 (€5.06 in chips) 
+Seat 5: espi5169 (€5.16 in chips) 
+Seat 6: chiinche (€5 in chips) 
+Luismari65: posts small blind €0.02
+Richwell7: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [Qd 2d]
+cobra131165: folds 
+espi5169: folds 
+chiinche: folds 
+BerbatP: folds 
+Luismari65: folds 
+Uncalled bet (€0.03) returned to Richwell7
+Richwell7 collected €0.04 from pot
+Richwell7: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.04 | Rake €0 
+Seat 1: BerbatP (button) folded before Flop (didn't bet)
+Seat 2: Luismari65 (small blind) folded before Flop
+Seat 3: Richwell7 (big blind) collected (€0.04)
+Seat 4: cobra131165 folded before Flop (didn't bet)
+Seat 5: espi5169 folded before Flop (didn't bet)
+Seat 6: chiinche folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #260839159894:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 19:01:03 CET [2026/05/17 13:01:03 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: Jumby34 (€9.47 in chips) 
+Seat 2: ALF0780 (€5.73 in chips) 
+Seat 3: eyeeel (€1.72 in chips) 
+Seat 4: brpsp (€4.85 in chips) 
+Seat 5: Red Skywalk (€5.26 in chips) 
+Seat 6: BerbatP (€4.79 in chips) 
+ALF0780: posts small blind €0.02
+eyeeel: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [Jc 8d]
+brpsp: folds 
+Red Skywalk: folds 
+BerbatP: folds 
+Jumby34: folds 
+ALF0780: folds 
+Uncalled bet (€0.03) returned to eyeeel
+eyeeel collected €0.04 from pot
+eyeeel: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.04 | Rake €0 
+Seat 1: Jumby34 (button) folded before Flop (didn't bet)
+Seat 2: ALF0780 (small blind) folded before Flop
+Seat 3: eyeeel (big blind) collected (€0.04)
+Seat 4: brpsp folded before Flop (didn't bet)
+Seat 5: Red Skywalk folded before Flop (didn't bet)
+Seat 6: BerbatP folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #260839158276:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 19:00:53 CET [2026/05/17 13:00:53 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: mue_16v (€6.73 in chips) 
+Seat 2: BerbatP (€4.81 in chips) 
+Seat 3: Donjuani_72 (€3.45 in chips) 
+Seat 4: pzjohn (€3.04 in chips) 
+Seat 5: Richwell7 (€5.16 in chips) 
+Seat 6: No_prints338 (€14.03 in chips) 
+BerbatP: posts small blind €0.02
+Donjuani_72: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [9d 5c]
+pzjohn: calls €0.05
+Richwell7: folds 
+No_prints338: raises €0.15 to €0.20
+mue_16v: calls €0.20
+BerbatP: folds 
+Donjuani_72: raises €3.25 to €3.45 and is all-in
+pzjohn: folds 
+No_prints338: folds 
+mue_16v: folds 
+Uncalled bet (€3.25) returned to Donjuani_72
+Donjuani_72 collected €0.67 from pot
+Donjuani_72: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.67 | Rake €0 
+Seat 1: mue_16v (button) folded before Flop
+Seat 2: BerbatP (small blind) folded before Flop
+Seat 3: Donjuani_72 (big blind) collected (€0.67)
+Seat 4: pzjohn folded before Flop
+Seat 5: Richwell7 folded before Flop (didn't bet)
+Seat 6: No_prints338 folded before Flop
+
+
+
+PokerStars Zoom Hand #260839162384:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 19:01:18 CET [2026/05/17 13:01:18 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: HotRounder (€6.43 in chips) 
+Seat 2: pokerikb (€12.12 in chips) 
+Seat 3: BerbatP (€4.79 in chips) 
+Seat 4: XxVallesxX (€5.29 in chips) 
+Seat 5: Ivangennaro (€8.89 in chips) 
+Seat 6: kurtconlei14 (€5.66 in chips) 
+pokerikb: posts small blind €0.02
+BerbatP: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [Qd 5s]
+XxVallesxX: folds 
+Ivangennaro: folds 
+kurtconlei14: raises €0.10 to €0.15
+HotRounder: folds 
+pokerikb: folds 
+BerbatP: folds 
+Uncalled bet (€0.10) returned to kurtconlei14
+kurtconlei14 collected €0.12 from pot
+kurtconlei14: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 1: HotRounder (button) folded before Flop (didn't bet)
+Seat 2: pokerikb (small blind) folded before Flop
+Seat 3: BerbatP (big blind) folded before Flop
+Seat 4: XxVallesxX folded before Flop (didn't bet)
+Seat 5: Ivangennaro folded before Flop (didn't bet)
+Seat 6: kurtconlei14 collected (€0.12)
+
+
+
+PokerStars Zoom Hand #260839159328:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 19:00:59 CET [2026/05/17 13:00:59 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: boneman0 (€2.02 in chips) 
+Seat 2: soouf94110 (€7.21 in chips) 
+Seat 3: EVETS75 (€8.17 in chips) 
+Seat 4: lolo76747 (€8.77 in chips) 
+Seat 5: BerbatP (€4.79 in chips) 
+Seat 6: jepad62 (€3.91 in chips) 
+soouf94110: posts small blind €0.02
+EVETS75: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [9c 6d]
+lolo76747: folds 
+BerbatP: folds 
+jepad62: folds 
+boneman0: calls €0.05
+soouf94110: raises €0.10 to €0.15
+EVETS75: folds 
+boneman0: calls €0.10
+*** FLOP *** [2h 6h 3c]
+soouf94110: checks 
+boneman0: checks 
+*** TURN *** [2h 6h 3c] [8c]
+soouf94110: checks 
+boneman0: bets €0.33
+soouf94110: folds 
+Uncalled bet (€0.33) returned to boneman0
+boneman0 collected €0.33 from pot
+boneman0: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.35 | Rake €0.02 
+Board [2h 6h 3c 8c]
+Seat 1: boneman0 (button) collected (€0.33)
+Seat 2: soouf94110 (small blind) folded on the Turn
+Seat 3: EVETS75 (big blind) folded before Flop
+Seat 4: lolo76747 folded before Flop (didn't bet)
+Seat 5: BerbatP folded before Flop (didn't bet)
+Seat 6: jepad62 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #260839157487:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 19:00:48 CET [2026/05/17 13:00:48 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: kurtconlei14 (€4.55 in chips) 
+Seat 2: pokerikb (€4.74 in chips) 
+Seat 3: BerbatP (€4.86 in chips) 
+Seat 4: espi5169 (€7.22 in chips) 
+Seat 5: joaobrito710 (€3.55 in chips) 
+Seat 6: eskiuter (€4.76 in chips) 
+pokerikb: posts small blind €0.02
+BerbatP: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [4d 8c]
+espi5169: raises €0.08 to €0.13
+joaobrito710: calls €0.13
+eskiuter: folds 
+kurtconlei14: folds 
+pokerikb: folds 
+BerbatP: folds 
+*** FLOP *** [6s 6h Kd]
+espi5169: bets €0.13
+joaobrito710: calls €0.13
+*** TURN *** [6s 6h Kd] [9h]
+espi5169: bets €0.43
+joaobrito710: calls €0.43
+*** RIVER *** [6s 6h Kd 9h] [5c]
+espi5169: bets €1.05
+joaobrito710: folds 
+Uncalled bet (€1.05) returned to espi5169
+espi5169 collected €1.38 from pot
+espi5169: doesn't show hand 
+*** SUMMARY ***
+Total pot €1.45 | Rake €0.07 
+Board [6s 6h Kd 9h 5c]
+Seat 1: kurtconlei14 (button) folded before Flop (didn't bet)
+Seat 2: pokerikb (small blind) folded before Flop
+Seat 3: BerbatP (big blind) folded before Flop
+Seat 4: espi5169 collected (€1.38)
+Seat 5: joaobrito710 folded on the River
+Seat 6: eskiuter folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #260839160520:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 19:01:07 CET [2026/05/17 13:01:07 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: eskiuter (€4.76 in chips) 
+Seat 2: MATADOR473 (€5.99 in chips) 
+Seat 3: KKKJJJ730 (€9.74 in chips) 
+Seat 4: BerbatP (€4.79 in chips) 
+Seat 5: Ivangennaro (€9.77 in chips) 
+Seat 6: Red Skywalk (€5.26 in chips) 
+MATADOR473: posts small blind €0.02
+KKKJJJ730: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [Kc 4s]
+BerbatP: folds 
+Ivangennaro: raises €0.07 to €0.12
+Red Skywalk: calls €0.12
+eskiuter: folds 
+MATADOR473: folds 
+KKKJJJ730: folds 
+*** FLOP *** [Jc Ts 3c]
+Ivangennaro: bets €0.10
+Red Skywalk: calls €0.10
+*** TURN *** [Jc Ts 3c] [5c]
+Ivangennaro: checks 
+Red Skywalk: bets €0.48
+Ivangennaro: calls €0.48
+*** RIVER *** [Jc Ts 3c 5c] [6h]
+Ivangennaro: checks 
+Red Skywalk: checks 
+*** SHOW DOWN ***
+Ivangennaro: shows [Ac 4c] (a flush, Ace high)
+Red Skywalk: mucks hand 
+Ivangennaro collected €1.40 from pot
+*** SUMMARY ***
+Total pot €1.47 | Rake €0.07 
+Board [Jc Ts 3c 5c 6h]
+Seat 1: eskiuter (button) folded before Flop (didn't bet)
+Seat 2: MATADOR473 (small blind) folded before Flop
+Seat 3: KKKJJJ730 (big blind) folded before Flop
+Seat 4: BerbatP folded before Flop (didn't bet)
+Seat 5: Ivangennaro showed [Ac 4c] and won (€1.40) with a flush, Ace high
+Seat 6: Red Skywalk mucked [3h Ah]
+
+
+
+PokerStars Zoom Hand #260839165046:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 19:01:32 CET [2026/05/17 13:01:32 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: Jumby34 (€5.65 in chips) 
+Seat 2: BerbatP (€4.74 in chips) 
+Seat 3: eskiuter (€4.76 in chips) 
+Seat 4: cobra131165 (€16.56 in chips) 
+Seat 5: KKKJJJ730 (€9.67 in chips) 
+Seat 6: DDtixa (€5.03 in chips) 
+BerbatP: posts small blind €0.02
+eskiuter: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [9d 9c]
+cobra131165: folds 
+KKKJJJ730: folds 
+DDtixa: folds 
+Jumby34: folds 
+BerbatP: raises €0.07 to €0.12
+eskiuter: raises €0.23 to €0.35
+BerbatP: calls €0.23
+*** FLOP *** [2s Ah Ts]
+BerbatP: checks 
+eskiuter: bets €0.22
+BerbatP: folds 
+Uncalled bet (€0.22) returned to eskiuter
+eskiuter collected €0.66 from pot
+eskiuter: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.70 | Rake €0.04 
+Board [2s Ah Ts]
+Seat 1: Jumby34 (button) folded before Flop (didn't bet)
+Seat 2: BerbatP (small blind) folded on the Flop
+Seat 3: eskiuter (big blind) collected (€0.66)
+Seat 4: cobra131165 folded before Flop (didn't bet)
+Seat 5: KKKJJJ730 folded before Flop (didn't bet)
+Seat 6: DDtixa folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #260839172438:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 19:02:13 CET [2026/05/17 13:02:13 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: nezzi77 (€13.42 in chips) 
+Seat 2: pzjohn (€3.29 in chips) 
+Seat 3: neutron2275 (€4.70 in chips) 
+Seat 4: chiinche (€4.93 in chips) 
+Seat 5: caracabra25 (€4.78 in chips) 
+Seat 6: BerbatP (€4.39 in chips) 
+pzjohn: posts small blind €0.02
+neutron2275: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [Kc Kh]
+chiinche: folds 
+caracabra25: folds 
+BerbatP: raises €0.07 to €0.12
+nezzi77: folds 
+pzjohn: folds 
+neutron2275: calls €0.07
+*** FLOP *** [4s Tc Qc]
+neutron2275: checks 
+BerbatP: bets €0.16
+neutron2275: folds 
+Uncalled bet (€0.16) returned to BerbatP
+BerbatP collected €0.25 from pot
+BerbatP: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.26 | Rake €0.01 
+Board [4s Tc Qc]
+Seat 1: nezzi77 (button) folded before Flop (didn't bet)
+Seat 2: pzjohn (small blind) folded before Flop
+Seat 3: neutron2275 (big blind) folded on the Flop
+Seat 4: chiinche folded before Flop (didn't bet)
+Seat 5: caracabra25 folded before Flop (didn't bet)
+Seat 6: BerbatP collected (€0.25)
+
+
+
+PokerStars Zoom Hand #260839179469:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 19:02:50 CET [2026/05/17 13:02:50 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: Muix (€1.88 in chips) 
+Seat 2: cobra131165 (€5 in chips) 
+Seat 3: eskiuter (€9.28 in chips) 
+Seat 4: Fili7777 (€6.40 in chips) 
+Seat 5: BerbatP (€4.52 in chips) 
+Seat 6: nezzi77 (€9.75 in chips) 
+cobra131165: posts small blind €0.02
+eskiuter: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [7c 4c]
+Fili7777: folds 
+BerbatP: folds 
+nezzi77: folds 
+Muix: folds 
+cobra131165: raises €0.10 to €0.15
+eskiuter: folds 
+Uncalled bet (€0.10) returned to cobra131165
+cobra131165 collected €0.10 from pot
+cobra131165: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Seat 1: Muix (button) folded before Flop (didn't bet)
+Seat 2: cobra131165 (small blind) collected (€0.10)
+Seat 3: eskiuter (big blind) folded before Flop
+Seat 4: Fili7777 folded before Flop (didn't bet)
+Seat 5: BerbatP folded before Flop (didn't bet)
+Seat 6: nezzi77 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #260839180766:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 19:02:55 CET [2026/05/17 13:02:55 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: BerbatP (€4.52 in chips) 
+Seat 2: nezzi77 (€13.49 in chips) 
+Seat 3: chiinche (€4.84 in chips) 
+Seat 4: Fili7777 (€6.40 in chips) 
+Seat 5: cobra131165 (€5.06 in chips) 
+Seat 6: fraskitor (€6.99 in chips) 
+nezzi77: posts small blind €0.02
+chiinche: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [6c 3h]
+Fili7777: raises €0.07 to €0.12
+cobra131165: folds 
+fraskitor: folds 
+BerbatP: folds 
+nezzi77: folds 
+chiinche: folds 
+Uncalled bet (€0.07) returned to Fili7777
+Fili7777 collected €0.12 from pot
+Fili7777: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 1: BerbatP (button) folded before Flop (didn't bet)
+Seat 2: nezzi77 (small blind) folded before Flop
+Seat 3: chiinche (big blind) folded before Flop
+Seat 4: Fili7777 collected (€0.12)
+Seat 5: cobra131165 folded before Flop (didn't bet)
+Seat 6: fraskitor folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #260839181713:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 19:03:00 CET [2026/05/17 13:03:00 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: SKARDES (€4.34 in chips) 
+Seat 2: cobra131165 (€16.43 in chips) 
+Seat 3: BerbatP (€4.52 in chips) 
+Seat 4: fiku1 (€5.70 in chips) 
+Seat 5: pokerikb (€12.10 in chips) 
+Seat 6: KKKJJJ730 (€5.82 in chips) 
+cobra131165: posts small blind €0.02
+BerbatP: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [4c 7d]
+fiku1: folds 
+pokerikb: folds 
+KKKJJJ730: folds 
+SKARDES: raises €0.10 to €0.15
+cobra131165: folds 
+BerbatP: folds 
+Uncalled bet (€0.10) returned to SKARDES
+SKARDES collected €0.12 from pot
+SKARDES: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 1: SKARDES (button) collected (€0.12)
+Seat 2: cobra131165 (small blind) folded before Flop
+Seat 3: BerbatP (big blind) folded before Flop
+Seat 4: fiku1 folded before Flop (didn't bet)
+Seat 5: pokerikb folded before Flop (didn't bet)
+Seat 6: KKKJJJ730 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #260839183448:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 19:03:09 CET [2026/05/17 13:03:09 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: eyeeel (€1.55 in chips) 
+Seat 2: BerbatP (€4.47 in chips) 
+Seat 3: BarraCarbono (€5 in chips) 
+Seat 4: KKKJJJ730 (€5 in chips) 
+Seat 5: kurtconlei14 (€5.96 in chips) 
+Seat 6: harriwillson (€1.58 in chips) 
+BerbatP: posts small blind €0.02
+BarraCarbono: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [8s 8d]
+KKKJJJ730: folds 
+kurtconlei14: raises €0.05 to €0.10
+harriwillson: folds 
+eyeeel: calls €0.10
+BerbatP: raises €0.40 to €0.50
+BarraCarbono: folds 
+kurtconlei14: folds 
+eyeeel: folds 
+Uncalled bet (€0.40) returned to BerbatP
+BerbatP collected €0.35 from pot
+BerbatP: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.35 | Rake €0 
+Seat 1: eyeeel (button) folded before Flop
+Seat 2: BerbatP (small blind) collected (€0.35)
+Seat 3: BarraCarbono (big blind) folded before Flop
+Seat 4: KKKJJJ730 folded before Flop (didn't bet)
+Seat 5: kurtconlei14 folded before Flop
+Seat 6: harriwillson folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #260839191480:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 19:03:45 CET [2026/05/17 13:03:45 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: kurtconlei14 (€5.86 in chips) 
+Seat 2: mikoandy69 (€4.02 in chips) 
+Seat 3: samoney25000 (€12.16 in chips) 
+Seat 4: Ivangennaro (€8 in chips) 
+Seat 5: BerbatP (€4.72 in chips) 
+Seat 6: KKKJJJ730 (€9.55 in chips) 
+mikoandy69: posts small blind €0.02
+samoney25000: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [7h Ad]
+Ivangennaro: folds 
+BerbatP: folds 
+KKKJJJ730: raises €0.07 to €0.12
+kurtconlei14: folds 
+mikoandy69: folds 
+samoney25000: folds 
+Uncalled bet (€0.07) returned to KKKJJJ730
+KKKJJJ730 collected €0.12 from pot
+KKKJJJ730: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 1: kurtconlei14 (button) folded before Flop (didn't bet)
+Seat 2: mikoandy69 (small blind) folded before Flop
+Seat 3: samoney25000 (big blind) folded before Flop
+Seat 4: Ivangennaro folded before Flop (didn't bet)
+Seat 5: BerbatP folded before Flop (didn't bet)
+Seat 6: KKKJJJ730 collected (€0.12)
+
+
+
+PokerStars Zoom Hand #260839192521:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 19:03:50 CET [2026/05/17 13:03:50 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: alotor (€12.92 in chips) 
+Seat 2: mue_16v (€6.58 in chips) 
+Seat 3: No_prints338 (€6.12 in chips) 
+Seat 4: 13ROS13 (€5.68 in chips) 
+Seat 5: boneman0 (€2.18 in chips) 
+Seat 6: BerbatP (€4.72 in chips) 
+mue_16v: posts small blind €0.02
+No_prints338: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [Ad 4s]
+13ROS13: folds 
+boneman0: calls €0.05
+BerbatP: folds 
+alotor: folds 
+mue_16v: folds 
+No_prints338: checks 
+*** FLOP *** [8h 7h 4h]
+No_prints338: checks 
+boneman0: checks 
+*** TURN *** [8h 7h 4h] [9d]
+No_prints338: checks 
+boneman0: bets €0.11
+No_prints338: folds 
+Uncalled bet (€0.11) returned to boneman0
+boneman0 collected €0.11 from pot
+boneman0: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0.01 
+Board [8h 7h 4h 9d]
+Seat 1: alotor (button) folded before Flop (didn't bet)
+Seat 2: mue_16v (small blind) folded before Flop
+Seat 3: No_prints338 (big blind) folded on the Turn
+Seat 4: 13ROS13 folded before Flop (didn't bet)
+Seat 5: boneman0 collected (€0.11)
+Seat 6: BerbatP folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #260839193677:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 19:03:55 CET [2026/05/17 13:03:55 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: OleksiiKozak (€12.07 in chips) 
+Seat 2: samoney25000 (€12.11 in chips) 
+Seat 3: Donjuani_72 (€5.83 in chips) 
+Seat 4: BerbatP (€4.72 in chips) 
+Seat 5: eskiuter (€5.05 in chips) 
+Seat 6: brpsp (€3.06 in chips) 
+samoney25000: posts small blind €0.02
+Donjuani_72: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [Qs 5d]
+BerbatP: folds 
+eskiuter: folds 
+brpsp: folds 
+OleksiiKozak: raises €0.08 to €0.13
+samoney25000: calls €0.11
+Donjuani_72: raises €5.70 to €5.83 and is all-in
+OleksiiKozak: folds 
+samoney25000: folds 
+Uncalled bet (€5.70) returned to Donjuani_72
+Donjuani_72 collected €0.39 from pot
+Donjuani_72: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.39 | Rake €0 
+Seat 1: OleksiiKozak (button) folded before Flop
+Seat 2: samoney25000 (small blind) folded before Flop
+Seat 3: Donjuani_72 (big blind) collected (€0.39)
+Seat 4: BerbatP folded before Flop (didn't bet)
+Seat 5: eskiuter folded before Flop (didn't bet)
+Seat 6: brpsp folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #260839194235:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 19:03:58 CET [2026/05/17 13:03:58 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: Ivangennaro (€10.34 in chips) 
+Seat 2: Muix (€1.88 in chips) 
+Seat 3: KKKJJJ730 (€9.62 in chips) 
+Seat 4: BerbatP (€4.72 in chips) 
+Seat 5: Jumby34 (€5.58 in chips) 
+Seat 6: EVETS75 (€7.98 in chips) 
+Muix: posts small blind €0.02
+KKKJJJ730: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [3d Jd]
+BerbatP: folds 
+Jumby34: folds 
+EVETS75: folds 
+Ivangennaro: folds 
+Muix: calls €0.03
+KKKJJJ730: checks 
+*** FLOP *** [4d Qs Kh]
+Muix: checks 
+KKKJJJ730: checks 
+*** TURN *** [4d Qs Kh] [Ad]
+Muix: checks 
+KKKJJJ730: checks 
+*** RIVER *** [4d Qs Kh Ad] [Ts]
+Muix: checks 
+KKKJJJ730: checks 
+*** SHOW DOWN ***
+Muix: shows [4s 9h] (a pair of Fours)
+KKKJJJ730: mucks hand 
+Muix collected €0.10 from pot
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Board [4d Qs Kh Ad Ts]
+Seat 1: Ivangennaro (button) folded before Flop (didn't bet)
+Seat 2: Muix (small blind) showed [4s 9h] and won (€0.10) with a pair of Fours
+Seat 3: KKKJJJ730 (big blind) mucked [2s 3s]
+Seat 4: BerbatP folded before Flop (didn't bet)
+Seat 5: Jumby34 folded before Flop (didn't bet)
+Seat 6: EVETS75 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #260839194880:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 19:04:01 CET [2026/05/17 13:04:01 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: pmlm90 (€3.27 in chips) 
+Seat 2: kurtconlei14 (€4.58 in chips) 
+Seat 3: BerbatP (€4.72 in chips) 
+Seat 4: cobra131165 (€5.12 in chips) 
+Seat 5: EVETS75 (€7.98 in chips) 
+Seat 6: JMiguelPeGa (€1.79 in chips) 
+kurtconlei14: posts small blind €0.02
+BerbatP: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [7h 9d]
+cobra131165: folds 
+EVETS75: raises €0.07 to €0.12
+JMiguelPeGa: folds 
+pmlm90: calls €0.12
+kurtconlei14: folds 
+BerbatP: folds 
+*** FLOP *** [Ah 4d Js]
+EVETS75: checks 
+pmlm90: checks 
+*** TURN *** [Ah 4d Js] [4c]
+EVETS75: bets €0.24
+pmlm90: folds 
+Uncalled bet (€0.24) returned to EVETS75
+EVETS75 collected €0.29 from pot
+EVETS75: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.31 | Rake €0.02 
+Board [Ah 4d Js 4c]
+Seat 1: pmlm90 (button) folded on the Turn
+Seat 2: kurtconlei14 (small blind) folded before Flop
+Seat 3: BerbatP (big blind) folded before Flop
+Seat 4: cobra131165 folded before Flop (didn't bet)
+Seat 5: EVETS75 collected (€0.29)
+Seat 6: JMiguelPeGa folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #260839196537:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 19:04:09 CET [2026/05/17 13:04:09 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: BerbatP (€4.67 in chips) 
+Seat 2: chiinche (€5.26 in chips) 
+Seat 3: MATADOR473 (€5.45 in chips) 
+Seat 4: pzjohn (€3.67 in chips) 
+Seat 5: kurtconlei14 (€4.56 in chips) 
+Seat 6: RichardP16120 (€6.65 in chips) 
+chiinche: posts small blind €0.02
+MATADOR473: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [6h 5s]
+pzjohn: calls €0.05
+kurtconlei14: folds 
+RichardP16120: folds 
+BerbatP: folds 
+chiinche: folds 
+MATADOR473: checks 
+*** FLOP *** [Ad Jd Th]
+MATADOR473: checks 
+pzjohn: checks 
+*** TURN *** [Ad Jd Th] [8h]
+MATADOR473: checks 
+pzjohn: bets €0.07
+MATADOR473: folds 
+Uncalled bet (€0.07) returned to pzjohn
+pzjohn collected €0.11 from pot
+pzjohn: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0.01 
+Board [Ad Jd Th 8h]
+Seat 1: BerbatP (button) folded before Flop (didn't bet)
+Seat 2: chiinche (small blind) folded before Flop
+Seat 3: MATADOR473 (big blind) folded on the Turn
+Seat 4: pzjohn collected (€0.11)
+Seat 5: kurtconlei14 folded before Flop (didn't bet)
+Seat 6: RichardP16120 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #260839197611:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 19:04:14 CET [2026/05/17 13:04:14 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: No_prints338 (€13.05 in chips) 
+Seat 2: BerbatP (€4.67 in chips) 
+Seat 3: kurtconlei14 (€4.56 in chips) 
+Seat 4: boneman0 (€2.24 in chips) 
+Seat 5: eyeeel (€1.30 in chips) 
+Seat 6: rockola14 (€5.07 in chips) 
+BerbatP: posts small blind €0.02
+kurtconlei14: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [Js Ah]
+boneman0: raises €0.15 to €0.20
+eyeeel: calls €0.20
+rockola14: folds 
+No_prints338: folds 
+BerbatP: folds 
+kurtconlei14: folds 
+*** FLOP *** [As Jh 7d]
+boneman0: checks 
+eyeeel: bets €0.05
+boneman0: calls €0.05
+*** TURN *** [As Jh 7d] [5d]
+boneman0: checks 
+eyeeel: bets €0.10
+boneman0: calls €0.10
+*** RIVER *** [As Jh 7d 5d] [5s]
+boneman0: checks 
+eyeeel: bets €0.15
+boneman0: calls €0.15
+*** SHOW DOWN ***
+eyeeel: shows [2c Ac] (two pair, Aces and Fives)
+boneman0: shows [Ks Kd] (two pair, Kings and Fives)
+eyeeel collected €1.02 from pot
+*** SUMMARY ***
+Total pot €1.07 | Rake €0.05 
+Board [As Jh 7d 5d 5s]
+Seat 1: No_prints338 (button) folded before Flop (didn't bet)
+Seat 2: BerbatP (small blind) folded before Flop
+Seat 3: kurtconlei14 (big blind) folded before Flop
+Seat 4: boneman0 showed [Ks Kd] and lost with two pair, Kings and Fives
+Seat 5: eyeeel showed [2c Ac] and won (€1.02) with two pair, Aces and Fives
+Seat 6: rockola14 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #260839208109:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 19:05:04 CET [2026/05/17 13:05:04 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: kurtconlei14 (€5.79 in chips) 
+Seat 2: mue_16v (€5.31 in chips) 
+Seat 3: Ivangennaro (€8.55 in chips) 
+Seat 4: HotRounder (€13.24 in chips) 
+Seat 5: DDtixa (€5.58 in chips) 
+Seat 6: BerbatP (€4.65 in chips) 
+mue_16v: posts small blind €0.02
+Ivangennaro: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [As Ts]
+HotRounder: folds 
+DDtixa: folds 
+BerbatP: raises €0.07 to €0.12
+kurtconlei14: folds 
+mue_16v: raises €0.42 to €0.54
+Ivangennaro: folds 
+BerbatP: calls €0.42
+*** FLOP *** [Ah Qh 8c]
+mue_16v: checks 
+BerbatP: checks 
+*** TURN *** [Ah Qh 8c] [6h]
+mue_16v: checks 
+BerbatP: checks 
+*** RIVER *** [Ah Qh 8c 6h] [2d]
+mue_16v: bets €0.35
+BerbatP: calls €0.35
+*** SHOW DOWN ***
+mue_16v: shows [Kd Qc] (a pair of Queens)
+BerbatP: shows [As Ts] (a pair of Aces)
+BerbatP collected €1.74 from pot
+*** SUMMARY ***
+Total pot €1.83 | Rake €0.09 
+Board [Ah Qh 8c 6h 2d]
+Seat 1: kurtconlei14 (button) folded before Flop (didn't bet)
+Seat 2: mue_16v (small blind) showed [Kd Qc] and lost with a pair of Queens
+Seat 3: Ivangennaro (big blind) folded before Flop
+Seat 4: HotRounder folded before Flop (didn't bet)
+Seat 5: DDtixa folded before Flop (didn't bet)
+Seat 6: BerbatP showed [As Ts] and won (€1.74) with a pair of Aces
+
+
+
+PokerStars Zoom Hand #260839222145:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 19:06:09 CET [2026/05/17 13:06:09 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: chiinche (€5.01 in chips) 
+Seat 2: fraskitor (€10.94 in chips) 
+Seat 3: BerbatP (€5.50 in chips) 
+Seat 4: nezzi77 (€9.82 in chips) 
+Seat 5: HotRounder (€8.67 in chips) 
+Seat 6: harriwillson (€0.83 in chips) 
+fraskitor: posts small blind €0.02
+BerbatP: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [Td As]
+nezzi77: folds 
+HotRounder: folds 
+harriwillson: folds 
+chiinche: folds 
+fraskitor: folds 
+Uncalled bet (€0.03) returned to BerbatP
+BerbatP collected €0.04 from pot
+BerbatP: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.04 | Rake €0 
+Seat 1: chiinche (button) folded before Flop (didn't bet)
+Seat 2: fraskitor (small blind) folded before Flop
+Seat 3: BerbatP (big blind) collected (€0.04)
+Seat 4: nezzi77 folded before Flop (didn't bet)
+Seat 5: HotRounder folded before Flop (didn't bet)
+Seat 6: harriwillson folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #260839220174:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 19:06:00 CET [2026/05/17 13:06:00 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: Ivangennaro (€8.86 in chips) 
+Seat 2: MATADOR473 (€5.31 in chips) 
+Seat 3: SUPERHARMONY (€5.18 in chips) 
+Seat 4: McGuillavry (€2.27 in chips) 
+Seat 5: BerbatP (€5.50 in chips) 
+Seat 6: Héct8r75 (€12.64 in chips) 
+MATADOR473: posts small blind €0.02
+SUPERHARMONY: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [7h Kd]
+McGuillavry: folds 
+BerbatP: folds 
+Héct8r75: folds 
+Ivangennaro: folds 
+MATADOR473: raises €0.07 to €0.12
+SUPERHARMONY: folds 
+Uncalled bet (€0.07) returned to MATADOR473
+MATADOR473 collected €0.10 from pot
+MATADOR473: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Seat 1: Ivangennaro (button) folded before Flop (didn't bet)
+Seat 2: MATADOR473 (small blind) collected (€0.10)
+Seat 3: SUPERHARMONY (big blind) folded before Flop
+Seat 4: McGuillavry folded before Flop (didn't bet)
+Seat 5: BerbatP folded before Flop (didn't bet)
+Seat 6: Héct8r75 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #260839226302:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 19:06:28 CET [2026/05/17 13:06:28 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: jepad62 (€3.38 in chips) 
+Seat 2: Fili7777 (€3.92 in chips) 
+Seat 3: pokerikb (€5 in chips) 
+Seat 4: _D4RW1N_99 (€7.21 in chips) 
+Seat 5: mikoandy69 (€3.59 in chips) 
+Seat 6: BerbatP (€5.52 in chips) 
+Fili7777: posts small blind €0.02
+pokerikb: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [Jc Kh]
+_D4RW1N_99: folds 
+mikoandy69: folds 
+BerbatP: raises €0.07 to €0.12
+jepad62: folds 
+Fili7777: folds 
+pokerikb: folds 
+Uncalled bet (€0.07) returned to BerbatP
+BerbatP collected €0.12 from pot
+BerbatP: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 1: jepad62 (button) folded before Flop (didn't bet)
+Seat 2: Fili7777 (small blind) folded before Flop
+Seat 3: pokerikb (big blind) folded before Flop
+Seat 4: _D4RW1N_99 folded before Flop (didn't bet)
+Seat 5: mikoandy69 folded before Flop (didn't bet)
+Seat 6: BerbatP collected (€0.12)
+
+
+
+PokerStars Zoom Hand #260839225042:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 19:06:22 CET [2026/05/17 13:06:22 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: BerbatP (€5.52 in chips) 
+Seat 2: kurtconlei14 (€5.67 in chips) 
+Seat 3: pmlm90 (€2.95 in chips) 
+Seat 4: espi5169 (€5 in chips) 
+Seat 5: Ivangennaro (€14.45 in chips) 
+Seat 6: 13ROS13 (€5.68 in chips) 
+kurtconlei14: posts small blind €0.02
+pmlm90: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [8h Ts]
+espi5169: folds 
+Ivangennaro: folds 
+13ROS13: folds 
+BerbatP: folds 
+kurtconlei14: raises €0.10 to €0.15
+pmlm90: folds 
+Uncalled bet (€0.10) returned to kurtconlei14
+kurtconlei14 collected €0.10 from pot
+kurtconlei14: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Seat 1: BerbatP (button) folded before Flop (didn't bet)
+Seat 2: kurtconlei14 (small blind) collected (€0.10)
+Seat 3: pmlm90 (big blind) folded before Flop
+Seat 4: espi5169 folded before Flop (didn't bet)
+Seat 5: Ivangennaro folded before Flop (didn't bet)
+Seat 6: 13ROS13 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #260839221204:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 19:06:05 CET [2026/05/17 13:06:05 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: fiku1 (€7.13 in chips) 
+Seat 2: JMiguelPeGa (€1.65 in chips) 
+Seat 3: ricarduche (€9.10 in chips) 
+Seat 4: BerbatP (€5.50 in chips) 
+Seat 5: KKKJJJ730 (€5 in chips) 
+Seat 6: 13ROS13 (€5 in chips) 
+JMiguelPeGa: posts small blind €0.02
+ricarduche: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [7d 2h]
+BerbatP: folds 
+KKKJJJ730: folds 
+13ROS13: folds 
+fiku1: folds 
+JMiguelPeGa: calls €0.03
+ricarduche: checks 
+*** FLOP *** [Tc 3h Ac]
+JMiguelPeGa: checks 
+ricarduche: bets €0.10
+JMiguelPeGa: calls €0.10
+*** TURN *** [Tc 3h Ac] [8s]
+JMiguelPeGa: checks 
+ricarduche: checks 
+*** RIVER *** [Tc 3h Ac 8s] [Ah]
+JMiguelPeGa: checks 
+ricarduche: checks 
+*** SHOW DOWN ***
+JMiguelPeGa: shows [Qc Kd] (a pair of Aces)
+ricarduche: mucks hand 
+JMiguelPeGa collected €0.28 from pot
+*** SUMMARY ***
+Total pot €0.30 | Rake €0.02 
+Board [Tc 3h Ac 8s Ah]
+Seat 1: fiku1 (button) folded before Flop (didn't bet)
+Seat 2: JMiguelPeGa (small blind) showed [Qc Kd] and won (€0.28) with a pair of Aces
+Seat 3: ricarduche (big blind) mucked [Jc 4c]
+Seat 4: BerbatP folded before Flop (didn't bet)
+Seat 5: KKKJJJ730 folded before Flop (didn't bet)
+Seat 6: 13ROS13 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #260839230006:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 19:06:45 CET [2026/05/17 13:06:45 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: EVETS75 (€9.45 in chips) 
+Seat 2: BerbatP (€5.59 in chips) 
+Seat 3: _D4RW1N_99 (€7.21 in chips) 
+Seat 4: kurtconlei14 (€5.72 in chips) 
+Seat 5: soouf94110 (€8.42 in chips) 
+Seat 6: blasahermoso (€2.23 in chips) 
+BerbatP: posts small blind €0.02
+_D4RW1N_99: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [4c Ah]
+kurtconlei14: folds 
+soouf94110: folds 
+blasahermoso: raises €0.05 to €0.10
+EVETS75: folds 
+BerbatP: folds 
+_D4RW1N_99: folds 
+Uncalled bet (€0.05) returned to blasahermoso
+blasahermoso collected €0.12 from pot
+blasahermoso: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 1: EVETS75 (button) folded before Flop (didn't bet)
+Seat 2: BerbatP (small blind) folded before Flop
+Seat 3: _D4RW1N_99 (big blind) folded before Flop
+Seat 4: kurtconlei14 folded before Flop (didn't bet)
+Seat 5: soouf94110 folded before Flop (didn't bet)
+Seat 6: blasahermoso collected (€0.12)
+
+
+
+PokerStars Zoom Hand #260839233921:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 19:07:03 CET [2026/05/17 13:07:03 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: cazadorconan (€5 in chips) 
+Seat 2: nezzi77 (€13.93 in chips) 
+Seat 3: adamastorpt (€12.01 in chips) 
+Seat 4: eyeeel (€2.01 in chips) 
+Seat 5: BerbatP (€5.57 in chips) 
+Seat 6: Ivangennaro (€8.86 in chips) 
+nezzi77: posts small blind €0.02
+adamastorpt: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [8s 9c]
+eyeeel: calls €0.05
+BerbatP: folds 
+Ivangennaro: folds 
+cazadorconan: folds 
+nezzi77: folds 
+adamastorpt: raises €0.20 to €0.25
+eyeeel: folds 
+Uncalled bet (€0.20) returned to adamastorpt
+adamastorpt collected €0.12 from pot
+adamastorpt: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 1: cazadorconan (button) folded before Flop (didn't bet)
+Seat 2: nezzi77 (small blind) folded before Flop
+Seat 3: adamastorpt (big blind) collected (€0.12)
+Seat 4: eyeeel folded before Flop
+Seat 5: BerbatP folded before Flop (didn't bet)
+Seat 6: Ivangennaro folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #260839235960:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 19:07:12 CET [2026/05/17 13:07:12 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: cazadorconan (€5.27 in chips) 
+Seat 2: Ivangennaro (€8.86 in chips) 
+Seat 3: l2pokfe (€3.16 in chips) 
+Seat 4: BerbatP (€5.57 in chips) 
+Seat 5: XxVallesxX (€5.03 in chips) 
+Seat 6: kurtconlei14 (€5.67 in chips) 
+Ivangennaro: posts small blind €0.02
+l2pokfe: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [As 4s]
+BerbatP: raises €0.07 to €0.12
+XxVallesxX: folds 
+kurtconlei14: folds 
+cazadorconan: folds 
+Ivangennaro: folds 
+l2pokfe: folds 
+Uncalled bet (€0.07) returned to BerbatP
+BerbatP collected €0.12 from pot
+BerbatP: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 1: cazadorconan (button) folded before Flop (didn't bet)
+Seat 2: Ivangennaro (small blind) folded before Flop
+Seat 3: l2pokfe (big blind) folded before Flop
+Seat 4: BerbatP collected (€0.12)
+Seat 5: XxVallesxX folded before Flop (didn't bet)
+Seat 6: kurtconlei14 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #260839240310:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 19:07:32 CET [2026/05/17 13:07:32 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: blasahermoso (€2.23 in chips) 
+Seat 2: brpsp (€4.61 in chips) 
+Seat 3: l2pokfe (€3.11 in chips) 
+Seat 4: BerbatP (€5.64 in chips) 
+Seat 5: nezzi77 (€9.77 in chips) 
+Seat 6: muelliman1 (€3.07 in chips) 
+brpsp: posts small blind €0.02
+l2pokfe: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [Ts Qs]
+BerbatP: raises €0.07 to €0.12
+nezzi77: folds 
+muelliman1: folds 
+blasahermoso: folds 
+brpsp: folds 
+l2pokfe: folds 
+Uncalled bet (€0.07) returned to BerbatP
+BerbatP collected €0.12 from pot
+BerbatP: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 1: blasahermoso (button) folded before Flop (didn't bet)
+Seat 2: brpsp (small blind) folded before Flop
+Seat 3: l2pokfe (big blind) folded before Flop
+Seat 4: BerbatP collected (€0.12)
+Seat 5: nezzi77 folded before Flop (didn't bet)
+Seat 6: muelliman1 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #260839245008:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 19:07:54 CET [2026/05/17 13:07:54 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: joaobrito710 (€6.70 in chips) 
+Seat 2: BerbatP (€5.66 in chips) 
+Seat 3: samoney25000 (€10.52 in chips) 
+Seat 4: jepad62 (€3.26 in chips) 
+Seat 5: cobra131165 (€5.41 in chips) 
+Seat 6: cazadorconan (€5 in chips) 
+BerbatP: posts small blind €0.02
+samoney25000: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [Qh Jh]
+jepad62: folds 
+cobra131165: folds 
+cazadorconan: folds 
+joaobrito710: folds 
+BerbatP: raises €0.07 to €0.12
+samoney25000: folds 
+Uncalled bet (€0.07) returned to BerbatP
+BerbatP collected €0.10 from pot
+BerbatP: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Seat 1: joaobrito710 (button) folded before Flop (didn't bet)
+Seat 2: BerbatP (small blind) collected (€0.10)
+Seat 3: samoney25000 (big blind) folded before Flop
+Seat 4: jepad62 folded before Flop (didn't bet)
+Seat 5: cobra131165 folded before Flop (didn't bet)
+Seat 6: cazadorconan folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #260839247335:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 19:08:05 CET [2026/05/17 13:08:05 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: BerbatP (€5.71 in chips) 
+Seat 2: 13ROS13 (€5 in chips) 
+Seat 3: SKARDES (€5.77 in chips) 
+Seat 4: samoney25000 (€10.47 in chips) 
+Seat 5: cazadorconan (€5.27 in chips) 
+Seat 6: BarraCarbono (€5.14 in chips) 
+13ROS13: posts small blind €0.02
+SKARDES: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [Ac 8d]
+samoney25000: folds 
+cazadorconan: folds 
+BarraCarbono: raises €0.07 to €0.12
+BerbatP: folds 
+13ROS13: folds 
+SKARDES: folds 
+Uncalled bet (€0.07) returned to BarraCarbono
+BarraCarbono collected €0.12 from pot
+BarraCarbono: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 1: BerbatP (button) folded before Flop (didn't bet)
+Seat 2: 13ROS13 (small blind) folded before Flop
+Seat 3: SKARDES (big blind) folded before Flop
+Seat 4: samoney25000 folded before Flop (didn't bet)
+Seat 5: cazadorconan folded before Flop (didn't bet)
+Seat 6: BarraCarbono collected (€0.12)
+
+
+
+PokerStars Zoom Hand #260839243326:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 19:07:46 CET [2026/05/17 13:07:46 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: espi5169 (€5.33 in chips) 
+Seat 2: caaspersito (€5.29 in chips) 
+Seat 3: BerbatP (€5.71 in chips) 
+Seat 4: eyeeel (€1.91 in chips) 
+Seat 5: nezzi77 (€13.96 in chips) 
+Seat 6: ricarduche (€8.53 in chips) 
+caaspersito: posts small blind €0.02
+BerbatP: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [4d Th]
+eyeeel: raises €0.05 to €0.10
+nezzi77: folds 
+ricarduche: folds 
+espi5169: folds 
+caaspersito: calls €0.08
+BerbatP: folds 
+*** FLOP *** [5d 8c Ah]
+caaspersito: checks 
+eyeeel: bets €0.05
+caaspersito: calls €0.05
+*** TURN *** [5d 8c Ah] [Ac]
+caaspersito: checks 
+eyeeel: bets €0.15
+caaspersito: calls €0.15
+*** RIVER *** [5d 8c Ah Ac] [Qc]
+caaspersito: checks 
+eyeeel: checks 
+*** SHOW DOWN ***
+caaspersito: shows [Ad 4s] (three of a kind, Aces)
+eyeeel: shows [6h As] (three of a kind, Aces)
+caaspersito collected €0.31 from pot
+eyeeel collected €0.31 from pot
+*** SUMMARY ***
+Total pot €0.65 | Rake €0.03 
+Board [5d 8c Ah Ac Qc]
+Seat 1: espi5169 (button) folded before Flop (didn't bet)
+Seat 2: caaspersito (small blind) showed [Ad 4s] and won (€0.31) with three of a kind, Aces
+Seat 3: BerbatP (big blind) folded before Flop
+Seat 4: eyeeel showed [6h As] and won (€0.31) with three of a kind, Aces
+Seat 5: nezzi77 folded before Flop (didn't bet)
+Seat 6: ricarduche folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #260839250122:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 19:08:18 CET [2026/05/17 13:08:18 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: monboisse (€6.08 in chips) 
+Seat 2: fraskitor (€7.20 in chips) 
+Seat 3: BerbatP (€5.71 in chips) 
+Seat 4: Fili7777 (€3.61 in chips) 
+Seat 5: l2pokfe (€2.85 in chips) 
+Seat 6: kurtconlei14 (€5.58 in chips) 
+fraskitor: posts small blind €0.02
+BerbatP: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [As Jc]
+Fili7777: folds 
+l2pokfe: folds 
+kurtconlei14: folds 
+monboisse: folds 
+fraskitor: raises €0.13 to €0.18
+BerbatP: raises €0.33 to €0.51
+fraskitor: folds 
+Uncalled bet (€0.33) returned to BerbatP
+BerbatP collected €0.36 from pot
+BerbatP: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.36 | Rake €0 
+Seat 1: monboisse (button) folded before Flop (didn't bet)
+Seat 2: fraskitor (small blind) folded before Flop
+Seat 3: BerbatP (big blind) collected (€0.36)
+Seat 4: Fili7777 folded before Flop (didn't bet)
+Seat 5: l2pokfe folded before Flop (didn't bet)
+Seat 6: kurtconlei14 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #260839249102:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 19:08:13 CET [2026/05/17 13:08:13 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: srcboss (€4.33 in chips) 
+Seat 2: kurtconlei14 (€4.68 in chips) 
+Seat 3: espi5169 (€6.06 in chips) 
+Seat 4: mikoandy69 (€4.31 in chips) 
+Seat 5: eyeeel (€2.03 in chips) 
+Seat 6: BerbatP (€5.71 in chips) 
+kurtconlei14: posts small blind €0.02
+espi5169: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [Ks 8d]
+mikoandy69: calls €0.05
+eyeeel: folds 
+BerbatP: folds 
+srcboss: calls €0.05
+kurtconlei14: folds 
+espi5169: checks 
+*** FLOP *** [3c 6c 2s]
+espi5169: checks 
+mikoandy69: checks 
+srcboss: checks 
+*** TURN *** [3c 6c 2s] [Kh]
+espi5169: checks 
+mikoandy69: checks 
+srcboss: bets €0.08
+espi5169: folds 
+mikoandy69: folds 
+Uncalled bet (€0.08) returned to srcboss
+srcboss collected €0.16 from pot
+srcboss: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.17 | Rake €0.01 
+Board [3c 6c 2s Kh]
+Seat 1: srcboss (button) collected (€0.16)
+Seat 2: kurtconlei14 (small blind) folded before Flop
+Seat 3: espi5169 (big blind) folded on the Turn
+Seat 4: mikoandy69 folded on the Turn
+Seat 5: eyeeel folded before Flop (didn't bet)
+Seat 6: BerbatP folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #260839256765:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 19:08:49 CET [2026/05/17 13:08:49 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: 13ROS13 (€5.47 in chips) 
+Seat 2: samoney25000 (€10.47 in chips) 
+Seat 3: Jumby34 (€5.68 in chips) 
+Seat 4: pokerikb (€5.11 in chips) 
+Seat 5: OleksiiKozak (€11.13 in chips) 
+Seat 6: BerbatP (€5.89 in chips) 
+samoney25000: posts small blind €0.02
+Jumby34: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [6c 8h]
+pokerikb: folds 
+OleksiiKozak: raises €0.08 to €0.13
+BerbatP: folds 
+13ROS13: folds 
+samoney25000: folds 
+Jumby34: folds 
+Uncalled bet (€0.08) returned to OleksiiKozak
+OleksiiKozak collected €0.12 from pot
+OleksiiKozak: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 1: 13ROS13 (button) folded before Flop (didn't bet)
+Seat 2: samoney25000 (small blind) folded before Flop
+Seat 3: Jumby34 (big blind) folded before Flop
+Seat 4: pokerikb folded before Flop (didn't bet)
+Seat 5: OleksiiKozak collected (€0.12)
+Seat 6: BerbatP folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #260839257884:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 19:08:55 CET [2026/05/17 13:08:55 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: caracabra25 (€4.70 in chips) 
+Seat 2: HarmoBlues (€3.31 in chips) 
+Seat 3: cazadorconan (€5.38 in chips) 
+Seat 4: espi5169 (€5.07 in chips) 
+Seat 5: BerbatP (€5.89 in chips) 
+Seat 6: Ivangennaro (€8.67 in chips) 
+HarmoBlues: posts small blind €0.02
+cazadorconan: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [Th Kh]
+espi5169: raises €0.08 to €0.13
+BerbatP: calls €0.13
+Ivangennaro: raises €0.47 to €0.60
+caracabra25: folds 
+HarmoBlues: folds 
+cazadorconan: folds 
+espi5169: folds 
+BerbatP: folds 
+Uncalled bet (€0.47) returned to Ivangennaro
+Ivangennaro collected €0.46 from pot
+Ivangennaro: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.46 | Rake €0 
+Seat 1: caracabra25 (button) folded before Flop (didn't bet)
+Seat 2: HarmoBlues (small blind) folded before Flop
+Seat 3: cazadorconan (big blind) folded before Flop
+Seat 4: espi5169 folded before Flop
+Seat 5: BerbatP folded before Flop
+Seat 6: Ivangennaro collected (€0.46)
+
+
+
+PokerStars Zoom Hand #260839264712:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 19:09:26 CET [2026/05/17 13:09:26 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: BerbatP (€5.76 in chips) 
+Seat 2: cobra131165 (€8.81 in chips) 
+Seat 3: mue_16v (€5.25 in chips) 
+Seat 4: KKKJJJ730 (€5.93 in chips) 
+Seat 5: mikoandy69 (€4.11 in chips) 
+Seat 6: chiinche (€5.13 in chips) 
+cobra131165: posts small blind €0.02
+mue_16v: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [3s 3c]
+KKKJJJ730: folds 
+mikoandy69: calls €0.05
+chiinche: folds 
+BerbatP: calls €0.05
+cobra131165: calls €0.03
+mue_16v: checks 
+*** FLOP *** [Qs 5c Jh]
+cobra131165: checks 
+mue_16v: checks 
+mikoandy69: bets €0.30
+BerbatP: folds 
+cobra131165: folds 
+mue_16v: folds 
+Uncalled bet (€0.30) returned to mikoandy69
+mikoandy69 collected €0.19 from pot
+mikoandy69: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.20 | Rake €0.01 
+Board [Qs 5c Jh]
+Seat 1: BerbatP (button) folded on the Flop
+Seat 2: cobra131165 (small blind) folded on the Flop
+Seat 3: mue_16v (big blind) folded on the Flop
+Seat 4: KKKJJJ730 folded before Flop (didn't bet)
+Seat 5: mikoandy69 collected (€0.19)
+Seat 6: chiinche folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #260839270500:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 19:09:54 CET [2026/05/17 13:09:54 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: mikoandy69 (€3.81 in chips) 
+Seat 2: BerbatP (€5.71 in chips) 
+Seat 3: RichardP16120 (€9.07 in chips) 
+Seat 4: kurtconlei14 (€5.80 in chips) 
+Seat 5: BarraCarbono (€6.60 in chips) 
+Seat 6: Héct8r75 (€12.60 in chips) 
+BerbatP: posts small blind €0.02
+RichardP16120: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [8s 5d]
+kurtconlei14: folds 
+BarraCarbono: folds 
+Héct8r75: folds 
+mikoandy69: folds 
+BerbatP: folds 
+Uncalled bet (€0.03) returned to RichardP16120
+RichardP16120 collected €0.04 from pot
+RichardP16120: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.04 | Rake €0 
+Seat 1: mikoandy69 (button) folded before Flop (didn't bet)
+Seat 2: BerbatP (small blind) folded before Flop
+Seat 3: RichardP16120 (big blind) collected (€0.04)
+Seat 4: kurtconlei14 folded before Flop (didn't bet)
+Seat 5: BarraCarbono folded before Flop (didn't bet)
+Seat 6: Héct8r75 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #260839273268:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 19:10:07 CET [2026/05/17 13:10:07 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: BerbatP (€5.69 in chips) 
+Seat 2: samoney25000 (€10.75 in chips) 
+Seat 3: kurtconlei14 (€5.70 in chips) 
+Seat 4: brpsp (€4.76 in chips) 
+Seat 5: JMiguelPeGa (€2.04 in chips) 
+Seat 6: HS CHEFE (€8.42 in chips) 
+samoney25000: posts small blind €0.02
+kurtconlei14: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [7s Ts]
+brpsp: folds 
+JMiguelPeGa: calls €0.05
+HS CHEFE: folds 
+BerbatP: folds 
+samoney25000: folds 
+kurtconlei14: checks 
+*** FLOP *** [2d 6c 8h]
+kurtconlei14: checks 
+JMiguelPeGa: bets €0.05
+kurtconlei14: folds 
+Uncalled bet (€0.05) returned to JMiguelPeGa
+JMiguelPeGa collected €0.11 from pot
+JMiguelPeGa: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0.01 
+Board [2d 6c 8h]
+Seat 1: BerbatP (button) folded before Flop (didn't bet)
+Seat 2: samoney25000 (small blind) folded before Flop
+Seat 3: kurtconlei14 (big blind) folded on the Flop
+Seat 4: brpsp folded before Flop (didn't bet)
+Seat 5: JMiguelPeGa collected (€0.11)
+Seat 6: HS CHEFE folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #260839278117:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 19:10:29 CET [2026/05/17 13:10:29 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: samoney25000 (€10.80 in chips) 
+Seat 2: ricarduche (€9.55 in chips) 
+Seat 3: BerbatP (€5.69 in chips) 
+Seat 4: wouziwouza (€7.80 in chips) 
+Seat 5: Ivangennaro (€22 in chips) 
+Seat 6: chiinche (€7.56 in chips) 
+ricarduche: posts small blind €0.02
+BerbatP: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [Js 6s]
+wouziwouza: folds 
+Ivangennaro: folds 
+chiinche: folds 
+samoney25000: folds 
+ricarduche: folds 
+Uncalled bet (€0.03) returned to BerbatP
+BerbatP collected €0.04 from pot
+BerbatP: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.04 | Rake €0 
+Seat 1: samoney25000 (button) folded before Flop (didn't bet)
+Seat 2: ricarduche (small blind) folded before Flop
+Seat 3: BerbatP (big blind) collected (€0.04)
+Seat 4: wouziwouza folded before Flop (didn't bet)
+Seat 5: Ivangennaro folded before Flop (didn't bet)
+Seat 6: chiinche folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #260839275449:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 19:10:17 CET [2026/05/17 13:10:17 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: HotRounder (€5.77 in chips) 
+Seat 2: cobra131165 (€15.76 in chips) 
+Seat 3: KKKJJJ730 (€5.72 in chips) 
+Seat 4: BerbatP (€5.69 in chips) 
+Seat 5: Nathwolf85 (€7.42 in chips) 
+Seat 6: espi5169 (€5.94 in chips) 
+cobra131165: posts small blind €0.02
+KKKJJJ730: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [7c Jc]
+BerbatP: folds 
+Nathwolf85: folds 
+espi5169: raises €0.08 to €0.13
+HotRounder: folds 
+cobra131165: calls €0.11
+KKKJJJ730: folds 
+*** FLOP *** [5d Kh 5c]
+cobra131165: bets €0.15
+espi5169: folds 
+Uncalled bet (€0.15) returned to cobra131165
+cobra131165 collected €0.29 from pot
+cobra131165: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.31 | Rake €0.02 
+Board [5d Kh 5c]
+Seat 1: HotRounder (button) folded before Flop (didn't bet)
+Seat 2: cobra131165 (small blind) collected (€0.29)
+Seat 3: KKKJJJ730 (big blind) folded before Flop
+Seat 4: BerbatP folded before Flop (didn't bet)
+Seat 5: Nathwolf85 folded before Flop (didn't bet)
+Seat 6: espi5169 folded on the Flop
+
+
+
+PokerStars Zoom Hand #260839276620:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 19:10:22 CET [2026/05/17 13:10:22 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: pmlm90 (€2.60 in chips) 
+Seat 2: HotRounder (€5.77 in chips) 
+Seat 3: monboisse (€5.41 in chips) 
+Seat 4: Axl33610 (€3.52 in chips) 
+Seat 5: mentalist1479 (€8.29 in chips) 
+Seat 6: BerbatP (€5.69 in chips) 
+HotRounder: posts small blind €0.02
+monboisse: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [2c 6h]
+Axl33610: calls €0.05
+mentalist1479: folds 
+BerbatP: folds 
+pmlm90: raises €0.10 to €0.15
+HotRounder: folds 
+monboisse: calls €0.10
+Axl33610: calls €0.10
+*** FLOP *** [4c 2h Ts]
+monboisse: checks 
+Axl33610: bets €0.05
+pmlm90: calls €0.05
+monboisse: calls €0.05
+*** TURN *** [4c 2h Ts] [Tc]
+monboisse: bets €0.39
+Axl33610: folds 
+pmlm90: folds 
+Uncalled bet (€0.39) returned to monboisse
+monboisse collected €0.59 from pot
+monboisse: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.62 | Rake €0.03 
+Board [4c 2h Ts Tc]
+Seat 1: pmlm90 (button) folded on the Turn
+Seat 2: HotRounder (small blind) folded before Flop
+Seat 3: monboisse (big blind) collected (€0.59)
+Seat 4: Axl33610 folded on the Turn
+Seat 5: mentalist1479 folded before Flop (didn't bet)
+Seat 6: BerbatP folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #260839281563:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 19:10:45 CET [2026/05/17 13:10:45 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: cazadorconan (€5.16 in chips) 
+Seat 2: BerbatP (€5.71 in chips) 
+Seat 3: HotRounder (€13.11 in chips) 
+Seat 4: samoney25000 (€10.75 in chips) 
+Seat 5: SUPERHARMONY (€5.40 in chips) 
+Seat 6: Noray123 (€5 in chips) 
+BerbatP: posts small blind €0.02
+HotRounder: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [7c Tc]
+samoney25000: folds 
+SUPERHARMONY: folds 
+Noray123: folds 
+cazadorconan: folds 
+BerbatP: folds 
+Uncalled bet (€0.03) returned to HotRounder
+HotRounder collected €0.04 from pot
+HotRounder: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.04 | Rake €0 
+Seat 1: cazadorconan (button) folded before Flop (didn't bet)
+Seat 2: BerbatP (small blind) folded before Flop
+Seat 3: HotRounder (big blind) collected (€0.04)
+Seat 4: samoney25000 folded before Flop (didn't bet)
+Seat 5: SUPERHARMONY folded before Flop (didn't bet)
+Seat 6: Noray123 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #260839280428:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 19:10:40 CET [2026/05/17 13:10:40 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: l2pokfe (€2.05 in chips) 
+Seat 2: espi5169 (€5.81 in chips) 
+Seat 3: Nathwolf85 (€7.40 in chips) 
+Seat 4: BerbatP (€5.71 in chips) 
+Seat 5: ricarduche (€9.53 in chips) 
+Seat 6: 13ROS13 (€5.56 in chips) 
+espi5169: posts small blind €0.02
+Nathwolf85: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [9h 7d]
+BerbatP: folds 
+ricarduche: folds 
+13ROS13: folds 
+l2pokfe: folds 
+espi5169: folds 
+Uncalled bet (€0.03) returned to Nathwolf85
+Nathwolf85 collected €0.04 from pot
+Nathwolf85: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.04 | Rake €0 
+Seat 1: l2pokfe (button) folded before Flop (didn't bet)
+Seat 2: espi5169 (small blind) folded before Flop
+Seat 3: Nathwolf85 (big blind) collected (€0.04)
+Seat 4: BerbatP folded before Flop (didn't bet)
+Seat 5: ricarduche folded before Flop (didn't bet)
+Seat 6: 13ROS13 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #260839283774:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 19:10:55 CET [2026/05/17 13:10:55 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: monboisse (€5.80 in chips) 
+Seat 2: mentalist1479 (€8.29 in chips) 
+Seat 3: KKKJJJ730 (€11.01 in chips) 
+Seat 4: BerbatP (€5.69 in chips) 
+Seat 5: 13ROS13 (€5.56 in chips) 
+Seat 6: pokerikb (€10.42 in chips) 
+mentalist1479: posts small blind €0.02
+KKKJJJ730: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [7c Tc]
+BerbatP: folds 
+13ROS13: folds 
+pokerikb: raises €0.05 to €0.10
+monboisse: folds 
+mentalist1479: folds 
+KKKJJJ730: folds 
+Uncalled bet (€0.05) returned to pokerikb
+pokerikb collected €0.12 from pot
+pokerikb: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 1: monboisse (button) folded before Flop (didn't bet)
+Seat 2: mentalist1479 (small blind) folded before Flop
+Seat 3: KKKJJJ730 (big blind) folded before Flop
+Seat 4: BerbatP folded before Flop (didn't bet)
+Seat 5: 13ROS13 folded before Flop (didn't bet)
+Seat 6: pokerikb collected (€0.12)
+
+
+
+PokerStars Zoom Hand #260839282715:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 19:10:50 CET [2026/05/17 13:10:50 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: espi5169 (€5.79 in chips) 
+Seat 2: KKKJJJ730 (€5.50 in chips) 
+Seat 3: HarmoBlues (€3.17 in chips) 
+Seat 4: mentalist1479 (€8.29 in chips) 
+Seat 5: BerbatP (€5.69 in chips) 
+Seat 6: BarraCarbono (€6.24 in chips) 
+KKKJJJ730: posts small blind €0.02
+HarmoBlues: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [6h Td]
+mentalist1479: folds 
+BerbatP: folds 
+BarraCarbono: folds 
+espi5169: raises €0.08 to €0.13
+KKKJJJ730: folds 
+HarmoBlues: folds 
+Uncalled bet (€0.08) returned to espi5169
+espi5169 collected €0.12 from pot
+espi5169: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 1: espi5169 (button) collected (€0.12)
+Seat 2: KKKJJJ730 (small blind) folded before Flop
+Seat 3: HarmoBlues (big blind) folded before Flop
+Seat 4: mentalist1479 folded before Flop (didn't bet)
+Seat 5: BerbatP folded before Flop (didn't bet)
+Seat 6: BarraCarbono folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #260839284730:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 19:10:59 CET [2026/05/17 13:10:59 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: No_prints338 (€13.45 in chips) 
+Seat 2: Nathwolf85 (€7.42 in chips) 
+Seat 3: BerbatP (€5.69 in chips) 
+Seat 4: srcboss (€6.04 in chips) 
+Seat 5: monboisse (€5.80 in chips) 
+Seat 6: mentalist1479 (€8.27 in chips) 
+Nathwolf85: posts small blind €0.02
+BerbatP: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [5d 9d]
+srcboss: folds 
+monboisse: folds 
+mentalist1479: folds 
+No_prints338: raises €0.07 to €0.12
+Nathwolf85: folds 
+BerbatP: folds 
+Uncalled bet (€0.07) returned to No_prints338
+No_prints338 collected €0.12 from pot
+No_prints338: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 1: No_prints338 (button) collected (€0.12)
+Seat 2: Nathwolf85 (small blind) folded before Flop
+Seat 3: BerbatP (big blind) folded before Flop
+Seat 4: srcboss folded before Flop (didn't bet)
+Seat 5: monboisse folded before Flop (didn't bet)
+Seat 6: mentalist1479 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #260839287353:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 19:11:12 CET [2026/05/17 13:11:12 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: BerbatP (€5.64 in chips) 
+Seat 2: harriwillson (€1.86 in chips) 
+Seat 3: cobra131165 (€8.84 in chips) 
+Seat 4: monboisse (€5.78 in chips) 
+Seat 5: Ivangennaro (€7.10 in chips) 
+Seat 6: No_prints338 (€5.94 in chips) 
+harriwillson: posts small blind €0.02
+cobra131165: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [2d 8d]
+monboisse: folds 
+Ivangennaro: folds 
+No_prints338: folds 
+BerbatP: folds 
+harriwillson: folds 
+Uncalled bet (€0.03) returned to cobra131165
+cobra131165 collected €0.04 from pot
+cobra131165: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.04 | Rake €0 
+Seat 1: BerbatP (button) folded before Flop (didn't bet)
+Seat 2: harriwillson (small blind) folded before Flop
+Seat 3: cobra131165 (big blind) collected (€0.04)
+Seat 4: monboisse folded before Flop (didn't bet)
+Seat 5: Ivangennaro folded before Flop (didn't bet)
+Seat 6: No_prints338 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #260839292118:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 19:11:34 CET [2026/05/17 13:11:34 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: pzjohn (€5.80 in chips) 
+Seat 2: BerbatP (€5.64 in chips) 
+Seat 3: BarraCarbono (€5.28 in chips) 
+Seat 4: eyeeel (€1.34 in chips) 
+Seat 5: blasahermoso (€2.65 in chips) 
+Seat 6: adamastorpt (€11.23 in chips) 
+BerbatP: posts small blind €0.02
+BarraCarbono: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [2d Tc]
+eyeeel: folds 
+blasahermoso: folds 
+adamastorpt: folds 
+pzjohn: folds 
+BerbatP: folds 
+Uncalled bet (€0.03) returned to BarraCarbono
+BarraCarbono collected €0.04 from pot
+BarraCarbono: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.04 | Rake €0 
+Seat 1: pzjohn (button) folded before Flop (didn't bet)
+Seat 2: BerbatP (small blind) folded before Flop
+Seat 3: BarraCarbono (big blind) collected (€0.04)
+Seat 4: eyeeel folded before Flop (didn't bet)
+Seat 5: blasahermoso folded before Flop (didn't bet)
+Seat 6: adamastorpt folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #260839289260:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 19:11:21 CET [2026/05/17 13:11:21 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: l2pokfe (€1.91 in chips) 
+Seat 2: fraskitor (€6.94 in chips) 
+Seat 3: No_prints338 (€13.52 in chips) 
+Seat 4: espi5169 (€5.07 in chips) 
+Seat 5: BarraCarbono (€6.19 in chips) 
+Seat 6: BerbatP (€5.64 in chips) 
+fraskitor: posts small blind €0.02
+No_prints338: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [Qd 5d]
+espi5169: raises €0.08 to €0.13
+BarraCarbono: folds 
+BerbatP: folds 
+l2pokfe: calls €0.13
+fraskitor: calls €0.11
+No_prints338: folds 
+*** FLOP *** [Qs Kd 8s]
+fraskitor: checks 
+espi5169: bets €0.18
+l2pokfe: calls €0.18
+fraskitor: folds 
+*** TURN *** [Qs Kd 8s] [Qh]
+espi5169: checks 
+l2pokfe: checks 
+*** RIVER *** [Qs Kd 8s Qh] [7h]
+espi5169: checks 
+l2pokfe: checks 
+*** SHOW DOWN ***
+espi5169: shows [Js Jc] (two pair, Queens and Jacks)
+l2pokfe: mucks hand 
+espi5169 collected €0.76 from pot
+*** SUMMARY ***
+Total pot €0.80 | Rake €0.04 
+Board [Qs Kd 8s Qh 7h]
+Seat 1: l2pokfe (button) mucked [Jh Ad]
+Seat 2: fraskitor (small blind) folded on the Flop
+Seat 3: No_prints338 (big blind) folded before Flop
+Seat 4: espi5169 showed [Js Jc] and won (€0.76) with two pair, Queens and Jacks
+Seat 5: BarraCarbono folded before Flop (didn't bet)
+Seat 6: BerbatP folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #260839294191:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 19:11:44 CET [2026/05/17 13:11:44 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: BerbatP (€5.62 in chips) 
+Seat 2: eskiuter (€8.63 in chips) 
+Seat 3: espi5169 (€5.02 in chips) 
+Seat 4: joaobrito710 (€5.90 in chips) 
+Seat 5: eyeeel (€2.15 in chips) 
+Seat 6: Domingos Matos (€1.69 in chips) 
+eskiuter: posts small blind €0.02
+espi5169: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [7c 2h]
+joaobrito710: folds 
+eyeeel: folds 
+Domingos Matos: raises €0.40 to €0.45
+BerbatP: folds 
+eskiuter: folds 
+espi5169: folds 
+Uncalled bet (€0.40) returned to Domingos Matos
+Domingos Matos collected €0.12 from pot
+Domingos Matos: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 1: BerbatP (button) folded before Flop (didn't bet)
+Seat 2: eskiuter (small blind) folded before Flop
+Seat 3: espi5169 (big blind) folded before Flop
+Seat 4: joaobrito710 folded before Flop (didn't bet)
+Seat 5: eyeeel folded before Flop (didn't bet)
+Seat 6: Domingos Matos collected (€0.12)
+
+
+
+PokerStars Zoom Hand #260839297447:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 19:12:00 CET [2026/05/17 13:12:00 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: ViktorPort (€8.33 in chips) 
+Seat 2: KKKJJJ730 (€5.78 in chips) 
+Seat 3: cobra131165 (€15.57 in chips) 
+Seat 4: eyeeel (€1.32 in chips) 
+Seat 5: BerbatP (€5.62 in chips) 
+Seat 6: Ivangennaro (€11.30 in chips) 
+KKKJJJ730: posts small blind €0.02
+cobra131165: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [7d 4s]
+eyeeel: raises €0.10 to €0.15
+BerbatP: folds 
+Ivangennaro: folds 
+ViktorPort: folds 
+KKKJJJ730: calls €0.13
+cobra131165: folds 
+*** FLOP *** [Kc 2d 7c]
+KKKJJJ730: checks 
+eyeeel: bets €0.15
+KKKJJJ730: folds 
+Uncalled bet (€0.15) returned to eyeeel
+eyeeel collected €0.33 from pot
+eyeeel: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.35 | Rake €0.02 
+Board [Kc 2d 7c]
+Seat 1: ViktorPort (button) folded before Flop (didn't bet)
+Seat 2: KKKJJJ730 (small blind) folded on the Flop
+Seat 3: cobra131165 (big blind) folded before Flop
+Seat 4: eyeeel collected (€0.33)
+Seat 5: BerbatP folded before Flop (didn't bet)
+Seat 6: Ivangennaro folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #260839298442:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 19:12:04 CET [2026/05/17 13:12:04 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: espi5169 (€5.11 in chips) 
+Seat 2: greenishred (€3.70 in chips) 
+Seat 3: BerbatP (€5.62 in chips) 
+Seat 4: MATADOR473 (€5.40 in chips) 
+Seat 5: Héct8r75 (€12.72 in chips) 
+Seat 6: Ivangennaro (€8.57 in chips) 
+greenishred: posts small blind €0.02
+BerbatP: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [2c 4d]
+MATADOR473: folds 
+Héct8r75: raises €0.10 to €0.15
+Ivangennaro: folds 
+espi5169: calls €0.15
+greenishred: folds 
+BerbatP: folds 
+*** FLOP *** [5h Qd Ac]
+Héct8r75: bets €0.10
+espi5169: folds 
+Uncalled bet (€0.10) returned to Héct8r75
+Héct8r75 collected €0.35 from pot
+Héct8r75: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.37 | Rake €0.02 
+Board [5h Qd Ac]
+Seat 1: espi5169 (button) folded on the Flop
+Seat 2: greenishred (small blind) folded before Flop
+Seat 3: BerbatP (big blind) folded before Flop
+Seat 4: MATADOR473 folded before Flop (didn't bet)
+Seat 5: Héct8r75 collected (€0.35)
+Seat 6: Ivangennaro folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #260839303710:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 19:12:29 CET [2026/05/17 13:12:29 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: KKKJJJ730 (€5.05 in chips) 
+Seat 2: BerbatP (€5.57 in chips) 
+Seat 3: BarraCarbono (€6.60 in chips) 
+Seat 4: cazadorconan (€6.41 in chips) 
+Seat 5: RichardP16120 (€4.29 in chips) 
+Seat 6: eyeeel (€1.50 in chips) 
+BerbatP: posts small blind €0.02
+BarraCarbono: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [Kc 7d]
+cazadorconan: folds 
+RichardP16120: folds 
+eyeeel: raises €0.05 to €0.10
+KKKJJJ730: calls €0.10
+BerbatP: folds 
+BarraCarbono: folds 
+*** FLOP *** [2d 5s Ac]
+eyeeel: bets €0.15
+KKKJJJ730: calls €0.15
+*** TURN *** [2d 5s Ac] [9c]
+eyeeel: bets €0.05
+KKKJJJ730: folds 
+Uncalled bet (€0.05) returned to eyeeel
+eyeeel collected €0.54 from pot
+eyeeel: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.57 | Rake €0.03 
+Board [2d 5s Ac 9c]
+Seat 1: KKKJJJ730 (button) folded on the Turn
+Seat 2: BerbatP (small blind) folded before Flop
+Seat 3: BarraCarbono (big blind) folded before Flop
+Seat 4: cazadorconan folded before Flop (didn't bet)
+Seat 5: RichardP16120 folded before Flop (didn't bet)
+Seat 6: eyeeel collected (€0.54)
+
+
+
+PokerStars Zoom Hand #260839299983:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 19:12:11 CET [2026/05/17 13:12:11 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: Jumby34 (€6.12 in chips) 
+Seat 2: ostoher (€1.56 in chips) 
+Seat 3: joaobrito710 (€5.88 in chips) 
+Seat 4: Domingos Matos (€1.76 in chips) 
+Seat 5: monboisse (€5.73 in chips) 
+Seat 6: BerbatP (€5.57 in chips) 
+ostoher: posts small blind €0.02
+joaobrito710: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [9h 9c]
+Domingos Matos: calls €0.05
+monboisse: folds 
+BerbatP has timed out
+BerbatP: folds 
+Jumby34: folds 
+ostoher: calls €0.03
+joaobrito710: checks 
+*** FLOP *** [7h 6h Ah]
+ostoher: checks 
+joaobrito710: checks 
+Domingos Matos: checks 
+*** TURN *** [7h 6h Ah] [8d]
+ostoher: checks 
+joaobrito710: checks 
+Domingos Matos: checks 
+*** RIVER *** [7h 6h Ah 8d] [5s]
+ostoher: checks 
+joaobrito710: checks 
+Domingos Matos: bets €0.20
+ostoher: folds 
+joaobrito710: folds 
+Uncalled bet (€0.20) returned to Domingos Matos
+Domingos Matos collected €0.14 from pot
+Domingos Matos: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.15 | Rake €0.01 
+Board [7h 6h Ah 8d 5s]
+Seat 1: Jumby34 (button) folded before Flop (didn't bet)
+Seat 2: ostoher (small blind) folded on the River
+Seat 3: joaobrito710 (big blind) folded on the River
+Seat 4: Domingos Matos collected (€0.14)
+Seat 5: monboisse folded before Flop (didn't bet)
+Seat 6: BerbatP folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #260839306497:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 19:12:42 CET [2026/05/17 13:12:42 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: pokerikb (€10.37 in chips) 
+Seat 2: espi5169 (€5 in chips) 
+Seat 3: HotRounder (€5 in chips) 
+Seat 4: jepad62 (€2.98 in chips) 
+Seat 5: Donjuani_72 (€3.11 in chips) 
+Seat 6: BerbatP (€5.55 in chips) 
+espi5169: posts small blind €0.02
+HotRounder: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [Ad Td]
+jepad62: folds 
+Donjuani_72: folds 
+BerbatP: raises €0.07 to €0.12
+pokerikb: folds 
+espi5169: folds 
+HotRounder: raises €0.28 to €0.40
+BerbatP: calls €0.28
+*** FLOP *** [Js 7h Tc]
+HotRounder: bets €0.50
+BerbatP: folds 
+Uncalled bet (€0.50) returned to HotRounder
+HotRounder collected €0.78 from pot
+HotRounder: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.82 | Rake €0.04 
+Board [Js 7h Tc]
+Seat 1: pokerikb (button) folded before Flop (didn't bet)
+Seat 2: espi5169 (small blind) folded before Flop
+Seat 3: HotRounder (big blind) collected (€0.78)
+Seat 4: jepad62 folded before Flop (didn't bet)
+Seat 5: Donjuani_72 folded before Flop (didn't bet)
+Seat 6: BerbatP folded on the Flop
+
+
+
+PokerStars Zoom Hand #260839315455:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 19:13:25 CET [2026/05/17 13:13:25 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: SUPERHARMONY (€5.63 in chips) 
+Seat 2: cazadorconan (€5.10 in chips) 
+Seat 3: Ivangennaro (€7.66 in chips) 
+Seat 4: Richwell7 (€5 in chips) 
+Seat 5: BerbatP (€5.15 in chips) 
+Seat 6: fraskitor (€10.62 in chips) 
+cazadorconan: posts small blind €0.02
+Ivangennaro: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [9h Qs]
+Richwell7: folds 
+BerbatP: folds 
+fraskitor: folds 
+SUPERHARMONY: folds 
+cazadorconan: folds 
+Uncalled bet (€0.03) returned to Ivangennaro
+Ivangennaro collected €0.04 from pot
+Ivangennaro: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.04 | Rake €0 
+Seat 1: SUPERHARMONY (button) folded before Flop (didn't bet)
+Seat 2: cazadorconan (small blind) folded before Flop
+Seat 3: Ivangennaro (big blind) collected (€0.04)
+Seat 4: Richwell7 folded before Flop (didn't bet)
+Seat 5: BerbatP folded before Flop (didn't bet)
+Seat 6: fraskitor folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #260839316301:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 19:13:28 CET [2026/05/17 13:13:28 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: pokerikb (€8.16 in chips) 
+Seat 2: kurtconlei14 (€4.36 in chips) 
+Seat 3: cazadorconan (€5.08 in chips) 
+Seat 4: BerbatP (€5.15 in chips) 
+Seat 5: rockola14 (€6.37 in chips) 
+Seat 6: Richwell7 (€5 in chips) 
+kurtconlei14: posts small blind €0.02
+cazadorconan: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [5s 2s]
+BerbatP: folds 
+rockola14: folds 
+Richwell7: folds 
+pokerikb: folds 
+kurtconlei14: folds 
+Uncalled bet (€0.03) returned to cazadorconan
+cazadorconan collected €0.04 from pot
+cazadorconan: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.04 | Rake €0 
+Seat 1: pokerikb (button) folded before Flop (didn't bet)
+Seat 2: kurtconlei14 (small blind) folded before Flop
+Seat 3: cazadorconan (big blind) collected (€0.04)
+Seat 4: BerbatP folded before Flop (didn't bet)
+Seat 5: rockola14 folded before Flop (didn't bet)
+Seat 6: Richwell7 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #260839317223:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 19:13:33 CET [2026/05/17 13:13:33 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: HotRounder (€5.38 in chips) 
+Seat 2: kurtconlei14 (€5.80 in chips) 
+Seat 3: BerbatP (€5.15 in chips) 
+Seat 4: Ivangennaro (€11.86 in chips) 
+Seat 5: Domingos Matos (€1.80 in chips) 
+Seat 6: pokerikb (€5.23 in chips) 
+kurtconlei14: posts small blind €0.02
+BerbatP: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [Ks Kh]
+Domingos Matos is disconnected 
+Ivangennaro: folds 
+Domingos Matos has timed out while disconnected
+Domingos Matos: folds 
+pokerikb: folds 
+HotRounder: folds 
+kurtconlei14: folds 
+Uncalled bet (€0.03) returned to BerbatP
+BerbatP collected €0.04 from pot
+BerbatP: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.04 | Rake €0 
+Seat 1: HotRounder (button) folded before Flop (didn't bet)
+Seat 2: kurtconlei14 (small blind) folded before Flop
+Seat 3: BerbatP (big blind) collected (€0.04)
+Seat 4: Ivangennaro folded before Flop (didn't bet)
+Seat 5: Domingos Matos folded before Flop (didn't bet)
+Seat 6: pokerikb folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #260839324281:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 19:14:06 CET [2026/05/17 13:14:06 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: BerbatP (€5.15 in chips) 
+Seat 2: eyeeel (€1.51 in chips) 
+Seat 3: espi5169 (€7.41 in chips) 
+Seat 4: bega13 (€5 in chips) 
+Seat 5: cobra131165 (€15.46 in chips) 
+Seat 6: mue_16v (€5.30 in chips) 
+eyeeel: posts small blind €0.02
+espi5169: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [4c 9h]
+bega13: folds 
+cobra131165: folds 
+mue_16v: folds 
+BerbatP: folds 
+eyeeel: folds 
+Uncalled bet (€0.03) returned to espi5169
+espi5169 collected €0.04 from pot
+espi5169: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.04 | Rake €0 
+Seat 1: BerbatP (button) folded before Flop (didn't bet)
+Seat 2: eyeeel (small blind) folded before Flop
+Seat 3: espi5169 (big blind) collected (€0.04)
+Seat 4: bega13 folded before Flop (didn't bet)
+Seat 5: cobra131165 folded before Flop (didn't bet)
+Seat 6: mue_16v folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #260839323340:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 19:14:01 CET [2026/05/17 13:14:01 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: cobra131165 (€15.46 in chips) 
+Seat 2: BerbatP (€5.17 in chips) 
+Seat 3: wouziwouza (€8.12 in chips) 
+Seat 4: HotRounder (€13.30 in chips) 
+Seat 5: greenishred (€3.13 in chips) 
+Seat 6: alotor (€11.90 in chips) 
+BerbatP: posts small blind €0.02
+wouziwouza: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [Kc 3h]
+HotRounder: folds 
+greenishred: raises €0.17 to €0.22
+alotor: folds 
+cobra131165: folds 
+BerbatP: folds 
+wouziwouza: folds 
+Uncalled bet (€0.17) returned to greenishred
+greenishred collected €0.12 from pot
+greenishred: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 1: cobra131165 (button) folded before Flop (didn't bet)
+Seat 2: BerbatP (small blind) folded before Flop
+Seat 3: wouziwouza (big blind) folded before Flop
+Seat 4: HotRounder folded before Flop (didn't bet)
+Seat 5: greenishred collected (€0.12)
+Seat 6: alotor folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #260839321330:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 19:13:52 CET [2026/05/17 13:13:52 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: Donjuani_72 (€3.24 in chips) 
+Seat 2: HarmoBlues (€1.97 in chips) 
+Seat 3: pokerikb (€5.23 in chips) 
+Seat 4: BerbatP (€5.17 in chips) 
+Seat 5: eyeeel (€1.72 in chips) 
+Seat 6: la_nikta (€4.81 in chips) 
+HarmoBlues: posts small blind €0.02
+pokerikb: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [Kh 2h]
+BerbatP: folds 
+eyeeel: calls €0.05
+la_nikta: folds 
+Donjuani_72: folds 
+HarmoBlues: raises €0.10 to €0.15
+pokerikb: folds 
+eyeeel: folds 
+Uncalled bet (€0.10) returned to HarmoBlues
+HarmoBlues collected €0.15 from pot
+HarmoBlues: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.15 | Rake €0 
+Seat 1: Donjuani_72 (button) folded before Flop (didn't bet)
+Seat 2: HarmoBlues (small blind) collected (€0.15)
+Seat 3: pokerikb (big blind) folded before Flop
+Seat 4: BerbatP folded before Flop (didn't bet)
+Seat 5: eyeeel folded before Flop
+Seat 6: la_nikta folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #260839325126:  Hold'em No Limit (€0.02/€0.05) - 2026/05/17 19:14:10 CET [2026/05/17 13:14:10 ET]
+Table 'Asterope' 6-max Seat #1 is the button
+Seat 1: Axl33610 (€3.34 in chips) 
+Seat 2: Ivangennaro (€11.79 in chips) 
+Seat 3: No_prints338 (€6.67 in chips) 
+Seat 4: BerbatP (€5.15 in chips) 
+Seat 5: eyeeel (€1.49 in chips) 
+Seat 6: bega13 (€5 in chips) 
+Ivangennaro: posts small blind €0.02
+No_prints338: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [Jh Jc]
+BerbatP: raises €0.07 to €0.12
+eyeeel: folds 
+bega13: folds 
+Axl33610: calls €0.12
+Ivangennaro: calls €0.10
+No_prints338: folds 
+*** FLOP *** [8d Qd Js]
+Ivangennaro: checks 
+BerbatP: bets €0.14
+Axl33610: calls €0.14
+Ivangennaro: raises €1.61 to €1.75
+BerbatP: calls €1.61
+Axl33610: folds 
+*** TURN *** [8d Qd Js] [4d]
+Ivangennaro: bets €9.92 and is all-in
+BerbatP: calls €3.28 and is all-in
+Uncalled bet (€6.64) returned to Ivangennaro
+*** RIVER *** [8d Qd Js 4d] [Kd]
+*** SHOW DOWN ***
+Ivangennaro: shows [9s Ts] (a straight, Nine to King)
+BerbatP: shows [Jh Jc] (three of a kind, Jacks)
+Ivangennaro collected €10.08 from pot
+*** SUMMARY ***
+Total pot €10.61 | Rake €0.53 
+Board [8d Qd Js 4d Kd]
+Seat 1: Axl33610 (button) folded on the Flop
+Seat 2: Ivangennaro (small blind) showed [9s Ts] and won (€10.08) with a straight, Nine to King
+Seat 3: No_prints338 (big blind) folded before Flop
+Seat 4: BerbatP showed [Jh Jc] and lost with three of a kind, Jacks
+Seat 5: eyeeel folded before Flop (didn't bet)
+Seat 6: bega13 folded before Flop (didn't bet)
+
+
+

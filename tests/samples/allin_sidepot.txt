@@ -1,0 +1,32 @@
+PokerStars Hand #243490150000:  Hold'em No Limit ($1.00/$2.00 USD) - 2021/05/04 13:00:00 ET
+Table 'Sirius' 6-max Seat #2 is the button
+Seat 1: Hero ($50.00 in chips)
+Seat 2: ButtonGuy ($200.00 in chips)
+Seat 3: BlindA ($30.00 in chips)
+Seat 4: BlindB ($100.00 in chips)
+BlindA: posts small blind $1.00
+BlindB: posts big blind $2.00
+*** HOLE CARDS ***
+Dealt to Hero [As Ks]
+Hero: raises $6.00 to $8.00
+ButtonGuy: calls $8.00
+BlindA: raises $22.00 to $30.00 and is all-in
+BlindB: folds
+Hero: raises $42.00 to $50.00 and is all-in
+ButtonGuy: calls $42.00
+*** FLOP *** [Ac 7c 2d]
+*** TURN *** [Ac 7c 2d] [Kd]
+*** RIVER *** [Ac 7c 2d Kd] [3s]
+*** SHOW DOWN ***
+Hero: shows [As Ks] (two pair, Aces and Kings)
+ButtonGuy: shows [Qh Qd] (a pair of Queens)
+BlindA: shows [Tc Td] (a pair of Tens)
+Hero collected $40.00 from side pot
+Hero collected $92.00 from main pot
+*** SUMMARY ***
+Total pot $132.00 Main pot $92.00. Side pot $40.00. | Rake $0.00
+Board [Ac 7c 2d Kd 3s]
+Seat 1: Hero showed [As Ks] and won ($132.00) with two pair, Aces and Kings
+Seat 2: ButtonGuy (button) showed [Qh Qd] and lost
+Seat 3: BlindA (small blind) showed [Tc Td] and lost
+Seat 4: BlindB (big blind) folded before Flop

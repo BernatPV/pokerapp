@@ -1,0 +1,2043 @@
+﻿PokerStars Hand #260736103575:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:23:44 CET [2026/05/08 11:23:44 ET]
+Table 'Hathor V' 6-max Seat #1 is the button
+Seat 4: DeBareta (€5 in chips) is sitting out
+Seat 1: 0zh0n3 (€7.52 in chips) 
+Seat 2: Drawaubonheur (€5.85 in chips) 
+Seat 3: BerbatP (€5 in chips) 
+Seat 5: Atmhos (€5.21 in chips) 
+Seat 6: AdrianSeijas20 (€5.63 in chips) 
+Drawaubonheur: posts small blind €0.02
+BerbatP is connected 
+BerbatP: posts big blind €0.05
+DeBareta: sits out 
+*** HOLE CARDS ***
+Dealt to BerbatP [5h 7h]
+Atmhos: folds 
+AdrianSeijas20: folds 
+0zh0n3: folds 
+Drawaubonheur: folds 
+Uncalled bet (€0.03) returned to BerbatP
+BerbatP collected €0.04 from pot
+BerbatP: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.04 | Rake €0 
+Seat 4: DeBareta
+Seat 1: 0zh0n3 (button) folded before Flop (didn't bet)
+Seat 2: Drawaubonheur (small blind) folded before Flop
+Seat 3: BerbatP (big blind) collected (€0.04)
+Seat 5: Atmhos folded before Flop (didn't bet)
+Seat 6: AdrianSeijas20 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260736106267:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:24:01 CET [2026/05/08 11:24:01 ET]
+Table 'Hathor V' 6-max Seat #2 is the button
+Seat 1: 0zh0n3 (€7.52 in chips) 
+Seat 2: Drawaubonheur (€5.83 in chips) 
+Seat 3: BerbatP (€5.02 in chips) 
+Seat 4: DeBareta (€5 in chips) 
+Seat 5: Atmhos (€5.21 in chips) 
+Seat 6: AdrianSeijas20 (€5.63 in chips) 
+BerbatP: posts small blind €0.02
+DeBareta: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [9h 5c]
+Atmhos: raises €0.07 to €0.12
+AdrianSeijas20: folds 
+0zh0n3: folds 
+Drawaubonheur: folds 
+BerbatP: folds 
+DeBareta: folds 
+Uncalled bet (€0.07) returned to Atmhos
+Atmhos collected €0.12 from pot
+Atmhos: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 1: 0zh0n3 folded before Flop (didn't bet)
+Seat 2: Drawaubonheur (button) folded before Flop (didn't bet)
+Seat 3: BerbatP (small blind) folded before Flop
+Seat 4: DeBareta (big blind) folded before Flop
+Seat 5: Atmhos collected (€0.12)
+Seat 6: AdrianSeijas20 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260736109047:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:24:19 CET [2026/05/08 11:24:19 ET]
+Table 'Hathor V' 6-max Seat #3 is the button
+Seat 1: 0zh0n3 (€7.52 in chips) 
+Seat 2: Drawaubonheur (€5.83 in chips) 
+Seat 3: BerbatP (€5 in chips) 
+Seat 4: DeBareta (€5 in chips) 
+Seat 5: Atmhos (€5.28 in chips) 
+Seat 6: AdrianSeijas20 (€5.63 in chips) 
+DeBareta: posts small blind €0.02
+Atmhos: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [8s 3h]
+AdrianSeijas20: raises €0.10 to €0.15
+0zh0n3: folds 
+Drawaubonheur: folds 
+BerbatP: folds 
+DeBareta: folds 
+Atmhos: folds 
+Uncalled bet (€0.10) returned to AdrianSeijas20
+AdrianSeijas20 collected €0.12 from pot
+AdrianSeijas20: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 1: 0zh0n3 folded before Flop (didn't bet)
+Seat 2: Drawaubonheur folded before Flop (didn't bet)
+Seat 3: BerbatP (button) folded before Flop (didn't bet)
+Seat 4: DeBareta (small blind) folded before Flop
+Seat 5: Atmhos (big blind) folded before Flop
+Seat 6: AdrianSeijas20 collected (€0.12)
+
+
+
+PokerStars Hand #260736111229:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:24:33 CET [2026/05/08 11:24:33 ET]
+Table 'Hathor V' 6-max Seat #4 is the button
+Seat 1: 0zh0n3 (€7.52 in chips) 
+Seat 2: Drawaubonheur (€5.83 in chips) 
+Seat 3: BerbatP (€5 in chips) 
+Seat 4: DeBareta (€5 in chips) 
+Seat 5: Atmhos (€5.23 in chips) 
+Seat 6: AdrianSeijas20 (€5.70 in chips) 
+Atmhos: posts small blind €0.02
+AdrianSeijas20: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [2s 9c]
+0zh0n3: folds 
+Drawaubonheur: folds 
+BerbatP: folds 
+DeBareta: folds 
+Atmhos: raises €0.07 to €0.12
+AdrianSeijas20: folds 
+Uncalled bet (€0.07) returned to Atmhos
+Atmhos collected €0.10 from pot
+Atmhos: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Seat 1: 0zh0n3 folded before Flop (didn't bet)
+Seat 2: Drawaubonheur folded before Flop (didn't bet)
+Seat 3: BerbatP folded before Flop (didn't bet)
+Seat 4: DeBareta (button) folded before Flop (didn't bet)
+Seat 5: Atmhos (small blind) collected (€0.10)
+Seat 6: AdrianSeijas20 (big blind) folded before Flop
+
+
+
+PokerStars Hand #260736114038:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:24:51 CET [2026/05/08 11:24:51 ET]
+Table 'Hathor V' 6-max Seat #5 is the button
+Seat 1: 0zh0n3 (€7.52 in chips) 
+Seat 2: Drawaubonheur (€5.83 in chips) 
+Seat 3: BerbatP (€5 in chips) 
+Seat 4: DeBareta (€5 in chips) 
+Seat 5: Atmhos (€5.28 in chips) 
+Seat 6: AdrianSeijas20 (€5.65 in chips) 
+AdrianSeijas20: posts small blind €0.02
+0zh0n3: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [9d 6h]
+Drawaubonheur: raises €0.07 to €0.12
+BerbatP: folds 
+DeBareta: folds 
+Atmhos: raises €0.33 to €0.45
+AdrianSeijas20: raises €5.20 to €5.65 and is all-in
+0zh0n3: folds 
+Drawaubonheur: folds 
+Atmhos: folds 
+Uncalled bet (€5.20) returned to AdrianSeijas20
+AdrianSeijas20 collected €1.07 from pot
+AdrianSeijas20: doesn't show hand 
+*** SUMMARY ***
+Total pot €1.07 | Rake €0 
+Seat 1: 0zh0n3 (big blind) folded before Flop
+Seat 2: Drawaubonheur folded before Flop
+Seat 3: BerbatP folded before Flop (didn't bet)
+Seat 4: DeBareta folded before Flop (didn't bet)
+Seat 5: Atmhos (button) folded before Flop
+Seat 6: AdrianSeijas20 (small blind) collected (€1.07)
+
+
+
+PokerStars Hand #260736120030:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:25:29 CET [2026/05/08 11:25:29 ET]
+Table 'Hathor V' 6-max Seat #6 is the button
+Seat 1: 0zh0n3 (€7.47 in chips) 
+Seat 2: Drawaubonheur (€5.71 in chips) 
+Seat 3: BerbatP (€5 in chips) 
+Seat 4: DeBareta (€5 in chips) 
+Seat 5: Atmhos (€5 in chips) 
+Seat 6: AdrianSeijas20 (€6.27 in chips) 
+0zh0n3: posts small blind €0.02
+Drawaubonheur: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [Ac Tc]
+BerbatP: raises €0.07 to €0.12
+DeBareta: folds 
+Atmhos: folds 
+AdrianSeijas20: raises €0.23 to €0.35
+0zh0n3: folds 
+Drawaubonheur: folds 
+BerbatP: calls €0.23
+*** FLOP *** [9c As Th]
+BerbatP: checks 
+AdrianSeijas20: bets €0.22
+BerbatP: raises €0.33 to €0.55
+AdrianSeijas20: calls €0.33
+*** TURN *** [9c As Th] [4c]
+BerbatP: bets €0.88
+AdrianSeijas20: folds 
+Uncalled bet (€0.88) returned to BerbatP
+BerbatP collected €1.76 from pot
+BerbatP: doesn't show hand 
+*** SUMMARY ***
+Total pot €1.87 | Rake €0.11 
+Board [9c As Th 4c]
+Seat 1: 0zh0n3 (small blind) folded before Flop
+Seat 2: Drawaubonheur (big blind) folded before Flop
+Seat 3: BerbatP collected (€1.76)
+Seat 4: DeBareta folded before Flop (didn't bet)
+Seat 5: Atmhos folded before Flop (didn't bet)
+Seat 6: AdrianSeijas20 (button) folded on the Turn
+
+
+
+PokerStars Hand #260736130987:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:26:39 CET [2026/05/08 11:26:39 ET]
+Table 'Hathor V' 6-max Seat #1 is the button
+Seat 1: 0zh0n3 (€7.45 in chips) 
+Seat 2: Drawaubonheur (€5.66 in chips) 
+Seat 3: BerbatP (€5.86 in chips) 
+Seat 4: DeBareta (€5 in chips) 
+Seat 5: Atmhos (€5 in chips) 
+Seat 6: AdrianSeijas20 (€5.37 in chips) 
+Drawaubonheur: posts small blind €0.02
+BerbatP: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [7d Qh]
+DeBareta: raises €0.07 to €0.12
+Atmhos: folds 
+AdrianSeijas20: folds 
+0zh0n3: folds 
+Drawaubonheur: folds 
+BerbatP: folds 
+Uncalled bet (€0.07) returned to DeBareta
+DeBareta collected €0.12 from pot
+DeBareta: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 1: 0zh0n3 (button) folded before Flop (didn't bet)
+Seat 2: Drawaubonheur (small blind) folded before Flop
+Seat 3: BerbatP (big blind) folded before Flop
+Seat 4: DeBareta collected (€0.12)
+Seat 5: Atmhos folded before Flop (didn't bet)
+Seat 6: AdrianSeijas20 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260736133681:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:26:56 CET [2026/05/08 11:26:56 ET]
+Table 'Hathor V' 6-max Seat #2 is the button
+Seat 1: 0zh0n3 (€7.45 in chips) 
+Seat 2: Drawaubonheur (€5.64 in chips) 
+Seat 3: BerbatP (€5.81 in chips) 
+Seat 4: DeBareta (€5.07 in chips) 
+Seat 5: Atmhos (€5 in chips) 
+Seat 6: AdrianSeijas20 (€5.37 in chips) 
+BerbatP: posts small blind €0.02
+DeBareta: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [8h 4d]
+Atmhos: raises €0.07 to €0.12
+AdrianSeijas20: folds 
+0zh0n3: folds 
+Drawaubonheur: folds 
+BerbatP: folds 
+DeBareta: folds 
+Uncalled bet (€0.07) returned to Atmhos
+Atmhos collected €0.12 from pot
+Atmhos: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 1: 0zh0n3 folded before Flop (didn't bet)
+Seat 2: Drawaubonheur (button) folded before Flop (didn't bet)
+Seat 3: BerbatP (small blind) folded before Flop
+Seat 4: DeBareta (big blind) folded before Flop
+Seat 5: Atmhos collected (€0.12)
+Seat 6: AdrianSeijas20 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260736136717:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:27:16 CET [2026/05/08 11:27:16 ET]
+Table 'Hathor V' 6-max Seat #3 is the button
+Seat 1: 0zh0n3 (€7.45 in chips) 
+Seat 2: Drawaubonheur (€5.64 in chips) 
+Seat 3: BerbatP (€5.79 in chips) 
+Seat 4: DeBareta (€5.02 in chips) 
+Seat 5: Atmhos (€5.07 in chips) 
+Seat 6: AdrianSeijas20 (€5.37 in chips) 
+DeBareta: posts small blind €0.02
+Atmhos: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [3h 3c]
+AdrianSeijas20: folds 
+0zh0n3: folds 
+Drawaubonheur: raises €0.07 to €0.12
+BerbatP: calls €0.12
+DeBareta: folds 
+Atmhos: folds 
+*** FLOP *** [3d Ah 6c]
+Drawaubonheur: bets €0.07
+BerbatP: calls €0.07
+*** TURN *** [3d Ah 6c] [Kc]
+Drawaubonheur: checks 
+BerbatP: bets €0.21
+Drawaubonheur: calls €0.21
+*** RIVER *** [3d Ah 6c Kc] [Th]
+Drawaubonheur: checks 
+BerbatP: bets €0.82
+Drawaubonheur: folds 
+Uncalled bet (€0.82) returned to BerbatP
+BerbatP collected €0.82 from pot
+BerbatP: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.87 | Rake €0.05 
+Board [3d Ah 6c Kc Th]
+Seat 1: 0zh0n3 folded before Flop (didn't bet)
+Seat 2: Drawaubonheur folded on the River
+Seat 3: BerbatP (button) collected (€0.82)
+Seat 4: DeBareta (small blind) folded before Flop
+Seat 5: Atmhos (big blind) folded before Flop
+Seat 6: AdrianSeijas20 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260736150068:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:28:43 CET [2026/05/08 11:28:43 ET]
+Table 'Hathor V' 6-max Seat #4 is the button
+Seat 1: 0zh0n3 (€7.45 in chips) 
+Seat 2: Drawaubonheur (€5.24 in chips) 
+Seat 3: BerbatP (€6.21 in chips) 
+Seat 4: DeBareta (€5 in chips) 
+Seat 5: Atmhos (€5.02 in chips) 
+Seat 6: AdrianSeijas20 (€5.37 in chips) 
+Atmhos: posts small blind €0.02
+AdrianSeijas20: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [5s 6d]
+0zh0n3: folds 
+Drawaubonheur: folds 
+BerbatP: folds 
+DeBareta: folds 
+Atmhos: raises €0.07 to €0.12
+AdrianSeijas20: folds 
+Uncalled bet (€0.07) returned to Atmhos
+Atmhos collected €0.10 from pot
+Atmhos: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Seat 1: 0zh0n3 folded before Flop (didn't bet)
+Seat 2: Drawaubonheur folded before Flop (didn't bet)
+Seat 3: BerbatP folded before Flop (didn't bet)
+Seat 4: DeBareta (button) folded before Flop (didn't bet)
+Seat 5: Atmhos (small blind) collected (€0.10)
+Seat 6: AdrianSeijas20 (big blind) folded before Flop
+
+
+
+PokerStars Hand #260736152778:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:29:01 CET [2026/05/08 11:29:01 ET]
+Table 'Hathor V' 6-max Seat #5 is the button
+Seat 1: 0zh0n3 (€7.45 in chips) 
+Seat 2: Drawaubonheur (€5.24 in chips) 
+Seat 3: BerbatP (€6.21 in chips) 
+Seat 4: DeBareta (€5 in chips) 
+Seat 5: Atmhos (€5.07 in chips) 
+Seat 6: AdrianSeijas20 (€5.32 in chips) 
+AdrianSeijas20: posts small blind €0.02
+0zh0n3: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [Jd 3d]
+Drawaubonheur: folds 
+BerbatP: folds 
+DeBareta: folds 
+Atmhos: folds 
+AdrianSeijas20: raises €0.10 to €0.15
+0zh0n3: folds 
+Uncalled bet (€0.10) returned to AdrianSeijas20
+AdrianSeijas20 collected €0.10 from pot
+AdrianSeijas20: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Seat 1: 0zh0n3 (big blind) folded before Flop
+Seat 2: Drawaubonheur folded before Flop (didn't bet)
+Seat 3: BerbatP folded before Flop (didn't bet)
+Seat 4: DeBareta folded before Flop (didn't bet)
+Seat 5: Atmhos (button) folded before Flop (didn't bet)
+Seat 6: AdrianSeijas20 (small blind) collected (€0.10)
+
+
+
+PokerStars Hand #260736156446:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:29:25 CET [2026/05/08 11:29:25 ET]
+Table 'Hathor V' 6-max Seat #6 is the button
+Seat 1: 0zh0n3 (€7.40 in chips) 
+Seat 2: Drawaubonheur (€5.24 in chips) 
+Seat 3: BerbatP (€6.21 in chips) 
+Seat 4: DeBareta (€5 in chips) 
+Seat 5: Atmhos (€5.07 in chips) 
+Seat 6: AdrianSeijas20 (€5.37 in chips) 
+0zh0n3: posts small blind €0.02
+Drawaubonheur: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [3h Qc]
+BerbatP: folds 
+DeBareta: folds 
+Atmhos: folds 
+AdrianSeijas20: folds 
+0zh0n3: folds 
+Uncalled bet (€0.03) returned to Drawaubonheur
+Drawaubonheur collected €0.04 from pot
+Drawaubonheur: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.04 | Rake €0 
+Seat 1: 0zh0n3 (small blind) folded before Flop
+Seat 2: Drawaubonheur (big blind) collected (€0.04)
+Seat 3: BerbatP folded before Flop (didn't bet)
+Seat 4: DeBareta folded before Flop (didn't bet)
+Seat 5: Atmhos folded before Flop (didn't bet)
+Seat 6: AdrianSeijas20 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260736158749:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:29:39 CET [2026/05/08 11:29:39 ET]
+Table 'Hathor V' 6-max Seat #1 is the button
+Seat 1: 0zh0n3 (€7.38 in chips) 
+Seat 2: Drawaubonheur (€5.26 in chips) 
+Seat 3: BerbatP (€6.21 in chips) 
+Seat 4: DeBareta (€5 in chips) 
+Seat 5: Atmhos (€5.07 in chips) 
+Seat 6: AdrianSeijas20 (€5.37 in chips) 
+Drawaubonheur: posts small blind €0.02
+BerbatP: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [2s 5h]
+DeBareta: folds 
+Atmhos: folds 
+AdrianSeijas20: folds 
+0zh0n3: folds 
+Drawaubonheur: folds 
+Uncalled bet (€0.03) returned to BerbatP
+BerbatP collected €0.04 from pot
+BerbatP: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.04 | Rake €0 
+Seat 1: 0zh0n3 (button) folded before Flop (didn't bet)
+Seat 2: Drawaubonheur (small blind) folded before Flop
+Seat 3: BerbatP (big blind) collected (€0.04)
+Seat 4: DeBareta folded before Flop (didn't bet)
+Seat 5: Atmhos folded before Flop (didn't bet)
+Seat 6: AdrianSeijas20 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260736161668:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:29:58 CET [2026/05/08 11:29:58 ET]
+Table 'Hathor V' 6-max Seat #2 is the button
+Seat 1: 0zh0n3 (€7.38 in chips) 
+Seat 2: Drawaubonheur (€5.24 in chips) 
+Seat 3: BerbatP (€6.23 in chips) 
+Seat 4: DeBareta (€5 in chips) 
+Seat 5: Atmhos (€5.07 in chips) 
+Seat 6: AdrianSeijas20 (€5.37 in chips) 
+BerbatP: posts small blind €0.02
+DeBareta: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [Qs Js]
+Atmhos: folds 
+AdrianSeijas20: folds 
+0zh0n3: folds 
+Drawaubonheur: raises €0.07 to €0.12
+BerbatP: raises €0.32 to €0.44
+DeBareta: raises €0.91 to €1.35
+Drawaubonheur: folds 
+BerbatP: folds 
+Uncalled bet (€0.91) returned to DeBareta
+DeBareta collected €1 from pot
+DeBareta: doesn't show hand 
+*** SUMMARY ***
+Total pot €1 | Rake €0 
+Seat 1: 0zh0n3 folded before Flop (didn't bet)
+Seat 2: Drawaubonheur (button) folded before Flop
+Seat 3: BerbatP (small blind) folded before Flop
+Seat 4: DeBareta (big blind) collected (€1)
+Seat 5: Atmhos folded before Flop (didn't bet)
+Seat 6: AdrianSeijas20 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260736168359:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:30:42 CET [2026/05/08 11:30:42 ET]
+Table 'Hathor V' 6-max Seat #3 is the button
+Seat 1: 0zh0n3 (€7.38 in chips) 
+Seat 2: Drawaubonheur (€5.12 in chips) 
+Seat 3: BerbatP (€5.79 in chips) 
+Seat 4: DeBareta (€5.56 in chips) 
+Seat 5: Atmhos (€5.07 in chips) 
+Seat 6: AdrianSeijas20 (€5.37 in chips) 
+DeBareta: posts small blind €0.02
+Atmhos: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [3s 7s]
+AdrianSeijas20: folds 
+0zh0n3: folds 
+Drawaubonheur: folds 
+BerbatP: folds 
+DeBareta: folds 
+Uncalled bet (€0.03) returned to Atmhos
+Atmhos collected €0.04 from pot
+Atmhos: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.04 | Rake €0 
+Seat 1: 0zh0n3 folded before Flop (didn't bet)
+Seat 2: Drawaubonheur folded before Flop (didn't bet)
+Seat 3: BerbatP (button) folded before Flop (didn't bet)
+Seat 4: DeBareta (small blind) folded before Flop
+Seat 5: Atmhos (big blind) collected (€0.04)
+Seat 6: AdrianSeijas20 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260736170124:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:30:53 CET [2026/05/08 11:30:53 ET]
+Table 'Hathor V' 6-max Seat #4 is the button
+Seat 1: 0zh0n3 (€7.38 in chips) 
+Seat 2: Drawaubonheur (€5.12 in chips) 
+Seat 3: BerbatP (€5.79 in chips) 
+Seat 4: DeBareta (€5.54 in chips) 
+Seat 5: Atmhos (€5.09 in chips) 
+Seat 6: AdrianSeijas20 (€5.37 in chips) 
+Atmhos: posts small blind €0.02
+AdrianSeijas20: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [5h Ah]
+0zh0n3: folds 
+Drawaubonheur: folds 
+BerbatP: raises €0.07 to €0.12
+DeBareta: folds 
+Atmhos: folds 
+AdrianSeijas20: folds 
+Uncalled bet (€0.07) returned to BerbatP
+BerbatP collected €0.12 from pot
+BerbatP: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 1: 0zh0n3 folded before Flop (didn't bet)
+Seat 2: Drawaubonheur folded before Flop (didn't bet)
+Seat 3: BerbatP collected (€0.12)
+Seat 4: DeBareta (button) folded before Flop (didn't bet)
+Seat 5: Atmhos (small blind) folded before Flop
+Seat 6: AdrianSeijas20 (big blind) folded before Flop
+
+
+
+PokerStars Hand #260736173389:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:31:14 CET [2026/05/08 11:31:14 ET]
+Table 'Hathor V' 6-max Seat #5 is the button
+Seat 1: 0zh0n3 (€7.38 in chips) 
+Seat 2: Drawaubonheur (€5.12 in chips) 
+Seat 3: BerbatP (€5.86 in chips) 
+Seat 4: DeBareta (€5.54 in chips) 
+Seat 5: Atmhos (€5.07 in chips) 
+Seat 6: AdrianSeijas20 (€5.32 in chips) 
+AdrianSeijas20: posts small blind €0.02
+0zh0n3: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [9c 2h]
+Drawaubonheur: folds 
+BerbatP: folds 
+DeBareta: raises €0.07 to €0.12
+Atmhos: folds 
+AdrianSeijas20: folds 
+0zh0n3: folds 
+Uncalled bet (€0.07) returned to DeBareta
+DeBareta collected €0.12 from pot
+DeBareta: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 1: 0zh0n3 (big blind) folded before Flop
+Seat 2: Drawaubonheur folded before Flop (didn't bet)
+Seat 3: BerbatP folded before Flop (didn't bet)
+Seat 4: DeBareta collected (€0.12)
+Seat 5: Atmhos (button) folded before Flop (didn't bet)
+Seat 6: AdrianSeijas20 (small blind) folded before Flop
+
+
+
+PokerStars Hand #260736175537:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:31:28 CET [2026/05/08 11:31:28 ET]
+Table 'Hathor V' 6-max Seat #6 is the button
+Seat 1: 0zh0n3 (€7.33 in chips) 
+Seat 2: Drawaubonheur (€5.12 in chips) 
+Seat 3: BerbatP (€5.86 in chips) 
+Seat 4: DeBareta (€5.61 in chips) 
+Seat 5: Atmhos (€5.07 in chips) 
+Seat 6: AdrianSeijas20 (€5.30 in chips) 
+0zh0n3: posts small blind €0.02
+Drawaubonheur: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [9d 6h]
+BerbatP: folds 
+DeBareta: folds 
+Atmhos: raises €0.07 to €0.12
+AdrianSeijas20: folds 
+0zh0n3: folds 
+Drawaubonheur: calls €0.07
+*** FLOP *** [Jh 4s Qd]
+Drawaubonheur: checks 
+Atmhos: bets €0.10
+Drawaubonheur: folds 
+Uncalled bet (€0.10) returned to Atmhos
+Atmhos collected €0.24 from pot
+Atmhos: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.26 | Rake €0.02 
+Board [Jh 4s Qd]
+Seat 1: 0zh0n3 (small blind) folded before Flop
+Seat 2: Drawaubonheur (big blind) folded on the Flop
+Seat 3: BerbatP folded before Flop (didn't bet)
+Seat 4: DeBareta folded before Flop (didn't bet)
+Seat 5: Atmhos collected (€0.24)
+Seat 6: AdrianSeijas20 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260736180250:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:31:59 CET [2026/05/08 11:31:59 ET]
+Table 'Hathor V' 6-max Seat #1 is the button
+Seat 1: 0zh0n3 (€7.31 in chips) 
+Seat 2: Drawaubonheur (€5 in chips) 
+Seat 3: BerbatP (€5.86 in chips) 
+Seat 4: DeBareta (€5.61 in chips) 
+Seat 5: Atmhos (€5.19 in chips) 
+Seat 6: AdrianSeijas20 (€5.30 in chips) 
+Drawaubonheur: posts small blind €0.02
+BerbatP: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [5c 9d]
+DeBareta: folds 
+Atmhos: raises €0.07 to €0.12
+AdrianSeijas20: folds 
+0zh0n3: folds 
+Drawaubonheur: raises €0.44 to €0.56
+BerbatP: folds 
+Atmhos: calls €0.44
+*** FLOP *** [Ks 8s 7d]
+Drawaubonheur: bets €0.28
+Atmhos: calls €0.28
+*** TURN *** [Ks 8s 7d] [5s]
+Drawaubonheur: checks 
+Atmhos: checks 
+*** RIVER *** [Ks 8s 7d 5s] [8h]
+Drawaubonheur: checks 
+Atmhos: checks 
+*** SHOW DOWN ***
+Drawaubonheur: shows [Jh Qh] (a pair of Eights)
+Atmhos: shows [Ah Jc] (a pair of Eights - Ace kicker)
+Atmhos collected €1.63 from pot
+*** SUMMARY ***
+Total pot €1.73 | Rake €0.10 
+Board [Ks 8s 7d 5s 8h]
+Seat 1: 0zh0n3 (button) folded before Flop (didn't bet)
+Seat 2: Drawaubonheur (small blind) showed [Jh Qh] and lost with a pair of Eights
+Seat 3: BerbatP (big blind) folded before Flop
+Seat 4: DeBareta folded before Flop (didn't bet)
+Seat 5: Atmhos showed [Ah Jc] and won (€1.63) with a pair of Eights
+Seat 6: AdrianSeijas20 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260736190266:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:33:04 CET [2026/05/08 11:33:04 ET]
+Table 'Hathor V' 6-max Seat #2 is the button
+Seat 1: 0zh0n3 (€7.31 in chips) 
+Seat 2: Drawaubonheur (€5 in chips) 
+Seat 3: BerbatP (€5.81 in chips) 
+Seat 4: DeBareta (€5.61 in chips) 
+Seat 5: Atmhos (€5.98 in chips) 
+Seat 6: AdrianSeijas20 (€5.30 in chips) 
+BerbatP: posts small blind €0.02
+DeBareta: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [8c 5s]
+Atmhos: folds 
+AdrianSeijas20: raises €0.10 to €0.15
+0zh0n3: calls €0.15
+Drawaubonheur: folds 
+BerbatP: folds 
+DeBareta: calls €0.10
+*** FLOP *** [Ks Tc 2c]
+DeBareta: checks 
+AdrianSeijas20: checks 
+0zh0n3: checks 
+*** TURN *** [Ks Tc 2c] [7d]
+DeBareta: checks 
+AdrianSeijas20: bets €0.13
+0zh0n3: folds 
+DeBareta: calls €0.13
+*** RIVER *** [Ks Tc 2c 7d] [7c]
+DeBareta: checks 
+AdrianSeijas20: bets €0.69
+DeBareta: calls €0.69
+*** SHOW DOWN ***
+AdrianSeijas20: shows [Th Kc] (two pair, Kings and Tens)
+DeBareta: mucks hand 
+AdrianSeijas20 collected €1.98 from pot
+*** SUMMARY ***
+Total pot €2.11 | Rake €0.13 
+Board [Ks Tc 2c 7d 7c]
+Seat 1: 0zh0n3 folded on the Turn
+Seat 2: Drawaubonheur (button) folded before Flop (didn't bet)
+Seat 3: BerbatP (small blind) folded before Flop
+Seat 4: DeBareta (big blind) mucked [5d Kd]
+Seat 5: Atmhos folded before Flop (didn't bet)
+Seat 6: AdrianSeijas20 showed [Th Kc] and won (€1.98) with two pair, Kings and Tens
+
+
+
+PokerStars Hand #260736204936:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:34:39 CET [2026/05/08 11:34:39 ET]
+Table 'Hathor V' 6-max Seat #3 is the button
+Seat 1: 0zh0n3 (€7.16 in chips) 
+Seat 2: Drawaubonheur (€5 in chips) 
+Seat 3: BerbatP (€5.79 in chips) 
+Seat 4: DeBareta (€5 in chips) 
+Seat 5: Atmhos (€5.98 in chips) 
+Seat 6: AdrianSeijas20 (€6.31 in chips) 
+DeBareta: posts small blind €0.02
+Atmhos: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [6h Ah]
+AdrianSeijas20: folds 
+0zh0n3: folds 
+Drawaubonheur: folds 
+BerbatP: raises €0.07 to €0.12
+DeBareta: raises €0.29 to €0.41
+Atmhos: folds 
+BerbatP: folds 
+Uncalled bet (€0.29) returned to DeBareta
+DeBareta collected €0.29 from pot
+DeBareta: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.29 | Rake €0 
+Seat 1: 0zh0n3 folded before Flop (didn't bet)
+Seat 2: Drawaubonheur folded before Flop (didn't bet)
+Seat 3: BerbatP (button) folded before Flop
+Seat 4: DeBareta (small blind) collected (€0.29)
+Seat 5: Atmhos (big blind) folded before Flop
+Seat 6: AdrianSeijas20 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260736211059:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:35:19 CET [2026/05/08 11:35:19 ET]
+Table 'Hathor V' 6-max Seat #4 is the button
+Seat 1: 0zh0n3 (€7.16 in chips) 
+Seat 2: Drawaubonheur (€5 in chips) 
+Seat 3: BerbatP (€5.67 in chips) 
+Seat 4: DeBareta (€5.17 in chips) 
+Seat 5: Atmhos (€5.93 in chips) 
+Seat 6: AdrianSeijas20 (€6.31 in chips) 
+Atmhos: posts small blind €0.02
+AdrianSeijas20: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [7s 6h]
+0zh0n3: folds 
+Drawaubonheur: raises €0.07 to €0.12
+BerbatP: folds 
+DeBareta: folds 
+Atmhos: raises €0.38 to €0.50
+AdrianSeijas20: folds 
+Drawaubonheur: calls €0.38
+*** FLOP *** [7d 2h 4h]
+Atmhos: bets €0.80
+Drawaubonheur: folds 
+Uncalled bet (€0.80) returned to Atmhos
+Atmhos collected €0.99 from pot
+Atmhos: doesn't show hand 
+*** SUMMARY ***
+Total pot €1.05 | Rake €0.06 
+Board [7d 2h 4h]
+Seat 1: 0zh0n3 folded before Flop (didn't bet)
+Seat 2: Drawaubonheur folded on the Flop
+Seat 3: BerbatP folded before Flop (didn't bet)
+Seat 4: DeBareta (button) folded before Flop (didn't bet)
+Seat 5: Atmhos (small blind) collected (€0.99)
+Seat 6: AdrianSeijas20 (big blind) folded before Flop
+
+
+
+PokerStars Hand #260736219387:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:36:13 CET [2026/05/08 11:36:13 ET]
+Table 'Hathor V' 6-max Seat #5 is the button
+Seat 1: 0zh0n3 (€7.16 in chips) 
+Seat 2: Drawaubonheur (€5 in chips) 
+Seat 3: BerbatP (€5.67 in chips) 
+Seat 4: DeBareta (€5.17 in chips) 
+Seat 5: Atmhos (€6.42 in chips) 
+Seat 6: AdrianSeijas20 (€6.26 in chips) 
+AdrianSeijas20: posts small blind €0.02
+0zh0n3: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [6d As]
+Drawaubonheur: folds 
+BerbatP: folds 
+DeBareta: folds 
+Atmhos: raises €0.07 to €0.12
+AdrianSeijas20: raises €0.23 to €0.35
+0zh0n3: folds 
+Atmhos: folds 
+Uncalled bet (€0.23) returned to AdrianSeijas20
+AdrianSeijas20 collected €0.29 from pot
+AdrianSeijas20: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.29 | Rake €0 
+Seat 1: 0zh0n3 (big blind) folded before Flop
+Seat 2: Drawaubonheur folded before Flop (didn't bet)
+Seat 3: BerbatP folded before Flop (didn't bet)
+Seat 4: DeBareta folded before Flop (didn't bet)
+Seat 5: Atmhos (button) folded before Flop
+Seat 6: AdrianSeijas20 (small blind) collected (€0.29)
+
+
+
+PokerStars Hand #260736223137:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:36:37 CET [2026/05/08 11:36:37 ET]
+Table 'Hathor V' 6-max Seat #6 is the button
+Seat 1: 0zh0n3 (€7.11 in chips) 
+Seat 2: Drawaubonheur (€5 in chips) 
+Seat 3: BerbatP (€5.67 in chips) 
+Seat 4: DeBareta (€5.17 in chips) 
+Seat 5: Atmhos (€6.30 in chips) 
+Seat 6: AdrianSeijas20 (€6.43 in chips) 
+0zh0n3: posts small blind €0.02
+Drawaubonheur: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [8s 5d]
+BerbatP: folds 
+DeBareta: folds 
+Atmhos: folds 
+AdrianSeijas20: folds 
+0zh0n3: folds 
+Uncalled bet (€0.03) returned to Drawaubonheur
+Drawaubonheur collected €0.04 from pot
+Drawaubonheur: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.04 | Rake €0 
+Seat 1: 0zh0n3 (small blind) folded before Flop
+Seat 2: Drawaubonheur (big blind) collected (€0.04)
+Seat 3: BerbatP folded before Flop (didn't bet)
+Seat 4: DeBareta folded before Flop (didn't bet)
+Seat 5: Atmhos folded before Flop (didn't bet)
+Seat 6: AdrianSeijas20 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260736225530:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:36:53 CET [2026/05/08 11:36:53 ET]
+Table 'Hathor V' 6-max Seat #1 is the button
+Seat 1: 0zh0n3 (€7.09 in chips) 
+Seat 2: Drawaubonheur (€5.02 in chips) 
+Seat 3: BerbatP (€5.67 in chips) 
+Seat 4: DeBareta (€5.17 in chips) 
+Seat 5: Atmhos (€6.30 in chips) 
+Seat 6: AdrianSeijas20 (€6.43 in chips) 
+Drawaubonheur: posts small blind €0.02
+BerbatP: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [9c Kd]
+DeBareta: raises €0.07 to €0.12
+Atmhos: calls €0.12
+AdrianSeijas20: folds 
+0zh0n3: folds 
+Drawaubonheur: folds 
+BerbatP: folds 
+*** FLOP *** [Kc 5c 6d]
+DeBareta: checks 
+Atmhos: checks 
+*** TURN *** [Kc 5c 6d] [6s]
+DeBareta: bets €0.19
+Atmhos: raises €0.26 to €0.45
+DeBareta: folds 
+Uncalled bet (€0.26) returned to Atmhos
+Atmhos collected €0.65 from pot
+Atmhos: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.69 | Rake €0.04 
+Board [Kc 5c 6d 6s]
+Seat 1: 0zh0n3 (button) folded before Flop (didn't bet)
+Seat 2: Drawaubonheur (small blind) folded before Flop
+Seat 3: BerbatP (big blind) folded before Flop
+Seat 4: DeBareta folded on the Turn
+Seat 5: Atmhos collected (€0.65)
+Seat 6: AdrianSeijas20 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260736233428:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:37:44 CET [2026/05/08 11:37:44 ET]
+Table 'Hathor V' 6-max Seat #2 is the button
+Seat 1: 0zh0n3 (€7.09 in chips) 
+Seat 2: Drawaubonheur (€5 in chips) 
+Seat 3: BerbatP (€5.62 in chips) 
+Seat 4: DeBareta (€5 in chips) 
+Seat 5: Atmhos (€6.64 in chips) 
+Seat 6: AdrianSeijas20 (€6.43 in chips) 
+BerbatP: posts small blind €0.02
+DeBareta: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [9s 3d]
+Atmhos: folds 
+AdrianSeijas20: folds 
+0zh0n3: folds 
+Drawaubonheur: folds 
+BerbatP: folds 
+Uncalled bet (€0.03) returned to DeBareta
+DeBareta collected €0.04 from pot
+DeBareta: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.04 | Rake €0 
+Seat 1: 0zh0n3 folded before Flop (didn't bet)
+Seat 2: Drawaubonheur (button) folded before Flop (didn't bet)
+Seat 3: BerbatP (small blind) folded before Flop
+Seat 4: DeBareta (big blind) collected (€0.04)
+Seat 5: Atmhos folded before Flop (didn't bet)
+Seat 6: AdrianSeijas20 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260736235669:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:37:58 CET [2026/05/08 11:37:58 ET]
+Table 'Hathor V' 6-max Seat #3 is the button
+Seat 1: 0zh0n3 (€7.09 in chips) 
+Seat 2: Drawaubonheur (€5 in chips) 
+Seat 3: BerbatP (€5.60 in chips) 
+Seat 4: DeBareta (€5.02 in chips) 
+Seat 5: Atmhos (€6.64 in chips) 
+Seat 6: AdrianSeijas20 (€6.43 in chips) 
+DeBareta: posts small blind €0.02
+Atmhos: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [Qh 4d]
+AdrianSeijas20: raises €0.10 to €0.15
+0zh0n3: folds 
+Drawaubonheur: raises €0.30 to €0.45
+BerbatP: folds 
+DeBareta: folds 
+Atmhos: folds 
+AdrianSeijas20: folds 
+Uncalled bet (€0.30) returned to Drawaubonheur
+Drawaubonheur collected €0.37 from pot
+Drawaubonheur: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.37 | Rake €0 
+Seat 1: 0zh0n3 folded before Flop (didn't bet)
+Seat 2: Drawaubonheur collected (€0.37)
+Seat 3: BerbatP (button) folded before Flop (didn't bet)
+Seat 4: DeBareta (small blind) folded before Flop
+Seat 5: Atmhos (big blind) folded before Flop
+Seat 6: AdrianSeijas20 folded before Flop
+
+
+
+PokerStars Hand #260736239194:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:38:21 CET [2026/05/08 11:38:21 ET]
+Table 'Hathor V' 6-max Seat #4 is the button
+Seat 1: 0zh0n3 (€7.09 in chips) 
+Seat 2: Drawaubonheur (€5.22 in chips) 
+Seat 3: BerbatP (€5.60 in chips) 
+Seat 4: DeBareta (€5 in chips) 
+Seat 5: Atmhos (€6.59 in chips) 
+Seat 6: AdrianSeijas20 (€6.28 in chips) 
+Atmhos: posts small blind €0.02
+AdrianSeijas20: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [7h Ks]
+0zh0n3: folds 
+Drawaubonheur: folds 
+BerbatP: folds 
+DeBareta: folds 
+Atmhos: folds 
+Uncalled bet (€0.03) returned to AdrianSeijas20
+AdrianSeijas20 collected €0.04 from pot
+AdrianSeijas20: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.04 | Rake €0 
+Seat 1: 0zh0n3 folded before Flop (didn't bet)
+Seat 2: Drawaubonheur folded before Flop (didn't bet)
+Seat 3: BerbatP folded before Flop (didn't bet)
+Seat 4: DeBareta (button) folded before Flop (didn't bet)
+Seat 5: Atmhos (small blind) folded before Flop
+Seat 6: AdrianSeijas20 (big blind) collected (€0.04)
+
+
+
+PokerStars Hand #260736241180:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:38:33 CET [2026/05/08 11:38:33 ET]
+Table 'Hathor V' 6-max Seat #5 is the button
+Seat 1: 0zh0n3 (€7.09 in chips) 
+Seat 2: Drawaubonheur (€5.22 in chips) 
+Seat 3: BerbatP (€5.60 in chips) 
+Seat 4: DeBareta (€5 in chips) 
+Seat 5: Atmhos (€6.57 in chips) 
+Seat 6: AdrianSeijas20 (€6.30 in chips) 
+AdrianSeijas20: posts small blind €0.02
+0zh0n3: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [6s Jh]
+Drawaubonheur: folds 
+BerbatP: folds 
+DeBareta: raises €0.07 to €0.12
+Atmhos: folds 
+AdrianSeijas20: folds 
+0zh0n3: folds 
+Uncalled bet (€0.07) returned to DeBareta
+DeBareta collected €0.12 from pot
+DeBareta: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 1: 0zh0n3 (big blind) folded before Flop
+Seat 2: Drawaubonheur folded before Flop (didn't bet)
+Seat 3: BerbatP folded before Flop (didn't bet)
+Seat 4: DeBareta collected (€0.12)
+Seat 5: Atmhos (button) folded before Flop (didn't bet)
+Seat 6: AdrianSeijas20 (small blind) folded before Flop
+
+
+
+PokerStars Hand #260736244531:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:38:54 CET [2026/05/08 11:38:54 ET]
+Table 'Hathor V' 6-max Seat #6 is the button
+Seat 1: 0zh0n3 (€7.04 in chips) 
+Seat 2: Drawaubonheur (€5.22 in chips) 
+Seat 3: BerbatP (€5.60 in chips) 
+Seat 4: DeBareta (€5.07 in chips) 
+Seat 5: Atmhos (€6.57 in chips) 
+Seat 6: AdrianSeijas20 (€6.28 in chips) 
+0zh0n3: posts small blind €0.02
+Drawaubonheur: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [3h Qc]
+BerbatP: folds 
+DeBareta: folds 
+Atmhos: folds 
+AdrianSeijas20: folds 
+0zh0n3: folds 
+Uncalled bet (€0.03) returned to Drawaubonheur
+Drawaubonheur collected €0.04 from pot
+Drawaubonheur: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.04 | Rake €0 
+Seat 1: 0zh0n3 (small blind) folded before Flop
+Seat 2: Drawaubonheur (big blind) collected (€0.04)
+Seat 3: BerbatP folded before Flop (didn't bet)
+Seat 4: DeBareta folded before Flop (didn't bet)
+Seat 5: Atmhos folded before Flop (didn't bet)
+Seat 6: AdrianSeijas20 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260736246390:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:39:06 CET [2026/05/08 11:39:06 ET]
+Table 'Hathor V' 6-max Seat #1 is the button
+Seat 1: 0zh0n3 (€7.02 in chips) 
+Seat 2: Drawaubonheur (€5.24 in chips) 
+Seat 3: BerbatP (€5.60 in chips) 
+Seat 4: DeBareta (€5.07 in chips) 
+Seat 5: Atmhos (€6.57 in chips) 
+Seat 6: AdrianSeijas20 (€6.28 in chips) 
+Drawaubonheur: posts small blind €0.02
+BerbatP: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [5s Kh]
+DeBareta: folds 
+Atmhos: raises €0.07 to €0.12
+AdrianSeijas20: folds 
+0zh0n3: folds 
+Drawaubonheur: folds 
+BerbatP: folds 
+Uncalled bet (€0.07) returned to Atmhos
+Atmhos collected €0.12 from pot
+Atmhos: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 1: 0zh0n3 (button) folded before Flop (didn't bet)
+Seat 2: Drawaubonheur (small blind) folded before Flop
+Seat 3: BerbatP (big blind) folded before Flop
+Seat 4: DeBareta folded before Flop (didn't bet)
+Seat 5: Atmhos collected (€0.12)
+Seat 6: AdrianSeijas20 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260736249605:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:39:26 CET [2026/05/08 11:39:26 ET]
+Table 'Hathor V' 6-max Seat #2 is the button
+Seat 1: 0zh0n3 (€7.02 in chips) 
+Seat 2: Drawaubonheur (€5.22 in chips) 
+Seat 3: BerbatP (€5.55 in chips) 
+Seat 4: DeBareta (€5.07 in chips) 
+Seat 5: Atmhos (€6.64 in chips) 
+Seat 6: AdrianSeijas20 (€6.28 in chips) 
+BerbatP: posts small blind €0.02
+DeBareta: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [6c Kc]
+Atmhos: folds 
+AdrianSeijas20: folds 
+0zh0n3: raises €0.07 to €0.12
+Drawaubonheur: folds 
+BerbatP: folds 
+DeBareta: folds 
+Uncalled bet (€0.07) returned to 0zh0n3
+0zh0n3 collected €0.12 from pot
+0zh0n3: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 1: 0zh0n3 collected (€0.12)
+Seat 2: Drawaubonheur (button) folded before Flop (didn't bet)
+Seat 3: BerbatP (small blind) folded before Flop
+Seat 4: DeBareta (big blind) folded before Flop
+Seat 5: Atmhos folded before Flop (didn't bet)
+Seat 6: AdrianSeijas20 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260736252720:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:39:46 CET [2026/05/08 11:39:46 ET]
+Table 'Hathor V' 6-max Seat #3 is the button
+Seat 1: 0zh0n3 (€7.09 in chips) 
+Seat 2: Drawaubonheur (€5.22 in chips) 
+Seat 3: BerbatP (€5.53 in chips) 
+Seat 4: DeBareta (€5.02 in chips) 
+Seat 5: Atmhos (€6.64 in chips) 
+Seat 6: AdrianSeijas20 (€6.28 in chips) 
+DeBareta: posts small blind €0.02
+Atmhos: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [5c 5h]
+AdrianSeijas20: folds 
+0zh0n3: raises €0.07 to €0.12
+Drawaubonheur: raises €0.25 to €0.37
+BerbatP: folds 
+DeBareta: folds 
+Atmhos: folds 
+0zh0n3: folds 
+Uncalled bet (€0.25) returned to Drawaubonheur
+Drawaubonheur collected €0.31 from pot
+Drawaubonheur: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.31 | Rake €0 
+Seat 1: 0zh0n3 folded before Flop
+Seat 2: Drawaubonheur collected (€0.31)
+Seat 3: BerbatP (button) folded before Flop (didn't bet)
+Seat 4: DeBareta (small blind) folded before Flop
+Seat 5: Atmhos (big blind) folded before Flop
+Seat 6: AdrianSeijas20 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260736257392:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:40:16 CET [2026/05/08 11:40:16 ET]
+Table 'Hathor V' 6-max Seat #4 is the button
+Seat 1: 0zh0n3 (€6.97 in chips) 
+Seat 2: Drawaubonheur (€5.41 in chips) 
+Seat 3: BerbatP (€5.53 in chips) 
+Seat 4: DeBareta (€5 in chips) 
+Seat 5: Atmhos (€6.59 in chips) 
+Seat 6: AdrianSeijas20 (€6.28 in chips) 
+Atmhos: posts small blind €0.02
+AdrianSeijas20: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [8s 9c]
+0zh0n3: folds 
+Drawaubonheur: folds 
+BerbatP: folds 
+DeBareta: folds 
+Atmhos: raises €0.07 to €0.12
+AdrianSeijas20: calls €0.07
+*** FLOP *** [4s 6s 2c]
+Atmhos: bets €0.10
+AdrianSeijas20: folds 
+Uncalled bet (€0.10) returned to Atmhos
+Atmhos collected €0.23 from pot
+Atmhos: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.24 | Rake €0.01 
+Board [4s 6s 2c]
+Seat 1: 0zh0n3 folded before Flop (didn't bet)
+Seat 2: Drawaubonheur folded before Flop (didn't bet)
+Seat 3: BerbatP folded before Flop (didn't bet)
+Seat 4: DeBareta (button) folded before Flop (didn't bet)
+Seat 5: Atmhos (small blind) collected (€0.23)
+Seat 6: AdrianSeijas20 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #260736261982:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:40:45 CET [2026/05/08 11:40:45 ET]
+Table 'Hathor V' 6-max Seat #5 is the button
+Seat 4: DeBareta (€5 in chips) is sitting out
+Seat 1: 0zh0n3 (€6.97 in chips) 
+Seat 2: Drawaubonheur (€5.41 in chips) 
+Seat 3: BerbatP (€5.53 in chips) 
+Seat 5: Atmhos (€6.70 in chips) 
+Seat 6: AdrianSeijas20 (€6.16 in chips) 
+AdrianSeijas20: posts small blind €0.02
+0zh0n3: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [8h Tc]
+Drawaubonheur: folds 
+BerbatP: folds 
+Atmhos: raises €0.07 to €0.12
+AdrianSeijas20: folds 
+0zh0n3: folds 
+Uncalled bet (€0.07) returned to Atmhos
+Atmhos collected €0.12 from pot
+Atmhos: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 4: DeBareta
+Seat 1: 0zh0n3 (big blind) folded before Flop
+Seat 2: Drawaubonheur folded before Flop (didn't bet)
+Seat 3: BerbatP folded before Flop (didn't bet)
+Seat 5: Atmhos (button) collected (€0.12)
+Seat 6: AdrianSeijas20 (small blind) folded before Flop
+
+
+
+PokerStars Hand #260736263959:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:40:58 CET [2026/05/08 11:40:58 ET]
+Table 'Hathor V' 6-max Seat #6 is the button
+Seat 4: DeBareta (€5 in chips) is sitting out
+Seat 1: 0zh0n3 (€6.92 in chips) 
+Seat 2: Drawaubonheur (€5.41 in chips) 
+Seat 3: BerbatP (€5.53 in chips) 
+Seat 5: Atmhos (€6.77 in chips) 
+Seat 6: AdrianSeijas20 (€6.14 in chips) 
+0zh0n3: posts small blind €0.02
+Drawaubonheur: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [4c Js]
+BerbatP: folds 
+Atmhos: folds 
+Atmhos leaves the table
+AdrianSeijas20: raises €0.10 to €0.15
+0zh0n3: folds 
+Drawaubonheur: folds 
+Uncalled bet (€0.10) returned to AdrianSeijas20
+AdrianSeijas20 collected €0.12 from pot
+AdrianSeijas20: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 4: DeBareta
+Seat 1: 0zh0n3 (small blind) folded before Flop
+Seat 2: Drawaubonheur (big blind) folded before Flop
+Seat 3: BerbatP folded before Flop (didn't bet)
+Seat 5: Atmhos folded before Flop (didn't bet)
+Seat 6: AdrianSeijas20 (button) collected (€0.12)
+
+
+
+PokerStars Hand #260736266419:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:41:14 CET [2026/05/08 11:41:14 ET]
+Table 'Hathor V' 6-max Seat #1 is the button
+Seat 4: DeBareta (€5 in chips) is sitting out
+Seat 1: 0zh0n3 (€6.90 in chips) 
+Seat 2: Drawaubonheur (€5.36 in chips) 
+Seat 3: BerbatP (€5.53 in chips) 
+Seat 6: AdrianSeijas20 (€6.21 in chips) 
+Drawaubonheur: posts small blind €0.02
+BerbatP: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [7h Kc]
+AdrianSeijas20: raises €0.10 to €0.15
+0zh0n3: folds 
+Drawaubonheur: calls €0.13
+BerbatP: folds 
+*** FLOP *** [6d 9d Qs]
+Drawaubonheur: checks 
+AdrianSeijas20: checks 
+*** TURN *** [6d 9d Qs] [9h]
+Drawaubonheur: checks 
+toxicomax38 joins the table at seat #5 
+AdrianSeijas20: bets €0.17
+Drawaubonheur: calls €0.17
+*** RIVER *** [6d 9d Qs 9h] [4c]
+Drawaubonheur: checks 
+AdrianSeijas20: checks 
+*** SHOW DOWN ***
+Drawaubonheur: shows [3c 3d] (two pair, Nines and Threes)
+AdrianSeijas20: shows [7c 7d] (two pair, Nines and Sevens)
+AdrianSeijas20 collected €0.65 from pot
+*** SUMMARY ***
+Total pot €0.69 | Rake €0.04 
+Board [6d 9d Qs 9h 4c]
+Seat 4: DeBareta
+Seat 1: 0zh0n3 (button) folded before Flop (didn't bet)
+Seat 2: Drawaubonheur (small blind) showed [3c 3d] and lost with two pair, Nines and Threes
+Seat 3: BerbatP (big blind) folded before Flop
+Seat 6: AdrianSeijas20 showed [7c 7d] and won (€0.65) with two pair, Nines and Sevens
+
+
+
+PokerStars Hand #260736276632:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:42:19 CET [2026/05/08 11:42:19 ET]
+Table 'Hathor V' 6-max Seat #2 is the button
+Seat 1: 0zh0n3 (€6.90 in chips) 
+Seat 2: Drawaubonheur (€5.04 in chips) 
+Seat 3: BerbatP (€5.48 in chips) 
+Seat 4: DeBareta (€5 in chips) 
+Seat 5: toxicomax38 (€4 in chips) 
+Seat 6: AdrianSeijas20 (€6.54 in chips) 
+BerbatP: posts small blind €0.02
+DeBareta: posts big blind €0.05
+toxicomax38: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [4s Ah]
+toxicomax38: checks 
+AdrianSeijas20: folds 
+0zh0n3: folds 
+Drawaubonheur: raises €0.12 to €0.17
+BerbatP: folds 
+DeBareta: calls €0.12
+toxicomax38: calls €0.12
+*** FLOP *** [8c 5c 6d]
+DeBareta: checks 
+toxicomax38: bets €0.25
+Drawaubonheur: calls €0.25
+DeBareta: folds 
+*** TURN *** [8c 5c 6d] [9c]
+toxicomax38: bets €0.49
+Drawaubonheur: calls €0.49
+*** RIVER *** [8c 5c 6d 9c] [6s]
+toxicomax38: bets €0.95
+Drawaubonheur: raises €3.18 to €4.13 and is all-in
+toxicomax38: calls €2.14 and is all-in
+Uncalled bet (€1.04) returned to Drawaubonheur
+*** SHOW DOWN ***
+Drawaubonheur: shows [Ac Th] (a pair of Sixes)
+toxicomax38: shows [4c 7c] (a flush, Nine high)
+toxicomax38 collected €7.70 from pot
+*** SUMMARY ***
+Total pot €8.19 | Rake €0.49 
+Board [8c 5c 6d 9c 6s]
+Seat 1: 0zh0n3 folded before Flop (didn't bet)
+Seat 2: Drawaubonheur (button) showed [Ac Th] and lost with a pair of Sixes
+Seat 3: BerbatP (small blind) folded before Flop
+Seat 4: DeBareta (big blind) folded on the Flop
+Seat 5: toxicomax38 showed [4c 7c] and won (€7.70) with a flush, Nine high
+Seat 6: AdrianSeijas20 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260736288086:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:43:32 CET [2026/05/08 11:43:32 ET]
+Table 'Hathor V' 6-max Seat #3 is the button
+Seat 1: 0zh0n3 (€6.90 in chips) 
+Seat 2: Drawaubonheur (€5 in chips) 
+Seat 3: BerbatP (€5.46 in chips) 
+Seat 4: DeBareta (€5 in chips) 
+Seat 5: toxicomax38 (€7.70 in chips) 
+Seat 6: AdrianSeijas20 (€6.54 in chips) 
+DeBareta: posts small blind €0.02
+toxicomax38: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [8h 3s]
+AdrianSeijas20: folds 
+0zh0n3: folds 
+Drawaubonheur: raises €0.07 to €0.12
+BerbatP: folds 
+DeBareta: folds 
+toxicomax38: calls €0.07
+*** FLOP *** [Th 2c 8c]
+toxicomax38: bets €0.12
+Drawaubonheur: calls €0.12
+*** TURN *** [Th 2c 8c] [3h]
+toxicomax38: bets €0.24
+Drawaubonheur: folds 
+Uncalled bet (€0.24) returned to toxicomax38
+toxicomax38 collected €0.47 from pot
+*** SUMMARY ***
+Total pot €0.50 | Rake €0.03 
+Board [Th 2c 8c 3h]
+Seat 1: 0zh0n3 folded before Flop (didn't bet)
+Seat 2: Drawaubonheur folded on the Turn
+Seat 3: BerbatP (button) folded before Flop (didn't bet)
+Seat 4: DeBareta (small blind) folded before Flop
+Seat 5: toxicomax38 (big blind) collected (€0.47)
+Seat 6: AdrianSeijas20 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260736297933:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:44:35 CET [2026/05/08 11:44:35 ET]
+Table 'Hathor V' 6-max Seat #4 is the button
+Seat 1: 0zh0n3 (€6.90 in chips) 
+Seat 2: Drawaubonheur (€5 in chips) 
+Seat 3: BerbatP (€5.46 in chips) 
+Seat 4: DeBareta (€5 in chips) 
+Seat 5: toxicomax38 (€7.93 in chips) 
+Seat 6: AdrianSeijas20 (€6.54 in chips) 
+toxicomax38: posts small blind €0.02
+AdrianSeijas20: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [Qc 4c]
+0zh0n3: raises €0.07 to €0.12
+Drawaubonheur: folds 
+BerbatP: folds 
+DeBareta: calls €0.12
+toxicomax38: folds 
+AdrianSeijas20: folds 
+*** FLOP *** [Qs 8h Ad]
+0zh0n3: bets €0.10
+DeBareta: folds 
+Uncalled bet (€0.10) returned to 0zh0n3
+0zh0n3 collected €0.29 from pot
+0zh0n3: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.31 | Rake €0.02 
+Board [Qs 8h Ad]
+Seat 1: 0zh0n3 collected (€0.29)
+Seat 2: Drawaubonheur folded before Flop (didn't bet)
+Seat 3: BerbatP folded before Flop (didn't bet)
+Seat 4: DeBareta (button) folded on the Flop
+Seat 5: toxicomax38 (small blind) folded before Flop
+Seat 6: AdrianSeijas20 (big blind) folded before Flop
+
+
+
+PokerStars Hand #260736302138:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:45:02 CET [2026/05/08 11:45:02 ET]
+Table 'Hathor V' 6-max Seat #5 is the button
+Seat 1: 0zh0n3 (€7.07 in chips) 
+Seat 2: Drawaubonheur (€5 in chips) 
+Seat 3: BerbatP (€5.46 in chips) 
+Seat 4: DeBareta (€5 in chips) 
+Seat 5: toxicomax38 (€7.91 in chips) 
+Seat 6: AdrianSeijas20 (€6.49 in chips) 
+AdrianSeijas20: posts small blind €0.02
+0zh0n3: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [Tc As]
+Drawaubonheur: raises €0.07 to €0.12
+BerbatP: raises €0.27 to €0.39
+DeBareta: folds 
+toxicomax38: folds 
+AdrianSeijas20: folds 
+0zh0n3: folds 
+Drawaubonheur: raises €4.61 to €5 and is all-in
+BerbatP: folds 
+Uncalled bet (€4.61) returned to Drawaubonheur
+Drawaubonheur collected €0.85 from pot
+Drawaubonheur: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.85 | Rake €0 
+Seat 1: 0zh0n3 (big blind) folded before Flop
+Seat 2: Drawaubonheur collected (€0.85)
+Seat 3: BerbatP folded before Flop
+Seat 4: DeBareta folded before Flop (didn't bet)
+Seat 5: toxicomax38 (button) folded before Flop (didn't bet)
+Seat 6: AdrianSeijas20 (small blind) folded before Flop
+
+
+
+PokerStars Hand #260736307812:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:45:39 CET [2026/05/08 11:45:39 ET]
+Table 'Hathor V' 6-max Seat #6 is the button
+Seat 1: 0zh0n3 (€7.02 in chips) 
+Seat 2: Drawaubonheur (€5.46 in chips) 
+Seat 3: BerbatP (€5.07 in chips) 
+Seat 4: DeBareta (€5 in chips) 
+Seat 5: toxicomax38 (€7.91 in chips) 
+Seat 6: AdrianSeijas20 (€6.47 in chips) 
+0zh0n3: posts small blind €0.02
+Drawaubonheur: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [Ad Qc]
+BerbatP: raises €0.07 to €0.12
+DeBareta: raises €0.29 to €0.41
+toxicomax38: folds 
+AdrianSeijas20: folds 
+0zh0n3: folds 
+Drawaubonheur: folds 
+BerbatP: calls €0.29
+*** FLOP *** [9h 3d 8d]
+BerbatP: checks 
+DeBareta: checks 
+*** TURN *** [9h 3d 8d] [6s]
+BerbatP: checks 
+DeBareta: checks 
+*** RIVER *** [9h 3d 8d 6s] [7c]
+BerbatP: bets €0.23
+DeBareta: calls €0.23
+*** SHOW DOWN ***
+BerbatP: shows [Ad Qc] (high card Ace)
+DeBareta: mucks hand 
+BerbatP collected €1.27 from pot
+*** SUMMARY ***
+Total pot €1.35 | Rake €0.08 
+Board [9h 3d 8d 6s 7c]
+Seat 1: 0zh0n3 (small blind) folded before Flop
+Seat 2: Drawaubonheur (big blind) folded before Flop
+Seat 3: BerbatP showed [Ad Qc] and won (€1.27) with high card Ace
+Seat 4: DeBareta mucked [Jc Ah]
+Seat 5: toxicomax38 folded before Flop (didn't bet)
+Seat 6: AdrianSeijas20 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260736319614:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:46:53 CET [2026/05/08 11:46:53 ET]
+Table 'Hathor V' 6-max Seat #1 is the button
+Seat 1: 0zh0n3 (€7 in chips) 
+Seat 2: Drawaubonheur (€5.41 in chips) 
+Seat 3: BerbatP (€5.70 in chips) 
+Seat 4: DeBareta (€5 in chips) 
+Seat 5: toxicomax38 (€7.91 in chips) 
+Seat 6: AdrianSeijas20 (€6.47 in chips) 
+Drawaubonheur: posts small blind €0.02
+BerbatP: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [6h 7s]
+DeBareta: folds 
+toxicomax38: calls €0.05
+AdrianSeijas20: calls €0.05
+0zh0n3: calls €0.05
+Drawaubonheur: calls €0.03
+BerbatP: checks 
+*** FLOP *** [5h 8c Qc]
+Drawaubonheur: checks 
+BerbatP: checks 
+toxicomax38: checks 
+AdrianSeijas20: checks 
+0zh0n3: bets €0.17
+Drawaubonheur: folds 
+BerbatP: calls €0.17
+toxicomax38: folds 
+AdrianSeijas20: folds 
+*** TURN *** [5h 8c Qc] [4c]
+BerbatP: checks 
+0zh0n3: bets €0.41
+BerbatP: calls €0.41
+*** RIVER *** [5h 8c Qc 4c] [8d]
+BerbatP: checks 
+0zh0n3: bets €0.44
+BerbatP: calls €0.44
+*** SHOW DOWN ***
+0zh0n3: shows [Kc Jc] (a flush, King high)
+BerbatP: mucks hand 
+0zh0n3 collected €2.15 from pot
+*** SUMMARY ***
+Total pot €2.29 | Rake €0.14 
+Board [5h 8c Qc 4c 8d]
+Seat 1: 0zh0n3 (button) showed [Kc Jc] and won (€2.15) with a flush, King high
+Seat 2: Drawaubonheur (small blind) folded on the Flop
+Seat 3: BerbatP (big blind) mucked [6h 7s]
+Seat 4: DeBareta folded before Flop (didn't bet)
+Seat 5: toxicomax38 folded on the Flop
+Seat 6: AdrianSeijas20 folded on the Flop
+
+
+
+PokerStars Hand #260736344556:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:49:32 CET [2026/05/08 11:49:32 ET]
+Table 'Hathor V' 6-max Seat #2 is the button
+Seat 1: 0zh0n3 (€8.08 in chips) 
+Seat 2: Drawaubonheur (€5.36 in chips) 
+Seat 3: BerbatP (€4.63 in chips) 
+Seat 4: DeBareta (€5 in chips) 
+Seat 5: toxicomax38 (€7.86 in chips) 
+Seat 6: AdrianSeijas20 (€6.42 in chips) 
+BerbatP: posts small blind €0.02
+DeBareta: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [6d 7h]
+toxicomax38: folds 
+AdrianSeijas20: folds 
+0zh0n3: folds 
+Drawaubonheur: raises €0.07 to €0.12
+BerbatP: folds 
+DeBareta: folds 
+Uncalled bet (€0.07) returned to Drawaubonheur
+Drawaubonheur collected €0.12 from pot
+Drawaubonheur: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 1: 0zh0n3 folded before Flop (didn't bet)
+Seat 2: Drawaubonheur (button) collected (€0.12)
+Seat 3: BerbatP (small blind) folded before Flop
+Seat 4: DeBareta (big blind) folded before Flop
+Seat 5: toxicomax38 folded before Flop (didn't bet)
+Seat 6: AdrianSeijas20 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260736348039:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:49:54 CET [2026/05/08 11:49:54 ET]
+Table 'Hathor V' 6-max Seat #3 is the button
+Seat 1: 0zh0n3 (€8.08 in chips) 
+Seat 2: Drawaubonheur (€5.43 in chips) 
+Seat 3: BerbatP (€4.61 in chips) 
+Seat 4: DeBareta (€5 in chips) 
+Seat 5: toxicomax38 (€7.86 in chips) 
+Seat 6: AdrianSeijas20 (€6.42 in chips) 
+DeBareta: posts small blind €0.02
+toxicomax38: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [8s Qs]
+AdrianSeijas20: folds 
+0zh0n3: folds 
+Drawaubonheur: folds 
+BerbatP: raises €0.07 to €0.12
+DeBareta: folds 
+toxicomax38: calls €0.07
+*** FLOP *** [Jd 2d 5s]
+toxicomax38: checks 
+BerbatP: checks 
+*** TURN *** [Jd 2d 5s] [9s]
+toxicomax38: checks 
+BerbatP: bets €0.22
+toxicomax38: folds 
+Uncalled bet (€0.22) returned to BerbatP
+BerbatP collected €0.24 from pot
+BerbatP: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.26 | Rake €0.02 
+Board [Jd 2d 5s 9s]
+Seat 1: 0zh0n3 folded before Flop (didn't bet)
+Seat 2: Drawaubonheur folded before Flop (didn't bet)
+Seat 3: BerbatP (button) collected (€0.24)
+Seat 4: DeBareta (small blind) folded before Flop
+Seat 5: toxicomax38 (big blind) folded on the Turn
+Seat 6: AdrianSeijas20 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260736353358:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:50:29 CET [2026/05/08 11:50:29 ET]
+Table 'Hathor V' 6-max Seat #4 is the button
+Seat 1: 0zh0n3 (€8.08 in chips) 
+Seat 2: Drawaubonheur (€5.43 in chips) 
+Seat 3: BerbatP (€4.73 in chips) 
+Seat 4: DeBareta (€5 in chips) 
+Seat 5: toxicomax38 (€7.74 in chips) 
+Seat 6: AdrianSeijas20 (€6.42 in chips) 
+toxicomax38: posts small blind €0.02
+AdrianSeijas20: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [6h 8d]
+0zh0n3: folds 
+Drawaubonheur: folds 
+BerbatP: folds 
+DeBareta: folds 
+toxicomax38: calls €0.03
+AdrianSeijas20: checks 
+*** FLOP *** [Qh 4s 4d]
+toxicomax38: checks 
+AdrianSeijas20: bets €0.10
+toxicomax38: folds 
+Uncalled bet (€0.10) returned to AdrianSeijas20
+AdrianSeijas20 collected €0.09 from pot
+AdrianSeijas20: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.10 | Rake €0.01 
+Board [Qh 4s 4d]
+Seat 1: 0zh0n3 folded before Flop (didn't bet)
+Seat 2: Drawaubonheur folded before Flop (didn't bet)
+Seat 3: BerbatP folded before Flop (didn't bet)
+Seat 4: DeBareta (button) folded before Flop (didn't bet)
+Seat 5: toxicomax38 (small blind) folded on the Flop
+Seat 6: AdrianSeijas20 (big blind) collected (€0.09)
+
+
+
+PokerStars Hand #260736358413:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:51:02 CET [2026/05/08 11:51:02 ET]
+Table 'Hathor V' 6-max Seat #5 is the button
+Seat 1: 0zh0n3 (€8.08 in chips) 
+Seat 2: Drawaubonheur (€5.43 in chips) 
+Seat 3: BerbatP (€4.73 in chips) 
+Seat 4: DeBareta (€5 in chips) 
+Seat 5: toxicomax38 (€7.69 in chips) 
+Seat 6: AdrianSeijas20 (€6.46 in chips) 
+AdrianSeijas20: posts small blind €0.02
+0zh0n3: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [9c Js]
+Drawaubonheur: folds 
+BerbatP: folds 
+DeBareta: folds 
+toxicomax38: folds 
+AdrianSeijas20: folds 
+Uncalled bet (€0.03) returned to 0zh0n3
+0zh0n3 collected €0.04 from pot
+0zh0n3: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.04 | Rake €0 
+Seat 1: 0zh0n3 (big blind) collected (€0.04)
+Seat 2: Drawaubonheur folded before Flop (didn't bet)
+Seat 3: BerbatP folded before Flop (didn't bet)
+Seat 4: DeBareta folded before Flop (didn't bet)
+Seat 5: toxicomax38 (button) folded before Flop (didn't bet)
+Seat 6: AdrianSeijas20 (small blind) folded before Flop
+
+
+
+PokerStars Hand #260736360284:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:51:14 CET [2026/05/08 11:51:14 ET]
+Table 'Hathor V' 6-max Seat #6 is the button
+Seat 1: 0zh0n3 (€8.10 in chips) 
+Seat 2: Drawaubonheur (€5.43 in chips) 
+Seat 3: BerbatP (€4.73 in chips) 
+Seat 4: DeBareta (€5 in chips) 
+Seat 5: toxicomax38 (€7.69 in chips) 
+Seat 6: AdrianSeijas20 (€6.44 in chips) 
+0zh0n3: posts small blind €0.02
+Drawaubonheur: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [7d 8h]
+BerbatP: folds 
+DeBareta: folds 
+toxicomax38: calls €0.05
+AdrianSeijas20: folds 
+0zh0n3: folds 
+Drawaubonheur: checks 
+*** FLOP *** [Ts Td Th]
+Drawaubonheur: checks 
+toxicomax38: checks 
+*** TURN *** [Ts Td Th] [6s]
+Drawaubonheur: checks 
+toxicomax38: checks 
+*** RIVER *** [Ts Td Th 6s] [7h]
+Drawaubonheur: checks 
+toxicomax38: checks 
+*** SHOW DOWN ***
+Drawaubonheur: shows [9s 8c] (a straight, Six to Ten)
+toxicomax38: mucks hand 
+Drawaubonheur collected €0.11 from pot
+*** SUMMARY ***
+Total pot €0.12 | Rake €0.01 
+Board [Ts Td Th 6s 7h]
+Seat 1: 0zh0n3 (small blind) folded before Flop
+Seat 2: Drawaubonheur (big blind) showed [9s 8c] and won (€0.11) with a straight, Six to Ten
+Seat 3: BerbatP folded before Flop (didn't bet)
+Seat 4: DeBareta folded before Flop (didn't bet)
+Seat 5: toxicomax38 mucked [Qc Jh]
+Seat 6: AdrianSeijas20 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260736366264:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:51:53 CET [2026/05/08 11:51:53 ET]
+Table 'Hathor V' 6-max Seat #1 is the button
+Seat 1: 0zh0n3 (€8.08 in chips) 
+Seat 2: Drawaubonheur (€5.49 in chips) 
+Seat 3: BerbatP (€4.73 in chips) 
+Seat 4: DeBareta (€5 in chips) 
+Seat 5: toxicomax38 (€7.64 in chips) 
+Seat 6: AdrianSeijas20 (€6.44 in chips) 
+Drawaubonheur: posts small blind €0.02
+BerbatP: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [Kh 2d]
+DeBareta: folds 
+toxicomax38: folds 
+AdrianSeijas20: folds 
+DeBareta leaves the table
+0zh0n3: folds 
+Drawaubonheur: folds 
+Uncalled bet (€0.03) returned to BerbatP
+BerbatP collected €0.04 from pot
+BerbatP: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.04 | Rake €0 
+Seat 1: 0zh0n3 (button) folded before Flop (didn't bet)
+Seat 2: Drawaubonheur (small blind) folded before Flop
+Seat 3: BerbatP (big blind) collected (€0.04)
+Seat 4: DeBareta folded before Flop (didn't bet)
+Seat 5: toxicomax38 folded before Flop (didn't bet)
+Seat 6: AdrianSeijas20 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260736369357:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:52:13 CET [2026/05/08 11:52:13 ET]
+Table 'Hathor V' 6-max Seat #2 is the button
+Seat 1: 0zh0n3 (€8.08 in chips) 
+Seat 2: Drawaubonheur (€5.47 in chips) 
+Seat 3: BerbatP (€4.75 in chips) 
+Seat 5: toxicomax38 (€7.64 in chips) 
+Seat 6: AdrianSeijas20 (€6.44 in chips) 
+BerbatP: posts small blind €0.02
+toxicomax38: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [3d 3h]
+AdrianSeijas20: folds 
+0zh0n3: folds 
+Drawaubonheur: folds 
+TounDriTaa joins the table at seat #4 
+BerbatP: raises €0.07 to €0.12
+toxicomax38: calls €0.07
+*** FLOP *** [Jd 6d 2s]
+BerbatP: checks 
+toxicomax38: bets €0.12
+BerbatP: folds 
+Uncalled bet (€0.12) returned to toxicomax38
+toxicomax38 collected €0.23 from pot
+*** SUMMARY ***
+Total pot €0.24 | Rake €0.01 
+Board [Jd 6d 2s]
+Seat 1: 0zh0n3 folded before Flop (didn't bet)
+Seat 2: Drawaubonheur (button) folded before Flop (didn't bet)
+Seat 3: BerbatP (small blind) folded on the Flop
+Seat 5: toxicomax38 (big blind) collected (€0.23)
+Seat 6: AdrianSeijas20 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260736376128:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:52:56 CET [2026/05/08 11:52:56 ET]
+Table 'Hathor V' 6-max Seat #3 is the button
+Seat 4: TounDriTaa (€5 in chips) is sitting out
+Seat 1: 0zh0n3 (€8.08 in chips) 
+Seat 2: Drawaubonheur (€5.47 in chips) 
+Seat 3: BerbatP (€4.63 in chips) 
+Seat 5: toxicomax38 (€7.75 in chips) 
+Seat 6: AdrianSeijas20 (€6.44 in chips) 
+toxicomax38: posts small blind €0.02
+AdrianSeijas20: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [Kc 5c]
+0zh0n3: folds 
+Drawaubonheur: folds 
+BerbatP: raises €0.07 to €0.12
+toxicomax38: calls €0.10
+AdrianSeijas20: folds 
+*** FLOP *** [4c Ad 8h]
+toxicomax38: checks 
+BerbatP: checks 
+*** TURN *** [4c Ad 8h] [2h]
+toxicomax38: bets €0.14
+BerbatP: folds 
+Uncalled bet (€0.14) returned to toxicomax38
+toxicomax38 collected €0.27 from pot
+*** SUMMARY ***
+Total pot €0.29 | Rake €0.02 
+Board [4c Ad 8h 2h]
+Seat 4: TounDriTaa
+Seat 1: 0zh0n3 folded before Flop (didn't bet)
+Seat 2: Drawaubonheur folded before Flop (didn't bet)
+Seat 3: BerbatP (button) folded on the Turn
+Seat 5: toxicomax38 (small blind) collected (€0.27)
+Seat 6: AdrianSeijas20 (big blind) folded before Flop
+
+
+
+PokerStars Hand #260736381195:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:53:28 CET [2026/05/08 11:53:28 ET]
+Table 'Hathor V' 6-max Seat #5 is the button
+Seat 4: TounDriTaa (€5 in chips) is sitting out
+Seat 1: 0zh0n3 (€8.08 in chips) 
+Seat 2: Drawaubonheur (€5.47 in chips) 
+Seat 3: BerbatP (€4.51 in chips) 
+Seat 5: toxicomax38 (€7.90 in chips) 
+Seat 6: AdrianSeijas20 (€6.39 in chips) 
+AdrianSeijas20: posts small blind €0.02
+0zh0n3: posts big blind €0.05
+TounDriTaa: sits out 
+*** HOLE CARDS ***
+Dealt to BerbatP [Ac Td]
+Drawaubonheur: folds 
+BerbatP: raises €0.07 to €0.12
+toxicomax38: folds 
+AdrianSeijas20: folds 
+0zh0n3: folds 
+Uncalled bet (€0.07) returned to BerbatP
+BerbatP collected €0.12 from pot
+BerbatP: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 4: TounDriTaa
+Seat 1: 0zh0n3 (big blind) folded before Flop
+Seat 2: Drawaubonheur folded before Flop (didn't bet)
+Seat 3: BerbatP collected (€0.12)
+Seat 5: toxicomax38 (button) folded before Flop (didn't bet)
+Seat 6: AdrianSeijas20 (small blind) folded before Flop
+
+
+
+PokerStars Hand #260736384392:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:53:49 CET [2026/05/08 11:53:49 ET]
+Table 'Hathor V' 6-max Seat #6 is the button
+Seat 4: TounDriTaa (€5 in chips) is sitting out
+Seat 1: 0zh0n3 (€8.03 in chips) 
+Seat 2: Drawaubonheur (€5.47 in chips) 
+Seat 3: BerbatP (€4.58 in chips) 
+Seat 5: toxicomax38 (€7.90 in chips) 
+Seat 6: AdrianSeijas20 (€6.37 in chips) 
+0zh0n3: posts small blind €0.02
+Drawaubonheur: posts big blind €0.05
+TounDriTaa: sits out 
+*** HOLE CARDS ***
+Dealt to BerbatP [Js 4d]
+BerbatP: folds 
+toxicomax38: calls €0.05
+AdrianSeijas20: folds 
+0zh0n3: folds 
+Drawaubonheur: checks 
+*** FLOP *** [4h 9d 7c]
+Drawaubonheur: checks 
+toxicomax38: checks 
+*** TURN *** [4h 9d 7c] [2h]
+Drawaubonheur: bets €0.10
+toxicomax38: calls €0.10
+*** RIVER *** [4h 9d 7c 2h] [8h]
+Drawaubonheur: checks 
+toxicomax38: checks 
+*** SHOW DOWN ***
+Drawaubonheur: shows [8c 6h] (a pair of Eights)
+toxicomax38: mucks hand 
+Drawaubonheur collected €0.30 from pot
+*** SUMMARY ***
+Total pot €0.32 | Rake €0.02 
+Board [4h 9d 7c 2h 8h]
+Seat 4: TounDriTaa
+Seat 1: 0zh0n3 (small blind) folded before Flop
+Seat 2: Drawaubonheur (big blind) showed [8c 6h] and won (€0.30) with a pair of Eights
+Seat 3: BerbatP folded before Flop (didn't bet)
+Seat 5: toxicomax38 mucked [Kc As]
+Seat 6: AdrianSeijas20 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260736391061:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:54:32 CET [2026/05/08 11:54:32 ET]
+Table 'Hathor V' 6-max Seat #1 is the button
+Seat 4: TounDriTaa (€5 in chips) is sitting out
+Seat 1: 0zh0n3 (€8.01 in chips) 
+Seat 2: Drawaubonheur (€5.62 in chips) 
+Seat 3: BerbatP (€4.58 in chips) 
+Seat 5: toxicomax38 (€7.75 in chips) 
+Seat 6: AdrianSeijas20 (€6.37 in chips) 
+Drawaubonheur: posts small blind €0.02
+BerbatP: posts big blind €0.05
+TounDriTaa: sits out 
+*** HOLE CARDS ***
+Dealt to BerbatP [3c Kc]
+toxicomax38: calls €0.05
+AdrianSeijas20: raises €0.20 to €0.25
+0zh0n3: folds 
+Drawaubonheur: folds 
+BerbatP: folds 
+toxicomax38: calls €0.20
+*** FLOP *** [Jd Kh 6s]
+toxicomax38: checks 
+AdrianSeijas20: checks 
+*** TURN *** [Jd Kh 6s] [4c]
+toxicomax38: checks 
+AdrianSeijas20: bets €0.27
+toxicomax38: folds 
+Uncalled bet (€0.27) returned to AdrianSeijas20
+AdrianSeijas20 collected €0.54 from pot
+AdrianSeijas20: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.57 | Rake €0.03 
+Board [Jd Kh 6s 4c]
+Seat 4: TounDriTaa
+Seat 1: 0zh0n3 (button) folded before Flop (didn't bet)
+Seat 2: Drawaubonheur (small blind) folded before Flop
+Seat 3: BerbatP (big blind) folded before Flop
+Seat 5: toxicomax38 folded on the Turn
+Seat 6: AdrianSeijas20 collected (€0.54)
+
+
+
+PokerStars Hand #260736397895:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:55:16 CET [2026/05/08 11:55:16 ET]
+Table 'Hathor V' 6-max Seat #2 is the button
+Seat 1: 0zh0n3 (€8.01 in chips) 
+Seat 2: Drawaubonheur (€5.60 in chips) 
+Seat 3: BerbatP (€4.53 in chips) 
+Seat 4: TounDriTaa (€5 in chips) 
+Seat 5: toxicomax38 (€7.50 in chips) 
+Seat 6: AdrianSeijas20 (€6.66 in chips) 
+BerbatP: posts small blind €0.02
+TounDriTaa: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [8s 2h]
+toxicomax38: calls €0.05
+AdrianSeijas20: folds 
+0zh0n3: folds 
+Drawaubonheur: raises €0.12 to €0.17
+BerbatP: folds 
+TounDriTaa: calls €0.12
+toxicomax38: calls €0.12
+*** FLOP *** [Qs Kd 5h]
+TounDriTaa: checks 
+toxicomax38: checks 
+Drawaubonheur: bets €0.13
+TounDriTaa: calls €0.13
+toxicomax38: folds 
+*** TURN *** [Qs Kd 5h] [9c]
+TounDriTaa: checks 
+Drawaubonheur: bets €0.74
+TounDriTaa: calls €0.74
+*** RIVER *** [Qs Kd 5h 9c] [8h]
+TounDriTaa: checks 
+Drawaubonheur: checks 
+*** SHOW DOWN ***
+TounDriTaa: shows [Ks Jh] (a pair of Kings)
+Drawaubonheur: mucks hand 
+TounDriTaa collected €2.13 from pot
+*** SUMMARY ***
+Total pot €2.27 | Rake €0.14 
+Board [Qs Kd 5h 9c 8h]
+Seat 1: 0zh0n3 folded before Flop (didn't bet)
+Seat 2: Drawaubonheur (button) mucked [7s Ad]
+Seat 3: BerbatP (small blind) folded before Flop
+Seat 4: TounDriTaa (big blind) showed [Ks Jh] and won (€2.13) with a pair of Kings
+Seat 5: toxicomax38 folded on the Flop
+Seat 6: AdrianSeijas20 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260736407584:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:56:39 CET [2026/05/08 11:56:39 ET]
+Table 'Hathor V' 6-max Seat #3 is the button
+Seat 1: 0zh0n3 (€8.01 in chips) 
+Seat 2: Drawaubonheur (€5 in chips) 
+Seat 3: BerbatP (€4.51 in chips) 
+Seat 4: TounDriTaa (€6.09 in chips) 
+Seat 5: toxicomax38 (€7.33 in chips) 
+Seat 6: AdrianSeijas20 (€6.66 in chips) 
+TounDriTaa: posts small blind €0.02
+toxicomax38: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [7h 9d]
+AdrianSeijas20: folds 
+0zh0n3: folds 
+Drawaubonheur: folds 
+BerbatP: folds 
+TounDriTaa: raises €0.12 to €0.17
+toxicomax38: calls €0.12
+*** FLOP *** [2d 5s Th]
+TounDriTaa: bets €0.11
+toxicomax38: calls €0.11
+*** TURN *** [2d 5s Th] [9c]
+TounDriTaa: checks 
+toxicomax38: bets €0.27
+TounDriTaa: folds 
+Uncalled bet (€0.27) returned to toxicomax38
+toxicomax38 collected €0.53 from pot
+*** SUMMARY ***
+Total pot €0.56 | Rake €0.03 
+Board [2d 5s Th 9c]
+Seat 1: 0zh0n3 folded before Flop (didn't bet)
+Seat 2: Drawaubonheur folded before Flop (didn't bet)
+Seat 3: BerbatP (button) folded before Flop (didn't bet)
+Seat 4: TounDriTaa (small blind) folded on the Turn
+Seat 5: toxicomax38 (big blind) collected (€0.53)
+Seat 6: AdrianSeijas20 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260736413296:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:57:27 CET [2026/05/08 11:57:27 ET]
+Table 'Hathor V' 6-max Seat #4 is the button
+Seat 1: 0zh0n3 (€8.01 in chips) 
+Seat 2: Drawaubonheur (€5 in chips) 
+Seat 3: BerbatP (€4.51 in chips) 
+Seat 4: TounDriTaa (€5.81 in chips) 
+Seat 5: toxicomax38 (€7.58 in chips) 
+Seat 6: AdrianSeijas20 (€6.66 in chips) 
+toxicomax38: posts small blind €0.02
+AdrianSeijas20: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [5h 3d]
+0zh0n3: folds 
+Drawaubonheur: folds 
+BerbatP: folds 
+TounDriTaa: raises €0.07 to €0.12
+toxicomax38: calls €0.10
+AdrianSeijas20: folds 
+*** FLOP *** [4s Qs 5d]
+toxicomax38: checks 
+TounDriTaa: bets €0.14
+toxicomax38: folds 
+Uncalled bet (€0.14) returned to TounDriTaa
+TounDriTaa collected €0.27 from pot
+TounDriTaa: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.29 | Rake €0.02 
+Board [4s Qs 5d]
+Seat 1: 0zh0n3 folded before Flop (didn't bet)
+Seat 2: Drawaubonheur folded before Flop (didn't bet)
+Seat 3: BerbatP folded before Flop (didn't bet)
+Seat 4: TounDriTaa (button) collected (€0.27)
+Seat 5: toxicomax38 (small blind) folded on the Flop
+Seat 6: AdrianSeijas20 (big blind) folded before Flop
+
+
+

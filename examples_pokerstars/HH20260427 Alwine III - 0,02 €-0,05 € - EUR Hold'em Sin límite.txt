@@ -1,0 +1,353 @@
+﻿PokerStars Hand #260611092188:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/04/27 18:49:54 CET [2026/04/27 12:49:54 ET]
+Table 'Alwine III' 6-max Seat #5 is the button
+Seat 1: CheckMate1346 (€7.13 in chips) 
+Seat 2: ayamon (€4.13 in chips) 
+Seat 3: durahimovic (€5 in chips) 
+Seat 4: BerbatP (€5 in chips) 
+Seat 5: preitem (€7.81 in chips) 
+Seat 6: 31011969 (€9.82 in chips) 
+31011969: posts small blind €0.02
+CheckMate1346: posts big blind €0.05
+BerbatP: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [Ac 4d]
+ayamon: folds 
+durahimovic: folds 
+BerbatP: checks 
+preitem: folds 
+31011969: raises €0.10 to €0.15
+CheckMate1346: folds 
+BerbatP: calls €0.10
+*** FLOP *** [Kd 7d 6c]
+31011969: checks 
+BerbatP: bets €0.17
+31011969: folds 
+Uncalled bet (€0.17) returned to BerbatP
+BerbatP collected €0.33 from pot
+BerbatP: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.35 | Rake €0.02 
+Board [Kd 7d 6c]
+Seat 1: CheckMate1346 (big blind) folded before Flop
+Seat 2: ayamon folded before Flop (didn't bet)
+Seat 3: durahimovic folded before Flop (didn't bet)
+Seat 4: BerbatP collected (€0.33)
+Seat 5: preitem (button) folded before Flop (didn't bet)
+Seat 6: 31011969 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #260611098834:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/04/27 18:50:34 CET [2026/04/27 12:50:34 ET]
+Table 'Alwine III' 6-max Seat #6 is the button
+Seat 1: CheckMate1346 (€7.08 in chips) 
+Seat 2: ayamon (€4.13 in chips) 
+Seat 3: durahimovic (€5 in chips) 
+Seat 4: BerbatP (€5.18 in chips) 
+Seat 5: preitem (€7.81 in chips) 
+Seat 6: 31011969 (€9.67 in chips) 
+CheckMate1346: posts small blind €0.02
+ayamon: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [Jc 5c]
+durahimovic: folds 
+BerbatP: folds 
+preitem: folds 
+31011969: raises €0.05 to €0.10
+CheckMate1346: folds 
+ayamon: folds 
+Uncalled bet (€0.05) returned to 31011969
+31011969 collected €0.12 from pot
+31011969: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 1: CheckMate1346 (small blind) folded before Flop
+Seat 2: ayamon (big blind) folded before Flop
+Seat 3: durahimovic folded before Flop (didn't bet)
+Seat 4: BerbatP folded before Flop (didn't bet)
+Seat 5: preitem folded before Flop (didn't bet)
+Seat 6: 31011969 (button) collected (€0.12)
+
+
+
+PokerStars Hand #260611101845:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/04/27 18:50:52 CET [2026/04/27 12:50:52 ET]
+Table 'Alwine III' 6-max Seat #1 is the button
+Seat 1: CheckMate1346 (€7.06 in chips) 
+Seat 2: ayamon (€4.08 in chips) 
+Seat 3: durahimovic (€5 in chips) 
+Seat 4: BerbatP (€5.18 in chips) 
+Seat 5: preitem (€7.81 in chips) 
+Seat 6: 31011969 (€9.74 in chips) 
+ayamon: posts small blind €0.02
+durahimovic: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [4d 3h]
+BerbatP: folds 
+preitem: folds 
+31011969: raises €0.05 to €0.10
+CheckMate1346: folds 
+ayamon: folds 
+durahimovic: folds 
+Uncalled bet (€0.05) returned to 31011969
+31011969 collected €0.12 from pot
+31011969: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 1: CheckMate1346 (button) folded before Flop (didn't bet)
+Seat 2: ayamon (small blind) folded before Flop
+Seat 3: durahimovic (big blind) folded before Flop
+Seat 4: BerbatP folded before Flop (didn't bet)
+Seat 5: preitem folded before Flop (didn't bet)
+Seat 6: 31011969 collected (€0.12)
+
+
+
+PokerStars Hand #260611104221:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/04/27 18:51:07 CET [2026/04/27 12:51:07 ET]
+Table 'Alwine III' 6-max Seat #2 is the button
+Seat 1: CheckMate1346 (€7.06 in chips) 
+Seat 2: ayamon (€4.06 in chips) 
+Seat 3: durahimovic (€5 in chips) 
+Seat 4: BerbatP (€5.18 in chips) 
+Seat 5: preitem (€7.81 in chips) 
+Seat 6: 31011969 (€9.81 in chips) 
+durahimovic: posts small blind €0.02
+BerbatP: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [9h 8h]
+preitem: raises €0.10 to €0.15
+31011969: folds 
+CheckMate1346: folds 
+ayamon: folds 
+durahimovic: folds 
+BerbatP: calls €0.10
+*** FLOP *** [2d Ah Qc]
+BerbatP: checks 
+preitem: bets €0.10
+BerbatP: folds 
+Uncalled bet (€0.10) returned to preitem
+preitem collected €0.30 from pot
+preitem: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.32 | Rake €0.02 
+Board [2d Ah Qc]
+Seat 1: CheckMate1346 folded before Flop (didn't bet)
+Seat 2: ayamon (button) folded before Flop (didn't bet)
+Seat 3: durahimovic (small blind) folded before Flop
+Seat 4: BerbatP (big blind) folded on the Flop
+Seat 5: preitem collected (€0.30)
+Seat 6: 31011969 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260611113936:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/04/27 18:52:06 CET [2026/04/27 12:52:06 ET]
+Table 'Alwine III' 6-max Seat #3 is the button
+Seat 5: preitem (€7.96 in chips) is sitting out
+Seat 1: CheckMate1346 (€7.06 in chips) 
+Seat 2: ayamon (€4.06 in chips) 
+Seat 3: durahimovic (€5 in chips) 
+Seat 4: BerbatP (€5.03 in chips) 
+Seat 6: 31011969 (€9.81 in chips) 
+BerbatP: posts small blind €0.02
+preitem: is sitting out 
+31011969: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [Qh 6d]
+CheckMate1346: folds 
+ayamon: folds 
+preitem leaves the table
+durahimovic: raises €0.07 to €0.12
+BerbatP: folds 
+31011969: folds 
+Uncalled bet (€0.07) returned to durahimovic
+durahimovic collected €0.12 from pot
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 5: preitem
+Seat 1: CheckMate1346 folded before Flop (didn't bet)
+Seat 2: ayamon folded before Flop (didn't bet)
+Seat 3: durahimovic (button) collected (€0.12)
+Seat 4: BerbatP (small blind) folded before Flop
+Seat 6: 31011969 (big blind) folded before Flop
+
+
+
+PokerStars Hand #260611116496:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/04/27 18:52:21 CET [2026/04/27 12:52:21 ET]
+Table 'Alwine III' 6-max Seat #4 is the button
+Seat 1: CheckMate1346 (€7.06 in chips) 
+Seat 2: ayamon (€4.06 in chips) 
+Seat 3: durahimovic (€5.07 in chips) 
+Seat 4: BerbatP (€5.01 in chips) 
+Seat 6: 31011969 (€9.76 in chips) 
+31011969: posts small blind €0.02
+CheckMate1346: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [5c 8d]
+ayamon: folds 
+Cuka Fab joins the table at seat #5 
+durahimovic: folds 
+Cuka Fab leaves the table
+BerbatP: folds 
+31011969: raises €0.07 to €0.12
+CheckMate1346: raises €0.25 to €0.37
+31011969: folds 
+Uncalled bet (€0.25) returned to CheckMate1346
+CheckMate1346 collected €0.24 from pot
+CheckMate1346: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.24 | Rake €0 
+Seat 1: CheckMate1346 (big blind) collected (€0.24)
+Seat 2: ayamon folded before Flop (didn't bet)
+Seat 3: durahimovic folded before Flop (didn't bet)
+Seat 4: BerbatP (button) folded before Flop (didn't bet)
+Seat 6: 31011969 (small blind) folded before Flop
+
+
+
+PokerStars Hand #260611123279:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/04/27 18:53:02 CET [2026/04/27 12:53:02 ET]
+Table 'Alwine III' 6-max Seat #6 is the button
+Seat 1: CheckMate1346 (€7.18 in chips) 
+Seat 2: ayamon (€4.06 in chips) 
+Seat 3: durahimovic (€5.07 in chips) 
+Seat 4: BerbatP (€5.01 in chips) 
+Seat 6: 31011969 (€9.64 in chips) 
+CheckMate1346: posts small blind €0.02
+ayamon: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [8c Kh]
+durahimovic: folds 
+BerbatP: folds 
+31011969: raises €0.10 to €0.15
+cia28 joins the table at seat #5 
+CheckMate1346: folds 
+ayamon: folds 
+Uncalled bet (€0.10) returned to 31011969
+31011969 collected €0.12 from pot
+31011969: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 1: CheckMate1346 (small blind) folded before Flop
+Seat 2: ayamon (big blind) folded before Flop
+Seat 3: durahimovic folded before Flop (didn't bet)
+Seat 4: BerbatP folded before Flop (didn't bet)
+Seat 6: 31011969 (button) collected (€0.12)
+
+
+
+PokerStars Hand #260611129779:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/04/27 18:53:40 CET [2026/04/27 12:53:40 ET]
+Table 'Alwine III' 6-max Seat #1 is the button
+Seat 5: cia28 (€5 in chips) is sitting out
+Seat 1: CheckMate1346 (€7.16 in chips) 
+Seat 2: ayamon (€4.01 in chips) 
+Seat 3: durahimovic (€5.07 in chips) 
+Seat 4: BerbatP (€5.01 in chips) 
+Seat 6: 31011969 (€9.71 in chips) 
+ayamon: posts small blind €0.02
+durahimovic: posts big blind €0.05
+cia28: sits out 
+*** HOLE CARDS ***
+Dealt to BerbatP [8c Ac]
+BerbatP: raises €0.07 to €0.12
+31011969: folds 
+CheckMate1346: folds 
+31011969 leaves the table
+ayamon: folds 
+durahimovic: folds 
+Uncalled bet (€0.07) returned to BerbatP
+BerbatP collected €0.12 from pot
+BerbatP: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 5: cia28
+Seat 1: CheckMate1346 (button) folded before Flop (didn't bet)
+Seat 2: ayamon (small blind) folded before Flop
+Seat 3: durahimovic (big blind) folded before Flop
+Seat 4: BerbatP collected (€0.12)
+Seat 6: 31011969 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260611132403:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/04/27 18:53:56 CET [2026/04/27 12:53:56 ET]
+Table 'Alwine III' 6-max Seat #2 is the button
+Seat 5: cia28 (€5 in chips) is sitting out
+Seat 1: CheckMate1346 (€7.16 in chips) 
+Seat 2: ayamon (€3.99 in chips) 
+Seat 3: durahimovic (€5.02 in chips) 
+Seat 4: BerbatP (€5.08 in chips) 
+durahimovic: posts small blind €0.02
+BerbatP: posts big blind €0.05
+cia28: sits out 
+*** HOLE CARDS ***
+Dealt to BerbatP [7d Th]
+CheckMate1346: raises €0.10 to €0.15
+ayamon: folds 
+durahimovic: folds 
+BerbatP: folds 
+Uncalled bet (€0.10) returned to CheckMate1346
+CheckMate1346 collected €0.12 from pot
+CheckMate1346: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 5: cia28
+Seat 1: CheckMate1346 collected (€0.12)
+Seat 2: ayamon (button) folded before Flop (didn't bet)
+Seat 3: durahimovic (small blind) folded before Flop
+Seat 4: BerbatP (big blind) folded before Flop
+
+
+
+PokerStars Hand #260611135079:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/04/27 18:54:12 CET [2026/04/27 12:54:12 ET]
+Table 'Alwine III' 6-max Seat #3 is the button
+Seat 1: CheckMate1346 (€7.23 in chips) 
+Seat 2: ayamon (€3.99 in chips) 
+Seat 3: durahimovic (€5 in chips) 
+Seat 4: BerbatP (€5.03 in chips) 
+Seat 5: cia28 (€5 in chips) 
+BerbatP: posts small blind €0.02
+cia28: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [5d As]
+CheckMate1346: folds 
+ayamon: folds 
+durahimovic: raises €0.07 to €0.12
+BerbatP: folds 
+cia28: folds 
+Uncalled bet (€0.07) returned to durahimovic
+durahimovic collected €0.12 from pot
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 1: CheckMate1346 folded before Flop (didn't bet)
+Seat 2: ayamon folded before Flop (didn't bet)
+Seat 3: durahimovic (button) collected (€0.12)
+Seat 4: BerbatP (small blind) folded before Flop
+Seat 5: cia28 (big blind) folded before Flop
+
+
+
+PokerStars Hand #260611137623:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/04/27 18:54:27 CET [2026/04/27 12:54:27 ET]
+Table 'Alwine III' 6-max Seat #4 is the button
+Seat 1: CheckMate1346 (€7.23 in chips) 
+Seat 2: ayamon (€3.99 in chips) 
+Seat 3: durahimovic (€5.07 in chips) 
+Seat 4: BerbatP (€5.01 in chips) 
+Seat 5: cia28 (€5 in chips) 
+cia28: posts small blind €0.02
+CheckMate1346: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [3d Qd]
+ayamon: folds 
+durahimovic: folds 
+BerbatP: raises €0.07 to €0.12
+cia28: folds 
+CheckMate1346: folds 
+Uncalled bet (€0.07) returned to BerbatP
+BerbatP collected €0.12 from pot
+BerbatP: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 1: CheckMate1346 (big blind) folded before Flop
+Seat 2: ayamon folded before Flop (didn't bet)
+Seat 3: durahimovic folded before Flop (didn't bet)
+Seat 4: BerbatP (button) collected (€0.12)
+Seat 5: cia28 (small blind) folded before Flop
+
+
+

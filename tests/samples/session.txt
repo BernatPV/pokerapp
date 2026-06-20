@@ -1,0 +1,432 @@
+PokerStars Hand #100001:  Hold'em No Limit ($0.50/$1.00 USD) - 2021/05/05 18:00:00 ET
+Table 'Vega' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: Villain1 ($100.00 in chips)
+Seat 3: Villain2 ($100.00 in chips)
+Seat 4: Villain3 ($100.00 in chips)
+Seat 5: Villain4 ($100.00 in chips)
+Seat 6: Villain5 ($100.00 in chips)
+Villain1: posts small blind $0.50
+Villain2: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Ah Ks]
+Villain3: folds
+Villain4: folds
+Villain5: folds
+Hero: raises $1.50 to $2.50
+Villain1: folds
+Villain2: folds
+Uncalled bet ($1.50) returned to Hero
+Hero collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.00
+Seat 1: Hero (button) collected ($2.50)
+
+PokerStars Hand #100002:  Hold'em No Limit ($0.50/$1.00 USD) - 2021/05/05 18:02:00 ET
+Table 'Vega' 6-max Seat #2 is the button
+Seat 1: Hero ($101.50 in chips)
+Seat 2: Villain1 ($99.00 in chips)
+Seat 3: Villain2 ($100.00 in chips)
+Seat 4: Villain3 ($100.00 in chips)
+Seat 5: Villain4 ($100.00 in chips)
+Seat 6: Villain5 ($100.00 in chips)
+Villain2: posts small blind $0.50
+Villain3: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [7d 2c]
+Villain4: folds
+Villain5: folds
+Hero: folds
+Villain1: raises $2.00 to $3.00
+Villain2: folds
+Villain3: folds
+Uncalled bet ($2.00) returned to Villain1
+Villain1 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.00
+Seat 2: Villain1 (button) collected ($2.50)
+
+PokerStars Hand #100003:  Hold'em No Limit ($0.50/$1.00 USD) - 2021/05/05 18:05:00 ET
+Table 'Vega' 6-max Seat #3 is the button
+Seat 1: Hero ($101.50 in chips)
+Seat 2: Villain1 ($101.50 in chips)
+Seat 3: Villain2 ($100.00 in chips)
+Seat 4: Villain3 ($99.00 in chips)
+Seat 5: Villain4 ($100.00 in chips)
+Seat 6: Villain5 ($100.00 in chips)
+Villain3: posts small blind $0.50
+Villain4: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [As Qs]
+Villain5: folds
+Hero: raises $2.00 to $3.00
+Villain1: folds
+Villain2: folds
+Villain3: folds
+Villain4: calls $2.00
+*** FLOP *** [Qh 8c 3d]
+Villain4: checks
+Hero: bets $4.00
+Villain4: folds
+Uncalled bet ($4.00) returned to Hero
+Hero collected $6.50 from pot
+*** SUMMARY ***
+Total pot $6.50 | Rake $0.00
+Board [Qh 8c 3d]
+Seat 1: Hero collected ($6.50)
+
+PokerStars Hand #100004:  Hold'em No Limit ($0.50/$1.00 USD) - 2021/05/05 18:08:00 ET
+Table 'Vega' 6-max Seat #4 is the button
+Seat 1: Hero ($108.00 in chips)
+Seat 2: Villain1 ($101.50 in chips)
+Seat 3: Villain2 ($100.00 in chips)
+Seat 4: Villain3 ($99.00 in chips)
+Seat 5: Villain4 ($95.00 in chips)
+Seat 6: Villain5 ($100.00 in chips)
+Villain4: posts small blind $0.50
+Villain5: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Kc Kd]
+Hero: raises $2.00 to $3.00
+Villain2: folds
+Villain3: raises $7.00 to $10.00
+Villain4: folds
+Villain5: folds
+Hero: raises $20.00 to $30.00
+Villain3: folds
+Uncalled bet ($20.00) returned to Hero
+Hero collected $21.50 from pot
+*** SUMMARY ***
+Total pot $21.50 | Rake $0.00
+Seat 1: Hero collected ($21.50)
+
+PokerStars Hand #100005:  Hold'em No Limit ($0.50/$1.00 USD) - 2021/05/05 18:11:00 ET
+Table 'Vega' 6-max Seat #5 is the button
+Seat 1: Hero ($129.50 in chips)
+Seat 2: Villain1 ($101.50 in chips)
+Seat 3: Villain2 ($100.00 in chips)
+Seat 4: Villain3 ($89.00 in chips)
+Seat 5: Villain4 ($95.00 in chips)
+Seat 6: Villain5 ($100.00 in chips)
+Villain5: posts small blind $0.50
+Hero: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [9h 4s]
+Villain1: folds
+Villain2: folds
+Villain3: folds
+Villain4: raises $2.00 to $3.00
+Villain5: folds
+Hero: calls $2.00
+*** FLOP *** [Ah Kd 7c]
+Hero: checks
+Villain4: bets $4.00
+Hero: folds
+Uncalled bet ($4.00) returned to Villain4
+Villain4 collected $6.50 from pot
+*** SUMMARY ***
+Total pot $6.50 | Rake $0.00
+Board [Ah Kd 7c]
+Seat 5: Villain4 (button) collected ($6.50)
+
+PokerStars Hand #100006:  Hold'em No Limit ($0.50/$1.00 USD) - 2021/05/05 18:14:00 ET
+Table 'Vega' 6-max Seat #6 is the button
+Seat 1: Hero ($126.50 in chips)
+Seat 2: Villain1 ($101.50 in chips)
+Seat 3: Villain2 ($100.00 in chips)
+Seat 4: Villain3 ($89.00 in chips)
+Seat 5: Villain4 ($98.50 in chips)
+Seat 6: Villain5 ($100.00 in chips)
+Hero: posts small blind $0.50
+Villain1: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Jd Js]
+Villain2: folds
+Villain3: folds
+Villain4: folds
+Villain5: folds
+Hero: raises $2.00 to $3.00
+Villain1: calls $2.00
+*** FLOP *** [8d 5c 2h]
+Hero: bets $4.00
+Villain1: folds
+Uncalled bet ($4.00) returned to Hero
+Hero collected $6.00 from pot
+*** SUMMARY ***
+Total pot $6.00 | Rake $0.00
+Board [8d 5c 2h]
+Seat 1: Hero (small blind) collected ($6.00)
+
+PokerStars Hand #100007:  Hold'em No Limit ($0.50/$1.00 USD) - 2021/05/05 18:18:00 ET
+Table 'Vega' 6-max Seat #1 is the button
+Seat 1: Hero ($129.50 in chips)
+Seat 2: Villain1 ($98.50 in chips)
+Seat 3: Villain2 ($100.00 in chips)
+Seat 4: Villain3 ($89.00 in chips)
+Seat 5: Villain4 ($98.50 in chips)
+Seat 6: Villain5 ($100.00 in chips)
+Villain1: posts small blind $0.50
+Villain2: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Ad Ac]
+Villain3: folds
+Villain4: folds
+Villain5: folds
+Hero: raises $2.00 to $3.00
+Villain1: folds
+Villain2: calls $2.00
+*** FLOP *** [Ks 9d 4c]
+Villain2: checks
+Hero: bets $4.00
+Villain2: calls $4.00
+*** TURN *** [Ks 9d 4c] [2s]
+Villain2: checks
+Hero: bets $10.00
+Villain2: calls $10.00
+*** RIVER *** [Ks 9d 4c 2s] [7h]
+Villain2: checks
+Hero: bets $20.00
+Villain2: folds
+Uncalled bet ($20.00) returned to Hero
+Hero collected $34.50 from pot
+*** SUMMARY ***
+Total pot $34.50 | Rake $0.00
+Board [Ks 9d 4c 2s 7h]
+Seat 1: Hero (button) collected ($34.50)
+
+PokerStars Hand #100008:  Hold'em No Limit ($0.50/$1.00 USD) - 2021/05/05 18:22:00 ET
+Table 'Vega' 6-max Seat #2 is the button
+Seat 1: Hero ($164.00 in chips)
+Seat 2: Villain1 ($98.50 in chips)
+Seat 3: Villain2 ($82.50 in chips)
+Seat 4: Villain3 ($89.00 in chips)
+Seat 5: Villain4 ($98.50 in chips)
+Seat 6: Villain5 ($100.00 in chips)
+Villain2: posts small blind $0.50
+Villain3: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [6c 6d]
+Villain4: folds
+Villain5: folds
+Hero: raises $2.00 to $3.00
+Villain1: folds
+Villain2: folds
+Villain3: folds
+Uncalled bet ($2.00) returned to Hero
+Hero collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.00
+Seat 1: Hero collected ($2.50)
+
+PokerStars Hand #100009:  Hold'em No Limit ($0.50/$1.00 USD) - 2021/05/05 18:26:00 ET
+Table 'Vega' 6-max Seat #3 is the button
+Seat 1: Hero ($166.50 in chips)
+Seat 2: Villain1 ($98.50 in chips)
+Seat 3: Villain2 ($82.50 in chips)
+Seat 4: Villain3 ($88.00 in chips)
+Seat 5: Villain4 ($98.50 in chips)
+Seat 6: Villain5 ($100.00 in chips)
+Villain3: posts small blind $0.50
+Villain4: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Qd Qh]
+Villain5: folds
+Hero: raises $2.00 to $3.00
+Villain1: folds
+Villain2: calls $3.00
+Villain3: folds
+Villain4: folds
+*** FLOP *** [Ah Tc 5d]
+Hero: bets $4.00
+Villain2: calls $4.00
+*** TURN *** [Ah Tc 5d] [Js]
+Hero: checks
+Villain2: bets $9.00
+Hero: calls $9.00
+*** RIVER *** [Ah Tc 5d Js] [3c]
+Hero: checks
+Villain2: bets $20.00
+Hero: folds
+Uncalled bet ($20.00) returned to Villain2
+Villain2 collected $33.50 from pot
+*** SUMMARY ***
+Total pot $33.50 | Rake $0.00
+Board [Ah Tc 5d Js 3c]
+Seat 3: Villain2 (button) collected ($33.50)
+
+PokerStars Hand #100010:  Hold'em No Limit ($0.50/$1.00 USD) - 2021/05/05 18:30:00 ET
+Table 'Vega' 6-max Seat #4 is the button
+Seat 1: Hero ($150.50 in chips)
+Seat 2: Villain1 ($98.50 in chips)
+Seat 3: Villain2 ($112.00 in chips)
+Seat 4: Villain3 ($88.00 in chips)
+Seat 5: Villain4 ($98.50 in chips)
+Seat 6: Villain5 ($100.00 in chips)
+Villain4: posts small blind $0.50
+Villain5: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Ks Qd]
+Hero: raises $2.00 to $3.00
+Villain2: folds
+Villain3: folds
+Villain4: folds
+Villain5: folds
+Uncalled bet ($2.00) returned to Hero
+Hero collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.00
+Seat 1: Hero collected ($2.50)
+
+PokerStars Hand #100011:  Hold'em No Limit ($0.50/$1.00 USD) - 2021/05/05 18:34:00 ET
+Table 'Vega' 6-max Seat #5 is the button
+Seat 1: Hero ($153.00 in chips)
+Seat 2: Villain1 ($98.50 in chips)
+Seat 3: Villain2 ($112.00 in chips)
+Seat 4: Villain3 ($88.00 in chips)
+Seat 5: Villain4 ($98.50 in chips)
+Seat 6: Villain5 ($100.00 in chips)
+Villain5: posts small blind $0.50
+Hero: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [8s 3h]
+Villain1: folds
+Villain2: folds
+Villain3: folds
+Villain4: folds
+Villain5: folds
+Uncalled bet ($0.50) returned to Hero
+Hero collected $1.00 from pot
+*** SUMMARY ***
+Total pot $1.00 | Rake $0.00
+Seat 1: Hero (big blind) collected ($1.00)
+
+PokerStars Hand #100012:  Hold'em No Limit ($0.50/$1.00 USD) - 2021/05/05 18:37:00 ET
+Table 'Vega' 6-max Seat #6 is the button
+Seat 1: Hero ($153.50 in chips)
+Seat 2: Villain1 ($98.50 in chips)
+Seat 3: Villain2 ($112.00 in chips)
+Seat 4: Villain3 ($88.00 in chips)
+Seat 5: Villain4 ($98.00 in chips)
+Seat 6: Villain5 ($100.00 in chips)
+Hero: posts small blind $0.50
+Villain1: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [4d 9c]
+Villain2: folds
+Villain3: folds
+Villain4: folds
+Villain5: raises $2.00 to $3.00
+Hero: folds
+Villain1: folds
+Uncalled bet ($2.00) returned to Villain5
+Villain5 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.00
+Seat 6: Villain5 collected ($2.50)
+
+PokerStars Hand #100013:  Hold'em No Limit ($0.50/$1.00 USD) - 2021/05/05 18:41:00 ET
+Table 'Vega' 6-max Seat #1 is the button
+Seat 1: Hero ($153.00 in chips)
+Seat 2: Villain1 ($97.50 in chips)
+Seat 3: Villain2 ($112.00 in chips)
+Seat 4: Villain3 ($88.00 in chips)
+Seat 5: Villain4 ($98.00 in chips)
+Seat 6: Villain5 ($102.50 in chips)
+Villain1: posts small blind $0.50
+Villain2: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Tc Th]
+Villain3: folds
+Villain4: folds
+Villain5: folds
+Hero: raises $2.00 to $3.00
+Villain1: calls $2.50
+Villain2: calls $2.00
+*** FLOP *** [7s 4d 2c]
+Villain1: checks
+Villain2: checks
+Hero: bets $6.00
+Villain1: folds
+Villain2: folds
+Uncalled bet ($6.00) returned to Hero
+Hero collected $9.00 from pot
+*** SUMMARY ***
+Total pot $9.00 | Rake $0.00
+Board [7s 4d 2c]
+Seat 1: Hero (button) collected ($9.00)
+
+PokerStars Hand #100014:  Hold'em No Limit ($0.50/$1.00 USD) - 2021/05/05 18:45:00 ET
+Table 'Vega' 6-max Seat #2 is the button
+Seat 1: Hero ($162.00 in chips)
+Seat 2: Villain1 ($94.50 in chips)
+Seat 3: Villain2 ($109.00 in chips)
+Seat 4: Villain3 ($88.00 in chips)
+Seat 5: Villain4 ($98.00 in chips)
+Seat 6: Villain5 ($102.50 in chips)
+Villain2: posts small blind $0.50
+Villain3: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Ah 5h]
+Villain4: folds
+Villain5: folds
+Hero: calls $1.00
+Villain1: folds
+Villain2: folds
+Villain3: checks
+*** FLOP *** [Kd Qc 8s]
+Villain3: bets $2.00
+Hero: folds
+Uncalled bet ($2.00) returned to Villain3
+Villain3 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.00
+Board [Kd Qc 8s]
+Seat 4: Villain3 (big blind) collected ($2.50)
+
+PokerStars Hand #100015:  Hold'em No Limit ($0.50/$1.00 USD) - 2021/05/05 18:49:00 ET
+Table 'Vega' 6-max Seat #3 is the button
+Seat 1: Hero ($160.50 in chips)
+Seat 2: Villain1 ($94.50 in chips)
+Seat 3: Villain2 ($109.00 in chips)
+Seat 4: Villain3 ($89.50 in chips)
+Seat 5: Villain4 ($98.00 in chips)
+Seat 6: Villain5 ($102.50 in chips)
+Villain3: posts small blind $0.50
+Villain4: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [ Js Tc ]
+Villain5: folds
+Hero: raises $2.00 to $3.00
+Villain1: folds
+Villain2: folds
+Villain3: folds
+Villain4: raises $8.00 to $11.00
+Hero: folds
+Uncalled bet ($8.00) returned to Villain4
+Villain4 collected $7.00 from pot
+*** SUMMARY ***
+Total pot $7.00 | Rake $0.00
+Seat 5: Villain4 (big blind) collected ($7.00)
+
+PokerStars Hand #100016:  Hold'em No Limit ($0.50/$1.00 USD) - 2021/05/05 18:53:00 ET
+Table 'Vega' 6-max Seat #4 is the button
+Seat 1: Hero ($157.50 in chips)
+Seat 2: Villain1 ($94.50 in chips)
+Seat 3: Villain2 ($109.00 in chips)
+Seat 4: Villain3 ($89.50 in chips)
+Seat 5: Villain4 ($104.00 in chips)
+Seat 6: Villain5 ($102.50 in chips)
+Villain4: posts small blind $0.50
+Villain5: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Ac Kc]
+Hero: raises $2.00 to $3.00
+Villain2: folds
+Villain3: folds
+Villain4: folds
+Villain5: folds
+Uncalled bet ($2.00) returned to Hero
+Hero collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.00
+Seat 1: Hero collected ($2.50)

@@ -1,0 +1,40 @@
+PokerStars Hand #243490149047:  Hold'em No Limit ($0.50/$1.00 USD) - 2021/05/04 12:30:00 ET
+Table 'Andromeda' 6-max Seat #1 is the button
+Seat 1: Hero ($100.00 in chips)
+Seat 2: SmallBlindGuy ($120.50 in chips)
+Seat 3: BigBlindGuy ($98.00 in chips)
+Seat 4: Cutoff ($150.00 in chips)
+Seat 5: Hijack ($75.00 in chips)
+Seat 6: UTGPlayer ($100.00 in chips)
+SmallBlindGuy: posts small blind $0.50
+BigBlindGuy: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to Hero [Ah Kd]
+UTGPlayer: folds
+Hijack: raises $2.00 to $3.00
+Cutoff: folds
+Hero: calls $3.00
+SmallBlindGuy: folds
+BigBlindGuy: folds
+*** FLOP *** [Th 7c 2d]
+Hijack: bets $4.00
+Hero: calls $4.00
+*** TURN *** [Th 7c 2d] [Ks]
+Hijack: checks
+Hero: bets $6.00
+Hijack: calls $6.00
+*** RIVER *** [Th 7c 2d Ks] [Ad]
+Hijack: checks
+Hero: bets $15.00
+Hijack: folds
+Uncalled bet ($15.00) returned to Hero
+Hero collected $26.50 from pot
+*** SUMMARY ***
+Total pot $27.50 | Rake $1.00
+Board [Th 7c 2d Ks Ad]
+Seat 1: Hero (button) collected ($26.50)
+Seat 2: SmallBlindGuy (small blind) folded before Flop
+Seat 3: BigBlindGuy (big blind) folded before Flop
+Seat 4: Cutoff folded before Flop (didn't bet)
+Seat 5: Hijack folded on the River
+Seat 6: UTGPlayer folded before Flop (didn't bet)

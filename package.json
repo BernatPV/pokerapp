@@ -1,0 +1,20 @@
+{
+  "name": "poker-hand-replayer",
+  "version": "0.1.0",
+  "description": "Import, store, and visually replay poker hand histories.",
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "start": "python3 -m http.server 8080"
+  },
+  "keywords": [
+    "poker",
+    "hand-history",
+    "replayer",
+    "pokerstars"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "jsdom": "^29.1.1"
+  }
+}

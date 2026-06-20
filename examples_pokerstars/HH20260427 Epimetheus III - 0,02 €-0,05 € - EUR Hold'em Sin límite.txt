@@ -1,0 +1,2717 @@
+﻿PokerStars Hand #260610722166:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/04/27 18:12:14 CET [2026/04/27 12:12:14 ET]
+Table 'Epimetheus III' 6-max Seat #4 is the button
+Seat 1: Pelaez47 (€4.61 in chips) 
+Seat 4: BerbatP (€5 in chips) 
+BerbatP: posts small blind €0.02
+Pelaez47: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [7c 4c]
+BerbatP: folds 
+Uncalled bet (€0.03) returned to Pelaez47
+Pelaez47 collected €0.04 from pot
+*** SUMMARY ***
+Total pot €0.04 | Rake €0 
+Seat 1: Pelaez47 (big blind) collected (€0.04)
+Seat 4: BerbatP (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #260610724683:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/04/27 18:12:30 CET [2026/04/27 12:12:30 ET]
+Table 'Epimetheus III' 6-max Seat #1 is the button
+Seat 1: Pelaez47 (€4.63 in chips) 
+Seat 4: BerbatP (€4.98 in chips) 
+Pelaez47: posts small blind €0.02
+BerbatP: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [2h 5h]
+Nakerdev joins the table at seat #5 
+Pelaez47: raises €0.07 to €0.12
+rabbitsblood joins the table at seat #2 
+BerbatP: folds 
+Uncalled bet (€0.07) returned to Pelaez47
+Pelaez47 collected €0.10 from pot
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Seat 1: Pelaez47 (button) (small blind) collected (€0.10)
+Seat 4: BerbatP (big blind) folded before Flop
+
+
+
+PokerStars Hand #260610728423:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/04/27 18:12:55 CET [2026/04/27 12:12:55 ET]
+Table 'Epimetheus III' 6-max Seat #4 is the button
+Seat 5: Nakerdev (€5 in chips) is sitting out
+Seat 1: Pelaez47 (€4.68 in chips) 
+Seat 2: rabbitsblood (€5 in chips) 
+Seat 4: BerbatP (€4.93 in chips) 
+Pelaez47: posts small blind €0.02
+rabbitsblood: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [Td 2s]
+BerbatP has timed out
+BerbatP: folds 
+Pelaez47: raises €0.07 to €0.12
+rabbitsblood: folds 
+Uncalled bet (€0.07) returned to Pelaez47
+Pelaez47 collected €0.10 from pot
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Seat 5: Nakerdev
+Seat 1: Pelaez47 (small blind) collected (€0.10)
+Seat 2: rabbitsblood (big blind) folded before Flop
+Seat 4: BerbatP (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260610732659:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/04/27 18:13:22 CET [2026/04/27 12:13:22 ET]
+Table 'Epimetheus III' 6-max Seat #1 is the button
+Seat 5: Nakerdev (€5 in chips) is sitting out
+Seat 1: Pelaez47 (€4.73 in chips) 
+Seat 2: rabbitsblood (€4.95 in chips) 
+Seat 4: BerbatP (€4.93 in chips) 
+rabbitsblood: posts small blind €0.02
+BerbatP: posts big blind €0.05
+Nakerdev: sits out 
+*** HOLE CARDS ***
+Dealt to BerbatP [5c 2c]
+Pelaez47: folds 
+Pelaez47 leaves the table
+rabbitsblood: folds 
+Uncalled bet (€0.03) returned to BerbatP
+ParEnMano8 joins the table at seat #3 
+BerbatP collected €0.04 from pot
+BerbatP: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.04 | Rake €0 
+Seat 5: Nakerdev
+Seat 1: Pelaez47 (button) folded before Flop (didn't bet)
+Seat 2: rabbitsblood (small blind) folded before Flop
+Seat 4: BerbatP (big blind) collected (€0.04)
+
+
+
+PokerStars Hand #260610733750:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/04/27 18:13:29 CET [2026/04/27 12:13:29 ET]
+Table 'Epimetheus III' 6-max Seat #2 is the button
+Seat 3: ParEnMano8 (€5 in chips) is sitting out
+Seat 2: rabbitsblood (€4.93 in chips) 
+Seat 4: BerbatP (€4.95 in chips) 
+Seat 5: Nakerdev (€5 in chips) 
+BerbatP: posts small blind €0.02
+Nakerdev: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [Ts 3s]
+tankets joins the table at seat #1 
+rabbitsblood: folds 
+BerbatP: raises €0.10 to €0.15
+Gordaco4 joins the table at seat #6 
+Gordaco4 leaves the table
+Nakerdev: calls €0.10
+*** FLOP *** [8c 3d Th]
+BerbatP: bets €0.09
+Nakerdev: calls €0.09
+*** TURN *** [8c 3d Th] [2d]
+BerbatP: bets €0.23
+Nakerdev: calls €0.23
+*** RIVER *** [8c 3d Th 2d] [2h]
+BerbatP: bets €0.34
+Nakerdev: folds 
+Uncalled bet (€0.34) returned to BerbatP
+BerbatP collected €0.88 from pot
+BerbatP: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.94 | Rake €0.06 
+Board [8c 3d Th 2d 2h]
+Seat 3: ParEnMano8
+Seat 2: rabbitsblood (button) folded before Flop (didn't bet)
+Seat 4: BerbatP (small blind) collected (€0.88)
+Seat 5: Nakerdev (big blind) folded on the River
+
+
+
+PokerStars Hand #260610746000:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/04/27 18:14:48 CET [2026/04/27 12:14:48 ET]
+Table 'Epimetheus III' 6-max Seat #4 is the button
+Seat 3: ParEnMano8 (€5 in chips) is sitting out
+Seat 1: tankets (€5 in chips) 
+Seat 2: rabbitsblood (€4.93 in chips) 
+Seat 4: BerbatP (€5.36 in chips) 
+Seat 5: Nakerdev (€5 in chips) 
+Nakerdev: posts small blind €0.02
+tankets: posts big blind €0.05
+ParEnMano8: sits out 
+*** HOLE CARDS ***
+Dealt to BerbatP [4h Ah]
+rabbitsblood: folds 
+BerbatP: raises €0.10 to €0.15
+Nakerdev: folds 
+tankets: calls €0.10
+*** FLOP *** [Qh 7h Kc]
+tankets: checks 
+BerbatP: bets €0.10
+tankets: calls €0.10
+*** TURN *** [Qh 7h Kc] [Qd]
+tankets: checks 
+BerbatP: checks 
+*** RIVER *** [Qh 7h Kc Qd] [5c]
+tankets: checks 
+BerbatP: checks 
+*** SHOW DOWN ***
+tankets: shows [Ts Jd] (a pair of Queens)
+BerbatP: shows [4h Ah] (a pair of Queens - Ace kicker)
+BerbatP collected €0.49 from pot
+*** SUMMARY ***
+Total pot €0.52 | Rake €0.03 
+Board [Qh 7h Kc Qd 5c]
+Seat 3: ParEnMano8
+Seat 1: tankets (big blind) showed [Ts Jd] and lost with a pair of Queens
+Seat 2: rabbitsblood folded before Flop (didn't bet)
+Seat 4: BerbatP (button) showed [4h Ah] and won (€0.49) with a pair of Queens
+Seat 5: Nakerdev (small blind) folded before Flop
+
+
+
+PokerStars Hand #260610757794:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/04/27 18:16:03 CET [2026/04/27 12:16:03 ET]
+Table 'Epimetheus III' 6-max Seat #5 is the button
+Seat 3: ParEnMano8 (€5 in chips) is sitting out
+Seat 1: tankets (€5 in chips) 
+Seat 2: rabbitsblood (€4.93 in chips) 
+Seat 4: BerbatP (€5.60 in chips) 
+Seat 5: Nakerdev (€4.98 in chips) 
+tankets: posts small blind €0.02
+rabbitsblood: posts big blind €0.05
+ParEnMano8: sits out 
+*** HOLE CARDS ***
+Dealt to BerbatP [2h Kc]
+BerbatP: folds 
+Nakerdev: folds 
+tankets: raises €0.10 to €0.15
+rabbitsblood: raises €0.30 to €0.45
+tankets: calls €0.30
+*** FLOP *** [4d As 7s]
+tankets: checks 
+rabbitsblood: bets €0.26
+tankets: calls €0.26
+*** TURN *** [4d As 7s] [Ts]
+juanjodomin99 joins the table at seat #6 
+tankets: checks 
+rabbitsblood: bets €1.33
+tankets: folds 
+Uncalled bet (€1.33) returned to rabbitsblood
+rabbitsblood collected €1.33 from pot
+rabbitsblood: doesn't show hand 
+*** SUMMARY ***
+Total pot €1.42 | Rake €0.09 
+Board [4d As 7s Ts]
+Seat 3: ParEnMano8
+Seat 1: tankets (small blind) folded on the Turn
+Seat 2: rabbitsblood (big blind) collected (€1.33)
+Seat 4: BerbatP folded before Flop (didn't bet)
+Seat 5: Nakerdev (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260610765998:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/04/27 18:16:54 CET [2026/04/27 12:16:54 ET]
+Table 'Epimetheus III' 6-max Seat #1 is the button
+Seat 6: juanjodomin99 (€5 in chips) is sitting out
+Seat 1: tankets (€5 in chips) 
+Seat 2: rabbitsblood (€5.55 in chips) 
+Seat 3: ParEnMano8 (€5 in chips) 
+Seat 4: BerbatP (€5.60 in chips) 
+Seat 5: Nakerdev (€4.98 in chips) 
+rabbitsblood: posts small blind €0.02
+ParEnMano8: posts big blind €0.05
+juanjodomin99: sits out 
+*** HOLE CARDS ***
+Dealt to BerbatP [Qs Qc]
+juanjodomin99 leaves the table
+BerbatP: raises €0.10 to €0.15
+Nakerdev: folds 
+tankets: folds 
+rabbitsblood: folds 
+ParEnMano8: folds 
+Uncalled bet (€0.10) returned to BerbatP
+BerbatP collected €0.12 from pot
+BerbatP: doesn't show hand 
+alejandrogmh joins the table at seat #6 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 6: juanjodomin99
+Seat 1: tankets (button) folded before Flop (didn't bet)
+Seat 2: rabbitsblood (small blind) folded before Flop
+Seat 3: ParEnMano8 (big blind) folded before Flop
+Seat 4: BerbatP collected (€0.12)
+Seat 5: Nakerdev folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260610767982:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/04/27 18:17:06 CET [2026/04/27 12:17:06 ET]
+Table 'Epimetheus III' 6-max Seat #2 is the button
+Seat 6: alejandrogmh (€5 in chips) is sitting out
+Seat 1: tankets (€5 in chips) 
+Seat 2: rabbitsblood (€5.53 in chips) 
+Seat 3: ParEnMano8 (€4.95 in chips) 
+Seat 4: BerbatP (€5.67 in chips) 
+Seat 5: Nakerdev (€4.98 in chips) 
+ParEnMano8: posts small blind €0.02
+BerbatP: posts big blind €0.05
+alejandrogmh: sits out 
+*** HOLE CARDS ***
+Dealt to BerbatP [As 9c]
+Nakerdev: raises €0.10 to €0.15
+tankets: raises €0.30 to €0.45
+rabbitsblood: folds 
+ParEnMano8: folds 
+BerbatP: folds 
+Nakerdev: raises €4.53 to €4.98 and is all-in
+tankets: folds 
+Uncalled bet (€4.53) returned to Nakerdev
+Nakerdev collected €0.97 from pot
+Nakerdev: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.97 | Rake €0 
+Seat 6: alejandrogmh
+Seat 1: tankets folded before Flop
+Seat 2: rabbitsblood (button) folded before Flop (didn't bet)
+Seat 3: ParEnMano8 (small blind) folded before Flop
+Seat 4: BerbatP (big blind) folded before Flop
+Seat 5: Nakerdev collected (€0.97)
+
+
+
+PokerStars Hand #260610773416:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/04/27 18:17:40 CET [2026/04/27 12:17:40 ET]
+Table 'Epimetheus III' 6-max Seat #3 is the button
+Seat 5: Nakerdev (€5.50 in chips) is sitting out
+Seat 1: tankets (€5 in chips) 
+Seat 2: rabbitsblood (€5.53 in chips) 
+Seat 3: ParEnMano8 (€4.93 in chips) 
+Seat 4: BerbatP (€5.62 in chips) 
+Seat 6: alejandrogmh (€5 in chips) 
+BerbatP: posts small blind €0.02
+Nakerdev: is sitting out 
+alejandrogmh: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [3c Kh]
+tankets: folds 
+rabbitsblood: folds 
+ParEnMano8: raises €0.07 to €0.12
+BerbatP: folds 
+Nakerdev leaves the table
+alejandrogmh: calls €0.07
+*** FLOP *** [5c Qs As]
+alejandrogmh: checks 
+ParEnMano8: bets €0.12
+alejandrogmh: calls €0.12
+*** TURN *** [5c Qs As] [Ah]
+alejandrogmh: checks 
+ParEnMano8: bets €0.24
+alejandrogmh: calls €0.24
+*** RIVER *** [5c Qs As Ah] [8h]
+alejandrogmh: checks 
+ParEnMano8: checks 
+*** SHOW DOWN ***
+alejandrogmh: shows [Ad Jc] (three of a kind, Aces)
+ParEnMano8: mucks hand 
+alejandrogmh collected €0.92 from pot
+*** SUMMARY ***
+Total pot €0.98 | Rake €0.06 
+Board [5c Qs As Ah 8h]
+Seat 5: Nakerdev
+Seat 1: tankets folded before Flop (didn't bet)
+Seat 2: rabbitsblood folded before Flop (didn't bet)
+Seat 3: ParEnMano8 (button) mucked [Td Jh]
+Seat 4: BerbatP (small blind) folded before Flop
+Seat 6: alejandrogmh (big blind) showed [Ad Jc] and won (€0.92) with three of a kind, Aces
+
+
+
+PokerStars Hand #260610784262:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/04/27 18:18:48 CET [2026/04/27 12:18:48 ET]
+Table 'Epimetheus III' 6-max Seat #4 is the button
+Seat 1: tankets (€5 in chips) 
+Seat 2: rabbitsblood (€5.53 in chips) 
+Seat 3: ParEnMano8 (€4.45 in chips) 
+Seat 4: BerbatP (€5.60 in chips) 
+Seat 6: alejandrogmh (€5.44 in chips) 
+alejandrogmh: posts small blind €0.02
+tankets: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [4h 5h]
+rabbitsblood: folds 
+ParEnMano8: folds 
+BerbatP: raises €0.10 to €0.15
+CINDYJOLI joins the table at seat #5 
+alejandrogmh: folds 
+tankets: calls €0.10
+*** FLOP *** [8h 3d As]
+tankets: checks 
+BerbatP: bets €0.10
+tankets: folds 
+Uncalled bet (€0.10) returned to BerbatP
+BerbatP collected €0.30 from pot
+BerbatP: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.32 | Rake €0.02 
+Board [8h 3d As]
+Seat 1: tankets (big blind) folded on the Flop
+Seat 2: rabbitsblood folded before Flop (didn't bet)
+Seat 3: ParEnMano8 folded before Flop (didn't bet)
+Seat 4: BerbatP (button) collected (€0.30)
+Seat 6: alejandrogmh (small blind) folded before Flop
+
+
+
+PokerStars Hand #260610789558:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/04/27 18:19:21 CET [2026/04/27 12:19:21 ET]
+Table 'Epimetheus III' 6-max Seat #6 is the button
+Seat 5: CINDYJOLI (€2 in chips) is sitting out
+Seat 1: tankets (€5 in chips) 
+Seat 2: rabbitsblood (€5.53 in chips) 
+Seat 3: ParEnMano8 (€4.45 in chips) 
+Seat 4: BerbatP (€5.75 in chips) 
+Seat 6: alejandrogmh (€5.42 in chips) 
+tankets: posts small blind €0.02
+rabbitsblood: posts big blind €0.05
+CINDYJOLI: sits out 
+*** HOLE CARDS ***
+Dealt to BerbatP [2h 7c]
+ParEnMano8: calls €0.05
+BerbatP: folds 
+alejandrogmh: folds 
+tankets: raises €0.20 to €0.25
+rabbitsblood: folds 
+ParEnMano8: folds 
+Uncalled bet (€0.20) returned to tankets
+tankets collected €0.15 from pot
+tankets: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.15 | Rake €0 
+Seat 5: CINDYJOLI
+Seat 1: tankets (small blind) collected (€0.15)
+Seat 2: rabbitsblood (big blind) folded before Flop
+Seat 3: ParEnMano8 folded before Flop
+Seat 4: BerbatP folded before Flop (didn't bet)
+Seat 6: alejandrogmh (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260610793261:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/04/27 18:19:43 CET [2026/04/27 12:19:43 ET]
+Table 'Epimetheus III' 6-max Seat #1 is the button
+Seat 5: CINDYJOLI (€2 in chips) is sitting out
+Seat 1: tankets (€5.10 in chips) 
+Seat 2: rabbitsblood (€5.48 in chips) 
+Seat 3: ParEnMano8 (€4.40 in chips) 
+Seat 4: BerbatP (€5.75 in chips) 
+Seat 6: alejandrogmh (€5.42 in chips) 
+rabbitsblood: posts small blind €0.02
+ParEnMano8: posts big blind €0.05
+CINDYJOLI: sits out 
+*** HOLE CARDS ***
+Dealt to BerbatP [3d 7s]
+BerbatP: folds 
+alejandrogmh: raises €0.10 to €0.15
+tankets: folds 
+rabbitsblood: raises €0.30 to €0.45
+ParEnMano8: folds 
+alejandrogmh: raises €0.73 to €1.18
+rabbitsblood: calls €0.73
+*** FLOP *** [2d 9d 4h]
+rabbitsblood: checks 
+alejandrogmh: checks 
+*** TURN *** [2d 9d 4h] [2h]
+rabbitsblood: checks 
+alejandrogmh: bets €0.62
+rabbitsblood: calls €0.62
+*** RIVER *** [2d 9d 4h 2h] [Js]
+rabbitsblood: checks 
+alejandrogmh: checks 
+*** SHOW DOWN ***
+rabbitsblood: shows [Ks Ah] (a pair of Deuces)
+alejandrogmh: shows [Kh Ac] (a pair of Deuces)
+rabbitsblood collected €1.72 from pot
+alejandrogmh collected €1.71 from pot
+*** SUMMARY ***
+Total pot €3.65 | Rake €0.22 
+Board [2d 9d 4h 2h Js]
+Seat 5: CINDYJOLI
+Seat 1: tankets (button) folded before Flop (didn't bet)
+Seat 2: rabbitsblood (small blind) showed [Ks Ah] and won (€1.72) with a pair of Deuces
+Seat 3: ParEnMano8 (big blind) folded before Flop
+Seat 4: BerbatP folded before Flop (didn't bet)
+Seat 6: alejandrogmh showed [Kh Ac] and won (€1.71) with a pair of Deuces
+
+
+
+PokerStars Hand #260610805551:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/04/27 18:21:00 CET [2026/04/27 12:21:00 ET]
+Table 'Epimetheus III' 6-max Seat #2 is the button
+Seat 5: CINDYJOLI (€2 in chips) is sitting out
+Seat 1: tankets (€5.10 in chips) 
+Seat 2: rabbitsblood (€5.40 in chips) 
+Seat 3: ParEnMano8 (€4.35 in chips) 
+Seat 4: BerbatP (€5.75 in chips) 
+Seat 6: alejandrogmh (€5.33 in chips) 
+ParEnMano8: posts small blind €0.02
+BerbatP: posts big blind €0.05
+CINDYJOLI: sits out 
+*** HOLE CARDS ***
+Dealt to BerbatP [3c 4s]
+alejandrogmh: folds 
+tankets: folds 
+rabbitsblood: raises €0.10 to €0.15
+ParEnMano8: calls €0.13
+BerbatP: folds 
+*** FLOP *** [Qs Qc 7h]
+ParEnMano8: checks 
+rabbitsblood: bets €0.10
+ParEnMano8: calls €0.10
+*** TURN *** [Qs Qc 7h] [9s]
+ParEnMano8: checks 
+rabbitsblood: bets €0.52
+ParEnMano8: folds 
+Uncalled bet (€0.52) returned to rabbitsblood
+rabbitsblood collected €0.52 from pot
+rabbitsblood: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.55 | Rake €0.03 
+Board [Qs Qc 7h 9s]
+Seat 5: CINDYJOLI
+Seat 1: tankets folded before Flop (didn't bet)
+Seat 2: rabbitsblood (button) collected (€0.52)
+Seat 3: ParEnMano8 (small blind) folded on the Turn
+Seat 4: BerbatP (big blind) folded before Flop
+Seat 6: alejandrogmh folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260610812019:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/04/27 18:21:40 CET [2026/04/27 12:21:40 ET]
+Table 'Epimetheus III' 6-max Seat #3 is the button
+Seat 1: tankets (€5.10 in chips) 
+Seat 2: rabbitsblood (€5.67 in chips) 
+Seat 3: ParEnMano8 (€4.10 in chips) 
+Seat 4: BerbatP (€5.70 in chips) 
+Seat 5: CINDYJOLI (€2 in chips) 
+Seat 6: alejandrogmh (€5.33 in chips) 
+BerbatP: posts small blind €0.02
+CINDYJOLI: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [Qs 7h]
+alejandrogmh: folds 
+tankets: raises €0.10 to €0.15
+rabbitsblood: folds 
+ParEnMano8: folds 
+BerbatP: folds 
+CINDYJOLI: calls €0.10
+*** FLOP *** [7d 4s 3d]
+CINDYJOLI: bets €0.05
+tankets: calls €0.05
+*** TURN *** [7d 4s 3d] [2h]
+CINDYJOLI: bets €0.20
+tankets: folds 
+Uncalled bet (€0.20) returned to CINDYJOLI
+CINDYJOLI collected €0.39 from pot
+CINDYJOLI: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.42 | Rake €0.03 
+Board [7d 4s 3d 2h]
+Seat 1: tankets folded on the Turn
+Seat 2: rabbitsblood folded before Flop (didn't bet)
+Seat 3: ParEnMano8 (button) folded before Flop (didn't bet)
+Seat 4: BerbatP (small blind) folded before Flop
+Seat 5: CINDYJOLI (big blind) collected (€0.39)
+Seat 6: alejandrogmh folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260610817895:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/04/27 18:22:16 CET [2026/04/27 12:22:16 ET]
+Table 'Epimetheus III' 6-max Seat #4 is the button
+Seat 1: tankets (€5 in chips) 
+Seat 2: rabbitsblood (€5.67 in chips) 
+Seat 3: ParEnMano8 (€4.10 in chips) 
+Seat 4: BerbatP (€5.68 in chips) 
+Seat 5: CINDYJOLI (€2.19 in chips) 
+Seat 6: alejandrogmh (€5.33 in chips) 
+CINDYJOLI: posts small blind €0.02
+alejandrogmh: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [5s 3s]
+tankets: folds 
+rabbitsblood: folds 
+ParEnMano8: folds 
+BerbatP: raises €0.10 to €0.15
+CINDYJOLI: raises €0.25 to €0.40
+alejandrogmh: folds 
+BerbatP: folds 
+Uncalled bet (€0.25) returned to CINDYJOLI
+CINDYJOLI collected €0.35 from pot
+CINDYJOLI: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.35 | Rake €0 
+Seat 1: tankets folded before Flop (didn't bet)
+Seat 2: rabbitsblood folded before Flop (didn't bet)
+Seat 3: ParEnMano8 folded before Flop (didn't bet)
+Seat 4: BerbatP (button) folded before Flop
+Seat 5: CINDYJOLI (small blind) collected (€0.35)
+Seat 6: alejandrogmh (big blind) folded before Flop
+
+
+
+PokerStars Hand #260610822357:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/04/27 18:22:44 CET [2026/04/27 12:22:44 ET]
+Table 'Epimetheus III' 6-max Seat #5 is the button
+Seat 1: tankets (€5 in chips) 
+Seat 2: rabbitsblood (€5.67 in chips) 
+Seat 3: ParEnMano8 (€4.10 in chips) 
+Seat 4: BerbatP (€5.53 in chips) 
+Seat 5: CINDYJOLI (€2.39 in chips) 
+Seat 6: alejandrogmh (€5.28 in chips) 
+alejandrogmh: posts small blind €0.02
+tankets: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [4c Js]
+rabbitsblood: folds 
+ParEnMano8: raises €0.07 to €0.12
+BerbatP: folds 
+CINDYJOLI: folds 
+alejandrogmh: folds 
+tankets: folds 
+Uncalled bet (€0.07) returned to ParEnMano8
+ParEnMano8 collected €0.12 from pot
+ParEnMano8: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 1: tankets (big blind) folded before Flop
+Seat 2: rabbitsblood folded before Flop (didn't bet)
+Seat 3: ParEnMano8 collected (€0.12)
+Seat 4: BerbatP folded before Flop (didn't bet)
+Seat 5: CINDYJOLI (button) folded before Flop (didn't bet)
+Seat 6: alejandrogmh (small blind) folded before Flop
+
+
+
+PokerStars Hand #260610826181:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/04/27 18:23:08 CET [2026/04/27 12:23:08 ET]
+Table 'Epimetheus III' 6-max Seat #6 is the button
+Seat 1: tankets (€5 in chips) 
+Seat 2: rabbitsblood (€5.67 in chips) 
+Seat 3: ParEnMano8 (€4.17 in chips) 
+Seat 4: BerbatP (€5.53 in chips) 
+Seat 5: CINDYJOLI (€2.39 in chips) 
+Seat 6: alejandrogmh (€5.26 in chips) 
+tankets: posts small blind €0.02
+rabbitsblood: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [6c 5h]
+ParEnMano8: raises €0.07 to €0.12
+BerbatP: folds 
+CINDYJOLI: calls €0.12
+alejandrogmh: folds 
+tankets: folds 
+rabbitsblood: folds 
+*** FLOP *** [9s 3c Td]
+ParEnMano8: bets €0.20
+CINDYJOLI: raises €0.25 to €0.45
+ParEnMano8: calls €0.25
+*** TURN *** [9s 3c Td] [Kh]
+ParEnMano8: checks 
+CINDYJOLI: bets €1.14
+ParEnMano8: folds 
+Uncalled bet (€1.14) returned to CINDYJOLI
+CINDYJOLI collected €1.14 from pot
+CINDYJOLI: doesn't show hand 
+*** SUMMARY ***
+Total pot €1.21 | Rake €0.07 
+Board [9s 3c Td Kh]
+Seat 1: tankets (small blind) folded before Flop
+Seat 2: rabbitsblood (big blind) folded before Flop
+Seat 3: ParEnMano8 folded on the Turn
+Seat 4: BerbatP folded before Flop (didn't bet)
+Seat 5: CINDYJOLI collected (€1.14)
+Seat 6: alejandrogmh (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260610832471:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/04/27 18:23:46 CET [2026/04/27 12:23:46 ET]
+Table 'Epimetheus III' 6-max Seat #1 is the button
+Seat 1: tankets (€5 in chips) 
+Seat 2: rabbitsblood (€5.62 in chips) 
+Seat 3: ParEnMano8 (€3.60 in chips) 
+Seat 4: BerbatP (€5.53 in chips) 
+Seat 5: CINDYJOLI (€2.96 in chips) 
+Seat 6: alejandrogmh (€5.26 in chips) 
+rabbitsblood: posts small blind €0.02
+ParEnMano8: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [9c 7h]
+BerbatP: folds 
+CINDYJOLI: raises €0.15 to €0.20
+alejandrogmh: folds 
+tankets: folds 
+rabbitsblood: folds 
+ParEnMano8: calls €0.15
+*** FLOP *** [5h 4d 8h]
+ParEnMano8: checks 
+CINDYJOLI: bets €0.15
+ParEnMano8: calls €0.15
+*** TURN *** [5h 4d 8h] [3d]
+ParEnMano8: checks 
+CINDYJOLI: bets €0.68
+ParEnMano8: calls €0.68
+*** RIVER *** [5h 4d 8h 3d] [7c]
+ParEnMano8: checks 
+CINDYJOLI: bets €1.93 and is all-in
+ParEnMano8: calls €1.93
+*** SHOW DOWN ***
+CINDYJOLI: shows [Ah Js] (high card Ace)
+ParEnMano8: shows [Qc As] (high card Ace - Queen kicker)
+ParEnMano8 collected €5.58 from pot
+*** SUMMARY ***
+Total pot €5.94 | Rake €0.36 
+Board [5h 4d 8h 3d 7c]
+Seat 1: tankets (button) folded before Flop (didn't bet)
+Seat 2: rabbitsblood (small blind) folded before Flop
+Seat 3: ParEnMano8 (big blind) showed [Qc As] and won (€5.58) with high card Ace
+Seat 4: BerbatP folded before Flop (didn't bet)
+Seat 5: CINDYJOLI showed [Ah Js] and lost with high card Ace
+Seat 6: alejandrogmh folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260610841342:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/04/27 18:24:41 CET [2026/04/27 12:24:41 ET]
+Table 'Epimetheus III' 6-max Seat #2 is the button
+Seat 3: ParEnMano8 (€6.22 in chips) is sitting out
+Seat 5: CINDYJOLI (€0 in chips) is sitting out
+Seat 6: alejandrogmh (€5.26 in chips) is sitting out
+Seat 1: tankets (€5 in chips) 
+Seat 2: rabbitsblood (€5.60 in chips) 
+Seat 4: BerbatP (€5.53 in chips) 
+BerbatP: posts small blind €0.02
+alejandrogmh: is sitting out 
+tankets: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [Kc 3d]
+alejandrogmh leaves the table
+rabbitsblood: folds 
+BerbatP: folds 
+Uncalled bet (€0.03) returned to tankets
+tankets collected €0.04 from pot
+tankets: doesn't show hand 
+Maisak19 joins the table at seat #6 
+*** SUMMARY ***
+Total pot €0.04 | Rake €0 
+Seat 3: ParEnMano8
+Seat 5: CINDYJOLI
+Seat 6: alejandrogmh
+Seat 1: tankets (big blind) collected (€0.04)
+Seat 2: rabbitsblood (button) folded before Flop (didn't bet)
+Seat 4: BerbatP (small blind) folded before Flop
+
+
+
+PokerStars Hand #260610843625:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/04/27 18:24:55 CET [2026/04/27 12:24:55 ET]
+Table 'Epimetheus III' 6-max Seat #4 is the button
+Seat 3: ParEnMano8 (€6.22 in chips) is sitting out
+Seat 5: CINDYJOLI (€2.65 in chips) is sitting out
+Seat 6: Maisak19 (€5 in chips) is sitting out
+Seat 1: tankets (€5.02 in chips) 
+Seat 2: rabbitsblood (€5.60 in chips) 
+Seat 4: BerbatP (€5.51 in chips) 
+tankets: posts small blind €0.02
+rabbitsblood: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [5c 4h]
+BerbatP: folds 
+tankets: raises €0.10 to €0.15
+rabbitsblood: folds 
+Uncalled bet (€0.10) returned to tankets
+tankets collected €0.10 from pot
+tankets: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Seat 3: ParEnMano8
+Seat 5: CINDYJOLI
+Seat 6: Maisak19
+Seat 1: tankets (small blind) collected (€0.10)
+Seat 2: rabbitsblood (big blind) folded before Flop
+Seat 4: BerbatP (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260610845390:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/04/27 18:25:06 CET [2026/04/27 12:25:06 ET]
+Table 'Epimetheus III' 6-max Seat #1 is the button
+Seat 3: ParEnMano8 (€6.22 in chips) is sitting out
+Seat 6: Maisak19 (€5 in chips) is sitting out
+Seat 1: tankets (€5.07 in chips) 
+Seat 2: rabbitsblood (€5.55 in chips) 
+Seat 4: BerbatP (€5.51 in chips) 
+Seat 5: CINDYJOLI (€2.65 in chips) 
+rabbitsblood: posts small blind €0.02
+BerbatP: posts big blind €0.05
+CINDYJOLI: posts small & big blinds €0.07
+Maisak19: sits out 
+*** HOLE CARDS ***
+Dealt to BerbatP [5d Kh]
+CINDYJOLI: checks 
+ParEnMano8 leaves the table
+tankets: raises €0.15 to €0.20
+rabbitsblood: folds 
+BerbatP: folds 
+CINDYJOLI: calls €0.15
+*** FLOP *** [7c 9c As]
+CINDYJOLI: checks 
+tankets: bets €0.15
+CINDYJOLI: calls €0.15
+*** TURN *** [7c 9c As] [6h]
+CINDYJOLI: checks 
+tankets: bets €0.14
+CINDYJOLI: calls €0.14
+*** RIVER *** [7c 9c As 6h] [Jh]
+CINDYJOLI: bets €1.01
+tankets: folds 
+Uncalled bet (€1.01) returned to CINDYJOLI
+CINDYJOLI collected €1.01 from pot
+CINDYJOLI: doesn't show hand 
+*** SUMMARY ***
+Total pot €1.07 | Rake €0.06 
+Board [7c 9c As 6h Jh]
+Seat 3: ParEnMano8
+Seat 6: Maisak19
+Seat 1: tankets (button) folded on the River
+Seat 2: rabbitsblood (small blind) folded before Flop
+Seat 4: BerbatP (big blind) folded before Flop
+Seat 5: CINDYJOLI collected (€1.01)
+
+
+
+PokerStars Hand #260610852245:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/04/27 18:25:49 CET [2026/04/27 12:25:49 ET]
+Table 'Epimetheus III' 6-max Seat #2 is the button
+Seat 6: Maisak19 (€5 in chips) is sitting out
+Seat 1: tankets (€5 in chips) 
+Seat 2: rabbitsblood (€5.53 in chips) 
+Seat 4: BerbatP (€5.46 in chips) 
+Seat 5: CINDYJOLI (€3.15 in chips) 
+BerbatP: posts small blind €0.02
+CINDYJOLI: posts big blind €0.05
+Maisak19: sits out 
+*** HOLE CARDS ***
+Dealt to BerbatP [Kh Jc]
+tankets: folds 
+rabbitsblood: folds 
+BerbatP: raises €0.07 to €0.12
+CINDYJOLI: calls €0.07
+*** FLOP *** [Kd 8s 9c]
+BerbatP: bets €0.08
+ginodeon joins the table at seat #3 
+CINDYJOLI: folds 
+Uncalled bet (€0.08) returned to BerbatP
+BerbatP collected €0.23 from pot
+BerbatP: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.24 | Rake €0.01 
+Board [Kd 8s 9c]
+Seat 6: Maisak19
+Seat 1: tankets folded before Flop (didn't bet)
+Seat 2: rabbitsblood (button) folded before Flop (didn't bet)
+Seat 4: BerbatP (small blind) collected (€0.23)
+Seat 5: CINDYJOLI (big blind) folded on the Flop
+
+
+
+PokerStars Hand #260610855683:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/04/27 18:26:11 CET [2026/04/27 12:26:11 ET]
+Table 'Epimetheus III' 6-max Seat #4 is the button
+Seat 3: ginodeon (€5 in chips) is sitting out
+Seat 1: tankets (€5 in chips) 
+Seat 2: rabbitsblood (€5.53 in chips) 
+Seat 4: BerbatP (€5.57 in chips) 
+Seat 5: CINDYJOLI (€3.03 in chips) 
+Seat 6: Maisak19 (€5 in chips) 
+CINDYJOLI: posts small blind €0.02
+Maisak19: posts big blind €0.05
+ginodeon: sits out 
+*** HOLE CARDS ***
+Dealt to BerbatP [4s Tc]
+tankets: folds 
+rabbitsblood: folds 
+BerbatP: folds 
+CINDYJOLI: calls €0.03
+Maisak19: raises €0.20 to €0.25
+CINDYJOLI: calls €0.20
+*** FLOP *** [9s 7c 3d]
+CINDYJOLI: checks 
+Maisak19: bets €0.16
+CINDYJOLI: calls €0.16
+*** TURN *** [9s 7c 3d] [Qs]
+CINDYJOLI: checks 
+Maisak19: bets €0.48
+CINDYJOLI: raises €1.73 to €2.21
+Maisak19: raises €2.38 to €4.59 and is all-in
+CINDYJOLI: calls €0.41 and is all-in
+Uncalled bet (€1.97) returned to Maisak19
+*** RIVER *** [9s 7c 3d Qs] [Jh]
+*** SHOW DOWN ***
+CINDYJOLI: shows [Qc Td] (a pair of Queens)
+Maisak19: shows [Ks Kh] (a pair of Kings)
+Maisak19 collected €5.70 from pot
+*** SUMMARY ***
+Total pot €6.06 | Rake €0.36 
+Board [9s 7c 3d Qs Jh]
+Seat 3: ginodeon
+Seat 1: tankets folded before Flop (didn't bet)
+Seat 2: rabbitsblood folded before Flop (didn't bet)
+Seat 4: BerbatP (button) folded before Flop (didn't bet)
+Seat 5: CINDYJOLI (small blind) showed [Qc Td] and lost with a pair of Queens
+Seat 6: Maisak19 (big blind) showed [Ks Kh] and won (€5.70) with a pair of Kings
+
+
+
+PokerStars Hand #260610868923:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/04/27 18:27:32 CET [2026/04/27 12:27:32 ET]
+Table 'Epimetheus III' 6-max Seat #6 is the button
+Seat 3: ginodeon (€5 in chips) is sitting out
+Seat 1: tankets (€5 in chips) 
+Seat 2: rabbitsblood (€5.53 in chips) 
+Seat 4: BerbatP (€5.57 in chips) 
+Seat 6: Maisak19 (€7.67 in chips) 
+tankets: posts small blind €0.02
+rabbitsblood: posts big blind €0.05
+CINDYJOLI leaves the table
+ginodeon: sits out 
+*** HOLE CARDS ***
+Dealt to BerbatP [Qh 4h]
+BerbatP: folds 
+Maisak19: folds 
+tankets: folds 
+Uncalled bet (€0.03) returned to rabbitsblood
+rabbitsblood collected €0.04 from pot
+*** SUMMARY ***
+Total pot €0.04 | Rake €0 
+Seat 3: ginodeon
+Seat 1: tankets (small blind) folded before Flop
+Seat 2: rabbitsblood (big blind) collected (€0.04)
+Seat 4: BerbatP folded before Flop (didn't bet)
+Seat 6: Maisak19 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260610871008:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/04/27 18:27:44 CET [2026/04/27 12:27:44 ET]
+Table 'Epimetheus III' 6-max Seat #1 is the button
+Seat 1: tankets (€5 in chips) 
+Seat 2: rabbitsblood (€5.55 in chips) 
+Seat 3: ginodeon (€5 in chips) 
+Seat 4: BerbatP (€5.57 in chips) 
+Seat 6: Maisak19 (€7.67 in chips) 
+rabbitsblood: posts small blind €0.02
+ginodeon: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [9c 8d]
+BerbatP: folds 
+Maisak19: folds 
+tankets: folds 
+rabbitsblood: raises €0.10 to €0.15
+yosii11 joins the table at seat #5 
+ginodeon: raises €0.30 to €0.45
+rabbitsblood: calls €0.30
+*** FLOP *** [7c 6c Ts]
+rabbitsblood: checks 
+ginodeon: bets €0.28
+rabbitsblood: raises €0.42 to €0.70
+ginodeon: folds 
+Uncalled bet (€0.42) returned to rabbitsblood
+rabbitsblood collected €1.37 from pot
+rabbitsblood: doesn't show hand 
+*** SUMMARY ***
+Total pot €1.46 | Rake €0.09 
+Board [7c 6c Ts]
+Seat 1: tankets (button) folded before Flop (didn't bet)
+Seat 2: rabbitsblood (small blind) collected (€1.37)
+Seat 3: ginodeon (big blind) folded on the Flop
+Seat 4: BerbatP folded before Flop (didn't bet)
+Seat 6: Maisak19 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260610881770:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/04/27 18:28:51 CET [2026/04/27 12:28:51 ET]
+Table 'Epimetheus III' 6-max Seat #2 is the button
+Seat 1: tankets (€5 in chips) 
+Seat 2: rabbitsblood (€6.19 in chips) 
+Seat 3: ginodeon (€4.27 in chips) 
+Seat 4: BerbatP (€5.57 in chips) 
+Seat 5: yosii11 (€5 in chips) 
+Seat 6: Maisak19 (€7.67 in chips) 
+ginodeon: posts small blind €0.02
+BerbatP: posts big blind €0.05
+yosii11: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [9c Js]
+yosii11: checks 
+Maisak19: folds 
+tankets: folds 
+rabbitsblood: folds 
+ginodeon: raises €0.20 to €0.25
+Maisak19 leaves the table
+BerbatP: folds 
+yosii11: folds 
+Uncalled bet (€0.20) returned to ginodeon
+ginodeon collected €0.15 from pot
+Nakerdev joins the table at seat #6 
+ginodeon: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.15 | Rake €0 
+Seat 1: tankets folded before Flop (didn't bet)
+Seat 2: rabbitsblood (button) folded before Flop (didn't bet)
+Seat 3: ginodeon (small blind) collected (€0.15)
+Seat 4: BerbatP (big blind) folded before Flop
+Seat 5: yosii11 folded before Flop (didn't bet)
+Seat 6: Maisak19 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260610887066:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/04/27 18:29:24 CET [2026/04/27 12:29:24 ET]
+Table 'Epimetheus III' 6-max Seat #3 is the button
+Seat 6: Nakerdev (€5 in chips) is sitting out
+Seat 1: tankets (€5 in chips) 
+Seat 2: rabbitsblood (€6.19 in chips) 
+Seat 3: ginodeon (€4.37 in chips) 
+Seat 4: BerbatP (€5.52 in chips) 
+Seat 5: yosii11 (€4.95 in chips) 
+BerbatP: posts small blind €0.02
+yosii11: posts big blind €0.05
+Nakerdev: sits out 
+*** HOLE CARDS ***
+Dealt to BerbatP [Th 5h]
+tankets: folds 
+rabbitsblood: folds 
+ginodeon: raises €0.07 to €0.12
+BerbatP: folds 
+yosii11: folds 
+Uncalled bet (€0.07) returned to ginodeon
+ginodeon collected €0.12 from pot
+ginodeon: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 6: Nakerdev
+Seat 1: tankets folded before Flop (didn't bet)
+Seat 2: rabbitsblood folded before Flop (didn't bet)
+Seat 3: ginodeon (button) collected (€0.12)
+Seat 4: BerbatP (small blind) folded before Flop
+Seat 5: yosii11 (big blind) folded before Flop
+
+
+
+PokerStars Hand #260610890910:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/04/27 18:29:47 CET [2026/04/27 12:29:47 ET]
+Table 'Epimetheus III' 6-max Seat #4 is the button
+Seat 1: tankets (€5 in chips) 
+Seat 2: rabbitsblood (€6.19 in chips) 
+Seat 3: ginodeon (€4.44 in chips) 
+Seat 4: BerbatP (€5.50 in chips) 
+Seat 5: yosii11 (€4.90 in chips) 
+Seat 6: Nakerdev (€5 in chips) 
+yosii11: posts small blind €0.02
+Nakerdev: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [5h 4c]
+tankets: folds 
+rabbitsblood: folds 
+ginodeon: folds 
+BerbatP: folds 
+yosii11: folds 
+Uncalled bet (€0.03) returned to Nakerdev
+Nakerdev collected €0.04 from pot
+Nakerdev: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.04 | Rake €0 
+Seat 1: tankets folded before Flop (didn't bet)
+Seat 2: rabbitsblood folded before Flop (didn't bet)
+Seat 3: ginodeon folded before Flop (didn't bet)
+Seat 4: BerbatP (button) folded before Flop (didn't bet)
+Seat 5: yosii11 (small blind) folded before Flop
+Seat 6: Nakerdev (big blind) collected (€0.04)
+
+
+
+PokerStars Hand #260610894368:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/04/27 18:30:07 CET [2026/04/27 12:30:07 ET]
+Table 'Epimetheus III' 6-max Seat #5 is the button
+Seat 1: tankets (€5 in chips) 
+Seat 2: rabbitsblood (€6.19 in chips) 
+Seat 3: ginodeon (€4.44 in chips) 
+Seat 4: BerbatP (€5.50 in chips) 
+Seat 5: yosii11 (€4.88 in chips) 
+Seat 6: Nakerdev (€5.02 in chips) 
+Nakerdev: posts small blind €0.02
+tankets: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [3h 6s]
+rabbitsblood: folds 
+ginodeon: raises €0.07 to €0.12
+BerbatP: folds 
+yosii11: folds 
+Nakerdev: folds 
+tankets: folds 
+Uncalled bet (€0.07) returned to ginodeon
+ginodeon collected €0.12 from pot
+ginodeon: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 1: tankets (big blind) folded before Flop
+Seat 2: rabbitsblood folded before Flop (didn't bet)
+Seat 3: ginodeon collected (€0.12)
+Seat 4: BerbatP folded before Flop (didn't bet)
+Seat 5: yosii11 (button) folded before Flop (didn't bet)
+Seat 6: Nakerdev (small blind) folded before Flop
+
+
+
+PokerStars Hand #260610897637:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/04/27 18:30:27 CET [2026/04/27 12:30:27 ET]
+Table 'Epimetheus III' 6-max Seat #6 is the button
+Seat 1: tankets (€5 in chips) 
+Seat 2: rabbitsblood (€6.19 in chips) 
+Seat 3: ginodeon (€4.51 in chips) 
+Seat 4: BerbatP (€5.50 in chips) 
+Seat 5: yosii11 (€4.88 in chips) 
+Seat 6: Nakerdev (€5 in chips) 
+tankets: posts small blind €0.02
+rabbitsblood: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [9s Tc]
+ginodeon: folds 
+BerbatP: folds 
+yosii11: folds 
+Nakerdev: folds 
+tankets: folds 
+Uncalled bet (€0.03) returned to rabbitsblood
+rabbitsblood collected €0.04 from pot
+rabbitsblood: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.04 | Rake €0 
+Seat 1: tankets (small blind) folded before Flop
+Seat 2: rabbitsblood (big blind) collected (€0.04)
+Seat 3: ginodeon folded before Flop (didn't bet)
+Seat 4: BerbatP folded before Flop (didn't bet)
+Seat 5: yosii11 folded before Flop (didn't bet)
+Seat 6: Nakerdev (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260610899729:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/04/27 18:30:40 CET [2026/04/27 12:30:40 ET]
+Table 'Epimetheus III' 6-max Seat #1 is the button
+Seat 1: tankets (€5 in chips) 
+Seat 2: rabbitsblood (€6.21 in chips) 
+Seat 3: ginodeon (€4.51 in chips) 
+Seat 4: BerbatP (€5.50 in chips) 
+Seat 5: yosii11 (€4.88 in chips) 
+Seat 6: Nakerdev (€5 in chips) 
+rabbitsblood: posts small blind €0.02
+ginodeon: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [3s Th]
+BerbatP: folds 
+yosii11: folds 
+Nakerdev: raises €0.10 to €0.15
+tankets: folds 
+rabbitsblood: folds 
+ginodeon: folds 
+Uncalled bet (€0.10) returned to Nakerdev
+Nakerdev collected €0.12 from pot
+Nakerdev: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 1: tankets (button) folded before Flop (didn't bet)
+Seat 2: rabbitsblood (small blind) folded before Flop
+Seat 3: ginodeon (big blind) folded before Flop
+Seat 4: BerbatP folded before Flop (didn't bet)
+Seat 5: yosii11 folded before Flop (didn't bet)
+Seat 6: Nakerdev collected (€0.12)
+
+
+
+PokerStars Hand #260610901627:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/04/27 18:30:51 CET [2026/04/27 12:30:51 ET]
+Table 'Epimetheus III' 6-max Seat #2 is the button
+Seat 1: tankets (€5 in chips) 
+Seat 2: rabbitsblood (€6.19 in chips) 
+Seat 3: ginodeon (€4.46 in chips) 
+Seat 4: BerbatP (€5.50 in chips) 
+Seat 5: yosii11 (€4.88 in chips) 
+Seat 6: Nakerdev (€5.07 in chips) 
+ginodeon: posts small blind €0.02
+BerbatP: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [Td 3s]
+yosii11: folds 
+Nakerdev: raises €0.10 to €0.15
+tankets: folds 
+rabbitsblood: folds 
+ginodeon: folds 
+BerbatP: folds 
+Uncalled bet (€0.10) returned to Nakerdev
+Nakerdev collected €0.12 from pot
+Nakerdev: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 1: tankets folded before Flop (didn't bet)
+Seat 2: rabbitsblood (button) folded before Flop (didn't bet)
+Seat 3: ginodeon (small blind) folded before Flop
+Seat 4: BerbatP (big blind) folded before Flop
+Seat 5: yosii11 folded before Flop (didn't bet)
+Seat 6: Nakerdev collected (€0.12)
+
+
+
+PokerStars Hand #260610903454:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/04/27 18:31:02 CET [2026/04/27 12:31:02 ET]
+Table 'Epimetheus III' 6-max Seat #3 is the button
+Seat 1: tankets (€5 in chips) 
+Seat 2: rabbitsblood (€6.19 in chips) 
+Seat 3: ginodeon (€4.44 in chips) 
+Seat 4: BerbatP (€5.45 in chips) 
+Seat 5: yosii11 (€4.88 in chips) 
+Seat 6: Nakerdev (€5.14 in chips) 
+BerbatP: posts small blind €0.02
+yosii11: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [8h 2s]
+Nakerdev: folds 
+tankets: folds 
+rabbitsblood: folds 
+ginodeon: raises €0.07 to €0.12
+BerbatP: folds 
+yosii11: folds 
+Uncalled bet (€0.07) returned to ginodeon
+ginodeon collected €0.12 from pot
+ginodeon: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 1: tankets folded before Flop (didn't bet)
+Seat 2: rabbitsblood folded before Flop (didn't bet)
+Seat 3: ginodeon (button) collected (€0.12)
+Seat 4: BerbatP (small blind) folded before Flop
+Seat 5: yosii11 (big blind) folded before Flop
+Seat 6: Nakerdev folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260610905866:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/04/27 18:31:18 CET [2026/04/27 12:31:18 ET]
+Table 'Epimetheus III' 6-max Seat #4 is the button
+Seat 3: ginodeon (€4.51 in chips) is sitting out
+Seat 1: tankets (€5 in chips) 
+Seat 2: rabbitsblood (€6.19 in chips) 
+Seat 4: BerbatP (€5.43 in chips) 
+Seat 5: yosii11 (€4.83 in chips) 
+Seat 6: Nakerdev (€5.14 in chips) 
+yosii11: posts small blind €0.02
+Nakerdev: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [As 4h]
+tankets: raises €0.10 to €0.15
+rabbitsblood: folds 
+BerbatP: folds 
+yosii11: folds 
+Nakerdev: folds 
+Uncalled bet (€0.10) returned to tankets
+tankets collected €0.12 from pot
+tankets: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 3: ginodeon
+Seat 1: tankets collected (€0.12)
+Seat 2: rabbitsblood folded before Flop (didn't bet)
+Seat 4: BerbatP (button) folded before Flop (didn't bet)
+Seat 5: yosii11 (small blind) folded before Flop
+Seat 6: Nakerdev (big blind) folded before Flop
+
+
+
+PokerStars Hand #260610908628:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/04/27 18:31:34 CET [2026/04/27 12:31:34 ET]
+Table 'Epimetheus III' 6-max Seat #5 is the button
+Seat 3: ginodeon (€4.51 in chips) is sitting out
+Seat 1: tankets (€5.07 in chips) 
+Seat 2: rabbitsblood (€6.19 in chips) 
+Seat 4: BerbatP (€5.43 in chips) 
+Seat 5: yosii11 (€4.81 in chips) 
+Seat 6: Nakerdev (€5.09 in chips) 
+Nakerdev: posts small blind €0.02
+tankets: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [Ad 3d]
+rabbitsblood: folds 
+BerbatP: raises €0.07 to €0.12
+yosii11: folds 
+Nakerdev: folds 
+tankets: folds 
+Uncalled bet (€0.07) returned to BerbatP
+BerbatP collected €0.12 from pot
+BerbatP: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 3: ginodeon
+Seat 1: tankets (big blind) folded before Flop
+Seat 2: rabbitsblood folded before Flop (didn't bet)
+Seat 4: BerbatP collected (€0.12)
+Seat 5: yosii11 (button) folded before Flop (didn't bet)
+Seat 6: Nakerdev (small blind) folded before Flop
+
+
+
+PokerStars Hand #260610912873:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/04/27 18:32:00 CET [2026/04/27 12:32:00 ET]
+Table 'Epimetheus III' 6-max Seat #6 is the button
+Seat 3: ginodeon (€4.51 in chips) is sitting out
+Seat 1: tankets (€5.02 in chips) 
+Seat 2: rabbitsblood (€6.19 in chips) 
+Seat 4: BerbatP (€5.50 in chips) 
+Seat 5: yosii11 (€4.81 in chips) 
+Seat 6: Nakerdev (€5.07 in chips) 
+tankets: posts small blind €0.02
+rabbitsblood: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [Ac 2s]
+BerbatP: folds 
+yosii11: folds 
+Nakerdev: raises €0.10 to €0.15
+tankets: folds 
+rabbitsblood: folds 
+Uncalled bet (€0.10) returned to Nakerdev
+Nakerdev collected €0.12 from pot
+Nakerdev: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 3: ginodeon
+Seat 1: tankets (small blind) folded before Flop
+Seat 2: rabbitsblood (big blind) folded before Flop
+Seat 4: BerbatP folded before Flop (didn't bet)
+Seat 5: yosii11 folded before Flop (didn't bet)
+Seat 6: Nakerdev (button) collected (€0.12)
+
+
+
+PokerStars Hand #260610914885:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/04/27 18:32:12 CET [2026/04/27 12:32:12 ET]
+Table 'Epimetheus III' 6-max Seat #1 is the button
+Seat 3: ginodeon (€4.51 in chips) is sitting out
+Seat 1: tankets (€5 in chips) 
+Seat 2: rabbitsblood (€6.14 in chips) 
+Seat 4: BerbatP (€5.50 in chips) 
+Seat 5: yosii11 (€4.81 in chips) 
+Seat 6: Nakerdev (€5.14 in chips) 
+rabbitsblood: posts small blind €0.02
+BerbatP: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [Kc Qd]
+yosii11: folds 
+Nakerdev: raises €0.10 to €0.15
+tankets: folds 
+rabbitsblood: calls €0.13
+BerbatP: raises €0.50 to €0.65
+Nakerdev: folds 
+rabbitsblood: folds 
+Uncalled bet (€0.50) returned to BerbatP
+BerbatP collected €0.45 from pot
+BerbatP: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.45 | Rake €0 
+Seat 3: ginodeon
+Seat 1: tankets (button) folded before Flop (didn't bet)
+Seat 2: rabbitsblood (small blind) folded before Flop
+Seat 4: BerbatP (big blind) collected (€0.45)
+Seat 5: yosii11 folded before Flop (didn't bet)
+Seat 6: Nakerdev folded before Flop
+
+
+
+PokerStars Hand #260610920091:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/04/27 18:32:44 CET [2026/04/27 12:32:44 ET]
+Table 'Epimetheus III' 6-max Seat #2 is the button
+Seat 3: ginodeon (€4.51 in chips) is sitting out
+Seat 1: tankets (€5 in chips) 
+Seat 2: rabbitsblood (€5.99 in chips) 
+Seat 4: BerbatP (€5.80 in chips) 
+Seat 5: yosii11 (€4.81 in chips) 
+Seat 6: Nakerdev (€4.99 in chips) 
+BerbatP: posts small blind €0.02
+yosii11: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [9c Qc]
+Nakerdev: folds 
+tankets: folds 
+rabbitsblood: folds 
+BerbatP: raises €0.07 to €0.12
+yosii11: folds 
+Uncalled bet (€0.07) returned to BerbatP
+BerbatP collected €0.10 from pot
+BerbatP: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Seat 3: ginodeon
+Seat 1: tankets folded before Flop (didn't bet)
+Seat 2: rabbitsblood (button) folded before Flop (didn't bet)
+Seat 4: BerbatP (small blind) collected (€0.10)
+Seat 5: yosii11 (big blind) folded before Flop
+Seat 6: Nakerdev folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260610922057:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/04/27 18:32:56 CET [2026/04/27 12:32:56 ET]
+Table 'Epimetheus III' 6-max Seat #4 is the button
+Seat 3: ginodeon (€4.51 in chips) is sitting out
+Seat 1: tankets (€5 in chips) 
+Seat 2: rabbitsblood (€5.99 in chips) 
+Seat 4: BerbatP (€5.85 in chips) 
+Seat 5: yosii11 (€4.76 in chips) 
+Seat 6: Nakerdev (€4.99 in chips) 
+yosii11: posts small blind €0.02
+Nakerdev: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [3d 8h]
+tankets: folds 
+rabbitsblood: raises €0.10 to €0.15
+BerbatP: folds 
+yosii11: folds 
+Nakerdev: calls €0.10
+*** FLOP *** [5s Ad Ah]
+Nakerdev: checks 
+rabbitsblood: bets €0.09
+Nakerdev: calls €0.09
+*** TURN *** [5s Ad Ah] [4d]
+Nakerdev: checks 
+rabbitsblood: bets €0.47
+Nakerdev: folds 
+Uncalled bet (€0.47) returned to rabbitsblood
+rabbitsblood collected €0.47 from pot
+*** SUMMARY ***
+Total pot €0.50 | Rake €0.03 
+Board [5s Ad Ah 4d]
+Seat 3: ginodeon
+Seat 1: tankets folded before Flop (didn't bet)
+Seat 2: rabbitsblood collected (€0.47)
+Seat 4: BerbatP (button) folded before Flop (didn't bet)
+Seat 5: yosii11 (small blind) folded before Flop
+Seat 6: Nakerdev (big blind) folded on the Turn
+
+
+
+PokerStars Hand #260610927795:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/04/27 18:33:31 CET [2026/04/27 12:33:31 ET]
+Table 'Epimetheus III' 6-max Seat #5 is the button
+Seat 3: ginodeon (€4.51 in chips) is sitting out
+Seat 1: tankets (€5 in chips) 
+Seat 2: rabbitsblood (€6.22 in chips) 
+Seat 4: BerbatP (€5.85 in chips) 
+Seat 5: yosii11 (€4.74 in chips) 
+Seat 6: Nakerdev (€5 in chips) 
+Nakerdev: posts small blind €0.02
+tankets: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [4s 8c]
+rabbitsblood: folds 
+BerbatP: folds 
+yosii11: folds 
+Nakerdev: folds 
+Uncalled bet (€0.03) returned to tankets
+tankets collected €0.04 from pot
+tankets: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.04 | Rake €0 
+Seat 3: ginodeon
+Seat 1: tankets (big blind) collected (€0.04)
+Seat 2: rabbitsblood folded before Flop (didn't bet)
+Seat 4: BerbatP folded before Flop (didn't bet)
+Seat 5: yosii11 (button) folded before Flop (didn't bet)
+Seat 6: Nakerdev (small blind) folded before Flop
+
+
+
+PokerStars Hand #260610929487:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/04/27 18:33:41 CET [2026/04/27 12:33:41 ET]
+Table 'Epimetheus III' 6-max Seat #6 is the button
+Seat 3: ginodeon (€4.51 in chips) is sitting out
+Seat 1: tankets (€5.02 in chips) 
+Seat 2: rabbitsblood (€6.22 in chips) 
+Seat 4: BerbatP (€5.85 in chips) 
+Seat 5: yosii11 (€4.74 in chips) 
+Seat 6: Nakerdev (€4.98 in chips) 
+tankets: posts small blind €0.02
+rabbitsblood: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [4h 7s]
+BerbatP: folds 
+yosii11: folds 
+Nakerdev: raises €0.10 to €0.15
+tankets: raises €0.35 to €0.50
+rabbitsblood: folds 
+Nakerdev: folds 
+Uncalled bet (€0.35) returned to tankets
+tankets collected €0.35 from pot
+tankets: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.35 | Rake €0 
+Seat 3: ginodeon
+Seat 1: tankets (small blind) collected (€0.35)
+Seat 2: rabbitsblood (big blind) folded before Flop
+Seat 4: BerbatP folded before Flop (didn't bet)
+Seat 5: yosii11 folded before Flop (didn't bet)
+Seat 6: Nakerdev (button) folded before Flop
+
+
+
+PokerStars Hand #260610933499:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/04/27 18:34:05 CET [2026/04/27 12:34:05 ET]
+Table 'Epimetheus III' 6-max Seat #1 is the button
+Seat 3: ginodeon (€4.51 in chips) is sitting out
+Seat 1: tankets (€5.22 in chips) 
+Seat 2: rabbitsblood (€6.17 in chips) 
+Seat 4: BerbatP (€5.85 in chips) 
+Seat 5: yosii11 (€4.74 in chips) 
+Seat 6: Nakerdev (€5 in chips) 
+rabbitsblood: posts small blind €0.02
+BerbatP: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [7d 6c]
+yosii11: folds 
+Nakerdev: raises €0.10 to €0.15
+tankets: folds 
+rabbitsblood: raises €0.30 to €0.45
+BerbatP: folds 
+Nakerdev: calls €0.30
+*** FLOP *** [3h Ts 9h]
+rabbitsblood: bets €0.45
+Nakerdev: calls €0.45
+*** TURN *** [3h Ts 9h] [8s]
+rabbitsblood: bets €1.74
+Nakerdev: folds 
+Uncalled bet (€1.74) returned to rabbitsblood
+rabbitsblood collected €1.74 from pot
+*** SUMMARY ***
+Total pot €1.85 | Rake €0.11 
+Board [3h Ts 9h 8s]
+Seat 3: ginodeon
+Seat 1: tankets (button) folded before Flop (didn't bet)
+Seat 2: rabbitsblood (small blind) collected (€1.74)
+Seat 4: BerbatP (big blind) folded before Flop
+Seat 5: yosii11 folded before Flop (didn't bet)
+Seat 6: Nakerdev folded on the Turn
+
+
+
+PokerStars Hand #260610939208:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/04/27 18:34:39 CET [2026/04/27 12:34:39 ET]
+Table 'Epimetheus III' 6-max Seat #2 is the button
+Seat 3: ginodeon (€4.51 in chips) is sitting out
+Seat 1: tankets (€5.22 in chips) 
+Seat 2: rabbitsblood (€7.01 in chips) 
+Seat 4: BerbatP (€5.80 in chips) 
+Seat 5: yosii11 (€4.74 in chips) 
+Seat 6: Nakerdev (€5 in chips) 
+BerbatP: posts small blind €0.02
+yosii11: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [2s Ks]
+Nakerdev: raises €0.10 to €0.15
+tankets: folds 
+rabbitsblood: folds 
+BerbatP: folds 
+yosii11: folds 
+Uncalled bet (€0.10) returned to Nakerdev
+Nakerdev collected €0.12 from pot
+Nakerdev: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 3: ginodeon
+Seat 1: tankets folded before Flop (didn't bet)
+Seat 2: rabbitsblood (button) folded before Flop (didn't bet)
+Seat 4: BerbatP (small blind) folded before Flop
+Seat 5: yosii11 (big blind) folded before Flop
+Seat 6: Nakerdev collected (€0.12)
+
+
+
+PokerStars Hand #260610940921:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/04/27 18:34:49 CET [2026/04/27 12:34:49 ET]
+Table 'Epimetheus III' 6-max Seat #4 is the button
+Seat 3: ginodeon (€4.51 in chips) is sitting out
+Seat 1: tankets (€5.22 in chips) 
+Seat 2: rabbitsblood (€7.01 in chips) 
+Seat 4: BerbatP (€5.78 in chips) 
+Seat 5: yosii11 (€4.69 in chips) 
+Seat 6: Nakerdev (€5.07 in chips) 
+yosii11: posts small blind €0.02
+Nakerdev: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [Jd 3d]
+tankets: raises €0.10 to €0.15
+rabbitsblood: folds 
+BerbatP: folds 
+yosii11: folds 
+Nakerdev: calls €0.10
+*** FLOP *** [Js 6c 4s]
+Nakerdev: checks 
+tankets: checks 
+*** TURN *** [Js 6c 4s] [6h]
+Nakerdev: bets €0.23
+tankets: folds 
+Uncalled bet (€0.23) returned to Nakerdev
+Nakerdev collected €0.30 from pot
+Nakerdev: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.32 | Rake €0.02 
+Board [Js 6c 4s 6h]
+Seat 3: ginodeon
+Seat 1: tankets folded on the Turn
+Seat 2: rabbitsblood folded before Flop (didn't bet)
+Seat 4: BerbatP (button) folded before Flop (didn't bet)
+Seat 5: yosii11 (small blind) folded before Flop
+Seat 6: Nakerdev (big blind) collected (€0.30)
+
+
+
+PokerStars Hand #260610949649:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/04/27 18:35:43 CET [2026/04/27 12:35:43 ET]
+Table 'Epimetheus III' 6-max Seat #5 is the button
+Seat 3: ginodeon (€4.51 in chips) is sitting out
+Seat 1: tankets (€5.07 in chips) 
+Seat 2: rabbitsblood (€7.01 in chips) 
+Seat 4: BerbatP (€5.78 in chips) 
+Seat 5: yosii11 (€4.67 in chips) 
+Seat 6: Nakerdev (€5.22 in chips) 
+Nakerdev: posts small blind €0.02
+tankets: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [2c 3s]
+rabbitsblood: raises €0.10 to €0.15
+BerbatP: folds 
+yosii11: folds 
+Nakerdev: folds 
+tankets: folds 
+Uncalled bet (€0.10) returned to rabbitsblood
+rabbitsblood collected €0.12 from pot
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 3: ginodeon
+Seat 1: tankets (big blind) folded before Flop
+Seat 2: rabbitsblood collected (€0.12)
+Seat 4: BerbatP folded before Flop (didn't bet)
+Seat 5: yosii11 (button) folded before Flop (didn't bet)
+Seat 6: Nakerdev (small blind) folded before Flop
+
+
+
+PokerStars Hand #260610953283:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/04/27 18:36:04 CET [2026/04/27 12:36:04 ET]
+Table 'Epimetheus III' 6-max Seat #6 is the button
+Seat 3: ginodeon (€4.51 in chips) is sitting out
+Seat 1: tankets (€5.02 in chips) 
+Seat 2: rabbitsblood (€7.08 in chips) 
+Seat 4: BerbatP (€5.78 in chips) 
+Seat 5: yosii11 (€4.67 in chips) 
+Seat 6: Nakerdev (€5.20 in chips) 
+tankets: posts small blind €0.02
+rabbitsblood: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [6d 8s]
+BerbatP: folds 
+yosii11: folds 
+Nakerdev: folds 
+tankets: folds 
+Uncalled bet (€0.03) returned to rabbitsblood
+rabbitsblood collected €0.04 from pot
+*** SUMMARY ***
+Total pot €0.04 | Rake €0 
+Seat 3: ginodeon
+Seat 1: tankets (small blind) folded before Flop
+Seat 2: rabbitsblood (big blind) collected (€0.04)
+Seat 4: BerbatP folded before Flop (didn't bet)
+Seat 5: yosii11 folded before Flop (didn't bet)
+Seat 6: Nakerdev (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260610954938:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/04/27 18:36:14 CET [2026/04/27 12:36:14 ET]
+Table 'Epimetheus III' 6-max Seat #1 is the button
+Seat 3: ginodeon (€4.51 in chips) is sitting out
+Seat 1: tankets (€5 in chips) 
+Seat 2: rabbitsblood (€7.10 in chips) 
+Seat 4: BerbatP (€5.78 in chips) 
+Seat 5: yosii11 (€4.67 in chips) 
+Seat 6: Nakerdev (€5.20 in chips) 
+rabbitsblood: posts small blind €0.02
+BerbatP: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [4c 6s]
+yosii11: folds 
+Nakerdev: raises €0.10 to €0.15
+tankets: folds 
+rabbitsblood: folds 
+BerbatP: folds 
+Uncalled bet (€0.10) returned to Nakerdev
+Nakerdev collected €0.12 from pot
+Nakerdev: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 3: ginodeon
+Seat 1: tankets (button) folded before Flop (didn't bet)
+Seat 2: rabbitsblood (small blind) folded before Flop
+Seat 4: BerbatP (big blind) folded before Flop
+Seat 5: yosii11 folded before Flop (didn't bet)
+Seat 6: Nakerdev collected (€0.12)
+
+
+
+PokerStars Hand #260610957165:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/04/27 18:36:27 CET [2026/04/27 12:36:27 ET]
+Table 'Epimetheus III' 6-max Seat #2 is the button
+Seat 3: ginodeon (€4.51 in chips) is sitting out
+Seat 1: tankets (€5 in chips) 
+Seat 2: rabbitsblood (€7.08 in chips) 
+Seat 4: BerbatP (€5.73 in chips) 
+Seat 5: yosii11 (€4.67 in chips) 
+Seat 6: Nakerdev (€5.27 in chips) 
+BerbatP: posts small blind €0.02
+yosii11: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [3c 3d]
+Nakerdev: folds 
+tankets: folds 
+rabbitsblood: folds 
+Nakerdev leaves the table
+BerbatP: raises €0.07 to €0.12
+yosii11: folds 
+Uncalled bet (€0.07) returned to BerbatP
+BerbatP collected €0.10 from pot
+BerbatP: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Seat 3: ginodeon
+Seat 1: tankets folded before Flop (didn't bet)
+Seat 2: rabbitsblood (button) folded before Flop (didn't bet)
+Seat 4: BerbatP (small blind) collected (€0.10)
+Seat 5: yosii11 (big blind) folded before Flop
+Seat 6: Nakerdev folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260610959826:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/04/27 18:36:43 CET [2026/04/27 12:36:43 ET]
+Table 'Epimetheus III' 6-max Seat #4 is the button
+Seat 3: ginodeon (€4.51 in chips) is sitting out
+Seat 1: tankets (€5 in chips) 
+Seat 2: rabbitsblood (€7.08 in chips) 
+Seat 4: BerbatP (€5.78 in chips) 
+Seat 5: yosii11 (€4.62 in chips) 
+yosii11: posts small blind €0.02
+tankets: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [Qs Qd]
+rabbitsblood: raises €0.10 to €0.15
+BerbatP: raises €0.30 to €0.45
+yosii11: folds 
+tankets: folds 
+rabbitsblood: calls €0.30
+*** FLOP *** [Th Ks 2s]
+rabbitsblood: checks 
+BerbatP: checks 
+*** TURN *** [Th Ks 2s] [Ts]
+rabbitsblood: checks 
+BerbatP: bets €0.30
+rabbitsblood: calls €0.30
+*** RIVER *** [Th Ks 2s Ts] [4s]
+rabbitsblood: checks 
+ginodeon leaves the table
+Nakerdev joins the table at seat #6 
+preitem joins the table at seat #3 
+BerbatP: bets €0.35
+rabbitsblood: calls €0.35
+*** SHOW DOWN ***
+BerbatP: shows [Qs Qd] (a flush, King high)
+rabbitsblood: mucks hand 
+BerbatP collected €2.13 from pot
+*** SUMMARY ***
+Total pot €2.27 | Rake €0.14 
+Board [Th Ks 2s Ts 4s]
+Seat 3: ginodeon
+Seat 1: tankets (big blind) folded before Flop
+Seat 2: rabbitsblood mucked [5s 5c]
+Seat 4: BerbatP (button) showed [Qs Qd] and won (€2.13) with a flush, King high
+Seat 5: yosii11 (small blind) folded before Flop
+
+
+
+PokerStars Hand #260610971046:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/04/27 18:37:51 CET [2026/04/27 12:37:51 ET]
+Table 'Epimetheus III' 6-max Seat #5 is the button
+Seat 6: Nakerdev (€5.79 in chips) is sitting out
+Seat 1: tankets (€5 in chips) 
+Seat 2: rabbitsblood (€5.98 in chips) 
+Seat 3: preitem (€5 in chips) 
+Seat 4: BerbatP (€6.81 in chips) 
+Seat 5: yosii11 (€4.60 in chips) 
+tankets: posts small blind €0.02
+rabbitsblood: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [7d Qh]
+preitem: folds 
+BerbatP: folds 
+yosii11: folds 
+tankets: folds 
+Uncalled bet (€0.03) returned to rabbitsblood
+rabbitsblood collected €0.04 from pot
+rabbitsblood: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.04 | Rake €0 
+Seat 6: Nakerdev
+Seat 1: tankets (small blind) folded before Flop
+Seat 2: rabbitsblood (big blind) collected (€0.04)
+Seat 3: preitem folded before Flop (didn't bet)
+Seat 4: BerbatP folded before Flop (didn't bet)
+Seat 5: yosii11 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260610973239:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/04/27 18:38:03 CET [2026/04/27 12:38:03 ET]
+Table 'Epimetheus III' 6-max Seat #1 is the button
+Seat 1: tankets (€5 in chips) 
+Seat 2: rabbitsblood (€6 in chips) 
+Seat 3: preitem (€5 in chips) 
+Seat 4: BerbatP (€6.81 in chips) 
+Seat 5: yosii11 (€4.60 in chips) 
+Seat 6: Nakerdev (€5.79 in chips) 
+rabbitsblood: posts small blind €0.02
+preitem: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [8d 4h]
+BerbatP: folds 
+yosii11: raises €0.07 to €0.12
+Nakerdev: folds 
+tankets: folds 
+rabbitsblood: calls €0.10
+preitem: calls €0.07
+*** FLOP *** [Ac Th 9s]
+rabbitsblood: checks 
+preitem: checks 
+yosii11: bets €0.11
+rabbitsblood: calls €0.11
+preitem: calls €0.11
+*** TURN *** [Ac Th 9s] [Ks]
+rabbitsblood: checks 
+preitem: checks 
+yosii11: checks 
+*** RIVER *** [Ac Th 9s Ks] [3s]
+rabbitsblood: bets €0.20
+preitem: raises €0.40 to €0.60
+yosii11: folds 
+rabbitsblood: folds 
+Uncalled bet (€0.40) returned to preitem
+preitem collected €1.02 from pot
+preitem: doesn't show hand 
+*** SUMMARY ***
+Total pot €1.09 | Rake €0.07 
+Board [Ac Th 9s Ks 3s]
+Seat 1: tankets (button) folded before Flop (didn't bet)
+Seat 2: rabbitsblood (small blind) folded on the River
+Seat 3: preitem (big blind) collected (€1.02)
+Seat 4: BerbatP folded before Flop (didn't bet)
+Seat 5: yosii11 folded on the River
+Seat 6: Nakerdev folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260610982378:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/04/27 18:38:58 CET [2026/04/27 12:38:58 ET]
+Table 'Epimetheus III' 6-max Seat #2 is the button
+Seat 1: tankets (€5 in chips) 
+Seat 2: rabbitsblood (€5.57 in chips) 
+Seat 3: preitem (€5.59 in chips) 
+Seat 4: BerbatP (€6.81 in chips) 
+Seat 5: yosii11 (€4.37 in chips) 
+Seat 6: Nakerdev (€5.79 in chips) 
+preitem: posts small blind €0.02
+BerbatP: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [Ac 3d]
+yosii11: raises €0.07 to €0.12
+Nakerdev: folds 
+tankets: folds 
+rabbitsblood: folds 
+preitem: folds 
+BerbatP: folds 
+Uncalled bet (€0.07) returned to yosii11
+yosii11 collected €0.12 from pot
+yosii11: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 1: tankets folded before Flop (didn't bet)
+Seat 2: rabbitsblood (button) folded before Flop (didn't bet)
+Seat 3: preitem (small blind) folded before Flop
+Seat 4: BerbatP (big blind) folded before Flop
+Seat 5: yosii11 collected (€0.12)
+Seat 6: Nakerdev folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260610986719:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/04/27 18:39:24 CET [2026/04/27 12:39:24 ET]
+Table 'Epimetheus III' 6-max Seat #3 is the button
+Seat 1: tankets (€5 in chips) 
+Seat 2: rabbitsblood (€5.57 in chips) 
+Seat 3: preitem (€5.57 in chips) 
+Seat 4: BerbatP (€6.76 in chips) 
+Seat 5: yosii11 (€4.44 in chips) 
+Seat 6: Nakerdev (€5.79 in chips) 
+BerbatP: posts small blind €0.02
+yosii11: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [Ad 8h]
+Nakerdev: folds 
+tankets: folds 
+rabbitsblood: raises €0.10 to €0.15
+preitem: folds 
+BerbatP: folds 
+yosii11: folds 
+Uncalled bet (€0.10) returned to rabbitsblood
+rabbitsblood collected €0.12 from pot
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 1: tankets folded before Flop (didn't bet)
+Seat 2: rabbitsblood collected (€0.12)
+Seat 3: preitem (button) folded before Flop (didn't bet)
+Seat 4: BerbatP (small blind) folded before Flop
+Seat 5: yosii11 (big blind) folded before Flop
+Seat 6: Nakerdev folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260610988883:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/04/27 18:39:37 CET [2026/04/27 12:39:37 ET]
+Table 'Epimetheus III' 6-max Seat #4 is the button
+Seat 6: Nakerdev (€5.79 in chips) is sitting out
+Seat 1: tankets (€5 in chips) 
+Seat 2: rabbitsblood (€5.64 in chips) 
+Seat 3: preitem (€5.57 in chips) 
+Seat 4: BerbatP (€6.74 in chips) 
+Seat 5: yosii11 (€4.39 in chips) 
+yosii11: posts small blind €0.02
+Nakerdev: is sitting out 
+tankets: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [5d 4d]
+rabbitsblood: folds 
+preitem: folds 
+BerbatP: raises €0.07 to €0.12
+yosii11: folds 
+Nakerdev leaves the table
+tankets: calls €0.07
+*** FLOP *** [7d 2d Ad]
+tankets: checks 
+BerbatP: bets €0.12
+tankets: calls €0.12
+*** TURN *** [7d 2d Ad] [Jd]
+tankets: checks 
+BerbatP: checks 
+*** RIVER *** [7d 2d Ad Jd] [3c]
+tankets: checks 
+BerbatP: bets €0.10
+tankets: folds 
+Uncalled bet (€0.10) returned to BerbatP
+BerbatP collected €0.47 from pot
+BerbatP: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.50 | Rake €0.03 
+Board [7d 2d Ad Jd 3c]
+Seat 6: Nakerdev
+Seat 1: tankets (big blind) folded on the River
+Seat 2: rabbitsblood folded before Flop (didn't bet)
+Seat 3: preitem folded before Flop (didn't bet)
+Seat 4: BerbatP (button) collected (€0.47)
+Seat 5: yosii11 (small blind) folded before Flop
+
+
+
+PokerStars Hand #260611002102:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/04/27 18:40:57 CET [2026/04/27 12:40:57 ET]
+Table 'Epimetheus III' 6-max Seat #5 is the button
+Seat 1: tankets (€5 in chips) 
+Seat 2: rabbitsblood (€5.64 in chips) 
+Seat 3: preitem (€5.57 in chips) 
+Seat 4: BerbatP (€6.97 in chips) 
+Seat 5: yosii11 (€4.37 in chips) 
+tankets: posts small blind €0.02
+rabbitsblood: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [Jh Ks]
+preitem: raises €0.10 to €0.15
+BerbatP: raises €0.30 to €0.45
+u.d.s.1966 joins the table at seat #6 
+yosii11: folds 
+tankets: folds 
+rabbitsblood: calls €0.40
+preitem: calls €0.30
+*** FLOP *** [5d Kh 4s]
+rabbitsblood: checks 
+preitem: checks 
+BerbatP: bets €0.38
+rabbitsblood: folds 
+preitem: folds 
+Uncalled bet (€0.38) returned to BerbatP
+BerbatP collected €1.29 from pot
+BerbatP: doesn't show hand 
+*** SUMMARY ***
+Total pot €1.37 | Rake €0.08 
+Board [5d Kh 4s]
+Seat 1: tankets (small blind) folded before Flop
+Seat 2: rabbitsblood (big blind) folded on the Flop
+Seat 3: preitem folded on the Flop
+Seat 4: BerbatP collected (€1.29)
+Seat 5: yosii11 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260611011343:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/04/27 18:41:52 CET [2026/04/27 12:41:52 ET]
+Table 'Epimetheus III' 6-max Seat #1 is the button
+Seat 6: u.d.s.1966 (€5 in chips) is sitting out
+Seat 1: tankets (€5 in chips) 
+Seat 2: rabbitsblood (€5.19 in chips) 
+Seat 3: preitem (€5.12 in chips) 
+Seat 4: BerbatP (€7.81 in chips) 
+Seat 5: yosii11 (€4.37 in chips) 
+rabbitsblood: posts small blind €0.02
+preitem: posts big blind €0.05
+u.d.s.1966: sits out 
+*** HOLE CARDS ***
+Dealt to BerbatP [Qc Jd]
+BerbatP: raises €0.07 to €0.12
+yosii11: folds 
+tankets: folds 
+rabbitsblood: folds 
+preitem: folds 
+Uncalled bet (€0.07) returned to BerbatP
+BerbatP collected €0.12 from pot
+BerbatP: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 6: u.d.s.1966
+Seat 1: tankets (button) folded before Flop (didn't bet)
+Seat 2: rabbitsblood (small blind) folded before Flop
+Seat 3: preitem (big blind) folded before Flop
+Seat 4: BerbatP collected (€0.12)
+Seat 5: yosii11 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260611013938:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/04/27 18:42:08 CET [2026/04/27 12:42:08 ET]
+Table 'Epimetheus III' 6-max Seat #2 is the button
+Seat 6: u.d.s.1966 (€5 in chips) is sitting out
+Seat 1: tankets (€5 in chips) 
+Seat 2: rabbitsblood (€5.17 in chips) 
+Seat 3: preitem (€5.07 in chips) 
+Seat 4: BerbatP (€7.88 in chips) 
+Seat 5: yosii11 (€4.37 in chips) 
+preitem: posts small blind €0.02
+BerbatP: posts big blind €0.05
+u.d.s.1966: sits out 
+*** HOLE CARDS ***
+Dealt to BerbatP [4d Ks]
+yosii11: folds 
+yosii11 leaves the table
+tankets: folds 
+rabbitsblood: folds 
+preitem: raises €0.10 to €0.15
+BerbatP: folds 
+Uncalled bet (€0.10) returned to preitem
+preitem collected €0.10 from pot
+preitem: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Seat 6: u.d.s.1966
+Seat 1: tankets folded before Flop (didn't bet)
+Seat 2: rabbitsblood (button) folded before Flop (didn't bet)
+Seat 3: preitem (small blind) collected (€0.10)
+Seat 4: BerbatP (big blind) folded before Flop
+Seat 5: yosii11 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260611016235:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/04/27 18:42:21 CET [2026/04/27 12:42:21 ET]
+Table 'Epimetheus III' 6-max Seat #3 is the button
+Seat 1: tankets (€5 in chips) 
+Seat 2: rabbitsblood (€5.17 in chips) 
+Seat 3: preitem (€5.12 in chips) 
+Seat 4: BerbatP (€7.83 in chips) 
+Seat 6: u.d.s.1966 (€5 in chips) 
+BerbatP: posts small blind €0.02
+u.d.s.1966: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [Th 7c]
+tankets: folds 
+rabbitsblood: raises €0.10 to €0.15
+preitem: folds 
+BerbatP: folds 
+u.d.s.1966: raises €0.45 to €0.60
+rabbitsblood: calls €0.45
+*** FLOP *** [3s 8s Jh]
+u.d.s.1966: checks 
+Gordaco4 joins the table at seat #5 
+rabbitsblood: checks 
+*** TURN *** [3s 8s Jh] [6s]
+Gordaco4 leaves the table
+u.d.s.1966: checks 
+rabbitsblood: bets €0.58
+u.d.s.1966: folds 
+Uncalled bet (€0.58) returned to rabbitsblood
+rabbitsblood collected €1.15 from pot
+XxVallesxX joins the table at seat #5 
+*** SUMMARY ***
+Total pot €1.22 | Rake €0.07 
+Board [3s 8s Jh 6s]
+Seat 1: tankets folded before Flop (didn't bet)
+Seat 2: rabbitsblood collected (€1.15)
+Seat 3: preitem (button) folded before Flop (didn't bet)
+Seat 4: BerbatP (small blind) folded before Flop
+Seat 6: u.d.s.1966 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #260611028219:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/04/27 18:43:32 CET [2026/04/27 12:43:32 ET]
+Table 'Epimetheus III' 6-max Seat #4 is the button
+Seat 5: XxVallesxX (€5 in chips) is sitting out
+Seat 1: tankets (€5 in chips) 
+Seat 2: rabbitsblood (€5.72 in chips) 
+Seat 3: preitem (€5.12 in chips) 
+Seat 4: BerbatP (€7.81 in chips) 
+Seat 6: u.d.s.1966 (€5 in chips) 
+u.d.s.1966: posts small blind €0.02
+tankets: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [6c Tc]
+rabbitsblood: raises €0.10 to €0.15
+preitem: folds 
+BerbatP: folds 
+u.d.s.1966: folds 
+tankets: folds 
+Uncalled bet (€0.10) returned to rabbitsblood
+rabbitsblood collected €0.12 from pot
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 5: XxVallesxX
+Seat 1: tankets (big blind) folded before Flop
+Seat 2: rabbitsblood collected (€0.12)
+Seat 3: preitem folded before Flop (didn't bet)
+Seat 4: BerbatP (button) folded before Flop (didn't bet)
+Seat 6: u.d.s.1966 (small blind) folded before Flop
+
+
+
+PokerStars Hand #260611030814:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/04/27 18:43:48 CET [2026/04/27 12:43:48 ET]
+Table 'Epimetheus III' 6-max Seat #6 is the button
+Seat 5: XxVallesxX (€5 in chips) is sitting out
+Seat 1: tankets (€5 in chips) 
+Seat 2: rabbitsblood (€5.79 in chips) 
+Seat 3: preitem (€5.12 in chips) 
+Seat 4: BerbatP (€7.81 in chips) 
+Seat 6: u.d.s.1966 (€5 in chips) 
+tankets: posts small blind €0.02
+rabbitsblood: posts big blind €0.05
+XxVallesxX: sits out 
+*** HOLE CARDS ***
+Dealt to BerbatP [Jh 8c]
+preitem: folds 
+preitem leaves the table
+BerbatP: folds 
+u.d.s.1966: folds 
+tankets: folds 
+Uncalled bet (€0.03) returned to rabbitsblood
+rabbitsblood collected €0.04 from pot
+*** SUMMARY ***
+Total pot €0.04 | Rake €0 
+Seat 5: XxVallesxX
+Seat 1: tankets (small blind) folded before Flop
+Seat 2: rabbitsblood (big blind) collected (€0.04)
+Seat 3: preitem folded before Flop (didn't bet)
+Seat 4: BerbatP folded before Flop (didn't bet)
+Seat 6: u.d.s.1966 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260611033864:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/04/27 18:44:06 CET [2026/04/27 12:44:06 ET]
+Table 'Epimetheus III' 6-max Seat #1 is the button
+Seat 5: XxVallesxX (€5 in chips) is sitting out
+Seat 1: tankets (€5 in chips) 
+Seat 2: rabbitsblood (€5.81 in chips) 
+Seat 4: BerbatP (€7.81 in chips) 
+Seat 6: u.d.s.1966 (€5 in chips) 
+rabbitsblood: posts small blind €0.02
+BerbatP: posts big blind €0.05
+XxVallesxX: sits out 
+*** HOLE CARDS ***
+Dealt to BerbatP [8h Qc]
+u.d.s.1966: folds 
+tankets: raises €0.07 to €0.12
+rabbitsblood: calls €0.10
+BerbatP: folds 
+*** FLOP *** [Jc 4h Ad]
+rabbitsblood: checks 
+tankets: bets €0.09
+rabbitsblood: calls €0.09
+*** TURN *** [Jc 4h Ad] [5h]
+rabbitsblood: checks 
+tankets: bets €0.22
+rabbitsblood: calls €0.22
+*** RIVER *** [Jc 4h Ad 5h] [Qd]
+rabbitsblood: checks 
+Javidekkers joins the table at seat #3 
+tankets: bets €0.18
+rabbitsblood: calls €0.18
+*** SHOW DOWN ***
+tankets: shows [As 7s] (a pair of Aces)
+rabbitsblood: mucks hand 
+tankets collected €1.19 from pot
+*** SUMMARY ***
+Total pot €1.27 | Rake €0.08 
+Board [Jc 4h Ad 5h Qd]
+Seat 5: XxVallesxX
+Seat 1: tankets (button) showed [As 7s] and won (€1.19) with a pair of Aces
+Seat 2: rabbitsblood (small blind) mucked [Ah 6h]
+Seat 4: BerbatP (big blind) folded before Flop
+Seat 6: u.d.s.1966 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260611043619:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/04/27 18:45:04 CET [2026/04/27 12:45:04 ET]
+Table 'Epimetheus III' 6-max Seat #2 is the button
+Seat 3: Javidekkers (€5 in chips) is sitting out
+Seat 1: tankets (€5.58 in chips) 
+Seat 2: rabbitsblood (€5.20 in chips) 
+Seat 4: BerbatP (€7.76 in chips) 
+Seat 5: XxVallesxX (€5 in chips) 
+Seat 6: u.d.s.1966 (€5 in chips) 
+BerbatP: posts small blind €0.02
+XxVallesxX: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [Ah 6d]
+u.d.s.1966: folds 
+tankets: folds 
+rabbitsblood: folds 
+BerbatP: raises €0.07 to €0.12
+XxVallesxX: folds 
+Uncalled bet (€0.07) returned to BerbatP
+BerbatP collected €0.10 from pot
+BerbatP: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Seat 3: Javidekkers
+Seat 1: tankets folded before Flop (didn't bet)
+Seat 2: rabbitsblood (button) folded before Flop (didn't bet)
+Seat 4: BerbatP (small blind) collected (€0.10)
+Seat 5: XxVallesxX (big blind) folded before Flop
+Seat 6: u.d.s.1966 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260611047789:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/04/27 18:45:29 CET [2026/04/27 12:45:29 ET]
+Table 'Epimetheus III' 6-max Seat #4 is the button
+Seat 3: Javidekkers (€5 in chips) is sitting out
+Seat 1: tankets (€5.58 in chips) 
+Seat 2: rabbitsblood (€5.20 in chips) 
+Seat 4: BerbatP (€7.81 in chips) 
+Seat 5: XxVallesxX (€5 in chips) 
+Seat 6: u.d.s.1966 (€5 in chips) 
+XxVallesxX: posts small blind €0.02
+u.d.s.1966: posts big blind €0.05
+Javidekkers: sits out 
+*** HOLE CARDS ***
+Dealt to BerbatP [7c Qc]
+tankets: folds 
+rabbitsblood: raises €0.10 to €0.15
+BerbatP: folds 
+XxVallesxX: folds 
+u.d.s.1966: folds 
+Uncalled bet (€0.10) returned to rabbitsblood
+rabbitsblood collected €0.12 from pot
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 3: Javidekkers
+Seat 1: tankets folded before Flop (didn't bet)
+Seat 2: rabbitsblood collected (€0.12)
+Seat 4: BerbatP (button) folded before Flop (didn't bet)
+Seat 5: XxVallesxX (small blind) folded before Flop
+Seat 6: u.d.s.1966 (big blind) folded before Flop
+
+
+
+PokerStars Hand #260611051930:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/04/27 18:45:53 CET [2026/04/27 12:45:53 ET]
+Table 'Epimetheus III' 6-max Seat #5 is the button
+Seat 3: Javidekkers (€5 in chips) is sitting out
+Seat 1: tankets (€5.58 in chips) 
+Seat 2: rabbitsblood (€5.27 in chips) 
+Seat 4: BerbatP (€7.81 in chips) 
+Seat 5: XxVallesxX (€5 in chips) 
+Seat 6: u.d.s.1966 (€5 in chips) 
+u.d.s.1966: posts small blind €0.02
+tankets: posts big blind €0.05
+Javidekkers: sits out 
+*** HOLE CARDS ***
+Dealt to BerbatP [Ac 6h]
+rabbitsblood: folds 
+BerbatP: raises €0.07 to €0.12
+XxVallesxX: folds 
+u.d.s.1966: raises €0.43 to €0.55
+tankets: folds 
+BerbatP: folds 
+Uncalled bet (€0.43) returned to u.d.s.1966
+u.d.s.1966 collected €0.29 from pot
+u.d.s.1966: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.29 | Rake €0 
+Seat 3: Javidekkers
+Seat 1: tankets (big blind) folded before Flop
+Seat 2: rabbitsblood folded before Flop (didn't bet)
+Seat 4: BerbatP folded before Flop
+Seat 5: XxVallesxX (button) folded before Flop (didn't bet)
+Seat 6: u.d.s.1966 (small blind) collected (€0.29)
+
+
+
+PokerStars Hand #260611055215:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/04/27 18:46:13 CET [2026/04/27 12:46:13 ET]
+Table 'Epimetheus III' 6-max Seat #6 is the button
+Seat 3: Javidekkers (€5 in chips) is sitting out
+Seat 1: tankets (€5.53 in chips) 
+Seat 2: rabbitsblood (€5.27 in chips) 
+Seat 4: BerbatP (€7.69 in chips) 
+Seat 5: XxVallesxX (€5 in chips) 
+Seat 6: u.d.s.1966 (€5.17 in chips) 
+tankets: posts small blind €0.02
+rabbitsblood: posts big blind €0.05
+Javidekkers: sits out 
+*** HOLE CARDS ***
+Dealt to BerbatP [Qd 7d]
+BerbatP: raises €0.07 to €0.12
+XxVallesxX: folds 
+u.d.s.1966: folds 
+tankets: folds 
+rabbitsblood: folds 
+Uncalled bet (€0.07) returned to BerbatP
+BerbatP collected €0.12 from pot
+BerbatP: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 3: Javidekkers
+Seat 1: tankets (small blind) folded before Flop
+Seat 2: rabbitsblood (big blind) folded before Flop
+Seat 4: BerbatP collected (€0.12)
+Seat 5: XxVallesxX folded before Flop (didn't bet)
+Seat 6: u.d.s.1966 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260611060361:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/04/27 18:46:43 CET [2026/04/27 12:46:43 ET]
+Table 'Epimetheus III' 6-max Seat #1 is the button
+Seat 1: tankets (€5.51 in chips) 
+Seat 2: rabbitsblood (€5.22 in chips) 
+Seat 3: Javidekkers (€5 in chips) 
+Seat 4: BerbatP (€7.76 in chips) 
+Seat 5: XxVallesxX (€5 in chips) 
+Seat 6: u.d.s.1966 (€5.17 in chips) 
+rabbitsblood: posts small blind €0.02
+Javidekkers: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [Ad Ac]
+BerbatP: calls €0.05
+XxVallesxX: folds 
+u.d.s.1966: folds 
+tankets: folds 
+rabbitsblood: folds 
+Javidekkers: checks 
+*** FLOP *** [2c 4s 8d]
+Javidekkers: checks 
+BerbatP: bets €0.06
+Javidekkers: calls €0.06
+*** TURN *** [2c 4s 8d] [Td]
+Javidekkers: checks 
+BerbatP: checks 
+*** RIVER *** [2c 4s 8d Td] [Qs]
+Javidekkers: bets €0.08
+BerbatP: raises €0.18 to €0.26
+Javidekkers: calls €0.18
+*** SHOW DOWN ***
+BerbatP: shows [Ad Ac] (a pair of Aces)
+Javidekkers: shows [Qd 8h] (two pair, Queens and Eights)
+Javidekkers collected €0.71 from pot
+*** SUMMARY ***
+Total pot €0.76 | Rake €0.05 
+Board [2c 4s 8d Td Qs]
+Seat 1: tankets (button) folded before Flop (didn't bet)
+Seat 2: rabbitsblood (small blind) folded before Flop
+Seat 3: Javidekkers (big blind) showed [Qd 8h] and won (€0.71) with two pair, Queens and Eights
+Seat 4: BerbatP showed [Ad Ac] and lost with a pair of Aces
+Seat 5: XxVallesxX folded before Flop (didn't bet)
+Seat 6: u.d.s.1966 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260611075050:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/04/27 18:48:11 CET [2026/04/27 12:48:11 ET]
+Table 'Epimetheus III' 6-max Seat #2 is the button
+Seat 1: tankets (€5.51 in chips) 
+Seat 2: rabbitsblood (€5.20 in chips) 
+Seat 3: Javidekkers (€5.34 in chips) 
+Seat 4: BerbatP (€7.39 in chips) 
+Seat 5: XxVallesxX (€5 in chips) 
+Seat 6: u.d.s.1966 (€5.17 in chips) 
+Javidekkers: posts small blind €0.02
+BerbatP: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [7s 2s]
+XxVallesxX: folds 
+u.d.s.1966: folds 
+tankets: raises €0.10 to €0.15
+rabbitsblood: raises €0.30 to €0.45
+Javidekkers: raises €0.90 to €1.35
+BerbatP: folds 
+tankets: folds 
+rabbitsblood: folds 
+Uncalled bet (€0.90) returned to Javidekkers
+Javidekkers collected €1.10 from pot
+Javidekkers: doesn't show hand 
+*** SUMMARY ***
+Total pot €1.10 | Rake €0 
+Seat 1: tankets folded before Flop
+Seat 2: rabbitsblood (button) folded before Flop
+Seat 3: Javidekkers (small blind) collected (€1.10)
+Seat 4: BerbatP (big blind) folded before Flop
+Seat 5: XxVallesxX folded before Flop (didn't bet)
+Seat 6: u.d.s.1966 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260611081492:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/04/27 18:48:50 CET [2026/04/27 12:48:50 ET]
+Table 'Epimetheus III' 6-max Seat #3 is the button
+Seat 5: XxVallesxX (€5 in chips) is sitting out
+Seat 1: tankets (€5.36 in chips) 
+Seat 2: rabbitsblood (€4.75 in chips) 
+Seat 3: Javidekkers (€5.99 in chips) 
+Seat 4: BerbatP (€7.34 in chips) 
+Seat 6: u.d.s.1966 (€5.17 in chips) 
+BerbatP: posts small blind €0.02
+XxVallesxX: is sitting out 
+u.d.s.1966: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [Ts Kc]
+tankets: folds 
+XxVallesxX leaves the table
+rabbitsblood: folds 
+Javidekkers: raises €0.07 to €0.12
+BerbatP: folds 
+u.d.s.1966: folds 
+Uncalled bet (€0.07) returned to Javidekkers
+Javidekkers collected €0.12 from pot
+Javidekkers: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 5: XxVallesxX
+Seat 1: tankets folded before Flop (didn't bet)
+Seat 2: rabbitsblood folded before Flop (didn't bet)
+Seat 3: Javidekkers (button) collected (€0.12)
+Seat 4: BerbatP (small blind) folded before Flop
+Seat 6: u.d.s.1966 (big blind) folded before Flop
+
+
+
+PokerStars Hand #260611084803:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/04/27 18:49:10 CET [2026/04/27 12:49:10 ET]
+Table 'Epimetheus III' 6-max Seat #4 is the button
+Seat 1: tankets (€5.36 in chips) 
+Seat 2: rabbitsblood (€4.75 in chips) 
+Seat 3: Javidekkers (€6.06 in chips) 
+Seat 4: BerbatP (€7.32 in chips) 
+Seat 6: u.d.s.1966 (€5.12 in chips) 
+u.d.s.1966: posts small blind €0.02
+tankets: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [4c Kd]
+rabbitsblood: folds 
+Javidekkers: raises €0.07 to €0.12
+BerbatP: folds 
+u.d.s.1966: folds 
+tankets: folds 
+Uncalled bet (€0.07) returned to Javidekkers
+Javidekkers collected €0.12 from pot
+Javidekkers: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 1: tankets (big blind) folded before Flop
+Seat 2: rabbitsblood folded before Flop (didn't bet)
+Seat 3: Javidekkers collected (€0.12)
+Seat 4: BerbatP (button) folded before Flop (didn't bet)
+Seat 6: u.d.s.1966 (small blind) folded before Flop
+
+
+
+PokerStars Hand #260611089270:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/04/27 18:49:37 CET [2026/04/27 12:49:37 ET]
+Table 'Epimetheus III' 6-max Seat #6 is the button
+Seat 1: tankets (€5.31 in chips) 
+Seat 2: rabbitsblood (€4.75 in chips) 
+Seat 3: Javidekkers (€6.13 in chips) 
+Seat 4: BerbatP (€7.32 in chips) 
+Seat 6: u.d.s.1966 (€5.10 in chips) 
+tankets: posts small blind €0.02
+rabbitsblood: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [4c 7d]
+Javidekkers: folds 
+XuanKold joins the table at seat #5 
+BerbatP: folds 
+u.d.s.1966: folds 
+tankets: raises €0.10 to €0.15
+rabbitsblood: folds 
+Uncalled bet (€0.10) returned to tankets
+XuanKold leaves the table
+tankets collected €0.10 from pot
+tankets: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Seat 1: tankets (small blind) collected (€0.10)
+Seat 2: rabbitsblood (big blind) folded before Flop
+Seat 3: Javidekkers folded before Flop (didn't bet)
+Seat 4: BerbatP folded before Flop (didn't bet)
+Seat 6: u.d.s.1966 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260611092519:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/04/27 18:49:56 CET [2026/04/27 12:49:56 ET]
+Table 'Epimetheus III' 6-max Seat #1 is the button
+Seat 1: tankets (€5.36 in chips) 
+Seat 2: rabbitsblood (€4.70 in chips) 
+Seat 3: Javidekkers (€6.13 in chips) 
+Seat 4: BerbatP (€7.32 in chips) 
+Seat 6: u.d.s.1966 (€5.10 in chips) 
+rabbitsblood: posts small blind €0.02
+Javidekkers: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [4c 3d]
+BerbatP: folds 
+u.d.s.1966: folds 
+tankets: folds 
+rabbitsblood: folds 
+Uncalled bet (€0.03) returned to Javidekkers
+Javidekkers collected €0.04 from pot
+Javidekkers: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.04 | Rake €0 
+Seat 1: tankets (button) folded before Flop (didn't bet)
+Seat 2: rabbitsblood (small blind) folded before Flop
+Seat 3: Javidekkers (big blind) collected (€0.04)
+Seat 4: BerbatP folded before Flop (didn't bet)
+Seat 6: u.d.s.1966 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260611094226:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/04/27 18:50:07 CET [2026/04/27 12:50:07 ET]
+Table 'Epimetheus III' 6-max Seat #2 is the button
+Seat 1: tankets (€5.36 in chips) 
+Seat 2: rabbitsblood (€4.68 in chips) 
+Seat 3: Javidekkers (€6.15 in chips) 
+Seat 4: BerbatP (€7.32 in chips) 
+Seat 6: u.d.s.1966 (€5.10 in chips) 
+Javidekkers: posts small blind €0.02
+BerbatP: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [Ac 2c]
+u.d.s.1966: raises €0.10 to €0.15
+tankets: folds 
+LaMino77 joins the table at seat #5 
+rabbitsblood: folds 
+Javidekkers: folds 
+BerbatP: calls €0.10
+*** FLOP *** [Jc 4c 5s]
+BerbatP: checks 
+u.d.s.1966: bets €0.10
+BerbatP: raises €0.25 to €0.35
+u.d.s.1966: calls €0.25
+*** TURN *** [Jc 4c 5s] [Jd]
+BerbatP: bets €0.48
+u.d.s.1966: calls €0.48
+*** RIVER *** [Jc 4c 5s Jd] [Qh]
+BerbatP: checks 
+u.d.s.1966: checks 
+*** SHOW DOWN ***
+BerbatP: shows [Ac 2c] (a pair of Jacks)
+u.d.s.1966: shows [As 4s] (two pair, Jacks and Fours)
+u.d.s.1966 collected €1.86 from pot
+*** SUMMARY ***
+Total pot €1.98 | Rake €0.12 
+Board [Jc 4c 5s Jd Qh]
+Seat 1: tankets folded before Flop (didn't bet)
+Seat 2: rabbitsblood (button) folded before Flop (didn't bet)
+Seat 3: Javidekkers (small blind) folded before Flop
+Seat 4: BerbatP (big blind) showed [Ac 2c] and lost with a pair of Jacks
+Seat 6: u.d.s.1966 showed [As 4s] and won (€1.86) with two pair, Jacks and Fours
+
+
+
+PokerStars Hand #260611112858:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/04/27 18:51:59 CET [2026/04/27 12:51:59 ET]
+Table 'Epimetheus III' 6-max Seat #3 is the button
+Seat 1: tankets (€5.36 in chips) 
+Seat 2: rabbitsblood (€4.68 in chips) 
+Seat 3: Javidekkers (€6.13 in chips) 
+Seat 4: BerbatP (€6.34 in chips) 
+Seat 5: LaMino77 (€5 in chips) 
+Seat 6: u.d.s.1966 (€5.98 in chips) 
+BerbatP: posts small blind €0.02
+LaMino77: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [9s 6s]
+u.d.s.1966: raises €0.10 to €0.15
+tankets: folds 
+rabbitsblood: folds 
+Javidekkers: folds 
+BerbatP: folds 
+LaMino77: folds 
+Uncalled bet (€0.10) returned to u.d.s.1966
+u.d.s.1966 collected €0.12 from pot
+u.d.s.1966: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 1: tankets folded before Flop (didn't bet)
+Seat 2: rabbitsblood folded before Flop (didn't bet)
+Seat 3: Javidekkers (button) folded before Flop (didn't bet)
+Seat 4: BerbatP (small blind) folded before Flop
+Seat 5: LaMino77 (big blind) folded before Flop
+Seat 6: u.d.s.1966 collected (€0.12)
+
+
+
+PokerStars Hand #260611116657:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/04/27 18:52:22 CET [2026/04/27 12:52:22 ET]
+Table 'Epimetheus III' 6-max Seat #4 is the button
+Seat 1: tankets (€5.36 in chips) 
+Seat 2: rabbitsblood (€4.68 in chips) 
+Seat 3: Javidekkers (€6.13 in chips) 
+Seat 4: BerbatP (€6.32 in chips) 
+Seat 5: LaMino77 (€5 in chips) 
+Seat 6: u.d.s.1966 (€6.05 in chips) 
+LaMino77: posts small blind €0.02
+u.d.s.1966: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [9h 5h]
+tankets: folds 
+rabbitsblood: folds 
+Javidekkers: raises €0.10 to €0.15
+BerbatP: folds 
+LaMino77: folds 
+u.d.s.1966: folds 
+Uncalled bet (€0.10) returned to Javidekkers
+Javidekkers collected €0.12 from pot
+Javidekkers: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 1: tankets folded before Flop (didn't bet)
+Seat 2: rabbitsblood folded before Flop (didn't bet)
+Seat 3: Javidekkers collected (€0.12)
+Seat 4: BerbatP (button) folded before Flop (didn't bet)
+Seat 5: LaMino77 (small blind) folded before Flop
+Seat 6: u.d.s.1966 (big blind) folded before Flop
+
+
+
+PokerStars Hand #260611120521:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/04/27 18:52:45 CET [2026/04/27 12:52:45 ET]
+Table 'Epimetheus III' 6-max Seat #5 is the button
+Seat 1: tankets (€5.36 in chips) 
+Seat 2: rabbitsblood (€4.68 in chips) 
+Seat 3: Javidekkers (€6.20 in chips) 
+Seat 4: BerbatP (€6.32 in chips) 
+Seat 5: LaMino77 (€5 in chips) 
+Seat 6: u.d.s.1966 (€6 in chips) 
+u.d.s.1966: posts small blind €0.02
+tankets: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [Ad 7c]
+rabbitsblood: folds 
+Javidekkers: folds 
+BerbatP: raises €0.07 to €0.12
+LaMino77: folds 
+u.d.s.1966: folds 
+tankets: raises €0.38 to €0.50
+BerbatP: folds 
+Uncalled bet (€0.38) returned to tankets
+tankets collected €0.26 from pot
+tankets: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.26 | Rake €0 
+Seat 1: tankets (big blind) collected (€0.26)
+Seat 2: rabbitsblood folded before Flop (didn't bet)
+Seat 3: Javidekkers folded before Flop (didn't bet)
+Seat 4: BerbatP folded before Flop
+Seat 5: LaMino77 (button) folded before Flop (didn't bet)
+Seat 6: u.d.s.1966 (small blind) folded before Flop
+
+
+
+PokerStars Hand #260611125202:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/04/27 18:53:13 CET [2026/04/27 12:53:13 ET]
+Table 'Epimetheus III' 6-max Seat #6 is the button
+Seat 1: tankets (€5.50 in chips) 
+Seat 2: rabbitsblood (€4.68 in chips) 
+Seat 3: Javidekkers (€6.20 in chips) 
+Seat 4: BerbatP (€6.20 in chips) 
+Seat 5: LaMino77 (€5 in chips) 
+Seat 6: u.d.s.1966 (€5.98 in chips) 
+tankets: posts small blind €0.02
+rabbitsblood: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [5h Jd]
+Javidekkers: folds 
+BerbatP: folds 
+LaMino77: folds 
+u.d.s.1966: folds 
+tankets: folds 
+Uncalled bet (€0.03) returned to rabbitsblood
+rabbitsblood collected €0.04 from pot
+*** SUMMARY ***
+Total pot €0.04 | Rake €0 
+Seat 1: tankets (small blind) folded before Flop
+Seat 2: rabbitsblood (big blind) collected (€0.04)
+Seat 3: Javidekkers folded before Flop (didn't bet)
+Seat 4: BerbatP folded before Flop (didn't bet)
+Seat 5: LaMino77 folded before Flop (didn't bet)
+Seat 6: u.d.s.1966 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260611128136:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/04/27 18:53:31 CET [2026/04/27 12:53:31 ET]
+Table 'Epimetheus III' 6-max Seat #1 is the button
+Seat 1: tankets (€5.48 in chips) 
+Seat 2: rabbitsblood (€4.70 in chips) 
+Seat 3: Javidekkers (€6.20 in chips) 
+Seat 4: BerbatP (€6.20 in chips) 
+Seat 5: LaMino77 (€5 in chips) 
+Seat 6: u.d.s.1966 (€5.98 in chips) 
+rabbitsblood: posts small blind €0.02
+Javidekkers: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [6s Ts]
+BerbatP: folds 
+LaMino77: folds 
+u.d.s.1966: folds 
+tankets: folds 
+rabbitsblood: raises €0.10 to €0.15
+Javidekkers: calls €0.10
+*** FLOP *** [6c 8h 8d]
+rabbitsblood: bets €0.08
+Javidekkers: calls €0.08
+*** TURN *** [6c 8h 8d] [Td]
+rabbitsblood: checks 
+Javidekkers: checks 
+*** RIVER *** [6c 8h 8d Td] [Qh]
+rabbitsblood: bets €0.13
+Javidekkers: folds 
+Uncalled bet (€0.13) returned to rabbitsblood
+rabbitsblood collected €0.43 from pot
+rabbitsblood: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.46 | Rake €0.03 
+Board [6c 8h 8d Td Qh]
+Seat 1: tankets (button) folded before Flop (didn't bet)
+Seat 2: rabbitsblood (small blind) collected (€0.43)
+Seat 3: Javidekkers (big blind) folded on the River
+Seat 4: BerbatP folded before Flop (didn't bet)
+Seat 5: LaMino77 folded before Flop (didn't bet)
+Seat 6: u.d.s.1966 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260611139083:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/04/27 18:54:36 CET [2026/04/27 12:54:36 ET]
+Table 'Epimetheus III' 6-max Seat #2 is the button
+Seat 1: tankets (€5.48 in chips) 
+Seat 2: rabbitsblood (€4.90 in chips) 
+Seat 3: Javidekkers (€5.97 in chips) 
+Seat 4: BerbatP (€6.20 in chips) 
+Seat 5: LaMino77 (€5 in chips) 
+Seat 6: u.d.s.1966 (€5.98 in chips) 
+Javidekkers: posts small blind €0.02
+BerbatP: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [Td Ts]
+LaMino77: folds 
+u.d.s.1966: folds 
+tankets: folds 
+rabbitsblood: folds 
+Javidekkers: folds 
+Uncalled bet (€0.03) returned to BerbatP
+BerbatP collected €0.04 from pot
+BerbatP: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.04 | Rake €0 
+Seat 1: tankets folded before Flop (didn't bet)
+Seat 2: rabbitsblood (button) folded before Flop (didn't bet)
+Seat 3: Javidekkers (small blind) folded before Flop
+Seat 4: BerbatP (big blind) collected (€0.04)
+Seat 5: LaMino77 folded before Flop (didn't bet)
+Seat 6: u.d.s.1966 folded before Flop (didn't bet)
+
+
+

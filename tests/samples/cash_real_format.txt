@@ -1,0 +1,32 @@
+﻿PokerStars Hand #999000111:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/04/27 18:49:54 CET [2026/04/27 12:49:54 ET]
+Table 'Alwine III' 6-max Seat #5 is the button
+Seat 1: Alpha (€7.13 in chips)
+Seat 2: Bravo (€4.13 in chips)
+Seat 3: Charlie (€5 in chips)
+Seat 4: HeroEU (€5 in chips)
+Seat 5: Echo (€7.81 in chips)
+Seat 6: Foxtrot (€9.82 in chips)
+Foxtrot: posts small blind €0.02
+Alpha: posts big blind €0.05
+HeroEU: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to HeroEU [Ac 4d]
+Bravo: folds
+Charlie: sits out
+Charlie: folds
+HeroEU: checks
+Echo: folds
+Foxtrot: raises €0.10 to €0.15
+Alpha: folds
+HeroEU: calls €0.10
+*** FLOP *** [Kd 7d 6c]
+Foxtrot: checks
+HeroEU: bets €0.17
+Foxtrot: folds
+Uncalled bet (€0.17) returned to HeroEU
+HeroEU collected €0.33 from pot
+HeroEU: doesn't show hand
+*** SUMMARY ***
+Total pot €0.35 | Rake €0.02
+Board [Kd 7d 6c]
+Seat 4: HeroEU collected (€0.33)

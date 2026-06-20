@@ -1,0 +1,424 @@
+================================================================
+     POKER HAND REPLAYER — FULL PROJECT SPECIFICATION
+================================================================
+
+
+================================================================
+SECTION 1 — HAND HISTORY IMPORTING
+================================================================
+
+1.1  SUPPORTED FORMATS
+     Support importing hand history files from the major online poker platforms:
+
+     - PokerStars (.txt hand history files)
+     - GGPoker / GGNetwork (.txt format)
+     - 888poker (.txt format)
+     - partypoker (.txt format)
+     - winamax (.txt format, French and English)
+     - Generic hand history (a fallback parser for unknown formats)
+
+1.2  IMPORT METHODS
+     Provide multiple ways for the user to bring in a hand:
+
+     a) Paste from clipboard: User copies the raw hand history text and pastes
+        it directly into a text area inside the app. A "Parse Hand" button
+        processes it immediately.
+
+     b) Open a file: A file picker lets the user open a .txt file that may
+        contain one hand or many hands (a session log).
+
+     c) Drag and drop: User drags a .txt file onto the app window and it is
+        parsed automatically.
+
+     d) Watch folder (optional, advanced): User designates a folder on disk
+        where hand history files are saved automatically by the poker client.
+        The app polls that folder and imports new hands in real time as they
+        are written by the poker client.
+
+1.3  PARSER REQUIREMENTS
+     The parser must extract every field from the raw text:
+
+     - Hand ID (unique identifier assigned by the poker site)
+     - Date and time of the hand (convert to local timezone if needed)
+     - Poker site name
+     - Table name and table ID
+     - Game type (No Limit Hold'em, Pot Limit Omaha, etc.)
+     - Stakes (e.g., $0.50 / $1.00)
+     - Currency (USD, EUR, play money, etc.)
+     - Tournament ID and level if applicable (blind level, ante)
+     - Seat numbers and player usernames
+     - Starting stack sizes for each player
+     - Dealer / button seat number
+     - Blind amounts posted by each player (small blind, big blind, antes)
+     - Hole cards dealt to the hero (and to any players whose cards are shown)
+     - All actions in order for every street:
+         * fold, check, call, bet, raise, all-in
+         * Amount for each bet / raise / call
+         * Whether the action was a timeout or disconnect (if shown in the log)
+     - Community cards for flop, turn, and river (with exact cards)
+     - Cards shown at showdown (all players who went to showdown)
+     - Pot sizes: main pot and any side pots
+     - Winner(s) and the amount won per player
+     - Rake amount if shown
+
+1.4  MULTI-HAND FILES
+     When a file contains many hands:
+
+     - Parse all hands and display them in a list/sidebar.
+     - Show a summary row for each hand: date, stakes, game type, net result
+       (won / lost / broke even from the hero's perspective), and hand ID.
+     - Allow the user to click any hand in the list to load it in the replayer.
+     - Allow filtering the list by date range, game type, or net result.
+     - Allow sorting the list by date, pot size, or result.
+
+1.5  ERROR HANDLING
+     - If a hand cannot be parsed, show a clear error message identifying
+       which lines caused the failure.
+     - Partially parsed hands should still be saved with a "incomplete" flag.
+     - Never silently discard data.
+
+
+================================================================
+SECTION 2 — HAND STORAGE / DATABASE
+================================================================
+
+2.1  LOCAL DATABASE
+     Store all imported hands in a local database (SQLite is a good choice
+     for a desktop app; IndexedDB works for a web app).
+
+     Schema should include at minimum:
+     - hands table: hand_id, site, date, game_type, stakes, hero_username,
+       net_result, pot_size, raw_text, parsed_json, tags, notes, created_at
+     - sessions table: group hands by session (same date / site / table) so
+       the user can review an entire session at once.
+
+2.2  EXPORT
+     Allow the user to export stored hands:
+
+     - Export a single hand as a .txt file (original raw format).
+     - Export multiple hands as a .txt file (appended).
+     - Export hand summaries as a .csv file for use in spreadsheets.
+
+2.3  IMPORT / BACKUP
+     - Export the entire database as a .json or .zip backup file.
+     - Import from a backup file to restore or transfer the database.
+
+2.4  TAGGING AND NOTES
+     - Allow the user to tag any hand with custom labels
+       (e.g., "bluff", "bad beat", "study", "review with coach").
+     - Allow the user to write free-text notes on a hand.
+     - Notes and tags should be searchable.
+
+2.5  SEARCH
+     Provide a search bar that searches across:
+     - Player names (find all hands involving a specific opponent)
+     - Tags
+     - Notes
+     - Hand IDs
+     - Date range picker
+
+
+================================================================
+SECTION 3 — THE REPLAYER VISUAL TABLE
+================================================================
+
+3.1  TABLE LAYOUT
+     Render a top-down view of a poker table (oval shape, green felt texture
+     or a clean flat-design alternative). The table should feel like a real
+     online poker client, not a generic diagram.
+
+     - Support 2 to 10 seats; place seat icons evenly around the oval.
+     - Mark the dealer button position clearly (a "D" token or chip).
+     - Mark the small blind and big blind positions.
+
+3.2  PLAYER SEATS
+     Each seat displays:
+     - Player username (truncate with "..." if too long, show full name on hover)
+     - Current stack size (update dynamically as the hand plays out)
+     - Hole cards (face down initially; flip face up when revealed at showdown
+       or if the hero's cards are known)
+     - A "folded" overlay or greyed-out state when the player folds
+     - A chip pile graphic representing the amount the player has put in the
+       current pot on this street
+     - An "all-in" badge when a player is all-in
+     - A dealer / SB / BB label badge on the appropriate seats
+
+3.3  POT DISPLAY
+     - Show the total pot in the center of the table.
+     - Show side pots separately when applicable, labeled "Side Pot 1",
+       "Side Pot 2", etc.
+     - Animate chips moving from the players' bet areas to the center pot
+       when a betting street ends.
+
+3.4  COMMUNITY CARDS
+     - Display cards in the center of the table for flop, turn, and river.
+     - Cards should appear one at a time as the replayer advances to each
+       street (or all at once for the flop).
+     - Use a clean card rendering: suit symbols (♠ ♥ ♦ ♣) with proper colors
+       (black / red), large readable rank letters.
+
+3.5  ACTION LOG / FEED
+     - A side panel shows a scrolling log of every action in the hand in plain
+       English: "PlayerA raises to $4.50", "PlayerB calls $4.50", etc.
+     - The current action is highlighted.
+     - The log scrolls automatically to keep the current action visible.
+     - The user can click any action in the log to jump to that moment.
+
+
+================================================================
+SECTION 4 — NAVIGATION AND PLAYBACK CONTROLS
+================================================================
+
+4.1  CONTROL BAR
+     Place a control bar at the bottom (or top) of the replayer with these
+     controls:
+
+     [|<]  Go to start (pre-deal, before any action)
+     [<]   Step backward one action
+     [>]   Step forward one action
+     [>|]  Go to end (final state after winner is declared)
+     [>>]  Auto-play (advance automatically at a set speed)
+
+     Auto-play speed slider: allow the user to choose from Slow / Normal /
+     Fast (or a continuous slider from 0.5x to 4x speed).
+
+     Pause button (appears when auto-play is running).
+
+4.2  STREET NAVIGATION BUTTONS
+     Provide clearly labeled buttons to jump instantly to the beginning of
+     each street. Only show buttons for streets that exist in the hand:
+
+     [PREFLOP]   [FLOP]   [TURN]   [RIVER]   [SHOWDOWN]
+
+     Clicking a button jumps to the first action of that street so the user
+     can immediately review a specific decision without stepping through the
+     whole hand.
+
+4.3  PROGRESS BAR / TIMELINE
+     Display a horizontal timeline bar below the action area showing all
+     actions as tick marks. The user can:
+     - See roughly how many actions are in the hand.
+     - Click anywhere on the bar to jump to that action.
+     - See colored sections for each street (preflop, flop, turn, river) to
+       quickly locate phases.
+
+4.4  KEYBOARD SHORTCUTS
+     Support keyboard navigation so the user can replay hands without touching
+     the mouse:
+
+     Arrow Right   →   Step forward one action
+     Arrow Left    ←   Step backward one action
+     Space         →   Toggle auto-play / pause
+     Home          →   Jump to start
+     End           →   Jump to end
+     F             →   Jump to flop
+     T             →   Jump to turn
+     R             →   Jump to river
+     S             →   Jump to showdown
+
+4.5  HAND SUMMARY OVERLAY
+     After reaching the final state, display an overlay or slide-in panel
+     showing:
+     - Winner(s) and winning hand description (e.g., "Flush, Ace high")
+     - Net result for the hero (amount won or lost)
+     - Pot size, rake
+     - Option to view equity percentages at each decision point (see
+       Section 6 for equity features)
+
+
+================================================================
+SECTION 5 — MULTI-STREET REVIEW FEATURES
+================================================================
+
+5.1  STREET-BY-STREET SUMMARY PANEL
+     Provide a collapsible summary panel that shows a quick view of all four
+     streets side by side:
+
+     - Preflop: starting stacks, blinds, main raises/calls, pot entering flop
+     - Flop [cards]: key bets, pot entering turn
+     - Turn [card]: key bets, pot entering river
+     - River [card]: key bets, final pot, winner
+
+     The user can click any street in this summary to jump to it in the
+     full replayer.
+
+5.2  RANGE DISPLAY (ADVANCED)
+     Allow the user to assign a hand range to any player at any point in the
+     hand using a range matrix (13x13 grid showing all possible starting
+     hand combinations). This is purely a manual annotation tool — the user
+     decides what range they think a villain has and marks it here for study.
+     Ranges can be saved per-action and reviewed later.
+
+5.3  PLAYER STATS OVERLAY
+     If the user has imported multiple sessions, show live stats for each
+     player seen in the hand:
+     - Total hands played together
+     - VPIP (voluntarily put money in pot %)
+     - PFR (pre-flop raise %)
+     - AF (aggression factor)
+     These stats are calculated from the local database, not from a third-party
+     HUD service.
+
+
+================================================================
+SECTION 6 — EQUITY AND ANALYSIS TOOLS
+================================================================
+
+6.1  EQUITY CALCULATOR
+     At showdown (or any point where both hole cards are known), calculate
+     and display the equity each player held at the start of each street:
+
+     - Show equity % at the start of the hand (preflop)
+     - Show equity % after the flop is dealt
+     - Show equity % after the turn is dealt
+     - Use a bar or pie chart next to each player's seat
+
+     Equity can be calculated client-side using a built-in hand evaluator
+     (Monte Carlo simulation or full enumeration for two players).
+
+6.2  EV DISPLAY
+     Show the expected value of calling / folding / raising at each decision
+     point based on pot odds. Display as a simple inline note in the action
+     log: "Pot odds: 33% — Hero needs 33%+ equity to break even on a call."
+
+6.3  ALL-IN EQUITY GRAPH
+     When two or more players go all-in, show a runout equity graph: a bar
+     chart with one bar per player showing their equity percentage at the
+     moment the last player is all-in.
+
+
+================================================================
+SECTION 7 — UI / UX DESIGN
+================================================================
+
+7.1  THEMES
+     - Dark mode (default): dark green felt, dark backgrounds, bright card faces.
+     - Light mode: lighter felt color, white backgrounds.
+     - Toggle in settings.
+
+7.2  RESPONSIVE LAYOUT
+     - Desktop: full sidebar for hand list + large table + control bar.
+     - Tablet: hide sidebar by default; add a "Hands" button to open it as a
+       drawer.
+     - Mobile: simplified view, vertically stacked controls.
+
+7.3  ACCESSIBILITY
+     - All buttons must have accessible labels (aria-label).
+     - Keyboard navigation must be fully functional (see 4.4).
+     - Color alone should never be the sole indicator of state — use icons
+       and text labels alongside color.
+
+7.4  SETTINGS PANEL
+     Provide a settings screen with:
+     - Theme toggle (dark / light)
+     - Default auto-play speed
+     - Hero username(s) (for identifying the hero across multiple sites)
+     - Watch folder path (for automatic import, Section 1.2d)
+     - Card back design selector
+     - Language / locale selector (for number formatting)
+
+
+================================================================
+SECTION 8 — TECHNOLOGY RECOMMENDATIONS
+================================================================
+
+8.1  DESKTOP APP
+     Electron (Node.js + Chromium) is the most common choice for a cross-
+     platform desktop app with a web-based UI. Alternatively, Tauri (Rust +
+     WebView) gives a smaller binary. Either allows direct file system access
+     needed for the watch folder feature and SQLite integration.
+
+8.2  WEB APP (BROWSER-ONLY)
+     If a server-side component is acceptable, a React or Vue frontend with
+     a Node.js / FastAPI backend works well. Use IndexedDB for local storage.
+     The watch folder feature is not available in a pure browser context.
+
+8.3  HAND PARSER
+     Write the parser as a standalone module with unit tests. Each supported
+     site should have its own parser class / function that returns the same
+     normalized data structure (a "Hand" object). This makes it easy to add
+     new sites later.
+
+8.4  CARD RENDERING
+     Use an SVG-based card renderer for crisp cards at any resolution. Several
+     open-source card SVG decks are available (e.g., the "Standard 52-card deck"
+     SVG by Chris Aguilar, which is public domain).
+
+8.5  EQUITY CALCULATION
+     Implement or import a poker hand evaluator. Options:
+     - pokersolver (JavaScript, npm, supports Hold'em and Omaha)
+     - PokerHandEvaluator (C++ with JS bindings for speed)
+     - Write a simple Monte Carlo simulation (run 10,000 random runouts to
+       estimate equity — accurate enough for study purposes)
+
+
+================================================================
+SECTION 9 — DEVELOPMENT MILESTONES (SUGGESTED ORDER)
+================================================================
+
+Milestone 1 — Parser + Data Model
+     - Write the PokerStars parser.
+     - Define the normalized Hand data structure.
+     - Write unit tests with at least 20 real hand history samples.
+
+Milestone 2 — Storage
+     - Set up SQLite (or IndexedDB).
+     - Import a hand, store it, retrieve it.
+     - Build the hand list view.
+
+Milestone 3 — Static Table View
+     - Render the table with seats, player names, stacks, and hole cards.
+     - Show a single static moment of a hand (no playback yet).
+
+Milestone 4 — Playback Engine
+     - Implement the action step-through logic (forward and backward).
+     - Connect the control bar buttons and keyboard shortcuts.
+     - Animate chip movements and card dealing.
+
+Milestone 5 — Street Navigation
+     - Add [PREFLOP] [FLOP] [TURN] [RIVER] [SHOWDOWN] jump buttons.
+     - Add the timeline progress bar.
+
+Milestone 6 — Equity and Analysis
+     - Integrate equity calculator.
+     - Show equity bars at showdown.
+     - Add pot odds notes to the action log.
+
+Milestone 7 — Multi-Site Support
+     - Add parsers for GGPoker, 888poker, partypoker.
+     - Add the watch folder feature.
+
+Milestone 8 — Polish
+     - Themes, responsive layout, accessibility audit.
+     - Hand tagging, notes, search.
+     - Range matrix annotation tool.
+     - Export / backup features.
+
+
+================================================================
+SECTION 10 — NICE-TO-HAVE FUTURE FEATURES
+================================================================
+
+- Replay sharing: generate a shareable link or short animated GIF / video
+  clip of a hand to post on forums or Discord.
+
+- Spot quiz mode: hide the hero's action at a key decision point and ask
+  the user "What would you do?" before revealing what actually happened.
+
+- Session graph: a line chart of cumulative profit/loss across all imported
+  hands, filterable by date, game type, and stakes.
+
+- Note syncing: sync hand notes to a cloud backend so the user can access
+  them across devices.
+
+- Solver integration: connect to a local GTO solver (e.g., PioSOLVER,
+  MonkerSolver) via its API to pull in solver frequencies and display them
+  on the table as percentages per action.
+
+- Leak finder: automatically flag spots where the hero deviated from a
+  simple heuristic (e.g., folding to a c-bet with >60% equity, calling
+  all-in with <30% equity) and tag those hands for review.
+
+================================================================
+END OF SPECIFICATION
+================================================================

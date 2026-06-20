@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Poker Hand Replayer</title>
+  <link rel="stylesheet" href="styles/main.css" />
+</head>
+<body>
+  <div id="app">
+    <!-- ── Sidebar: import + hand list ───────────────────────────── -->
+    <aside id="sidebar" aria-label="Hand library">
+      <header class="brand"><span class="pip">♠</span> Hand Replayer</header>
+
+      <div class="import">
+        <textarea id="paste" rows="4" placeholder="Paste a hand history here…"
+          aria-label="Paste hand history"></textarea>
+        <div class="import-actions">
+          <button id="btn-parse" class="primary">Parse Hand</button>
+          <button id="btn-open">Open File…</button>
+          <button id="btn-sample" title="Load the bundled demo session">Sample</button>
+          <input type="file" id="file-input" accept=".txt,text/plain" multiple hidden />
+        </div>
+      </div>
+
+      <div class="list-controls">
+        <input id="search" type="search" placeholder="Search players, tags, notes, IDs…"
+          aria-label="Search hands" />
+        <button id="btn-clear" class="ghost" title="Remove all stored hands">Clear</button>
+      </div>
+
+      <ul id="hand-list" aria-label="Imported hands"></ul>
+      <p id="list-empty" class="empty-hint">No hands yet. Paste one above or load the sample.</p>
+    </aside>
+
+    <!-- ── Main: visual table + playback controls ────────────────── -->
+    <main id="main">
+      <div id="drop-overlay"><span>Drop .txt hand history files to import</span></div>
+
+      <section id="table-wrap">
+        <div id="table" role="img" aria-label="Poker table">
+          <div id="board" class="board" aria-label="Community cards"></div>
+          <div id="pot" class="pot"></div>
+          <div id="seats"></div>
+          <div id="table-empty" class="table-empty">Select or import a hand to begin.</div>
+        </div>
+      </section>
+
+      <section id="controls" aria-label="Playback controls">
+        <div id="street-nav" class="street-nav"></div>
+        <div id="timeline" class="timeline" aria-label="Action timeline"></div>
+        <div id="control-bar" class="control-bar">
+          <button id="btn-start" aria-label="Jump to start" title="Start (Home)">⏮</button>
+          <button id="btn-prev" aria-label="Step back" title="Back (←)">◀</button>
+          <button id="btn-play" aria-label="Play or pause" title="Play / pause (Space)">▶</button>
+          <button id="btn-next" aria-label="Step forward" title="Forward (→)">▶❘</button>
+          <button id="btn-end" aria-label="Jump to end" title="End (End)">⏭</button>
+          <label class="speed">
+            Speed
+            <select id="speed" aria-label="Auto-play speed">
+              <option value="0.5">0.5×</option>
+              <option value="1" selected>1×</option>
+              <option value="2">2×</option>
+              <option value="4">4×</option>
+            </select>
+          </label>
+          <span id="step-counter" class="step-counter" aria-live="polite"></span>
+          <button id="btn-theme" class="ghost theme-toggle" aria-label="Toggle theme" title="Toggle light / dark">🌓</button>
+        </div>
+      </section>
+    </main>
+
+    <!-- ── Right panel: action feed + hand summary ───────────────── -->
+    <aside id="log-panel" aria-label="Action log">
+      <header>Action Feed</header>
+      <div id="hand-meta" class="hand-meta"></div>
+      <div id="equity" class="equity-panel" hidden></div>
+      <ol id="action-log" class="action-log"></ol>
+      <div id="summary" class="summary" hidden></div>
+    </aside>
+  </div>
+
+  <script type="module" src="src/ui/app.js"></script>
+</body>
+</html>

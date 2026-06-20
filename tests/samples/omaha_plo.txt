@@ -1,0 +1,28 @@
+PokerStars Hand #243490170000:  Omaha Pot Limit ($0.25/$0.50 USD) - 2021/05/04 15:00:00 ET
+Table 'Orion' 6-max Seat #3 is the button
+Seat 1: P1 ($50.00 in chips)
+Seat 2: P2 ($50.00 in chips)
+Seat 3: Hero ($50.00 in chips)
+Seat 4: P4 ($50.00 in chips)
+P4: posts small blind $0.25
+P1: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Hero [Ah Kh Qs Js]
+P2: folds
+Hero: raises $1.25 to $1.75
+P4: folds
+P1: calls $1.25
+*** FLOP *** [Th 9h 2c]
+P1: checks
+Hero: bets $3.00
+P1: calls $3.00
+*** TURN *** [Th 9h 2c] [8h]
+P1: checks
+Hero: bets $9.00
+P1: folds
+Uncalled bet ($9.00) returned to Hero
+Hero collected $9.50 from pot
+*** SUMMARY ***
+Total pot $9.75 | Rake $0.25
+Board [Th 9h 2c 8h]
+Seat 3: Hero (button) collected ($9.50)

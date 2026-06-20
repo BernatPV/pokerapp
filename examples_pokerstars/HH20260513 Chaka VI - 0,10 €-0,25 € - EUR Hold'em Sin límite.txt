@@ -1,0 +1,2105 @@
+﻿PokerStars Hand #260792655861:  Hold'em No Limit (€0.10/€0.25 EUR) - 2026/05/13 17:31:45 CET [2026/05/13 11:31:45 ET]
+Table 'Chaka VI' 6-max Seat #1 is the button
+Seat 1: TuLeónCoqueto (€25 in chips) 
+Seat 2: vanessa24lpa (€30.31 in chips) 
+Seat 3: BerbatP (€25 in chips) 
+Seat 4: boobajo76 (€32.19 in chips) 
+Seat 5: rauru1313 (€26.57 in chips) 
+Seat 6: KINGBULU (€19.54 in chips) 
+vanessa24lpa: posts small blind €0.10
+BerbatP: posts big blind €0.25
+*** HOLE CARDS ***
+Dealt to BerbatP [2d 2s]
+boobajo76: calls €0.25
+rauru1313: folds 
+KINGBULU: folds 
+TuLeónCoqueto: folds 
+vanessa24lpa: folds 
+BerbatP: checks 
+*** FLOP *** [9s As 9d]
+BerbatP: checks 
+boobajo76: checks 
+*** TURN *** [9s As 9d] [Qs]
+BerbatP: checks 
+boobajo76: checks 
+*** RIVER *** [9s As 9d Qs] [8s]
+BerbatP: bets €0.25
+boobajo76: calls €0.25
+*** SHOW DOWN ***
+BerbatP: shows [2d 2s] (a flush, Ace high)
+boobajo76: mucks hand 
+BerbatP collected €1.04 from pot
+*** SUMMARY ***
+Total pot €1.10 | Rake €0.06 
+Board [9s As 9d Qs 8s]
+Seat 1: TuLeónCoqueto (button) folded before Flop (didn't bet)
+Seat 2: vanessa24lpa (small blind) folded before Flop
+Seat 3: BerbatP (big blind) showed [2d 2s] and won (€1.04) with a flush, Ace high
+Seat 4: boobajo76 mucked [6c 8c]
+Seat 5: rauru1313 folded before Flop (didn't bet)
+Seat 6: KINGBULU folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260792662350:  Hold'em No Limit (€0.10/€0.25 EUR) - 2026/05/13 17:32:27 CET [2026/05/13 11:32:27 ET]
+Table 'Chaka VI' 6-max Seat #2 is the button
+Seat 1: TuLeónCoqueto (€25 in chips) 
+Seat 2: vanessa24lpa (€30.21 in chips) 
+Seat 3: BerbatP (€25.54 in chips) 
+Seat 4: boobajo76 (€31.69 in chips) 
+Seat 5: rauru1313 (€26.57 in chips) 
+Seat 6: KINGBULU (€19.54 in chips) 
+BerbatP: posts small blind €0.10
+boobajo76: posts big blind €0.25
+*** HOLE CARDS ***
+Dealt to BerbatP [9d 5d]
+rauru1313: folds 
+KINGBULU: raises €0.25 to €0.50
+TuLeónCoqueto: folds 
+vanessa24lpa: folds 
+BerbatP: folds 
+boobajo76: folds 
+Uncalled bet (€0.25) returned to KINGBULU
+KINGBULU collected €0.60 from pot
+KINGBULU: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.60 | Rake €0 
+Seat 1: TuLeónCoqueto folded before Flop (didn't bet)
+Seat 2: vanessa24lpa (button) folded before Flop (didn't bet)
+Seat 3: BerbatP (small blind) folded before Flop
+Seat 4: boobajo76 (big blind) folded before Flop
+Seat 5: rauru1313 folded before Flop (didn't bet)
+Seat 6: KINGBULU collected (€0.60)
+
+
+
+PokerStars Hand #260792665970:  Hold'em No Limit (€0.10/€0.25 EUR) - 2026/05/13 17:32:50 CET [2026/05/13 11:32:50 ET]
+Table 'Chaka VI' 6-max Seat #3 is the button
+Seat 1: TuLeónCoqueto (€25 in chips) 
+Seat 2: vanessa24lpa (€30.21 in chips) 
+Seat 3: BerbatP (€25.44 in chips) 
+Seat 4: boobajo76 (€31.44 in chips) 
+Seat 5: rauru1313 (€26.57 in chips) 
+Seat 6: KINGBULU (€19.89 in chips) 
+boobajo76: posts small blind €0.10
+rauru1313: posts big blind €0.25
+*** HOLE CARDS ***
+Dealt to BerbatP [8s Ts]
+KINGBULU: calls €0.25
+TuLeónCoqueto: raises €1.25 to €1.50
+vanessa24lpa: folds 
+BerbatP: folds 
+boobajo76: folds 
+rauru1313: folds 
+KINGBULU: folds 
+Uncalled bet (€1.25) returned to TuLeónCoqueto
+TuLeónCoqueto collected €0.85 from pot
+TuLeónCoqueto: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.85 | Rake €0 
+Seat 1: TuLeónCoqueto collected (€0.85)
+Seat 2: vanessa24lpa folded before Flop (didn't bet)
+Seat 3: BerbatP (button) folded before Flop (didn't bet)
+Seat 4: boobajo76 (small blind) folded before Flop
+Seat 5: rauru1313 (big blind) folded before Flop
+Seat 6: KINGBULU folded before Flop
+
+
+
+PokerStars Hand #260792669477:  Hold'em No Limit (€0.10/€0.25 EUR) - 2026/05/13 17:33:13 CET [2026/05/13 11:33:13 ET]
+Table 'Chaka VI' 6-max Seat #4 is the button
+Seat 1: TuLeónCoqueto (€25.60 in chips) 
+Seat 2: vanessa24lpa (€30.21 in chips) 
+Seat 3: BerbatP (€25.44 in chips) 
+Seat 4: boobajo76 (€31.34 in chips) 
+Seat 5: rauru1313 (€26.32 in chips) 
+Seat 6: KINGBULU (€19.64 in chips) 
+rauru1313: posts small blind €0.10
+KINGBULU: posts big blind €0.25
+*** HOLE CARDS ***
+Dealt to BerbatP [3d Ad]
+TuLeónCoqueto: folds 
+vanessa24lpa: folds 
+BerbatP: raises €0.35 to €0.60
+boobajo76: folds 
+rauru1313: raises €2.15 to €2.75
+KINGBULU: folds 
+BerbatP: folds 
+Uncalled bet (€2.15) returned to rauru1313
+rauru1313 collected €1.45 from pot
+rauru1313: doesn't show hand 
+*** SUMMARY ***
+Total pot €1.45 | Rake €0 
+Seat 1: TuLeónCoqueto folded before Flop (didn't bet)
+Seat 2: vanessa24lpa folded before Flop (didn't bet)
+Seat 3: BerbatP folded before Flop
+Seat 4: boobajo76 (button) folded before Flop (didn't bet)
+Seat 5: rauru1313 (small blind) collected (€1.45)
+Seat 6: KINGBULU (big blind) folded before Flop
+
+
+
+PokerStars Hand #260792674966:  Hold'em No Limit (€0.10/€0.25 EUR) - 2026/05/13 17:33:48 CET [2026/05/13 11:33:48 ET]
+Table 'Chaka VI' 6-max Seat #5 is the button
+Seat 1: TuLeónCoqueto (€25.60 in chips) 
+Seat 2: vanessa24lpa (€30.21 in chips) 
+Seat 3: BerbatP (€24.84 in chips) 
+Seat 4: boobajo76 (€31.34 in chips) 
+Seat 5: rauru1313 (€27.17 in chips) 
+Seat 6: KINGBULU (€19.39 in chips) 
+KINGBULU: posts small blind €0.10
+TuLeónCoqueto: posts big blind €0.25
+*** HOLE CARDS ***
+Dealt to BerbatP [Jd 3c]
+vanessa24lpa: folds 
+BerbatP: folds 
+boobajo76: calls €0.25
+rauru1313: folds 
+KINGBULU: calls €0.15
+TuLeónCoqueto: checks 
+*** FLOP *** [5d Kc 8c]
+KINGBULU: checks 
+TuLeónCoqueto: checks 
+boobajo76: checks 
+*** TURN *** [5d Kc 8c] [3h]
+KINGBULU: bets €0.71
+TuLeónCoqueto: folds 
+boobajo76: folds 
+Uncalled bet (€0.71) returned to KINGBULU
+KINGBULU collected €0.71 from pot
+KINGBULU: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.75 | Rake €0.04 
+Board [5d Kc 8c 3h]
+Seat 1: TuLeónCoqueto (big blind) folded on the Turn
+Seat 2: vanessa24lpa folded before Flop (didn't bet)
+Seat 3: BerbatP folded before Flop (didn't bet)
+Seat 4: boobajo76 folded on the Turn
+Seat 5: rauru1313 (button) folded before Flop (didn't bet)
+Seat 6: KINGBULU (small blind) collected (€0.71)
+
+
+
+PokerStars Hand #260792680047:  Hold'em No Limit (€0.10/€0.25 EUR) - 2026/05/13 17:34:21 CET [2026/05/13 11:34:21 ET]
+Table 'Chaka VI' 6-max Seat #6 is the button
+Seat 1: TuLeónCoqueto (€25.35 in chips) 
+Seat 2: vanessa24lpa (€30.21 in chips) 
+Seat 3: BerbatP (€24.84 in chips) 
+Seat 4: boobajo76 (€31.09 in chips) 
+Seat 5: rauru1313 (€27.17 in chips) 
+Seat 6: KINGBULU (€19.85 in chips) 
+TuLeónCoqueto: posts small blind €0.10
+vanessa24lpa: posts big blind €0.25
+*** HOLE CARDS ***
+Dealt to BerbatP [As Qh]
+BerbatP: raises €0.35 to €0.60
+boobajo76: calls €0.60
+rauru1313: folds 
+KINGBULU: calls €0.60
+TuLeónCoqueto: folds 
+vanessa24lpa: folds 
+*** FLOP *** [Tc Qs 8s]
+BerbatP: bets €0.71
+boobajo76: calls €0.71
+KINGBULU: calls €0.71
+*** TURN *** [Tc Qs 8s] [3c]
+BerbatP: bets €2.62
+boobajo76: calls €2.62
+KINGBULU: folds 
+*** RIVER *** [Tc Qs 8s 3c] [4s]
+BerbatP: checks 
+boobajo76: bets €8.97
+BerbatP: calls €8.97
+*** SHOW DOWN ***
+boobajo76: shows [9d Qd] (a pair of Queens)
+BerbatP: shows [As Qh] (a pair of Queens - Ace kicker)
+BerbatP collected €25.88 from pot
+*** SUMMARY ***
+Total pot €27.46 | Rake €1.58 
+Board [Tc Qs 8s 3c 4s]
+Seat 1: TuLeónCoqueto (small blind) folded before Flop
+Seat 2: vanessa24lpa (big blind) folded before Flop
+Seat 3: BerbatP showed [As Qh] and won (€25.88) with a pair of Queens
+Seat 4: boobajo76 showed [9d Qd] and lost with a pair of Queens
+Seat 5: rauru1313 folded before Flop (didn't bet)
+Seat 6: KINGBULU (button) folded on the Turn
+
+
+
+PokerStars Hand #260792695602:  Hold'em No Limit (€0.10/€0.25 EUR) - 2026/05/13 17:36:01 CET [2026/05/13 11:36:01 ET]
+Table 'Chaka VI' 6-max Seat #1 is the button
+Seat 1: TuLeónCoqueto (€25.25 in chips) 
+Seat 2: vanessa24lpa (€29.96 in chips) 
+Seat 3: BerbatP (€37.82 in chips) 
+Seat 4: boobajo76 (€18.19 in chips) 
+Seat 5: rauru1313 (€27.17 in chips) 
+Seat 6: KINGBULU (€18.54 in chips) 
+vanessa24lpa: posts small blind €0.10
+BerbatP: posts big blind €0.25
+*** HOLE CARDS ***
+Dealt to BerbatP [5h 4d]
+boobajo76: folds 
+rauru1313: folds 
+KINGBULU: folds 
+TuLeónCoqueto: raises €0.37 to €0.62
+vanessa24lpa: raises €1.88 to €2.50
+BerbatP: folds 
+TuLeónCoqueto: folds 
+Uncalled bet (€1.88) returned to vanessa24lpa
+vanessa24lpa collected €1.49 from pot
+vanessa24lpa: doesn't show hand 
+*** SUMMARY ***
+Total pot €1.49 | Rake €0 
+Seat 1: TuLeónCoqueto (button) folded before Flop
+Seat 2: vanessa24lpa (small blind) collected (€1.49)
+Seat 3: BerbatP (big blind) folded before Flop
+Seat 4: boobajo76 folded before Flop (didn't bet)
+Seat 5: rauru1313 folded before Flop (didn't bet)
+Seat 6: KINGBULU folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260792701186:  Hold'em No Limit (€0.10/€0.25 EUR) - 2026/05/13 17:36:36 CET [2026/05/13 11:36:36 ET]
+Table 'Chaka VI' 6-max Seat #2 is the button
+Seat 1: TuLeónCoqueto (€25 in chips) 
+Seat 2: vanessa24lpa (€30.83 in chips) 
+Seat 3: BerbatP (€37.57 in chips) 
+Seat 4: boobajo76 (€18.19 in chips) 
+Seat 5: rauru1313 (€27.17 in chips) 
+Seat 6: KINGBULU (€18.54 in chips) 
+BerbatP: posts small blind €0.10
+boobajo76: posts big blind €0.25
+*** HOLE CARDS ***
+Dealt to BerbatP [6h 8d]
+rauru1313: raises €0.30 to €0.55
+KINGBULU: folds 
+TuLeónCoqueto: folds 
+vanessa24lpa: folds 
+BerbatP: folds 
+boobajo76: calls €0.30
+*** FLOP *** [2h Qd 7h]
+boobajo76: checks 
+rauru1313: bets €0.37
+boobajo76: folds 
+Uncalled bet (€0.37) returned to rauru1313
+rauru1313 collected €1.13 from pot
+rauru1313: doesn't show hand 
+*** SUMMARY ***
+Total pot €1.20 | Rake €0.07 
+Board [2h Qd 7h]
+Seat 1: TuLeónCoqueto folded before Flop (didn't bet)
+Seat 2: vanessa24lpa (button) folded before Flop (didn't bet)
+Seat 3: BerbatP (small blind) folded before Flop
+Seat 4: boobajo76 (big blind) folded on the Flop
+Seat 5: rauru1313 collected (€1.13)
+Seat 6: KINGBULU folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260792706465:  Hold'em No Limit (€0.10/€0.25 EUR) - 2026/05/13 17:37:09 CET [2026/05/13 11:37:09 ET]
+Table 'Chaka VI' 6-max Seat #3 is the button
+Seat 1: TuLeónCoqueto (€25 in chips) 
+Seat 2: vanessa24lpa (€30.83 in chips) 
+Seat 3: BerbatP (€37.47 in chips) 
+Seat 4: boobajo76 (€17.64 in chips) 
+Seat 5: rauru1313 (€27.75 in chips) 
+Seat 6: KINGBULU (€18.54 in chips) 
+boobajo76: posts small blind €0.10
+rauru1313: posts big blind €0.25
+*** HOLE CARDS ***
+Dealt to BerbatP [2s Qd]
+KINGBULU: folds 
+TuLeónCoqueto: folds 
+vanessa24lpa: raises €0.32 to €0.57
+BerbatP: folds 
+boobajo76: calls €0.47
+rauru1313: calls €0.32
+*** FLOP *** [Ts 4s Ah]
+boobajo76: checks 
+rauru1313: checks 
+vanessa24lpa: checks 
+*** TURN *** [Ts 4s Ah] [Qh]
+boobajo76: checks 
+rauru1313: bets €1.21
+vanessa24lpa: folds 
+boobajo76: folds 
+Uncalled bet (€1.21) returned to rauru1313
+rauru1313 collected €1.61 from pot
+rauru1313: doesn't show hand 
+*** SUMMARY ***
+Total pot €1.71 | Rake €0.10 
+Board [Ts 4s Ah Qh]
+Seat 1: TuLeónCoqueto folded before Flop (didn't bet)
+Seat 2: vanessa24lpa folded on the Turn
+Seat 3: BerbatP (button) folded before Flop (didn't bet)
+Seat 4: boobajo76 (small blind) folded on the Turn
+Seat 5: rauru1313 (big blind) collected (€1.61)
+Seat 6: KINGBULU folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260792720213:  Hold'em No Limit (€0.10/€0.25 EUR) - 2026/05/13 17:38:35 CET [2026/05/13 11:38:35 ET]
+Table 'Chaka VI' 6-max Seat #4 is the button
+Seat 1: TuLeónCoqueto (€25 in chips) 
+Seat 2: vanessa24lpa (€30.26 in chips) 
+Seat 3: BerbatP (€37.47 in chips) 
+Seat 4: boobajo76 (€17.07 in chips) 
+Seat 5: rauru1313 (€28.79 in chips) 
+Seat 6: KINGBULU (€18.54 in chips) 
+rauru1313: posts small blind €0.10
+KINGBULU: posts big blind €0.25
+*** HOLE CARDS ***
+Dealt to BerbatP [Ah Qh]
+TuLeónCoqueto: folds 
+vanessa24lpa: folds 
+BerbatP: raises €0.35 to €0.60
+boobajo76: folds 
+rauru1313: folds 
+KINGBULU: folds 
+Uncalled bet (€0.35) returned to BerbatP
+BerbatP collected €0.60 from pot
+BerbatP: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.60 | Rake €0 
+Seat 1: TuLeónCoqueto folded before Flop (didn't bet)
+Seat 2: vanessa24lpa folded before Flop (didn't bet)
+Seat 3: BerbatP collected (€0.60)
+Seat 4: boobajo76 (button) folded before Flop (didn't bet)
+Seat 5: rauru1313 (small blind) folded before Flop
+Seat 6: KINGBULU (big blind) folded before Flop
+
+
+
+PokerStars Hand #260792724175:  Hold'em No Limit (€0.10/€0.25 EUR) - 2026/05/13 17:38:59 CET [2026/05/13 11:38:59 ET]
+Table 'Chaka VI' 6-max Seat #5 is the button
+Seat 1: TuLeónCoqueto (€25 in chips) 
+Seat 2: vanessa24lpa (€30.26 in chips) 
+Seat 3: BerbatP (€37.82 in chips) 
+Seat 4: boobajo76 (€17.07 in chips) 
+Seat 5: rauru1313 (€28.69 in chips) 
+Seat 6: KINGBULU (€18.29 in chips) 
+KINGBULU: posts small blind €0.10
+TuLeónCoqueto: posts big blind €0.25
+*** HOLE CARDS ***
+Dealt to BerbatP [7d 2h]
+vanessa24lpa: folds 
+BerbatP: folds 
+boobajo76: raises €0.25 to €0.50
+rauru1313: folds 
+KINGBULU: folds 
+TuLeónCoqueto: calls €0.25
+*** FLOP *** [As 2d 4s]
+TuLeónCoqueto: checks 
+boobajo76: checks 
+*** TURN *** [As 2d 4s] [Qd]
+TuLeónCoqueto: bets €0.75
+boobajo76: raises €0.75 to €1.50
+TuLeónCoqueto: raises €3.03 to €4.53
+boobajo76: raises €3.03 to €7.56
+TuLeónCoqueto: folds 
+Uncalled bet (€3.03) returned to boobajo76
+boobajo76 collected €9.58 from pot
+*** SUMMARY ***
+Total pot €10.16 | Rake €0.58 
+Board [As 2d 4s Qd]
+Seat 1: TuLeónCoqueto (big blind) folded on the Turn
+Seat 2: vanessa24lpa folded before Flop (didn't bet)
+Seat 3: BerbatP folded before Flop (didn't bet)
+Seat 4: boobajo76 collected (€9.58)
+Seat 5: rauru1313 (button) folded before Flop (didn't bet)
+Seat 6: KINGBULU (small blind) folded before Flop
+
+
+
+PokerStars Hand #260792731317:  Hold'em No Limit (€0.10/€0.25 EUR) - 2026/05/13 17:39:43 CET [2026/05/13 11:39:43 ET]
+Table 'Chaka VI' 6-max Seat #6 is the button
+Seat 1: TuLeónCoqueto (€25 in chips) 
+Seat 2: vanessa24lpa (€30.26 in chips) 
+Seat 3: BerbatP (€37.82 in chips) 
+Seat 4: boobajo76 (€21.62 in chips) 
+Seat 5: rauru1313 (€28.69 in chips) 
+Seat 6: KINGBULU (€18.19 in chips) 
+TuLeónCoqueto: posts small blind €0.10
+vanessa24lpa: posts big blind €0.25
+*** HOLE CARDS ***
+Dealt to BerbatP [Js 7h]
+BerbatP: folds 
+boobajo76: folds 
+rauru1313: raises €0.30 to €0.55
+KINGBULU: folds 
+TuLeónCoqueto: folds 
+vanessa24lpa: calls €0.30
+*** FLOP *** [9s 2d Th]
+vanessa24lpa: checks 
+rauru1313: bets €0.74
+vanessa24lpa: folds 
+Uncalled bet (€0.74) returned to rauru1313
+rauru1313 collected €1.13 from pot
+rauru1313: doesn't show hand 
+*** SUMMARY ***
+Total pot €1.20 | Rake €0.07 
+Board [9s 2d Th]
+Seat 1: TuLeónCoqueto (small blind) folded before Flop
+Seat 2: vanessa24lpa (big blind) folded on the Flop
+Seat 3: BerbatP folded before Flop (didn't bet)
+Seat 4: boobajo76 folded before Flop (didn't bet)
+Seat 5: rauru1313 collected (€1.13)
+Seat 6: KINGBULU (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260792738181:  Hold'em No Limit (€0.10/€0.25 EUR) - 2026/05/13 17:40:26 CET [2026/05/13 11:40:26 ET]
+Table 'Chaka VI' 6-max Seat #1 is the button
+Seat 1: TuLeónCoqueto (€25 in chips) 
+Seat 2: vanessa24lpa (€29.71 in chips) 
+Seat 3: BerbatP (€37.82 in chips) 
+Seat 4: boobajo76 (€21.62 in chips) 
+Seat 5: rauru1313 (€29.27 in chips) 
+Seat 6: KINGBULU (€18.19 in chips) 
+vanessa24lpa: posts small blind €0.10
+BerbatP: posts big blind €0.25
+*** HOLE CARDS ***
+Dealt to BerbatP [2d Qs]
+boobajo76: folds 
+rauru1313: raises €0.30 to €0.55
+KINGBULU: folds 
+TuLeónCoqueto: folds 
+vanessa24lpa: folds 
+BerbatP: folds 
+Uncalled bet (€0.30) returned to rauru1313
+rauru1313 collected €0.60 from pot
+rauru1313: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.60 | Rake €0 
+Seat 1: TuLeónCoqueto (button) folded before Flop (didn't bet)
+Seat 2: vanessa24lpa (small blind) folded before Flop
+Seat 3: BerbatP (big blind) folded before Flop
+Seat 4: boobajo76 folded before Flop (didn't bet)
+Seat 5: rauru1313 collected (€0.60)
+Seat 6: KINGBULU folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260792741955:  Hold'em No Limit (€0.10/€0.25 EUR) - 2026/05/13 17:40:49 CET [2026/05/13 11:40:49 ET]
+Table 'Chaka VI' 6-max Seat #2 is the button
+Seat 1: TuLeónCoqueto (€25 in chips) 
+Seat 2: vanessa24lpa (€29.61 in chips) 
+Seat 3: BerbatP (€37.57 in chips) 
+Seat 4: boobajo76 (€21.62 in chips) 
+Seat 5: rauru1313 (€29.62 in chips) 
+Seat 6: KINGBULU (€18.19 in chips) 
+BerbatP: posts small blind €0.10
+boobajo76: posts big blind €0.25
+*** HOLE CARDS ***
+Dealt to BerbatP [9s 9c]
+rauru1313: folds 
+KINGBULU: folds 
+TuLeónCoqueto: folds 
+vanessa24lpa: folds 
+BerbatP: raises €0.35 to €0.60
+boobajo76: calls €0.35
+*** FLOP *** [4h 8d 3d]
+BerbatP: bets €0.40
+boobajo76: calls €0.40
+*** TURN *** [4h 8d 3d] [2d]
+BerbatP: bets €1.22
+boobajo76: calls €1.22
+*** RIVER *** [4h 8d 3d 2d] [4d]
+BerbatP: checks 
+boobajo76: bets €2.09
+BerbatP: folds 
+Uncalled bet (€2.09) returned to boobajo76
+boobajo76 collected €4.18 from pot
+boobajo76: doesn't show hand 
+*** SUMMARY ***
+Total pot €4.44 | Rake €0.26 
+Board [4h 8d 3d 2d 4d]
+Seat 1: TuLeónCoqueto folded before Flop (didn't bet)
+Seat 2: vanessa24lpa (button) folded before Flop (didn't bet)
+Seat 3: BerbatP (small blind) folded on the River
+Seat 4: boobajo76 (big blind) collected (€4.18)
+Seat 5: rauru1313 folded before Flop (didn't bet)
+Seat 6: KINGBULU folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260792751691:  Hold'em No Limit (€0.10/€0.25 EUR) - 2026/05/13 17:41:50 CET [2026/05/13 11:41:50 ET]
+Table 'Chaka VI' 6-max Seat #3 is the button
+Seat 1: TuLeónCoqueto (€25 in chips) 
+Seat 2: vanessa24lpa (€29.61 in chips) 
+Seat 3: BerbatP (€35.35 in chips) 
+Seat 4: boobajo76 (€23.58 in chips) 
+Seat 5: rauru1313 (€29.62 in chips) 
+Seat 6: KINGBULU (€18.19 in chips) 
+boobajo76: posts small blind €0.10
+rauru1313: posts big blind €0.25
+*** HOLE CARDS ***
+Dealt to BerbatP [9d 6c]
+KINGBULU: folds 
+TuLeónCoqueto: folds 
+vanessa24lpa: folds 
+BerbatP: folds 
+boobajo76: calls €0.15
+rauru1313: checks 
+*** FLOP *** [Kc Ks 6s]
+boobajo76: checks 
+rauru1313: checks 
+*** TURN *** [Kc Ks 6s] [2d]
+boobajo76: checks 
+rauru1313: checks 
+*** RIVER *** [Kc Ks 6s 2d] [4d]
+boobajo76: bets €0.25
+rauru1313: folds 
+Uncalled bet (€0.25) returned to boobajo76
+boobajo76 collected €0.47 from pot
+boobajo76: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.50 | Rake €0.03 
+Board [Kc Ks 6s 2d 4d]
+Seat 1: TuLeónCoqueto folded before Flop (didn't bet)
+Seat 2: vanessa24lpa folded before Flop (didn't bet)
+Seat 3: BerbatP (button) folded before Flop (didn't bet)
+Seat 4: boobajo76 (small blind) collected (€0.47)
+Seat 5: rauru1313 (big blind) folded on the River
+Seat 6: KINGBULU folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260792761555:  Hold'em No Limit (€0.10/€0.25 EUR) - 2026/05/13 17:42:52 CET [2026/05/13 11:42:52 ET]
+Table 'Chaka VI' 6-max Seat #4 is the button
+Seat 1: TuLeónCoqueto (€25 in chips) 
+Seat 2: vanessa24lpa (€29.61 in chips) 
+Seat 3: BerbatP (€35.35 in chips) 
+Seat 4: boobajo76 (€23.80 in chips) 
+Seat 5: rauru1313 (€29.37 in chips) 
+Seat 6: KINGBULU (€18.19 in chips) 
+rauru1313: posts small blind €0.10
+KINGBULU: posts big blind €0.25
+*** HOLE CARDS ***
+Dealt to BerbatP [3s 8c]
+TuLeónCoqueto: folds 
+vanessa24lpa: raises €0.37 to €0.62
+BerbatP: folds 
+boobajo76: raises €0.37 to €0.99
+rauru1313: folds 
+KINGBULU: folds 
+vanessa24lpa: raises €28.62 to €29.61 and is all-in
+boobajo76: calls €22.81 and is all-in
+Uncalled bet (€5.81) returned to vanessa24lpa
+*** FLOP *** [Tc Kc 5s]
+*** TURN *** [Tc Kc 5s] [9s]
+*** RIVER *** [Tc Kc 5s 9s] [6c]
+*** SHOW DOWN ***
+vanessa24lpa: shows [Kd Kh] (three of a kind, Kings)
+boobajo76: shows [Ac Ah] (a pair of Aces)
+vanessa24lpa collected €45.19 from pot
+*** SUMMARY ***
+Total pot €47.95 | Rake €2.76 
+Board [Tc Kc 5s 9s 6c]
+Seat 1: TuLeónCoqueto folded before Flop (didn't bet)
+Seat 2: vanessa24lpa showed [Kd Kh] and won (€45.19) with three of a kind, Kings
+Seat 3: BerbatP folded before Flop (didn't bet)
+Seat 4: boobajo76 (button) showed [Ac Ah] and lost with a pair of Aces
+Seat 5: rauru1313 (small blind) folded before Flop
+Seat 6: KINGBULU (big blind) folded before Flop
+
+
+
+PokerStars Hand #260792767656:  Hold'em No Limit (€0.10/€0.25 EUR) - 2026/05/13 17:43:30 CET [2026/05/13 11:43:30 ET]
+Table 'Chaka VI' 6-max Seat #5 is the button
+Seat 4: boobajo76 (€0 in chips) is sitting out
+Seat 1: TuLeónCoqueto (€25 in chips) 
+Seat 2: vanessa24lpa (€51 in chips) 
+Seat 3: BerbatP (€35.35 in chips) 
+Seat 5: rauru1313 (€29.27 in chips) 
+Seat 6: KINGBULU (€17.94 in chips) 
+KINGBULU: posts small blind €0.10
+TuLeónCoqueto: posts big blind €0.25
+*** HOLE CARDS ***
+Dealt to BerbatP [8d Qh]
+vanessa24lpa: folds 
+BerbatP: folds 
+rauru1313: folds 
+boobajo76 leaves the table
+KINGBULU: raises €0.25 to €0.50
+TuLeónCoqueto: calls €0.25
+*** FLOP *** [9h Ks 6s]
+KINGBULU: bets €0.50
+TuLeónCoqueto: calls €0.50
+*** TURN *** [9h Ks 6s] [Qs]
+KINGBULU: bets €1.25
+TuLeónCoqueto: calls €1.25
+*** RIVER *** [9h Ks 6s Qs] [8s]
+KINGBULU: bets €2.37
+TuLeónCoqueto: folds 
+Uncalled bet (€2.37) returned to KINGBULU
+KINGBULU collected €4.24 from pot
+KINGBULU: doesn't show hand 
+HectorLV17 joins the table at seat #4 
+*** SUMMARY ***
+Total pot €4.50 | Rake €0.26 
+Board [9h Ks 6s Qs 8s]
+Seat 4: boobajo76
+Seat 1: TuLeónCoqueto (big blind) folded on the River
+Seat 2: vanessa24lpa folded before Flop (didn't bet)
+Seat 3: BerbatP folded before Flop (didn't bet)
+Seat 5: rauru1313 (button) folded before Flop (didn't bet)
+Seat 6: KINGBULU (small blind) collected (€4.24)
+
+
+
+PokerStars Hand #260792776151:  Hold'em No Limit (€0.10/€0.25 EUR) - 2026/05/13 17:44:23 CET [2026/05/13 11:44:23 ET]
+Table 'Chaka VI' 6-max Seat #6 is the button
+Seat 2: vanessa24lpa (€51 in chips) is sitting out
+Seat 4: HectorLV17 (€25 in chips) is sitting out
+Seat 1: TuLeónCoqueto (€25 in chips) 
+Seat 3: BerbatP (€35.35 in chips) 
+Seat 5: rauru1313 (€29.27 in chips) 
+Seat 6: KINGBULU (€19.93 in chips) 
+TuLeónCoqueto: posts small blind €0.10
+vanessa24lpa: is sitting out 
+BerbatP: posts big blind €0.25
+HectorLV17: sits out 
+*** HOLE CARDS ***
+Dealt to BerbatP [Ks 4h]
+rauru1313: raises €0.30 to €0.55
+KINGBULU: calls €0.55
+TuLeónCoqueto: folds 
+BerbatP: folds 
+*** FLOP *** [Td 9d 9c]
+vanessa24lpa leaves the table
+rauru1313: bets €0.45
+KINGBULU: raises €18.93 to €19.38 and is all-in
+rauru1313: folds 
+Uncalled bet (€18.93) returned to KINGBULU
+KINGBULU collected €2.21 from pot
+KINGBULU: doesn't show hand 
+*** SUMMARY ***
+Total pot €2.35 | Rake €0.14 
+Board [Td 9d 9c]
+Seat 2: vanessa24lpa
+Seat 4: HectorLV17
+Seat 1: TuLeónCoqueto (small blind) folded before Flop
+Seat 3: BerbatP (big blind) folded before Flop
+Seat 5: rauru1313 folded on the Flop
+Seat 6: KINGBULU (button) collected (€2.21)
+
+
+
+PokerStars Hand #260792781040:  Hold'em No Limit (€0.10/€0.25 EUR) - 2026/05/13 17:44:53 CET [2026/05/13 11:44:53 ET]
+Table 'Chaka VI' 6-max Seat #1 is the button
+Seat 1: TuLeónCoqueto (€25 in chips) 
+Seat 3: BerbatP (€35.10 in chips) 
+Seat 4: HectorLV17 (€25 in chips) 
+Seat 5: rauru1313 (€28.27 in chips) 
+Seat 6: KINGBULU (€21.14 in chips) 
+BerbatP: posts small blind €0.10
+HectorLV17: posts big blind €0.25
+*** HOLE CARDS ***
+Dealt to BerbatP [9s Ac]
+rauru1313: folds 
+KINGBULU: raises €0.25 to €0.50
+TuLeónCoqueto: folds 
+BerbatP: folds 
+HectorLV17: folds 
+Uncalled bet (€0.25) returned to KINGBULU
+KINGBULU collected €0.60 from pot
+KINGBULU: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.60 | Rake €0 
+Seat 1: TuLeónCoqueto (button) folded before Flop (didn't bet)
+Seat 3: BerbatP (small blind) folded before Flop
+Seat 4: HectorLV17 (big blind) folded before Flop
+Seat 5: rauru1313 folded before Flop (didn't bet)
+Seat 6: KINGBULU collected (€0.60)
+
+
+
+PokerStars Hand #260792784235:  Hold'em No Limit (€0.10/€0.25 EUR) - 2026/05/13 17:45:13 CET [2026/05/13 11:45:13 ET]
+Table 'Chaka VI' 6-max Seat #3 is the button
+Seat 5: rauru1313 (€28.27 in chips) is sitting out
+Seat 1: TuLeónCoqueto (€25 in chips) 
+Seat 3: BerbatP (€35 in chips) 
+Seat 4: HectorLV17 (€25 in chips) 
+Seat 6: KINGBULU (€21.49 in chips) 
+HectorLV17: posts small blind €0.10
+rauru1313: is sitting out 
+KINGBULU: posts big blind €0.25
+*** HOLE CARDS ***
+Dealt to BerbatP [3h 6h]
+TuLeónCoqueto: folds 
+BerbatP: folds 
+HectorLV17: raises €0.50 to €0.75
+rauru1313 leaves the table
+KINGBULU: calls €0.50
+*** FLOP *** [Ks 4h Kh]
+HectorLV17: checks 
+KINGBULU: bets €0.71
+HectorLV17: folds 
+Uncalled bet (€0.71) returned to KINGBULU
+KINGBULU collected €1.41 from pot
+KINGBULU: doesn't show hand 
+*** SUMMARY ***
+Total pot €1.50 | Rake €0.09 
+Board [Ks 4h Kh]
+Seat 5: rauru1313
+Seat 1: TuLeónCoqueto folded before Flop (didn't bet)
+Seat 3: BerbatP (button) folded before Flop (didn't bet)
+Seat 4: HectorLV17 (small blind) folded on the Flop
+Seat 6: KINGBULU (big blind) collected (€1.41)
+
+
+
+PokerStars Hand #260792790047:  Hold'em No Limit (€0.10/€0.25 EUR) - 2026/05/13 17:45:48 CET [2026/05/13 11:45:48 ET]
+Table 'Chaka VI' 6-max Seat #4 is the button
+Seat 1: TuLeónCoqueto (€25 in chips) is sitting out
+Seat 3: BerbatP (€35 in chips) 
+Seat 4: HectorLV17 (€25 in chips) 
+Seat 6: KINGBULU (€22.15 in chips) 
+KINGBULU: posts small blind €0.10
+TuLeónCoqueto: is sitting out 
+BerbatP: posts big blind €0.25
+*** HOLE CARDS ***
+Dealt to BerbatP [Kh 8h]
+HectorLV17: folds 
+KINGBULU: folds 
+Uncalled bet (€0.15) returned to BerbatP
+BerbatP collected €0.20 from pot
+BerbatP: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.20 | Rake €0 
+Seat 1: TuLeónCoqueto
+Seat 3: BerbatP (big blind) collected (€0.20)
+Seat 4: HectorLV17 (button) folded before Flop (didn't bet)
+Seat 6: KINGBULU (small blind) folded before Flop
+
+
+
+PokerStars Hand #260792791885:  Hold'em No Limit (€0.10/€0.25 EUR) - 2026/05/13 17:45:59 CET [2026/05/13 11:45:59 ET]
+Table 'Chaka VI' 6-max Seat #6 is the button
+Seat 1: TuLeónCoqueto (€25 in chips) is sitting out
+Seat 3: BerbatP (€35.10 in chips) 
+Seat 4: HectorLV17 (€25 in chips) 
+Seat 6: KINGBULU (€22.05 in chips) 
+BerbatP: posts small blind €0.10
+HectorLV17: posts big blind €0.25
+*** HOLE CARDS ***
+Dealt to BerbatP [Td Jh]
+TuLeónCoqueto leaves the table
+KINGBULU: folds 
+BerbatP: raises €0.35 to €0.60
+HectorLV17: folds 
+Uncalled bet (€0.35) returned to BerbatP
+BerbatP collected €0.50 from pot
+BerbatP: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.50 | Rake €0 
+Seat 1: TuLeónCoqueto
+Seat 3: BerbatP (small blind) collected (€0.50)
+Seat 4: HectorLV17 (big blind) folded before Flop
+Seat 6: KINGBULU (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260792794691:  Hold'em No Limit (€0.10/€0.25 EUR) - 2026/05/13 17:46:17 CET [2026/05/13 11:46:17 ET]
+Table 'Chaka VI' 6-max Seat #3 is the button
+Seat 3: BerbatP (€35.35 in chips) 
+Seat 4: HectorLV17 (€25 in chips) 
+Seat 6: KINGBULU (€22.05 in chips) 
+HectorLV17: posts small blind €0.10
+KINGBULU: posts big blind €0.25
+*** HOLE CARDS ***
+Dealt to BerbatP [8h 3s]
+BerbatP: folds 
+HectorLV17: raises €0.50 to €0.75
+KINGBULU: calls €0.50
+*** FLOP *** [2s 8d 6s]
+HectorLV17: checks 
+KINGBULU: checks 
+*** TURN *** [2s 8d 6s] [7d]
+HectorLV17: checks 
+KINGBULU: bets €1.66
+HectorLV17: folds 
+Uncalled bet (€1.66) returned to KINGBULU
+KINGBULU collected €1.41 from pot
+KINGBULU: doesn't show hand 
+*** SUMMARY ***
+Total pot €1.50 | Rake €0.09 
+Board [2s 8d 6s 7d]
+Seat 3: BerbatP (button) folded before Flop (didn't bet)
+Seat 4: HectorLV17 (small blind) folded on the Turn
+Seat 6: KINGBULU (big blind) collected (€1.41)
+
+
+
+PokerStars Hand #260792801483:  Hold'em No Limit (€0.10/€0.25 EUR) - 2026/05/13 17:46:58 CET [2026/05/13 11:46:58 ET]
+Table 'Chaka VI' 6-max Seat #4 is the button
+Seat 3: BerbatP (€35.35 in chips) 
+Seat 4: HectorLV17 (€25 in chips) 
+Seat 6: KINGBULU (€22.71 in chips) 
+KINGBULU: posts small blind €0.10
+BerbatP: posts big blind €0.25
+*** HOLE CARDS ***
+Dealt to BerbatP [5s Qc]
+HectorLV17: raises €0.37 to €0.62
+KINGBULU: folds 
+BerbatP: folds 
+Uncalled bet (€0.37) returned to HectorLV17
+HectorLV17 collected €0.60 from pot
+HectorLV17: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.60 | Rake €0 
+Seat 3: BerbatP (big blind) folded before Flop
+Seat 4: HectorLV17 (button) collected (€0.60)
+Seat 6: KINGBULU (small blind) folded before Flop
+
+
+
+PokerStars Hand #260792804141:  Hold'em No Limit (€0.10/€0.25 EUR) - 2026/05/13 17:47:15 CET [2026/05/13 11:47:15 ET]
+Table 'Chaka VI' 6-max Seat #6 is the button
+Seat 3: BerbatP (€35.10 in chips) 
+Seat 4: HectorLV17 (€25.35 in chips) 
+Seat 6: KINGBULU (€22.61 in chips) 
+BerbatP: posts small blind €0.10
+HectorLV17: posts big blind €0.25
+*** HOLE CARDS ***
+Dealt to BerbatP [7h 3s]
+KINGBULU: raises €0.25 to €0.50
+BerbatP: folds 
+HectorLV17: folds 
+Uncalled bet (€0.25) returned to KINGBULU
+KINGBULU collected €0.60 from pot
+*** SUMMARY ***
+Total pot €0.60 | Rake €0 
+Seat 3: BerbatP (small blind) folded before Flop
+Seat 4: HectorLV17 (big blind) folded before Flop
+Seat 6: KINGBULU (button) collected (€0.60)
+
+
+
+PokerStars Hand #260792806168:  Hold'em No Limit (€0.10/€0.25 EUR) - 2026/05/13 17:47:28 CET [2026/05/13 11:47:28 ET]
+Table 'Chaka VI' 6-max Seat #3 is the button
+Seat 3: BerbatP (€35 in chips) 
+Seat 4: HectorLV17 (€25.10 in chips) 
+Seat 6: KINGBULU (€22.96 in chips) 
+HectorLV17: posts small blind €0.10
+KINGBULU: posts big blind €0.25
+*** HOLE CARDS ***
+Dealt to BerbatP [Ts 7c]
+BerbatP: folds 
+HectorLV17: folds 
+Uncalled bet (€0.15) returned to KINGBULU
+KINGBULU collected €0.20 from pot
+KINGBULU: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.20 | Rake €0 
+Seat 3: BerbatP (button) folded before Flop (didn't bet)
+Seat 4: HectorLV17 (small blind) folded before Flop
+Seat 6: KINGBULU (big blind) collected (€0.20)
+
+
+
+PokerStars Hand #260792807940:  Hold'em No Limit (€0.10/€0.25 EUR) - 2026/05/13 17:47:39 CET [2026/05/13 11:47:39 ET]
+Table 'Chaka VI' 6-max Seat #4 is the button
+Seat 3: BerbatP (€35 in chips) 
+Seat 4: HectorLV17 (€25 in chips) 
+Seat 6: KINGBULU (€23.06 in chips) 
+KINGBULU: posts small blind €0.10
+BerbatP: posts big blind €0.25
+*** HOLE CARDS ***
+Dealt to BerbatP [Qc Qd]
+HectorLV17: folds 
+KINGBULU: folds 
+Uncalled bet (€0.15) returned to BerbatP
+BerbatP collected €0.20 from pot
+BerbatP: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.20 | Rake €0 
+Seat 3: BerbatP (big blind) collected (€0.20)
+Seat 4: HectorLV17 (button) folded before Flop (didn't bet)
+Seat 6: KINGBULU (small blind) folded before Flop
+
+
+
+PokerStars Hand #260792809668:  Hold'em No Limit (€0.10/€0.25 EUR) - 2026/05/13 17:47:50 CET [2026/05/13 11:47:50 ET]
+Table 'Chaka VI' 6-max Seat #6 is the button
+Seat 3: BerbatP (€35.10 in chips) 
+Seat 4: HectorLV17 (€25 in chips) 
+Seat 6: KINGBULU (€22.96 in chips) 
+BerbatP: posts small blind €0.10
+HectorLV17: posts big blind €0.25
+*** HOLE CARDS ***
+Dealt to BerbatP [6c 3c]
+KINGBULU: raises €0.25 to €0.50
+BerbatP: folds 
+HectorLV17: folds 
+Uncalled bet (€0.25) returned to KINGBULU
+KINGBULU collected €0.60 from pot
+KINGBULU: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.60 | Rake €0 
+Seat 3: BerbatP (small blind) folded before Flop
+Seat 4: HectorLV17 (big blind) folded before Flop
+Seat 6: KINGBULU (button) collected (€0.60)
+
+
+
+PokerStars Hand #260792811875:  Hold'em No Limit (€0.10/€0.25 EUR) - 2026/05/13 17:48:03 CET [2026/05/13 11:48:03 ET]
+Table 'Chaka VI' 6-max Seat #3 is the button
+Seat 3: BerbatP (€35 in chips) 
+Seat 4: HectorLV17 (€25 in chips) 
+Seat 6: KINGBULU (€23.31 in chips) 
+HectorLV17: posts small blind €0.10
+KINGBULU: posts big blind €0.25
+*** HOLE CARDS ***
+Dealt to BerbatP [Qs 3c]
+BerbatP: folds 
+HectorLV17: folds 
+Uncalled bet (€0.15) returned to KINGBULU
+KINGBULU collected €0.20 from pot
+KINGBULU: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.20 | Rake €0 
+Seat 3: BerbatP (button) folded before Flop (didn't bet)
+Seat 4: HectorLV17 (small blind) folded before Flop
+Seat 6: KINGBULU (big blind) collected (€0.20)
+
+
+
+PokerStars Hand #260792813407:  Hold'em No Limit (€0.10/€0.25 EUR) - 2026/05/13 17:48:13 CET [2026/05/13 11:48:13 ET]
+Table 'Chaka VI' 6-max Seat #4 is the button
+Seat 3: BerbatP (€35 in chips) 
+Seat 4: HectorLV17 (€25 in chips) 
+Seat 6: KINGBULU (€23.41 in chips) 
+KINGBULU: posts small blind €0.10
+BerbatP: posts big blind €0.25
+*** HOLE CARDS ***
+Dealt to BerbatP [8c Qs]
+HectorLV17: raises €0.37 to €0.62
+KINGBULU: folds 
+BerbatP: calls €0.37
+*** FLOP *** [6d 5s 9d]
+BerbatP: checks 
+HectorLV17: checks 
+*** TURN *** [6d 5s 9d] [Ad]
+BerbatP: checks 
+HectorLV17: bets €0.42
+BerbatP: folds 
+Uncalled bet (€0.42) returned to HectorLV17
+HectorLV17 collected €1.26 from pot
+HectorLV17: doesn't show hand 
+*** SUMMARY ***
+Total pot €1.34 | Rake €0.08 
+Board [6d 5s 9d Ad]
+Seat 3: BerbatP (big blind) folded on the Turn
+Seat 4: HectorLV17 (button) collected (€1.26)
+Seat 6: KINGBULU (small blind) folded before Flop
+
+
+
+PokerStars Hand #260792820475:  Hold'em No Limit (€0.10/€0.25 EUR) - 2026/05/13 17:48:56 CET [2026/05/13 11:48:56 ET]
+Table 'Chaka VI' 6-max Seat #6 is the button
+Seat 3: BerbatP (€34.38 in chips) 
+Seat 4: HectorLV17 (€25.64 in chips) 
+Seat 6: KINGBULU (€23.31 in chips) 
+BerbatP: posts small blind €0.10
+HectorLV17: posts big blind €0.25
+*** HOLE CARDS ***
+Dealt to BerbatP [6c 3c]
+KINGBULU: folds 
+BerbatP: folds 
+Uncalled bet (€0.15) returned to HectorLV17
+HectorLV17 collected €0.20 from pot
+HectorLV17: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.20 | Rake €0 
+Seat 3: BerbatP (small blind) folded before Flop
+Seat 4: HectorLV17 (big blind) collected (€0.20)
+Seat 6: KINGBULU (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260792823251:  Hold'em No Limit (€0.10/€0.25 EUR) - 2026/05/13 17:49:13 CET [2026/05/13 11:49:13 ET]
+Table 'Chaka VI' 6-max Seat #3 is the button
+Seat 1: Sigiilo (€25.62 in chips) 
+Seat 2: calleando (€27.49 in chips) 
+Seat 3: BerbatP (€34.28 in chips) 
+Seat 4: HectorLV17 (€25.74 in chips) 
+Seat 5: Pechugooo (€57.88 in chips) 
+Seat 6: KINGBULU (€23.31 in chips) 
+HectorLV17: posts small blind €0.10
+Pechugooo: posts big blind €0.25
+*** HOLE CARDS ***
+Dealt to BerbatP [5h Qc]
+KINGBULU: folds 
+Sigiilo: folds 
+calleando: raises €0.30 to €0.55
+BerbatP: folds 
+HectorLV17: folds 
+Pechugooo: folds 
+Uncalled bet (€0.30) returned to calleando
+calleando collected €0.60 from pot
+calleando: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.60 | Rake €0 
+Seat 1: Sigiilo folded before Flop (didn't bet)
+Seat 2: calleando collected (€0.60)
+Seat 3: BerbatP (button) folded before Flop (didn't bet)
+Seat 4: HectorLV17 (small blind) folded before Flop
+Seat 5: Pechugooo (big blind) folded before Flop
+Seat 6: KINGBULU folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260792826777:  Hold'em No Limit (€0.10/€0.25 EUR) - 2026/05/13 17:49:35 CET [2026/05/13 11:49:35 ET]
+Table 'Chaka VI' 6-max Seat #4 is the button
+Seat 1: Sigiilo (€25.62 in chips) 
+Seat 2: calleando (€27.84 in chips) 
+Seat 3: BerbatP (€34.28 in chips) 
+Seat 4: HectorLV17 (€25.64 in chips) 
+Seat 5: Pechugooo (€57.63 in chips) 
+Seat 6: KINGBULU (€23.31 in chips) 
+Pechugooo: posts small blind €0.10
+KINGBULU: posts big blind €0.25
+*** HOLE CARDS ***
+Dealt to BerbatP [Ad 9s]
+Sigiilo: folds 
+calleando: folds 
+BerbatP: raises €0.35 to €0.60
+HectorLV17: folds 
+Pechugooo: raises €2 to €2.60
+KINGBULU: folds 
+BerbatP: folds 
+Uncalled bet (€2) returned to Pechugooo
+Pechugooo collected €1.45 from pot
+Pechugooo: doesn't show hand 
+*** SUMMARY ***
+Total pot €1.45 | Rake €0 
+Seat 1: Sigiilo folded before Flop (didn't bet)
+Seat 2: calleando folded before Flop (didn't bet)
+Seat 3: BerbatP folded before Flop
+Seat 4: HectorLV17 (button) folded before Flop (didn't bet)
+Seat 5: Pechugooo (small blind) collected (€1.45)
+Seat 6: KINGBULU (big blind) folded before Flop
+
+
+
+PokerStars Hand #260792831679:  Hold'em No Limit (€0.10/€0.25 EUR) - 2026/05/13 17:50:05 CET [2026/05/13 11:50:05 ET]
+Table 'Chaka VI' 6-max Seat #5 is the button
+Seat 1: Sigiilo (€25.62 in chips) 
+Seat 2: calleando (€27.84 in chips) 
+Seat 3: BerbatP (€33.68 in chips) 
+Seat 4: HectorLV17 (€25.64 in chips) 
+Seat 5: Pechugooo (€58.48 in chips) 
+Seat 6: KINGBULU (€23.06 in chips) 
+KINGBULU: posts small blind €0.10
+Sigiilo: posts big blind €0.25
+*** HOLE CARDS ***
+Dealt to BerbatP [7h Ks]
+calleando: folds 
+BerbatP: folds 
+HectorLV17: folds 
+Pechugooo: folds 
+KINGBULU: folds 
+Uncalled bet (€0.15) returned to Sigiilo
+Sigiilo collected €0.20 from pot
+Sigiilo: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.20 | Rake €0 
+Seat 1: Sigiilo (big blind) collected (€0.20)
+Seat 2: calleando folded before Flop (didn't bet)
+Seat 3: BerbatP folded before Flop (didn't bet)
+Seat 4: HectorLV17 folded before Flop (didn't bet)
+Seat 5: Pechugooo (button) folded before Flop (didn't bet)
+Seat 6: KINGBULU (small blind) folded before Flop
+
+
+
+PokerStars Hand #260792836437:  Hold'em No Limit (€0.10/€0.25 EUR) - 2026/05/13 17:50:34 CET [2026/05/13 11:50:34 ET]
+Table 'Chaka VI' 6-max Seat #6 is the button
+Seat 1: Sigiilo (€25.72 in chips) 
+Seat 2: calleando (€27.84 in chips) 
+Seat 3: BerbatP (€33.68 in chips) 
+Seat 4: HectorLV17 (€25.64 in chips) 
+Seat 5: Pechugooo (€58.48 in chips) 
+Seat 6: KINGBULU (€22.96 in chips) 
+Sigiilo: posts small blind €0.10
+calleando: posts big blind €0.25
+*** HOLE CARDS ***
+Dealt to BerbatP [6d Ts]
+BerbatP: folds 
+HectorLV17: folds 
+Pechugooo: folds 
+KINGBULU: raises €0.25 to €0.50
+Sigiilo: folds 
+calleando: folds 
+Uncalled bet (€0.25) returned to KINGBULU
+KINGBULU collected €0.60 from pot
+KINGBULU: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.60 | Rake €0 
+Seat 1: Sigiilo (small blind) folded before Flop
+Seat 2: calleando (big blind) folded before Flop
+Seat 3: BerbatP folded before Flop (didn't bet)
+Seat 4: HectorLV17 folded before Flop (didn't bet)
+Seat 5: Pechugooo folded before Flop (didn't bet)
+Seat 6: KINGBULU (button) collected (€0.60)
+
+
+
+PokerStars Hand #260792841531:  Hold'em No Limit (€0.10/€0.25 EUR) - 2026/05/13 17:51:05 CET [2026/05/13 11:51:05 ET]
+Table 'Chaka VI' 6-max Seat #1 is the button
+Seat 1: Sigiilo (€25.62 in chips) 
+Seat 2: calleando (€27.59 in chips) 
+Seat 3: BerbatP (€33.68 in chips) 
+Seat 4: HectorLV17 (€25.64 in chips) 
+Seat 5: Pechugooo (€58.48 in chips) 
+Seat 6: KINGBULU (€23.31 in chips) 
+calleando: posts small blind €0.10
+BerbatP: posts big blind €0.25
+*** HOLE CARDS ***
+Dealt to BerbatP [5s Qd]
+HectorLV17: folds 
+Pechugooo: folds 
+KINGBULU: folds 
+Sigiilo: raises €0.37 to €0.62
+HectorLV17 leaves the table
+calleando: folds 
+BerbatP: folds 
+Uncalled bet (€0.37) returned to Sigiilo
+Sigiilo collected €0.60 from pot
+Sigiilo: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.60 | Rake €0 
+Seat 1: Sigiilo (button) collected (€0.60)
+Seat 2: calleando (small blind) folded before Flop
+Seat 3: BerbatP (big blind) folded before Flop
+Seat 4: HectorLV17 folded before Flop (didn't bet)
+Seat 5: Pechugooo folded before Flop (didn't bet)
+Seat 6: KINGBULU folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260792844441:  Hold'em No Limit (€0.10/€0.25 EUR) - 2026/05/13 17:51:23 CET [2026/05/13 11:51:23 ET]
+Table 'Chaka VI' 6-max Seat #2 is the button
+Seat 1: Sigiilo (€25.97 in chips) 
+Seat 2: calleando (€27.49 in chips) 
+Seat 3: BerbatP (€33.43 in chips) 
+Seat 5: Pechugooo (€58.48 in chips) 
+Seat 6: KINGBULU (€23.31 in chips) 
+BerbatP: posts small blind €0.10
+Pechugooo: posts big blind €0.25
+*** HOLE CARDS ***
+Dealt to BerbatP [7c Kh]
+KINGBULU: folds 
+Sigiilo: folds 
+calleando: folds 
+BerbatP: folds 
+Uncalled bet (€0.15) returned to Pechugooo
+Pechugooo collected €0.20 from pot
+Pechugooo: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.20 | Rake €0 
+Seat 1: Sigiilo folded before Flop (didn't bet)
+Seat 2: calleando (button) folded before Flop (didn't bet)
+Seat 3: BerbatP (small blind) folded before Flop
+Seat 5: Pechugooo (big blind) collected (€0.20)
+Seat 6: KINGBULU folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260792846590:  Hold'em No Limit (€0.10/€0.25 EUR) - 2026/05/13 17:51:37 CET [2026/05/13 11:51:37 ET]
+Table 'Chaka VI' 6-max Seat #3 is the button
+Seat 1: Sigiilo (€25.97 in chips) 
+Seat 2: calleando (€27.49 in chips) 
+Seat 3: BerbatP (€33.33 in chips) 
+Seat 5: Pechugooo (€58.58 in chips) 
+Seat 6: KINGBULU (€23.31 in chips) 
+Pechugooo: posts small blind €0.10
+KINGBULU: posts big blind €0.25
+*** HOLE CARDS ***
+Dealt to BerbatP [6s Tc]
+Sigiilo: folds 
+calleando: folds 
+BerbatP: folds 
+Pechugooo: folds 
+Uncalled bet (€0.15) returned to KINGBULU
+KINGBULU collected €0.20 from pot
+KINGBULU: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.20 | Rake €0 
+Seat 1: Sigiilo folded before Flop (didn't bet)
+Seat 2: calleando folded before Flop (didn't bet)
+Seat 3: BerbatP (button) folded before Flop (didn't bet)
+Seat 5: Pechugooo (small blind) folded before Flop
+Seat 6: KINGBULU (big blind) collected (€0.20)
+
+
+
+PokerStars Hand #260792848738:  Hold'em No Limit (€0.10/€0.25 EUR) - 2026/05/13 17:51:50 CET [2026/05/13 11:51:50 ET]
+Table 'Chaka VI' 6-max Seat #5 is the button
+Seat 1: Sigiilo (€25.97 in chips) 
+Seat 2: calleando (€27.49 in chips) 
+Seat 3: BerbatP (€33.33 in chips) 
+Seat 5: Pechugooo (€58.48 in chips) 
+Seat 6: KINGBULU (€23.41 in chips) 
+KINGBULU: posts small blind €0.10
+Sigiilo: posts big blind €0.25
+*** HOLE CARDS ***
+Dealt to BerbatP [Jd 9c]
+calleando: folds 
+BerbatP: folds 
+Pechugooo: folds 
+KINGBULU: calls €0.15
+Sigiilo: checks 
+*** FLOP *** [Kd As 5h]
+KINGBULU: checks 
+Sigiilo: checks 
+*** TURN *** [Kd As 5h] [3s]
+KINGBULU: checks 
+Sigiilo: checks 
+*** RIVER *** [Kd As 5h 3s] [Ac]
+KINGBULU: checks 
+Sigiilo: checks 
+*** SHOW DOWN ***
+KINGBULU: shows [9s Kc] (two pair, Aces and Kings)
+Sigiilo: mucks hand 
+KINGBULU collected €0.47 from pot
+*** SUMMARY ***
+Total pot €0.50 | Rake €0.03 
+Board [Kd As 5h 3s Ac]
+Seat 1: Sigiilo (big blind) mucked [7s Jc]
+Seat 2: calleando folded before Flop (didn't bet)
+Seat 3: BerbatP folded before Flop (didn't bet)
+Seat 5: Pechugooo (button) folded before Flop (didn't bet)
+Seat 6: KINGBULU (small blind) showed [9s Kc] and won (€0.47) with two pair, Aces and Kings
+
+
+
+PokerStars Hand #260792853950:  Hold'em No Limit (€0.10/€0.25 EUR) - 2026/05/13 17:52:23 CET [2026/05/13 11:52:23 ET]
+Table 'Chaka VI' 6-max Seat #6 is the button
+Seat 1: Sigiilo (€25.72 in chips) 
+Seat 2: calleando (€27.49 in chips) 
+Seat 3: BerbatP (€33.33 in chips) 
+Seat 5: Pechugooo (€58.48 in chips) 
+Seat 6: KINGBULU (€23.63 in chips) 
+Sigiilo: posts small blind €0.10
+calleando: posts big blind €0.25
+*** HOLE CARDS ***
+Dealt to BerbatP [3c Jc]
+BerbatP: folds 
+Pechugooo: folds 
+KINGBULU: raises €0.25 to €0.50
+Sigiilo: folds 
+calleando: folds 
+Uncalled bet (€0.25) returned to KINGBULU
+KINGBULU collected €0.60 from pot
+KINGBULU: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.60 | Rake €0 
+Seat 1: Sigiilo (small blind) folded before Flop
+Seat 2: calleando (big blind) folded before Flop
+Seat 3: BerbatP folded before Flop (didn't bet)
+Seat 5: Pechugooo folded before Flop (didn't bet)
+Seat 6: KINGBULU (button) collected (€0.60)
+
+
+
+PokerStars Hand #260792857625:  Hold'em No Limit (€0.10/€0.25 EUR) - 2026/05/13 17:52:47 CET [2026/05/13 11:52:47 ET]
+Table 'Chaka VI' 6-max Seat #1 is the button
+Seat 1: Sigiilo (€25.62 in chips) 
+Seat 2: calleando (€27.24 in chips) 
+Seat 3: BerbatP (€33.33 in chips) 
+Seat 5: Pechugooo (€58.48 in chips) 
+Seat 6: KINGBULU (€23.98 in chips) 
+calleando: posts small blind €0.10
+BerbatP: posts big blind €0.25
+*** HOLE CARDS ***
+Dealt to BerbatP [4d 9s]
+Pechugooo: folds 
+KINGBULU: raises €0.25 to €0.50
+Sigiilo: folds 
+calleando: folds 
+BerbatP: folds 
+Uncalled bet (€0.25) returned to KINGBULU
+KINGBULU collected €0.60 from pot
+KINGBULU: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.60 | Rake €0 
+Seat 1: Sigiilo (button) folded before Flop (didn't bet)
+Seat 2: calleando (small blind) folded before Flop
+Seat 3: BerbatP (big blind) folded before Flop
+Seat 5: Pechugooo folded before Flop (didn't bet)
+Seat 6: KINGBULU collected (€0.60)
+
+
+
+PokerStars Hand #260792861161:  Hold'em No Limit (€0.10/€0.25 EUR) - 2026/05/13 17:53:08 CET [2026/05/13 11:53:08 ET]
+Table 'Chaka VI' 6-max Seat #2 is the button
+Seat 5: Pechugooo (€58.48 in chips) is sitting out
+Seat 1: Sigiilo (€25.62 in chips) 
+Seat 2: calleando (€27.14 in chips) 
+Seat 3: BerbatP (€33.08 in chips) 
+Seat 6: KINGBULU (€24.33 in chips) 
+BerbatP: posts small blind €0.10
+Pechugooo: is sitting out 
+KINGBULU: posts big blind €0.25
+*** HOLE CARDS ***
+Dealt to BerbatP [Ah 3s]
+Sigiilo: folds 
+calleando: folds 
+Hitormis1 joins the table at seat #4 
+BerbatP: raises €0.35 to €0.60
+KINGBULU: folds 
+Uncalled bet (€0.35) returned to BerbatP
+BerbatP collected €0.50 from pot
+BerbatP: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.50 | Rake €0 
+Seat 5: Pechugooo
+Seat 1: Sigiilo folded before Flop (didn't bet)
+Seat 2: calleando (button) folded before Flop (didn't bet)
+Seat 3: BerbatP (small blind) collected (€0.50)
+Seat 6: KINGBULU (big blind) folded before Flop
+
+
+
+PokerStars Hand #260792863757:  Hold'em No Limit (€0.10/€0.25 EUR) - 2026/05/13 17:53:25 CET [2026/05/13 11:53:25 ET]
+Table 'Chaka VI' 6-max Seat #3 is the button
+Seat 4: Hitormis1 (€25 in chips) is sitting out
+Seat 5: Pechugooo (€58.48 in chips) is sitting out
+Seat 1: Sigiilo (€25.62 in chips) 
+Seat 2: calleando (€27.14 in chips) 
+Seat 3: BerbatP (€33.33 in chips) 
+Seat 6: KINGBULU (€24.08 in chips) 
+KINGBULU: posts small blind €0.10
+Sigiilo: posts big blind €0.25
+*** HOLE CARDS ***
+Dealt to BerbatP [8s Tc]
+Pechugooo leaves the table
+calleando: raises €0.30 to €0.55
+BerbatP: folds 
+KINGBULU: folds 
+Sigiilo: folds 
+Uncalled bet (€0.30) returned to calleando
+calleando collected €0.60 from pot
+calleando: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.60 | Rake €0 
+Seat 4: Hitormis1
+Seat 5: Pechugooo
+Seat 1: Sigiilo (big blind) folded before Flop
+Seat 2: calleando collected (€0.60)
+Seat 3: BerbatP (button) folded before Flop (didn't bet)
+Seat 6: KINGBULU (small blind) folded before Flop
+
+
+
+PokerStars Hand #260792867443:  Hold'em No Limit (€0.10/€0.25 EUR) - 2026/05/13 17:53:47 CET [2026/05/13 11:53:47 ET]
+Table 'Chaka VI' 6-max Seat #6 is the button
+Seat 4: Hitormis1 (€25 in chips) is sitting out
+Seat 1: Sigiilo (€25.37 in chips) 
+Seat 2: calleando (€27.49 in chips) 
+Seat 3: BerbatP (€33.33 in chips) 
+Seat 6: KINGBULU (€23.98 in chips) 
+Sigiilo: posts small blind €0.10
+calleando: posts big blind €0.25
+Hitormis1: sits out 
+*** HOLE CARDS ***
+Dealt to BerbatP [5s 6d]
+BerbatP: folds 
+KINGBULU: raises €0.25 to €0.50
+Sigiilo: folds 
+calleando: folds 
+Uncalled bet (€0.25) returned to KINGBULU
+KINGBULU collected €0.60 from pot
+*** SUMMARY ***
+Total pot €0.60 | Rake €0 
+Seat 4: Hitormis1
+Seat 1: Sigiilo (small blind) folded before Flop
+Seat 2: calleando (big blind) folded before Flop
+Seat 3: BerbatP folded before Flop (didn't bet)
+Seat 6: KINGBULU (button) collected (€0.60)
+
+
+
+PokerStars Hand #260792870269:  Hold'em No Limit (€0.10/€0.25 EUR) - 2026/05/13 17:54:05 CET [2026/05/13 11:54:05 ET]
+Table 'Chaka VI' 6-max Seat #1 is the button
+Seat 4: Hitormis1 (€25 in chips) is sitting out
+Seat 1: Sigiilo (€25.27 in chips) 
+Seat 2: calleando (€27.24 in chips) 
+Seat 3: BerbatP (€33.33 in chips) 
+Seat 6: KINGBULU (€24.33 in chips) 
+calleando: posts small blind €0.10
+BerbatP: posts big blind €0.25
+Hitormis1: sits out 
+*** HOLE CARDS ***
+Dealt to BerbatP [3d 2c]
+KINGBULU: folds 
+Sigiilo: folds 
+calleando: raises €0.50 to €0.75
+BerbatP: folds 
+Uncalled bet (€0.50) returned to calleando
+calleando collected €0.50 from pot
+calleando: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.50 | Rake €0 
+Seat 4: Hitormis1
+Seat 1: Sigiilo (button) folded before Flop (didn't bet)
+Seat 2: calleando (small blind) collected (€0.50)
+Seat 3: BerbatP (big blind) folded before Flop
+Seat 6: KINGBULU folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260792872745:  Hold'em No Limit (€0.10/€0.25 EUR) - 2026/05/13 17:54:20 CET [2026/05/13 11:54:20 ET]
+Table 'Chaka VI' 6-max Seat #2 is the button
+Seat 1: Sigiilo (€25.27 in chips) 
+Seat 2: calleando (€27.49 in chips) 
+Seat 3: BerbatP (€33.08 in chips) 
+Seat 4: Hitormis1 (€25 in chips) 
+Seat 6: KINGBULU (€24.33 in chips) 
+BerbatP: posts small blind €0.10
+Hitormis1: posts big blind €0.25
+*** HOLE CARDS ***
+Dealt to BerbatP [Kd Qd]
+KINGBULU: raises €0.25 to €0.50
+Sigiilo: folds 
+bilydick joins the table at seat #5 
+calleando: folds 
+BerbatP: raises €1.25 to €1.75
+Hitormis1: folds 
+KINGBULU: calls €1.25
+*** FLOP *** [Ts 3d 9h]
+BerbatP: bets €1.24
+KINGBULU: folds 
+Uncalled bet (€1.24) returned to BerbatP
+BerbatP collected €3.53 from pot
+BerbatP: doesn't show hand 
+*** SUMMARY ***
+Total pot €3.75 | Rake €0.22 
+Board [Ts 3d 9h]
+Seat 1: Sigiilo folded before Flop (didn't bet)
+Seat 2: calleando (button) folded before Flop (didn't bet)
+Seat 3: BerbatP (small blind) collected (€3.53)
+Seat 4: Hitormis1 (big blind) folded before Flop
+Seat 6: KINGBULU folded on the Flop
+
+
+
+PokerStars Hand #260792882004:  Hold'em No Limit (€0.10/€0.25 EUR) - 2026/05/13 17:55:21 CET [2026/05/13 11:55:21 ET]
+Table 'Chaka VI' 6-max Seat #3 is the button
+Seat 1: Sigiilo (€25.27 in chips) 
+Seat 2: calleando (€27.49 in chips) 
+Seat 3: BerbatP (€34.86 in chips) 
+Seat 4: Hitormis1 (€24.75 in chips) 
+Seat 5: bilydick (€15 in chips) 
+Seat 6: KINGBULU (€22.58 in chips) 
+Hitormis1: posts small blind €0.10
+bilydick: posts big blind €0.25
+*** HOLE CARDS ***
+Dealt to BerbatP [Js 2h]
+KINGBULU: folds 
+Sigiilo: folds 
+calleando: folds 
+BerbatP: folds 
+Hitormis1: folds 
+Uncalled bet (€0.15) returned to bilydick
+bilydick collected €0.20 from pot
+bilydick: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.20 | Rake €0 
+Seat 1: Sigiilo folded before Flop (didn't bet)
+Seat 2: calleando folded before Flop (didn't bet)
+Seat 3: BerbatP (button) folded before Flop (didn't bet)
+Seat 4: Hitormis1 (small blind) folded before Flop
+Seat 5: bilydick (big blind) collected (€0.20)
+Seat 6: KINGBULU folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260792884520:  Hold'em No Limit (€0.10/€0.25 EUR) - 2026/05/13 17:55:42 CET [2026/05/13 11:55:42 ET]
+Table 'Chaka VI' 6-max Seat #4 is the button
+Seat 1: Sigiilo (€25.27 in chips) 
+Seat 2: calleando (€27.49 in chips) 
+Seat 3: BerbatP (€34.86 in chips) 
+Seat 4: Hitormis1 (€24.65 in chips) 
+Seat 5: bilydick (€15.10 in chips) 
+Seat 6: KINGBULU (€22.58 in chips) 
+bilydick: posts small blind €0.10
+KINGBULU: posts big blind €0.25
+*** HOLE CARDS ***
+Dealt to BerbatP [2s Ad]
+Sigiilo: folds 
+calleando: folds 
+BerbatP: folds 
+Hitormis1: folds 
+bilydick: calls €0.15
+KINGBULU: checks 
+*** FLOP *** [Kd 7d 9h]
+bilydick: checks 
+KINGBULU: bets €0.47
+bilydick: calls €0.47
+*** TURN *** [Kd 7d 9h] [4d]
+bilydick: checks 
+KINGBULU: bets €0.68
+bilydick: calls €0.68
+*** RIVER *** [Kd 7d 9h 4d] [3h]
+bilydick: bets €1.32
+KINGBULU: folds 
+Uncalled bet (€1.32) returned to bilydick
+bilydick collected €2.64 from pot
+bilydick: doesn't show hand 
+*** SUMMARY ***
+Total pot €2.80 | Rake €0.16 
+Board [Kd 7d 9h 4d 3h]
+Seat 1: Sigiilo folded before Flop (didn't bet)
+Seat 2: calleando folded before Flop (didn't bet)
+Seat 3: BerbatP folded before Flop (didn't bet)
+Seat 4: Hitormis1 (button) folded before Flop (didn't bet)
+Seat 5: bilydick (small blind) collected (€2.64)
+Seat 6: KINGBULU (big blind) folded on the River
+
+
+
+PokerStars Hand #260792893468:  Hold'em No Limit (€0.10/€0.25 EUR) - 2026/05/13 17:56:57 CET [2026/05/13 11:56:57 ET]
+Table 'Chaka VI' 6-max Seat #5 is the button
+Seat 1: Sigiilo (€25.27 in chips) 
+Seat 2: calleando (€27.49 in chips) 
+Seat 3: BerbatP (€34.86 in chips) 
+Seat 4: Hitormis1 (€24.65 in chips) 
+Seat 5: bilydick (€16.34 in chips) 
+Seat 6: KINGBULU (€21.18 in chips) 
+KINGBULU: posts small blind €0.10
+Sigiilo: posts big blind €0.25
+*** HOLE CARDS ***
+Dealt to BerbatP [6s Qc]
+calleando: folds 
+BerbatP: folds 
+Hitormis1: folds 
+bilydick: folds 
+KINGBULU: folds 
+Uncalled bet (€0.15) returned to Sigiilo
+Sigiilo collected €0.20 from pot
+Sigiilo: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.20 | Rake €0 
+Seat 1: Sigiilo (big blind) collected (€0.20)
+Seat 2: calleando folded before Flop (didn't bet)
+Seat 3: BerbatP folded before Flop (didn't bet)
+Seat 4: Hitormis1 folded before Flop (didn't bet)
+Seat 5: bilydick (button) folded before Flop (didn't bet)
+Seat 6: KINGBULU (small blind) folded before Flop
+
+
+
+PokerStars Hand #260792894823:  Hold'em No Limit (€0.10/€0.25 EUR) - 2026/05/13 17:57:08 CET [2026/05/13 11:57:08 ET]
+Table 'Chaka VI' 6-max Seat #6 is the button
+Seat 1: Sigiilo (€25.37 in chips) 
+Seat 2: calleando (€27.49 in chips) 
+Seat 3: BerbatP (€34.86 in chips) 
+Seat 4: Hitormis1 (€24.65 in chips) 
+Seat 5: bilydick (€16.34 in chips) 
+Seat 6: KINGBULU (€21.08 in chips) 
+Sigiilo: posts small blind €0.10
+calleando: posts big blind €0.25
+*** HOLE CARDS ***
+Dealt to BerbatP [Qh Ad]
+BerbatP: raises €0.35 to €0.60
+Hitormis1: folds 
+bilydick: folds 
+KINGBULU: folds 
+Sigiilo: folds 
+calleando: folds 
+Uncalled bet (€0.35) returned to BerbatP
+BerbatP collected €0.60 from pot
+BerbatP: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.60 | Rake €0 
+Seat 1: Sigiilo (small blind) folded before Flop
+Seat 2: calleando (big blind) folded before Flop
+Seat 3: BerbatP collected (€0.60)
+Seat 4: Hitormis1 folded before Flop (didn't bet)
+Seat 5: bilydick folded before Flop (didn't bet)
+Seat 6: KINGBULU (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260792897431:  Hold'em No Limit (€0.10/€0.25 EUR) - 2026/05/13 17:57:30 CET [2026/05/13 11:57:30 ET]
+Table 'Chaka VI' 6-max Seat #1 is the button
+Seat 1: Sigiilo (€25.27 in chips) 
+Seat 2: calleando (€27.24 in chips) 
+Seat 3: BerbatP (€35.21 in chips) 
+Seat 4: Hitormis1 (€24.65 in chips) 
+Seat 5: bilydick (€16.34 in chips) 
+Seat 6: KINGBULU (€21.08 in chips) 
+calleando: posts small blind €0.10
+BerbatP: posts big blind €0.25
+*** HOLE CARDS ***
+Dealt to BerbatP [7h 4s]
+Hitormis1: folds 
+bilydick: calls €0.25
+KINGBULU: calls €0.25
+Sigiilo: folds 
+calleando: folds 
+BerbatP: checks 
+*** FLOP *** [Kc Td Jd]
+BerbatP: checks 
+bilydick: checks 
+KINGBULU: checks 
+*** TURN *** [Kc Td Jd] [3s]
+BerbatP: checks 
+bilydick: bets €0.40
+KINGBULU: calls €0.40
+BerbatP: folds 
+*** RIVER *** [Kc Td Jd 3s] [Kh]
+bilydick: checks 
+KINGBULU: checks 
+*** SHOW DOWN ***
+bilydick: shows [3c Qc] (two pair, Kings and Threes)
+KINGBULU: shows [5c Tc] (two pair, Kings and Tens)
+KINGBULU collected €1.56 from pot
+*** SUMMARY ***
+Total pot €1.65 | Rake €0.09 
+Board [Kc Td Jd 3s Kh]
+Seat 1: Sigiilo (button) folded before Flop (didn't bet)
+Seat 2: calleando (small blind) folded before Flop
+Seat 3: BerbatP (big blind) folded on the Turn
+Seat 4: Hitormis1 folded before Flop (didn't bet)
+Seat 5: bilydick showed [3c Qc] and lost with two pair, Kings and Threes
+Seat 6: KINGBULU showed [5c Tc] and won (€1.56) with two pair, Kings and Tens
+
+
+
+PokerStars Hand #260792903104:  Hold'em No Limit (€0.10/€0.25 EUR) - 2026/05/13 17:58:18 CET [2026/05/13 11:58:18 ET]
+Table 'Chaka VI' 6-max Seat #2 is the button
+Seat 1: Sigiilo (€25.27 in chips) 
+Seat 2: calleando (€27.14 in chips) 
+Seat 3: BerbatP (€34.96 in chips) 
+Seat 4: Hitormis1 (€24.65 in chips) 
+Seat 5: bilydick (€15.69 in chips) 
+Seat 6: KINGBULU (€21.99 in chips) 
+BerbatP: posts small blind €0.10
+Hitormis1: posts big blind €0.25
+*** HOLE CARDS ***
+Dealt to BerbatP [Ah 2s]
+bilydick: folds 
+KINGBULU: folds 
+Sigiilo: folds 
+calleando: raises €0.37 to €0.62
+BerbatP: folds 
+Hitormis1: calls €0.37
+*** FLOP *** [Ac Js 6h]
+Hitormis1: checks 
+calleando: bets €0.50
+Hitormis1: calls €0.50
+*** TURN *** [Ac Js 6h] [Jc]
+Hitormis1: checks 
+calleando: checks 
+*** RIVER *** [Ac Js 6h Jc] [As]
+Hitormis1: checks 
+calleando: checks 
+*** SHOW DOWN ***
+Hitormis1: shows [4c 4h] (two pair, Aces and Jacks)
+calleando: shows [Kc Qd] (two pair, Aces and Jacks - King kicker)
+calleando collected €2.21 from pot
+*** SUMMARY ***
+Total pot €2.34 | Rake €0.13 
+Board [Ac Js 6h Jc As]
+Seat 1: Sigiilo folded before Flop (didn't bet)
+Seat 2: calleando (button) showed [Kc Qd] and won (€2.21) with two pair, Aces and Jacks
+Seat 3: BerbatP (small blind) folded before Flop
+Seat 4: Hitormis1 (big blind) showed [4c 4h] and lost with two pair, Aces and Jacks
+Seat 5: bilydick folded before Flop (didn't bet)
+Seat 6: KINGBULU folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260792912166:  Hold'em No Limit (€0.10/€0.25 EUR) - 2026/05/13 17:59:33 CET [2026/05/13 11:59:33 ET]
+Table 'Chaka VI' 6-max Seat #3 is the button
+Seat 1: Sigiilo (€25.27 in chips) 
+Seat 2: calleando (€28.23 in chips) 
+Seat 3: BerbatP (€34.86 in chips) 
+Seat 4: Hitormis1 (€23.53 in chips) 
+Seat 5: bilydick (€15.69 in chips) 
+Seat 6: KINGBULU (€21.99 in chips) 
+Hitormis1: posts small blind €0.10
+bilydick: posts big blind €0.25
+*** HOLE CARDS ***
+Dealt to BerbatP [Jh Ad]
+KINGBULU: raises €0.25 to €0.50
+Sigiilo: folds 
+calleando: folds 
+BerbatP: raises €1 to €1.50
+Hitormis1: folds 
+bilydick: folds 
+KINGBULU: raises €2.25 to €3.75
+BerbatP: folds 
+Uncalled bet (€2.25) returned to KINGBULU
+KINGBULU collected €3.35 from pot
+KINGBULU: doesn't show hand 
+*** SUMMARY ***
+Total pot €3.35 | Rake €0 
+Seat 1: Sigiilo folded before Flop (didn't bet)
+Seat 2: calleando folded before Flop (didn't bet)
+Seat 3: BerbatP (button) folded before Flop
+Seat 4: Hitormis1 (small blind) folded before Flop
+Seat 5: bilydick (big blind) folded before Flop
+Seat 6: KINGBULU collected (€3.35)
+
+
+
+PokerStars Hand #260792920658:  Hold'em No Limit (€0.10/€0.25 EUR) - 2026/05/13 18:00:42 CET [2026/05/13 12:00:42 ET]
+Table 'Chaka VI' 6-max Seat #4 is the button
+Seat 1: Sigiilo (€25.27 in chips) 
+Seat 2: calleando (€28.23 in chips) 
+Seat 3: BerbatP (€33.36 in chips) 
+Seat 4: Hitormis1 (€23.43 in chips) 
+Seat 5: bilydick (€15.44 in chips) 
+Seat 6: KINGBULU (€23.84 in chips) 
+bilydick: posts small blind €0.10
+KINGBULU: posts big blind €0.25
+*** HOLE CARDS ***
+Dealt to BerbatP [Ks 7h]
+Sigiilo: folds 
+calleando: folds 
+BerbatP: folds 
+Hitormis1: raises €0.50 to €0.75
+bilydick: folds 
+KINGBULU: calls €0.50
+*** FLOP *** [9c 5s 2h]
+KINGBULU: checks 
+Hitormis1: checks 
+*** TURN *** [9c 5s 2h] [7s]
+KINGBULU: checks 
+Hitormis1: checks 
+*** RIVER *** [9c 5s 2h 7s] [Jc]
+KINGBULU: checks 
+Hitormis1: checks 
+*** SHOW DOWN ***
+KINGBULU: shows [Td Ah] (high card Ace)
+Hitormis1: mucks hand 
+KINGBULU collected €1.51 from pot
+*** SUMMARY ***
+Total pot €1.60 | Rake €0.09 
+Board [9c 5s 2h 7s Jc]
+Seat 1: Sigiilo folded before Flop (didn't bet)
+Seat 2: calleando folded before Flop (didn't bet)
+Seat 3: BerbatP folded before Flop (didn't bet)
+Seat 4: Hitormis1 (button) mucked [Qh Th]
+Seat 5: bilydick (small blind) folded before Flop
+Seat 6: KINGBULU (big blind) showed [Td Ah] and won (€1.51) with high card Ace
+
+
+
+PokerStars Hand #260792928413:  Hold'em No Limit (€0.10/€0.25 EUR) - 2026/05/13 18:01:36 CET [2026/05/13 12:01:36 ET]
+Table 'Chaka VI' 6-max Seat #5 is the button
+Seat 1: Sigiilo (€25.27 in chips) 
+Seat 2: calleando (€28.23 in chips) 
+Seat 3: BerbatP (€33.36 in chips) 
+Seat 4: Hitormis1 (€22.68 in chips) 
+Seat 5: bilydick (€15.34 in chips) 
+Seat 6: KINGBULU (€24.60 in chips) 
+KINGBULU: posts small blind €0.10
+Sigiilo: posts big blind €0.25
+*** HOLE CARDS ***
+Dealt to BerbatP [5c 3h]
+calleando: folds 
+BerbatP: folds 
+Hitormis1: folds 
+bilydick: folds 
+KINGBULU: raises €0.25 to €0.50
+Sigiilo: calls €0.25
+*** FLOP *** [6d Kc 4d]
+KINGBULU: bets €0.47
+Sigiilo: calls €0.47
+*** TURN *** [6d Kc 4d] [8d]
+KINGBULU: checks 
+Sigiilo: checks 
+*** RIVER *** [6d Kc 4d 8d] [5s]
+KINGBULU: checks 
+Sigiilo: checks 
+*** SHOW DOWN ***
+KINGBULU: shows [Qs Ah] (high card Ace)
+Sigiilo: mucks hand 
+KINGBULU collected €1.83 from pot
+*** SUMMARY ***
+Total pot €1.94 | Rake €0.11 
+Board [6d Kc 4d 8d 5s]
+Seat 1: Sigiilo (big blind) mucked [Jc Qc]
+Seat 2: calleando folded before Flop (didn't bet)
+Seat 3: BerbatP folded before Flop (didn't bet)
+Seat 4: Hitormis1 folded before Flop (didn't bet)
+Seat 5: bilydick (button) folded before Flop (didn't bet)
+Seat 6: KINGBULU (small blind) showed [Qs Ah] and won (€1.83) with high card Ace
+
+
+
+PokerStars Hand #260792941349:  Hold'em No Limit (€0.10/€0.25 EUR) - 2026/05/13 18:02:59 CET [2026/05/13 12:02:59 ET]
+Table 'Chaka VI' 6-max Seat #6 is the button
+Seat 1: Sigiilo (€25 in chips) 
+Seat 2: calleando (€28.23 in chips) 
+Seat 3: BerbatP (€33.36 in chips) 
+Seat 4: Hitormis1 (€22.68 in chips) 
+Seat 5: bilydick (€15.34 in chips) 
+Seat 6: KINGBULU (€25.46 in chips) 
+Sigiilo: posts small blind €0.10
+calleando: posts big blind €0.25
+*** HOLE CARDS ***
+Dealt to BerbatP [2d 9d]
+BerbatP: folds 
+Hitormis1: folds 
+bilydick: calls €0.25
+KINGBULU: calls €0.25
+Sigiilo: folds 
+calleando: checks 
+*** FLOP *** [2c 7s 4d]
+calleando: checks 
+bilydick: checks 
+KINGBULU: checks 
+*** TURN *** [2c 7s 4d] [Kh]
+calleando: checks 
+bilydick: checks 
+KINGBULU: checks 
+*** RIVER *** [2c 7s 4d Kh] [6d]
+calleando: bets €0.51
+bilydick: folds 
+KINGBULU: folds 
+Uncalled bet (€0.51) returned to calleando
+calleando collected €0.80 from pot
+calleando: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.85 | Rake €0.05 
+Board [2c 7s 4d Kh 6d]
+Seat 1: Sigiilo (small blind) folded before Flop
+Seat 2: calleando (big blind) collected (€0.80)
+Seat 3: BerbatP folded before Flop (didn't bet)
+Seat 4: Hitormis1 folded before Flop (didn't bet)
+Seat 5: bilydick folded on the River
+Seat 6: KINGBULU (button) folded on the River
+
+
+
+PokerStars Hand #260792953247:  Hold'em No Limit (€0.10/€0.25 EUR) - 2026/05/13 18:04:13 CET [2026/05/13 12:04:13 ET]
+Table 'Chaka VI' 6-max Seat #1 is the button
+Seat 1: Sigiilo (€25 in chips) 
+Seat 2: calleando (€28.78 in chips) 
+Seat 3: BerbatP (€33.36 in chips) 
+Seat 4: Hitormis1 (€25 in chips) 
+Seat 5: bilydick (€15.09 in chips) 
+Seat 6: KINGBULU (€25.21 in chips) 
+calleando: posts small blind €0.10
+BerbatP: posts big blind €0.25
+*** HOLE CARDS ***
+Dealt to BerbatP [3c Kd]
+Hitormis1: folds 
+bilydick: calls €0.25
+KINGBULU: raises €0.25 to €0.50
+Sigiilo: raises €1 to €1.50
+calleando: folds 
+BerbatP: folds 
+bilydick: calls €1.25
+KINGBULU: calls €1
+*** FLOP *** [Jd Ks 5c]
+bilydick: bets €2.29
+KINGBULU: folds 
+Sigiilo: folds 
+Uncalled bet (€2.29) returned to bilydick
+bilydick collected €4.57 from pot
+bilydick: doesn't show hand 
+*** SUMMARY ***
+Total pot €4.85 | Rake €0.28 
+Board [Jd Ks 5c]
+Seat 1: Sigiilo (button) folded on the Flop
+Seat 2: calleando (small blind) folded before Flop
+Seat 3: BerbatP (big blind) folded before Flop
+Seat 4: Hitormis1 folded before Flop (didn't bet)
+Seat 5: bilydick collected (€4.57)
+Seat 6: KINGBULU folded on the Flop
+
+
+
+PokerStars Hand #260792961702:  Hold'em No Limit (€0.10/€0.25 EUR) - 2026/05/13 18:05:04 CET [2026/05/13 12:05:04 ET]
+Table 'Chaka VI' 6-max Seat #2 is the button
+Seat 1: Sigiilo (€25 in chips) 
+Seat 2: calleando (€28.68 in chips) 
+Seat 3: BerbatP (€33.11 in chips) 
+Seat 4: Hitormis1 (€25 in chips) 
+Seat 5: bilydick (€18.16 in chips) 
+Seat 6: KINGBULU (€23.71 in chips) 
+BerbatP: posts small blind €0.10
+Hitormis1: posts big blind €0.25
+*** HOLE CARDS ***
+Dealt to BerbatP [9h 8s]
+bilydick: calls €0.25
+KINGBULU: raises €0.25 to €0.50
+Sigiilo: folds 
+calleando: calls €0.50
+BerbatP: folds 
+Hitormis1: folds 
+bilydick: calls €0.25
+*** FLOP *** [Qd 9s 3s]
+bilydick: checks 
+KINGBULU: checks 
+calleando: checks 
+*** TURN *** [Qd 9s 3s] [6c]
+bilydick: checks 
+KINGBULU: checks 
+calleando: bets €1.11
+bilydick: calls €1.11
+KINGBULU: folds 
+*** RIVER *** [Qd 9s 3s 6c] [3h]
+bilydick: checks 
+calleando: checks 
+*** SHOW DOWN ***
+bilydick: shows [6s Ah] (two pair, Sixes and Threes)
+calleando: mucks hand 
+bilydick collected €3.84 from pot
+*** SUMMARY ***
+Total pot €4.07 | Rake €0.23 
+Board [Qd 9s 3s 6c 3h]
+Seat 1: Sigiilo folded before Flop (didn't bet)
+Seat 2: calleando (button) mucked [5h 5c]
+Seat 3: BerbatP (small blind) folded before Flop
+Seat 4: Hitormis1 (big blind) folded before Flop
+Seat 5: bilydick showed [6s Ah] and won (€3.84) with two pair, Sixes and Threes
+Seat 6: KINGBULU folded on the Turn
+
+
+
+PokerStars Hand #260792973650:  Hold'em No Limit (€0.10/€0.25 EUR) - 2026/05/13 18:06:18 CET [2026/05/13 12:06:18 ET]
+Table 'Chaka VI' 6-max Seat #3 is the button
+Seat 1: Sigiilo (€25 in chips) 
+Seat 2: calleando (€27.07 in chips) 
+Seat 3: BerbatP (€33.01 in chips) 
+Seat 4: Hitormis1 (€24.75 in chips) 
+Seat 5: bilydick (€20.39 in chips) 
+Seat 6: KINGBULU (€23.21 in chips) 
+Hitormis1: posts small blind €0.10
+bilydick: posts big blind €0.25
+*** HOLE CARDS ***
+Dealt to BerbatP [7h Kd]
+KINGBULU: folds 
+Sigiilo: folds 
+calleando: folds 
+BerbatP: folds 
+Hitormis1: folds 
+Uncalled bet (€0.15) returned to bilydick
+bilydick collected €0.20 from pot
+*** SUMMARY ***
+Total pot €0.20 | Rake €0 
+Seat 1: Sigiilo folded before Flop (didn't bet)
+Seat 2: calleando folded before Flop (didn't bet)
+Seat 3: BerbatP (button) folded before Flop (didn't bet)
+Seat 4: Hitormis1 (small blind) folded before Flop
+Seat 5: bilydick (big blind) collected (€0.20)
+Seat 6: KINGBULU folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260792977468:  Hold'em No Limit (€0.10/€0.25 EUR) - 2026/05/13 18:06:40 CET [2026/05/13 12:06:40 ET]
+Table 'Chaka VI' 6-max Seat #4 is the button
+Seat 1: Sigiilo (€25 in chips) 
+Seat 2: calleando (€27.07 in chips) 
+Seat 3: BerbatP (€33.01 in chips) 
+Seat 4: Hitormis1 (€24.65 in chips) 
+Seat 5: bilydick (€20.49 in chips) 
+Seat 6: KINGBULU (€23.21 in chips) 
+bilydick: posts small blind €0.10
+KINGBULU: posts big blind €0.25
+*** HOLE CARDS ***
+Dealt to BerbatP [3d Js]
+Sigiilo: folds 
+calleando: raises €0.30 to €0.55
+BerbatP: folds 
+Hitormis1: folds 
+bilydick: calls €0.45
+KINGBULU: calls €0.30
+*** FLOP *** [Kh 2s Ts]
+bilydick: checks 
+KINGBULU: checks 
+calleando: bets €0.51
+bilydick: folds 
+KINGBULU: folds 
+Uncalled bet (€0.51) returned to calleando
+calleando collected €1.56 from pot
+calleando: doesn't show hand 
+*** SUMMARY ***
+Total pot €1.65 | Rake €0.09 
+Board [Kh 2s Ts]
+Seat 1: Sigiilo folded before Flop (didn't bet)
+Seat 2: calleando collected (€1.56)
+Seat 3: BerbatP folded before Flop (didn't bet)
+Seat 4: Hitormis1 (button) folded before Flop (didn't bet)
+Seat 5: bilydick (small blind) folded on the Flop
+Seat 6: KINGBULU (big blind) folded on the Flop
+
+
+
+PokerStars Hand #260792984966:  Hold'em No Limit (€0.10/€0.25 EUR) - 2026/05/13 18:07:26 CET [2026/05/13 12:07:26 ET]
+Table 'Chaka VI' 6-max Seat #5 is the button
+Seat 1: Sigiilo (€25 in chips) 
+Seat 2: calleando (€28.08 in chips) 
+Seat 3: BerbatP (€33.01 in chips) 
+Seat 4: Hitormis1 (€24.65 in chips) 
+Seat 5: bilydick (€19.94 in chips) 
+Seat 6: KINGBULU (€22.66 in chips) 
+KINGBULU: posts small blind €0.10
+Sigiilo: posts big blind €0.25
+*** HOLE CARDS ***
+Dealt to BerbatP [7h Qs]
+calleando: folds 
+BerbatP: folds 
+Hitormis1: folds 
+bilydick: folds 
+KINGBULU: folds 
+Uncalled bet (€0.15) returned to Sigiilo
+Sigiilo collected €0.20 from pot
+Sigiilo: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.20 | Rake €0 
+Seat 1: Sigiilo (big blind) collected (€0.20)
+Seat 2: calleando folded before Flop (didn't bet)
+Seat 3: BerbatP folded before Flop (didn't bet)
+Seat 4: Hitormis1 folded before Flop (didn't bet)
+Seat 5: bilydick (button) folded before Flop (didn't bet)
+Seat 6: KINGBULU (small blind) folded before Flop
+
+
+
+PokerStars Hand #260792988232:  Hold'em No Limit (€0.10/€0.25 EUR) - 2026/05/13 18:07:46 CET [2026/05/13 12:07:46 ET]
+Table 'Chaka VI' 6-max Seat #6 is the button
+Seat 1: Sigiilo (€25.10 in chips) 
+Seat 2: calleando (€28.08 in chips) 
+Seat 3: BerbatP (€33.01 in chips) 
+Seat 4: Hitormis1 (€24.65 in chips) 
+Seat 5: bilydick (€19.94 in chips) 
+Seat 6: KINGBULU (€22.56 in chips) 
+Sigiilo: posts small blind €0.10
+calleando: posts big blind €0.25
+*** HOLE CARDS ***
+Dealt to BerbatP [4c Td]
+BerbatP: raises €0.35 to €0.60
+Hitormis1: folds 
+bilydick: folds 
+KINGBULU: calls €0.60
+Sigiilo: folds 
+calleando: folds 
+*** FLOP *** [7c 2s 7s]
+BerbatP: bets €0.51
+KINGBULU: folds 
+Uncalled bet (€0.51) returned to BerbatP
+BerbatP collected €1.46 from pot
+BerbatP: doesn't show hand 
+*** SUMMARY ***
+Total pot €1.55 | Rake €0.09 
+Board [7c 2s 7s]
+Seat 1: Sigiilo (small blind) folded before Flop
+Seat 2: calleando (big blind) folded before Flop
+Seat 3: BerbatP collected (€1.46)
+Seat 4: Hitormis1 folded before Flop (didn't bet)
+Seat 5: bilydick folded before Flop (didn't bet)
+Seat 6: KINGBULU (button) folded on the Flop
+
+
+

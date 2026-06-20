@@ -1,0 +1,1841 @@
+﻿PokerStars Hand #260736120767:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:25:34 CET [2026/05/08 11:25:34 ET]
+Table 'Lycomedes VI' 6-max Seat #4 is the button
+Seat 1: Arox55 (€5.30 in chips) 
+Seat 3: wil7up (€5 in chips) 
+Seat 4: batu157 (€9.98 in chips) 
+Seat 5: DeBareta (€5 in chips) 
+Seat 6: BerbatP (€5 in chips) 
+DeBareta: posts small blind €0.02
+BerbatP: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [4d 6s]
+Arox55: folds 
+wil7up: folds 
+batu157: raises €0.10 to €0.15
+DeBareta: folds 
+BerbatP: folds 
+Uncalled bet (€0.10) returned to batu157
+batu157 collected €0.12 from pot
+batu157: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 1: Arox55 folded before Flop (didn't bet)
+Seat 3: wil7up folded before Flop (didn't bet)
+Seat 4: batu157 (button) collected (€0.12)
+Seat 5: DeBareta (small blind) folded before Flop
+Seat 6: BerbatP (big blind) folded before Flop
+
+
+
+PokerStars Hand #260736122720:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:25:46 CET [2026/05/08 11:25:46 ET]
+Table 'Lycomedes VI' 6-max Seat #5 is the button
+Seat 1: Arox55 (€5.30 in chips) 
+Seat 3: wil7up (€5 in chips) 
+Seat 4: batu157 (€10.05 in chips) 
+Seat 5: DeBareta (€5 in chips) 
+Seat 6: BerbatP (€4.95 in chips) 
+BerbatP: posts small blind €0.02
+Arox55: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [Qd Th]
+wil7up: folds 
+batu157: folds 
+DeBareta: raises €0.10 to €0.15
+BerbatP: folds 
+Arox55: calls €0.10
+*** FLOP *** [4s Ts Qs]
+Arox55: checks 
+DeBareta: bets €0.10
+Arox55: folds 
+Uncalled bet (€0.10) returned to DeBareta
+DeBareta collected €0.30 from pot
+DeBareta: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.32 | Rake €0.02 
+Board [4s Ts Qs]
+Seat 1: Arox55 (big blind) folded on the Flop
+Seat 3: wil7up folded before Flop (didn't bet)
+Seat 4: batu157 folded before Flop (didn't bet)
+Seat 5: DeBareta (button) collected (€0.30)
+Seat 6: BerbatP (small blind) folded before Flop
+
+
+
+PokerStars Hand #260736130665:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:26:37 CET [2026/05/08 11:26:37 ET]
+Table 'Lycomedes VI' 6-max Seat #6 is the button
+Seat 1: Arox55 (€5.15 in chips) 
+Seat 3: wil7up (€5 in chips) 
+Seat 4: batu157 (€10.05 in chips) 
+Seat 5: DeBareta (€5.15 in chips) 
+Seat 6: BerbatP (€4.93 in chips) 
+Arox55: posts small blind €0.02
+wil7up: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [Ts Ad]
+batu157: folds 
+DeBareta: folds 
+BerbatP: raises €0.07 to €0.12
+MMTvinz joins the table at seat #2 
+Arox55: raises €0.33 to €0.45
+wil7up: folds 
+BerbatP: calls €0.33
+*** FLOP *** [Ac 7c 7d]
+Arox55: bets €0.45
+BerbatP: calls €0.45
+*** TURN *** [Ac 7c 7d] [6h]
+Arox55: bets €1.31
+BerbatP: calls €1.31
+*** RIVER *** [Ac 7c 7d 6h] [9h]
+Arox55: checks 
+BerbatP: checks 
+*** SHOW DOWN ***
+Arox55: shows [Jd Td] (a pair of Sevens)
+BerbatP: shows [Ts Ad] (two pair, Aces and Sevens)
+BerbatP collected €4.20 from pot
+*** SUMMARY ***
+Total pot €4.47 | Rake €0.27 
+Board [Ac 7c 7d 6h 9h]
+Seat 1: Arox55 (small blind) showed [Jd Td] and lost with a pair of Sevens
+Seat 3: wil7up (big blind) folded before Flop
+Seat 4: batu157 folded before Flop (didn't bet)
+Seat 5: DeBareta folded before Flop (didn't bet)
+Seat 6: BerbatP (button) showed [Ts Ad] and won (€4.20) with two pair, Aces and Sevens
+
+
+
+PokerStars Hand #260736149951:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:28:42 CET [2026/05/08 11:28:42 ET]
+Table 'Lycomedes VI' 6-max Seat #1 is the button
+Seat 2: MMTvinz (€5 in chips) is sitting out
+Seat 1: Arox55 (€4.94 in chips) 
+Seat 3: wil7up (€5 in chips) 
+Seat 4: batu157 (€10.05 in chips) 
+Seat 5: DeBareta (€5.15 in chips) 
+Seat 6: BerbatP (€6.92 in chips) 
+wil7up: posts small blind €0.02
+batu157: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [Qs Ks]
+DeBareta: folds 
+BerbatP: raises €0.07 to €0.12
+Arox55 has timed out
+Arox55: folds 
+wil7up: folds 
+batu157: folds 
+Uncalled bet (€0.07) returned to BerbatP
+BerbatP collected €0.12 from pot
+BerbatP: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 2: MMTvinz
+Seat 1: Arox55 (button) folded before Flop (didn't bet)
+Seat 3: wil7up (small blind) folded before Flop
+Seat 4: batu157 (big blind) folded before Flop
+Seat 5: DeBareta folded before Flop (didn't bet)
+Seat 6: BerbatP collected (€0.12)
+
+
+
+PokerStars Hand #260736154435:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:29:11 CET [2026/05/08 11:29:11 ET]
+Table 'Lycomedes VI' 6-max Seat #3 is the button
+Seat 2: MMTvinz (€5 in chips) is sitting out
+Seat 1: Arox55 (€4.94 in chips) 
+Seat 3: wil7up (€5 in chips) 
+Seat 4: batu157 (€10 in chips) 
+Seat 5: DeBareta (€5.15 in chips) 
+Seat 6: BerbatP (€6.99 in chips) 
+batu157: posts small blind €0.02
+DeBareta: posts big blind €0.05
+MMTvinz: sits out 
+*** HOLE CARDS ***
+Dealt to BerbatP [Qc 5d]
+BerbatP: folds 
+Arox55: raises €0.10 to €0.15
+wil7up: folds 
+batu157: raises €0.45 to €0.60
+DeBareta: folds 
+Arox55: calls €0.45
+*** FLOP *** [6h Th Jd]
+batu157: bets €0.60
+Arox55: calls €0.60
+*** TURN *** [6h Th Jd] [8s]
+batu157: checks 
+Arox55: bets €0.69
+batu157: calls €0.69
+*** RIVER *** [6h Th Jd 8s] [Ah]
+batu157: checks 
+Arox55: checks 
+*** SHOW DOWN ***
+batu157: shows [Qd Kd] (a straight, Ten to Ace)
+Arox55: mucks hand 
+batu157 collected €3.60 from pot
+*** SUMMARY ***
+Total pot €3.83 | Rake €0.23 
+Board [6h Th Jd 8s Ah]
+Seat 2: MMTvinz
+Seat 1: Arox55 mucked [Ac Jc]
+Seat 3: wil7up (button) folded before Flop (didn't bet)
+Seat 4: batu157 (small blind) showed [Qd Kd] and won (€3.60) with a straight, Ten to Ace
+Seat 5: DeBareta (big blind) folded before Flop
+Seat 6: BerbatP folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260736166384:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:30:29 CET [2026/05/08 11:30:29 ET]
+Table 'Lycomedes VI' 6-max Seat #4 is the button
+Seat 2: MMTvinz (€5 in chips) is sitting out
+Seat 1: Arox55 (€3.05 in chips) 
+Seat 3: wil7up (€5 in chips) 
+Seat 4: batu157 (€11.71 in chips) 
+Seat 5: DeBareta (€5.10 in chips) 
+Seat 6: BerbatP (€6.99 in chips) 
+DeBareta: posts small blind €0.02
+BerbatP: posts big blind €0.05
+MMTvinz: sits out 
+*** HOLE CARDS ***
+Dealt to BerbatP [Jh 7c]
+Arox55: folds 
+wil7up: folds 
+batu157: folds 
+DeBareta: folds 
+Uncalled bet (€0.03) returned to BerbatP
+BerbatP collected €0.04 from pot
+BerbatP: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.04 | Rake €0 
+Seat 2: MMTvinz
+Seat 1: Arox55 folded before Flop (didn't bet)
+Seat 3: wil7up folded before Flop (didn't bet)
+Seat 4: batu157 (button) folded before Flop (didn't bet)
+Seat 5: DeBareta (small blind) folded before Flop
+Seat 6: BerbatP (big blind) collected (€0.04)
+
+
+
+PokerStars Hand #260736169003:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:30:46 CET [2026/05/08 11:30:46 ET]
+Table 'Lycomedes VI' 6-max Seat #5 is the button
+Seat 2: MMTvinz (€5 in chips) is sitting out
+Seat 1: Arox55 (€5 in chips) 
+Seat 3: wil7up (€5 in chips) 
+Seat 4: batu157 (€11.71 in chips) 
+Seat 5: DeBareta (€5.08 in chips) 
+Seat 6: BerbatP (€7.01 in chips) 
+BerbatP: posts small blind €0.02
+Arox55: posts big blind €0.05
+MMTvinz: sits out 
+*** HOLE CARDS ***
+Dealt to BerbatP [Qs 2h]
+wil7up: folds 
+batu157: raises €0.10 to €0.15
+DeBareta: folds 
+BerbatP: folds 
+Arox55: folds 
+Uncalled bet (€0.10) returned to batu157
+batu157 collected €0.12 from pot
+batu157: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 2: MMTvinz
+Seat 1: Arox55 (big blind) folded before Flop
+Seat 3: wil7up folded before Flop (didn't bet)
+Seat 4: batu157 collected (€0.12)
+Seat 5: DeBareta (button) folded before Flop (didn't bet)
+Seat 6: BerbatP (small blind) folded before Flop
+
+
+
+PokerStars Hand #260736170570:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:30:56 CET [2026/05/08 11:30:56 ET]
+Table 'Lycomedes VI' 6-max Seat #6 is the button
+Seat 1: Arox55 (€4.95 in chips) 
+Seat 2: MMTvinz (€5 in chips) 
+Seat 3: wil7up (€5 in chips) 
+Seat 4: batu157 (€11.78 in chips) 
+Seat 5: DeBareta (€5.08 in chips) 
+Seat 6: BerbatP (€6.99 in chips) 
+Arox55: posts small blind €0.02
+MMTvinz: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [2s 9d]
+wil7up: folds 
+batu157: raises €0.10 to €0.15
+DeBareta: folds 
+BerbatP: folds 
+Arox55: folds 
+MMTvinz: folds 
+Uncalled bet (€0.10) returned to batu157
+batu157 collected €0.12 from pot
+batu157: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 1: Arox55 (small blind) folded before Flop
+Seat 2: MMTvinz (big blind) folded before Flop
+Seat 3: wil7up folded before Flop (didn't bet)
+Seat 4: batu157 collected (€0.12)
+Seat 5: DeBareta folded before Flop (didn't bet)
+Seat 6: BerbatP (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260736173097:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:31:12 CET [2026/05/08 11:31:12 ET]
+Table 'Lycomedes VI' 6-max Seat #1 is the button
+Seat 1: Arox55 (€4.93 in chips) 
+Seat 2: MMTvinz (€5 in chips) 
+Seat 3: wil7up (€5 in chips) 
+Seat 4: batu157 (€11.85 in chips) 
+Seat 5: DeBareta (€5.08 in chips) 
+Seat 6: BerbatP (€6.99 in chips) 
+MMTvinz: posts small blind €0.02
+wil7up: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [3c 8c]
+batu157: folds 
+DeBareta: folds 
+BerbatP: folds 
+Arox55: folds 
+MMTvinz: raises €0.05 to €0.10
+wil7up: folds 
+Uncalled bet (€0.05) returned to MMTvinz
+MMTvinz collected €0.10 from pot
+MMTvinz: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Seat 1: Arox55 (button) folded before Flop (didn't bet)
+Seat 2: MMTvinz (small blind) collected (€0.10)
+Seat 3: wil7up (big blind) folded before Flop
+Seat 4: batu157 folded before Flop (didn't bet)
+Seat 5: DeBareta folded before Flop (didn't bet)
+Seat 6: BerbatP folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260736176096:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:31:32 CET [2026/05/08 11:31:32 ET]
+Table 'Lycomedes VI' 6-max Seat #2 is the button
+Seat 1: Arox55 (€4.93 in chips) 
+Seat 2: MMTvinz (€5.05 in chips) 
+Seat 3: wil7up (€5 in chips) 
+Seat 4: batu157 (€11.85 in chips) 
+Seat 5: DeBareta (€5.08 in chips) 
+Seat 6: BerbatP (€6.99 in chips) 
+wil7up: posts small blind €0.02
+batu157: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [6c 8c]
+DeBareta: folds 
+BerbatP: folds 
+Arox55: folds 
+MMTvinz: folds 
+wil7up: raises €0.10 to €0.15
+batu157: calls €0.10
+*** FLOP *** [2s 6s Jc]
+wil7up: checks 
+batu157: bets €0.09
+wil7up: folds 
+Uncalled bet (€0.09) returned to batu157
+batu157 collected €0.28 from pot
+batu157: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.30 | Rake €0.02 
+Board [2s 6s Jc]
+Seat 1: Arox55 folded before Flop (didn't bet)
+Seat 2: MMTvinz (button) folded before Flop (didn't bet)
+Seat 3: wil7up (small blind) folded on the Flop
+Seat 4: batu157 (big blind) collected (€0.28)
+Seat 5: DeBareta folded before Flop (didn't bet)
+Seat 6: BerbatP folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260736179972:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:31:57 CET [2026/05/08 11:31:57 ET]
+Table 'Lycomedes VI' 6-max Seat #3 is the button
+Seat 1: Arox55 (€4.93 in chips) 
+Seat 2: MMTvinz (€5.05 in chips) 
+Seat 3: wil7up (€5 in chips) 
+Seat 4: batu157 (€11.98 in chips) 
+Seat 5: DeBareta (€5.08 in chips) 
+Seat 6: BerbatP (€6.99 in chips) 
+batu157: posts small blind €0.02
+DeBareta: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [9d Tc]
+BerbatP: folds 
+Arox55: folds 
+MMTvinz: folds 
+wil7up: folds 
+batu157: folds 
+Uncalled bet (€0.03) returned to DeBareta
+DeBareta collected €0.04 from pot
+DeBareta: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.04 | Rake €0 
+Seat 1: Arox55 folded before Flop (didn't bet)
+Seat 2: MMTvinz folded before Flop (didn't bet)
+Seat 3: wil7up (button) folded before Flop (didn't bet)
+Seat 4: batu157 (small blind) folded before Flop
+Seat 5: DeBareta (big blind) collected (€0.04)
+Seat 6: BerbatP folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260736183358:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:32:19 CET [2026/05/08 11:32:19 ET]
+Table 'Lycomedes VI' 6-max Seat #4 is the button
+Seat 1: Arox55 (€4.93 in chips) 
+Seat 2: MMTvinz (€5.05 in chips) 
+Seat 3: wil7up (€5 in chips) 
+Seat 4: batu157 (€11.96 in chips) 
+Seat 5: DeBareta (€5.10 in chips) 
+Seat 6: BerbatP (€6.99 in chips) 
+DeBareta: posts small blind €0.02
+BerbatP: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [Ks Kh]
+Arox55: raises €0.10 to €0.15
+MMTvinz: folds 
+wil7up: folds 
+batu157: folds 
+DeBareta: folds 
+BerbatP: raises €0.40 to €0.55
+Arox55: folds 
+Uncalled bet (€0.40) returned to BerbatP
+BerbatP collected €0.32 from pot
+BerbatP: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.32 | Rake €0 
+Seat 1: Arox55 folded before Flop
+Seat 2: MMTvinz folded before Flop (didn't bet)
+Seat 3: wil7up folded before Flop (didn't bet)
+Seat 4: batu157 (button) folded before Flop (didn't bet)
+Seat 5: DeBareta (small blind) folded before Flop
+Seat 6: BerbatP (big blind) collected (€0.32)
+
+
+
+PokerStars Hand #260736189738:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:33:00 CET [2026/05/08 11:33:00 ET]
+Table 'Lycomedes VI' 6-max Seat #5 is the button
+Seat 1: Arox55 (€4.78 in chips) 
+Seat 2: MMTvinz (€5.05 in chips) 
+Seat 3: wil7up (€5 in chips) 
+Seat 4: batu157 (€11.96 in chips) 
+Seat 5: DeBareta (€5.08 in chips) 
+Seat 6: BerbatP (€7.16 in chips) 
+BerbatP: posts small blind €0.02
+Arox55: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [4s 5s]
+MMTvinz: calls €0.05
+wil7up: folds 
+batu157: folds 
+DeBareta: raises €0.15 to €0.20
+BerbatP: calls €0.18
+Arox55: folds 
+MMTvinz: calls €0.15
+*** FLOP *** [5d Kd 5c]
+BerbatP: checks 
+MMTvinz: bets €0.10
+DeBareta: calls €0.10
+BerbatP: raises €0.30 to €0.40
+MMTvinz: calls €0.30
+DeBareta: folds 
+*** TURN *** [5d Kd 5c] [Jc]
+BerbatP: bets €1.01
+MMTvinz: calls €1.01
+*** RIVER *** [5d Kd 5c Jc] [6c]
+BerbatP: bets €1.53
+MMTvinz: folds 
+Uncalled bet (€1.53) returned to BerbatP
+BerbatP collected €3.36 from pot
+BerbatP: doesn't show hand 
+*** SUMMARY ***
+Total pot €3.57 | Rake €0.21 
+Board [5d Kd 5c Jc 6c]
+Seat 1: Arox55 (big blind) folded before Flop
+Seat 2: MMTvinz folded on the River
+Seat 3: wil7up folded before Flop (didn't bet)
+Seat 4: batu157 folded before Flop (didn't bet)
+Seat 5: DeBareta (button) folded on the Flop
+Seat 6: BerbatP (small blind) collected (€3.36)
+
+
+
+PokerStars Hand #260736206821:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:34:51 CET [2026/05/08 11:34:51 ET]
+Table 'Lycomedes VI' 6-max Seat #6 is the button
+Seat 1: Arox55 (€4.73 in chips) 
+Seat 2: MMTvinz (€5 in chips) 
+Seat 3: wil7up (€5 in chips) 
+Seat 4: batu157 (€11.96 in chips) 
+Seat 5: DeBareta (€5 in chips) 
+Seat 6: BerbatP (€8.91 in chips) 
+Arox55: posts small blind €0.02
+MMTvinz: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [Ac Th]
+wil7up: folds 
+batu157: folds 
+DeBareta: folds 
+BerbatP: raises €0.07 to €0.12
+Arox55: folds 
+MMTvinz: folds 
+Uncalled bet (€0.07) returned to BerbatP
+BerbatP collected €0.12 from pot
+BerbatP: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 1: Arox55 (small blind) folded before Flop
+Seat 2: MMTvinz (big blind) folded before Flop
+Seat 3: wil7up folded before Flop (didn't bet)
+Seat 4: batu157 folded before Flop (didn't bet)
+Seat 5: DeBareta folded before Flop (didn't bet)
+Seat 6: BerbatP (button) collected (€0.12)
+
+
+
+PokerStars Hand #260736209384:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:35:08 CET [2026/05/08 11:35:08 ET]
+Table 'Lycomedes VI' 6-max Seat #1 is the button
+Seat 1: Arox55 (€4.71 in chips) 
+Seat 2: MMTvinz (€5 in chips) 
+Seat 3: wil7up (€5 in chips) 
+Seat 4: batu157 (€11.96 in chips) 
+Seat 5: DeBareta (€5 in chips) 
+Seat 6: BerbatP (€8.98 in chips) 
+MMTvinz: posts small blind €0.02
+wil7up: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [8d Jd]
+batu157: folds 
+DeBareta: folds 
+BerbatP: raises €0.07 to €0.12
+Arox55: folds 
+MMTvinz: folds 
+wil7up: folds 
+Uncalled bet (€0.07) returned to BerbatP
+BerbatP collected €0.12 from pot
+BerbatP: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 1: Arox55 (button) folded before Flop (didn't bet)
+Seat 2: MMTvinz (small blind) folded before Flop
+Seat 3: wil7up (big blind) folded before Flop
+Seat 4: batu157 folded before Flop (didn't bet)
+Seat 5: DeBareta folded before Flop (didn't bet)
+Seat 6: BerbatP collected (€0.12)
+
+
+
+PokerStars Hand #260736212555:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:35:28 CET [2026/05/08 11:35:28 ET]
+Table 'Lycomedes VI' 6-max Seat #2 is the button
+Seat 1: Arox55 (€4.71 in chips) 
+Seat 2: MMTvinz (€5 in chips) 
+Seat 3: wil7up (€5 in chips) 
+Seat 4: batu157 (€11.96 in chips) 
+Seat 5: DeBareta (€5 in chips) 
+Seat 6: BerbatP (€9.05 in chips) 
+wil7up: posts small blind €0.02
+batu157: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [Ts 8s]
+DeBareta: folds 
+BerbatP: folds 
+Arox55: folds 
+MMTvinz: folds 
+wil7up: raises €0.10 to €0.15
+batu157: folds 
+Uncalled bet (€0.10) returned to wil7up
+wil7up collected €0.10 from pot
+wil7up: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Seat 1: Arox55 folded before Flop (didn't bet)
+Seat 2: MMTvinz (button) folded before Flop (didn't bet)
+Seat 3: wil7up (small blind) collected (€0.10)
+Seat 4: batu157 (big blind) folded before Flop
+Seat 5: DeBareta folded before Flop (didn't bet)
+Seat 6: BerbatP folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260736214415:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:35:40 CET [2026/05/08 11:35:40 ET]
+Table 'Lycomedes VI' 6-max Seat #3 is the button
+Seat 1: Arox55 (€4.71 in chips) 
+Seat 2: MMTvinz (€5 in chips) 
+Seat 3: wil7up (€5.05 in chips) 
+Seat 4: batu157 (€11.91 in chips) 
+Seat 5: DeBareta (€5 in chips) 
+Seat 6: BerbatP (€9.05 in chips) 
+batu157: posts small blind €0.02
+DeBareta: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [8d Td]
+BerbatP: raises €0.07 to €0.12
+Arox55: folds 
+MMTvinz: folds 
+wil7up: folds 
+batu157: folds 
+DeBareta: folds 
+Uncalled bet (€0.07) returned to BerbatP
+BerbatP collected €0.12 from pot
+BerbatP: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 1: Arox55 folded before Flop (didn't bet)
+Seat 2: MMTvinz folded before Flop (didn't bet)
+Seat 3: wil7up (button) folded before Flop (didn't bet)
+Seat 4: batu157 (small blind) folded before Flop
+Seat 5: DeBareta (big blind) folded before Flop
+Seat 6: BerbatP collected (€0.12)
+
+
+
+PokerStars Hand #260736217191:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:35:59 CET [2026/05/08 11:35:59 ET]
+Table 'Lycomedes VI' 6-max Seat #4 is the button
+Seat 1: Arox55 (€4.71 in chips) 
+Seat 2: MMTvinz (€5 in chips) 
+Seat 3: wil7up (€5.05 in chips) 
+Seat 4: batu157 (€11.89 in chips) 
+Seat 5: DeBareta (€5 in chips) 
+Seat 6: BerbatP (€9.12 in chips) 
+DeBareta: posts small blind €0.02
+BerbatP: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [5h Jh]
+Arox55: raises €0.20 to €0.25
+MMTvinz: folds 
+wil7up: folds 
+batu157: folds 
+DeBareta: calls €0.23
+BerbatP: folds 
+*** FLOP *** [Ad Td 3s]
+DeBareta: checks 
+Arox55: bets €0.26
+DeBareta: raises €0.52 to €0.78
+Arox55: raises €0.67 to €1.45
+DeBareta: raises €3.30 to €4.75 and is all-in
+Arox55: calls €3.01 and is all-in
+Uncalled bet (€0.29) returned to DeBareta
+*** TURN *** [Ad Td 3s] [Qh]
+*** RIVER *** [Ad Td 3s Qh] [Ks]
+*** SHOW DOWN ***
+DeBareta: shows [Tc Ac] (two pair, Aces and Tens)
+Arox55: shows [Ts Ah] (two pair, Aces and Tens)
+DeBareta collected €4.45 from pot
+Arox55 collected €4.45 from pot
+*** SUMMARY ***
+Total pot €9.47 | Rake €0.57 
+Board [Ad Td 3s Qh Ks]
+Seat 1: Arox55 showed [Ts Ah] and won (€4.45) with two pair, Aces and Tens
+Seat 2: MMTvinz folded before Flop (didn't bet)
+Seat 3: wil7up folded before Flop (didn't bet)
+Seat 4: batu157 (button) folded before Flop (didn't bet)
+Seat 5: DeBareta (small blind) showed [Tc Ac] and won (€4.45) with two pair, Aces and Tens
+Seat 6: BerbatP (big blind) folded before Flop
+
+
+
+PokerStars Hand #260736229057:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:37:16 CET [2026/05/08 11:37:16 ET]
+Table 'Lycomedes VI' 6-max Seat #5 is the button
+Seat 1: Arox55 (€4.45 in chips) 
+Seat 2: MMTvinz (€5 in chips) 
+Seat 3: wil7up (€5.05 in chips) 
+Seat 4: batu157 (€11.89 in chips) 
+Seat 5: DeBareta (€5 in chips) 
+Seat 6: BerbatP (€9.07 in chips) 
+BerbatP: posts small blind €0.02
+Arox55: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [9s 3c]
+MMTvinz: folds 
+wil7up: raises €0.10 to €0.15
+batu157: folds 
+DeBareta: calls €0.15
+BerbatP: folds 
+Arox55: folds 
+*** FLOP *** [4c 8s 9d]
+Arox55 leaves the table
+wil7up: bets €0.12
+DeBareta: calls €0.12
+*** TURN *** [4c 8s 9d] [Ad]
+wil7up: bets €0.43
+DeBareta: folds 
+Uncalled bet (€0.43) returned to wil7up
+wil7up collected €0.57 from pot
+wil7up: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.61 | Rake €0.04 
+Board [4c 8s 9d Ad]
+Seat 1: Arox55 (big blind) folded before Flop
+Seat 2: MMTvinz folded before Flop (didn't bet)
+Seat 3: wil7up collected (€0.57)
+Seat 4: batu157 folded before Flop (didn't bet)
+Seat 5: DeBareta (button) folded on the Turn
+Seat 6: BerbatP (small blind) folded before Flop
+
+
+
+PokerStars Hand #260736234915:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:37:53 CET [2026/05/08 11:37:53 ET]
+Table 'Lycomedes VI' 6-max Seat #6 is the button
+Seat 2: MMTvinz (€5 in chips) 
+Seat 3: wil7up (€5.35 in chips) 
+Seat 4: batu157 (€11.89 in chips) 
+Seat 5: DeBareta (€5 in chips) 
+Seat 6: BerbatP (€9.05 in chips) 
+MMTvinz: posts small blind €0.02
+wil7up: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [7c 6c]
+batu157: folds 
+DeBareta: folds 
+lumilenco joins the table at seat #1 
+BerbatP: calls €0.05
+MMTvinz: folds 
+wil7up: raises €0.15 to €0.20
+BerbatP: calls €0.15
+*** FLOP *** [2c 8c 3c]
+wil7up: bets €0.13
+BerbatP: calls €0.13
+*** TURN *** [2c 8c 3c] [Kh]
+wil7up: checks 
+BerbatP: bets €0.21
+wil7up: calls €0.21
+*** RIVER *** [2c 8c 3c Kh] [Td]
+wil7up: checks 
+BerbatP: bets €0.75
+wil7up: folds 
+Uncalled bet (€0.75) returned to BerbatP
+BerbatP collected €1.03 from pot
+BerbatP: doesn't show hand 
+*** SUMMARY ***
+Total pot €1.10 | Rake €0.07 
+Board [2c 8c 3c Kh Td]
+Seat 2: MMTvinz (small blind) folded before Flop
+Seat 3: wil7up (big blind) folded on the River
+Seat 4: batu157 folded before Flop (didn't bet)
+Seat 5: DeBareta folded before Flop (didn't bet)
+Seat 6: BerbatP (button) collected (€1.03)
+
+
+
+PokerStars Hand #260736245978:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:39:04 CET [2026/05/08 11:39:04 ET]
+Table 'Lycomedes VI' 6-max Seat #2 is the button
+Seat 1: lumilenco (€5 in chips) is sitting out
+Seat 2: MMTvinz (€5 in chips) 
+Seat 3: wil7up (€5 in chips) 
+Seat 4: batu157 (€11.89 in chips) 
+Seat 5: DeBareta (€5 in chips) 
+Seat 6: BerbatP (€9.54 in chips) 
+wil7up: posts small blind €0.02
+batu157: posts big blind €0.05
+lumilenco: sits out 
+*** HOLE CARDS ***
+Dealt to BerbatP [Ks 5d]
+DeBareta: folds 
+BerbatP: folds 
+MMTvinz: folds 
+wil7up: raises €0.10 to €0.15
+batu157: folds 
+Uncalled bet (€0.10) returned to wil7up
+wil7up collected €0.10 from pot
+wil7up: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Seat 1: lumilenco
+Seat 2: MMTvinz (button) folded before Flop (didn't bet)
+Seat 3: wil7up (small blind) collected (€0.10)
+Seat 4: batu157 (big blind) folded before Flop
+Seat 5: DeBareta folded before Flop (didn't bet)
+Seat 6: BerbatP folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260736248418:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:39:19 CET [2026/05/08 11:39:19 ET]
+Table 'Lycomedes VI' 6-max Seat #3 is the button
+Seat 1: lumilenco (€5 in chips) is sitting out
+Seat 2: MMTvinz (€5 in chips) 
+Seat 3: wil7up (€5.05 in chips) 
+Seat 4: batu157 (€11.84 in chips) 
+Seat 5: DeBareta (€5 in chips) 
+Seat 6: BerbatP (€9.54 in chips) 
+batu157: posts small blind €0.02
+DeBareta: posts big blind €0.05
+lumilenco: sits out 
+*** HOLE CARDS ***
+Dealt to BerbatP [5s Ts]
+BerbatP: folds 
+MMTvinz: folds 
+wil7up: raises €0.07 to €0.12
+batu157: folds 
+DeBareta: calls €0.07
+*** FLOP *** [2h 8s 8h]
+DeBareta: checks 
+wil7up: bets €0.08
+DeBareta: calls €0.08
+*** TURN *** [2h 8s 8h] [6c]
+DeBareta: checks 
+wil7up: checks 
+*** RIVER *** [2h 8s 8h 6c] [7s]
+DeBareta: checks 
+wil7up: checks 
+*** SHOW DOWN ***
+DeBareta: shows [9d Ad] (a pair of Eights)
+wil7up: mucks hand 
+DeBareta collected €0.39 from pot
+*** SUMMARY ***
+Total pot €0.42 | Rake €0.03 
+Board [2h 8s 8h 6c 7s]
+Seat 1: lumilenco
+Seat 2: MMTvinz folded before Flop (didn't bet)
+Seat 3: wil7up (button) mucked [Tc Kc]
+Seat 4: batu157 (small blind) folded before Flop
+Seat 5: DeBareta (big blind) showed [9d Ad] and won (€0.39) with a pair of Eights
+Seat 6: BerbatP folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260736256348:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:40:09 CET [2026/05/08 11:40:09 ET]
+Table 'Lycomedes VI' 6-max Seat #4 is the button
+Seat 1: lumilenco (€5 in chips) is sitting out
+Seat 2: MMTvinz (€5 in chips) 
+Seat 3: wil7up (€5 in chips) 
+Seat 4: batu157 (€11.82 in chips) 
+Seat 5: DeBareta (€5.19 in chips) 
+Seat 6: BerbatP (€9.54 in chips) 
+DeBareta: posts small blind €0.02
+BerbatP: posts big blind €0.05
+lumilenco: sits out 
+*** HOLE CARDS ***
+Dealt to BerbatP [9h 5s]
+MMTvinz: folds 
+wil7up: folds 
+batu157: folds 
+DeBareta: folds 
+Uncalled bet (€0.03) returned to BerbatP
+BerbatP collected €0.04 from pot
+BerbatP: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.04 | Rake €0 
+Seat 1: lumilenco
+Seat 2: MMTvinz folded before Flop (didn't bet)
+Seat 3: wil7up folded before Flop (didn't bet)
+Seat 4: batu157 (button) folded before Flop (didn't bet)
+Seat 5: DeBareta (small blind) folded before Flop
+Seat 6: BerbatP (big blind) collected (€0.04)
+
+
+
+PokerStars Hand #260736257896:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:40:19 CET [2026/05/08 11:40:19 ET]
+Table 'Lycomedes VI' 6-max Seat #5 is the button
+Seat 1: lumilenco (€5 in chips) 
+Seat 2: MMTvinz (€5 in chips) 
+Seat 3: wil7up (€5 in chips) 
+Seat 4: batu157 (€11.82 in chips) 
+Seat 5: DeBareta (€5.17 in chips) 
+Seat 6: BerbatP (€9.56 in chips) 
+BerbatP: posts small blind €0.02
+lumilenco: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [Ah 6s]
+MMTvinz: raises €0.05 to €0.10
+wil7up: folds 
+batu157: folds 
+DeBareta: folds 
+BerbatP: folds 
+lumilenco: calls €0.05
+*** FLOP *** [Jh 3c 9c]
+lumilenco: bets €0.10
+MMTvinz: calls €0.10
+*** TURN *** [Jh 3c 9c] [2h]
+lumilenco: bets €0.15
+MMTvinz: calls €0.15
+*** RIVER *** [Jh 3c 9c 2h] [7d]
+lumilenco: checks 
+MMTvinz: bets €0.55
+lumilenco: folds 
+Uncalled bet (€0.55) returned to MMTvinz
+MMTvinz collected €0.68 from pot
+MMTvinz: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.72 | Rake €0.04 
+Board [Jh 3c 9c 2h 7d]
+Seat 1: lumilenco (big blind) folded on the River
+Seat 2: MMTvinz collected (€0.68)
+Seat 3: wil7up folded before Flop (didn't bet)
+Seat 4: batu157 folded before Flop (didn't bet)
+Seat 5: DeBareta (button) folded before Flop (didn't bet)
+Seat 6: BerbatP (small blind) folded before Flop
+
+
+
+PokerStars Hand #260736266980:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:41:18 CET [2026/05/08 11:41:18 ET]
+Table 'Lycomedes VI' 6-max Seat #6 is the button
+Seat 5: DeBareta (€5.17 in chips) is sitting out
+Seat 1: lumilenco (€4.65 in chips) 
+Seat 2: MMTvinz (€5.33 in chips) 
+Seat 3: wil7up (€5 in chips) 
+Seat 4: batu157 (€11.82 in chips) 
+Seat 6: BerbatP (€9.54 in chips) 
+lumilenco: posts small blind €0.02
+MMTvinz: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [3c 9d]
+wil7up: folds 
+batu157: folds 
+BerbatP: folds 
+lumilenco: folds 
+Uncalled bet (€0.03) returned to MMTvinz
+MMTvinz collected €0.04 from pot
+MMTvinz: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.04 | Rake €0 
+Seat 5: DeBareta
+Seat 1: lumilenco (small blind) folded before Flop
+Seat 2: MMTvinz (big blind) collected (€0.04)
+Seat 3: wil7up folded before Flop (didn't bet)
+Seat 4: batu157 folded before Flop (didn't bet)
+Seat 6: BerbatP (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260736269315:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:41:32 CET [2026/05/08 11:41:32 ET]
+Table 'Lycomedes VI' 6-max Seat #1 is the button
+Seat 5: DeBareta (€5.17 in chips) is sitting out
+Seat 1: lumilenco (€4.63 in chips) 
+Seat 2: MMTvinz (€5.35 in chips) 
+Seat 3: wil7up (€5 in chips) 
+Seat 4: batu157 (€11.82 in chips) 
+Seat 6: BerbatP (€9.54 in chips) 
+MMTvinz: posts small blind €0.02
+wil7up: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [2s 6d]
+batu157: raises €0.10 to €0.15
+BerbatP: folds 
+lumilenco: folds 
+MMTvinz: folds 
+wil7up: folds 
+Uncalled bet (€0.10) returned to batu157
+batu157 collected €0.12 from pot
+batu157: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 5: DeBareta
+Seat 1: lumilenco (button) folded before Flop (didn't bet)
+Seat 2: MMTvinz (small blind) folded before Flop
+Seat 3: wil7up (big blind) folded before Flop
+Seat 4: batu157 collected (€0.12)
+Seat 6: BerbatP folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260736271402:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:41:46 CET [2026/05/08 11:41:46 ET]
+Table 'Lycomedes VI' 6-max Seat #2 is the button
+Seat 1: lumilenco (€4.63 in chips) 
+Seat 2: MMTvinz (€5.33 in chips) 
+Seat 3: wil7up (€5 in chips) 
+Seat 4: batu157 (€11.89 in chips) 
+Seat 5: DeBareta (€5.17 in chips) 
+Seat 6: BerbatP (€9.54 in chips) 
+wil7up: posts small blind €0.02
+batu157: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [5s 8d]
+DeBareta: folds 
+BerbatP: folds 
+lumilenco: folds 
+MMTvinz: raises €0.10 to €0.15
+wil7up: raises €0.45 to €0.60
+batu157: folds 
+MMTvinz: calls €0.45
+*** FLOP *** [2d 4h Qs]
+wil7up: bets €0.59
+MMTvinz: calls €0.59
+*** TURN *** [2d 4h Qs] [8h]
+wil7up: checks 
+MMTvinz: bets €1
+wil7up: calls €1
+*** RIVER *** [2d 4h Qs 8h] [5c]
+wil7up: checks 
+MMTvinz: checks 
+*** SHOW DOWN ***
+wil7up: shows [Js Jc] (a pair of Jacks)
+MMTvinz: mucks hand 
+wil7up collected €4.16 from pot
+*** SUMMARY ***
+Total pot €4.43 | Rake €0.27 
+Board [2d 4h Qs 8h 5c]
+Seat 1: lumilenco folded before Flop (didn't bet)
+Seat 2: MMTvinz (button) mucked [Kh Ac]
+Seat 3: wil7up (small blind) showed [Js Jc] and won (€4.16) with a pair of Jacks
+Seat 4: batu157 (big blind) folded before Flop
+Seat 5: DeBareta folded before Flop (didn't bet)
+Seat 6: BerbatP folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260736280823:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:42:46 CET [2026/05/08 11:42:46 ET]
+Table 'Lycomedes VI' 6-max Seat #3 is the button
+Seat 1: lumilenco (€4.63 in chips) 
+Seat 2: MMTvinz (€5 in chips) 
+Seat 3: wil7up (€6.97 in chips) 
+Seat 4: batu157 (€11.84 in chips) 
+Seat 5: DeBareta (€5.17 in chips) 
+Seat 6: BerbatP (€9.54 in chips) 
+batu157: posts small blind €0.02
+DeBareta: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [Td 4c]
+BerbatP: folds 
+lumilenco: folds 
+MMTvinz: calls €0.05
+wil7up: folds 
+batu157: folds 
+DeBareta: checks 
+*** FLOP *** [Jc Qc 4h]
+DeBareta: checks 
+MMTvinz: bets €0.10
+DeBareta: calls €0.10
+*** TURN *** [Jc Qc 4h] [3d]
+DeBareta: bets €0.20
+MMTvinz: calls €0.20
+*** RIVER *** [Jc Qc 4h 3d] [2d]
+DeBareta: bets €0.37
+MMTvinz: calls €0.37
+*** SHOW DOWN ***
+DeBareta: shows [Jh Kc] (a pair of Jacks)
+MMTvinz: shows [Qs 9s] (a pair of Queens)
+MMTvinz collected €1.37 from pot
+*** SUMMARY ***
+Total pot €1.46 | Rake €0.09 
+Board [Jc Qc 4h 3d 2d]
+Seat 1: lumilenco folded before Flop (didn't bet)
+Seat 2: MMTvinz showed [Qs 9s] and won (€1.37) with a pair of Queens
+Seat 3: wil7up (button) folded before Flop (didn't bet)
+Seat 4: batu157 (small blind) folded before Flop
+Seat 5: DeBareta (big blind) showed [Jh Kc] and lost with a pair of Jacks
+Seat 6: BerbatP folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260736289177:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:43:40 CET [2026/05/08 11:43:40 ET]
+Table 'Lycomedes VI' 6-max Seat #4 is the button
+Seat 1: lumilenco (€4.63 in chips) 
+Seat 2: MMTvinz (€5.65 in chips) 
+Seat 3: wil7up (€6.97 in chips) 
+Seat 4: batu157 (€11.82 in chips) 
+Seat 5: DeBareta (€5 in chips) 
+Seat 6: BerbatP (€9.54 in chips) 
+DeBareta: posts small blind €0.02
+BerbatP: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [Jc 8h]
+lumilenco: raises €0.05 to €0.10
+MMTvinz: folds 
+wil7up: folds 
+batu157: folds 
+DeBareta: calls €0.08
+BerbatP: folds 
+*** FLOP *** [9c 2d 7c]
+DeBareta: checks 
+lumilenco: bets €0.10
+DeBareta: calls €0.10
+*** TURN *** [9c 2d 7c] [7s]
+DeBareta: checks 
+lumilenco: bets €0.10
+DeBareta: folds 
+Uncalled bet (€0.10) returned to lumilenco
+lumilenco collected €0.42 from pot
+lumilenco: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.45 | Rake €0.03 
+Board [9c 2d 7c 7s]
+Seat 1: lumilenco collected (€0.42)
+Seat 2: MMTvinz folded before Flop (didn't bet)
+Seat 3: wil7up folded before Flop (didn't bet)
+Seat 4: batu157 (button) folded before Flop (didn't bet)
+Seat 5: DeBareta (small blind) folded on the Turn
+Seat 6: BerbatP (big blind) folded before Flop
+
+
+
+PokerStars Hand #260736295901:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:44:22 CET [2026/05/08 11:44:22 ET]
+Table 'Lycomedes VI' 6-max Seat #5 is the button
+Seat 1: lumilenco (€4.85 in chips) 
+Seat 2: MMTvinz (€5.65 in chips) 
+Seat 3: wil7up (€6.97 in chips) 
+Seat 4: batu157 (€11.82 in chips) 
+Seat 5: DeBareta (€5 in chips) 
+Seat 6: BerbatP (€9.49 in chips) 
+BerbatP: posts small blind €0.02
+lumilenco: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [4s Jh]
+MMTvinz: raises €0.05 to €0.10
+wil7up: folds 
+batu157: folds 
+DeBareta: folds 
+BerbatP: folds 
+lumilenco: calls €0.05
+*** FLOP *** [7c 8h Qd]
+lumilenco: checks 
+MMTvinz: bets €0.20
+lumilenco: folds 
+Uncalled bet (€0.20) returned to MMTvinz
+MMTvinz collected €0.21 from pot
+MMTvinz: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.22 | Rake €0.01 
+Board [7c 8h Qd]
+Seat 1: lumilenco (big blind) folded on the Flop
+Seat 2: MMTvinz collected (€0.21)
+Seat 3: wil7up folded before Flop (didn't bet)
+Seat 4: batu157 folded before Flop (didn't bet)
+Seat 5: DeBareta (button) folded before Flop (didn't bet)
+Seat 6: BerbatP (small blind) folded before Flop
+
+
+
+PokerStars Hand #260736301932:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:45:01 CET [2026/05/08 11:45:01 ET]
+Table 'Lycomedes VI' 6-max Seat #6 is the button
+Seat 1: lumilenco (€4.75 in chips) 
+Seat 2: MMTvinz (€5.76 in chips) 
+Seat 3: wil7up (€6.97 in chips) 
+Seat 4: batu157 (€11.82 in chips) 
+Seat 5: DeBareta (€5 in chips) 
+Seat 6: BerbatP (€9.47 in chips) 
+lumilenco: posts small blind €0.02
+MMTvinz: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [Tc 5s]
+wil7up: folds 
+batu157: folds 
+DeBareta: folds 
+BerbatP: folds 
+lumilenco: calls €0.03
+MMTvinz: checks 
+*** FLOP *** [Jd Td 8d]
+lumilenco: bets €0.05
+MMTvinz: calls €0.05
+*** TURN *** [Jd Td 8d] [7c]
+lumilenco: bets €0.15
+MMTvinz: calls €0.15
+*** RIVER *** [Jd Td 8d 7c] [5c]
+lumilenco: bets €0.20
+MMTvinz: calls €0.20
+*** SHOW DOWN ***
+lumilenco: shows [9h 8s] (a straight, Seven to Jack)
+MMTvinz: mucks hand 
+lumilenco collected €0.85 from pot
+*** SUMMARY ***
+Total pot €0.90 | Rake €0.05 
+Board [Jd Td 8d 7c 5c]
+Seat 1: lumilenco (small blind) showed [9h 8s] and won (€0.85) with a straight, Seven to Jack
+Seat 2: MMTvinz (big blind) mucked [Qc Js]
+Seat 3: wil7up folded before Flop (didn't bet)
+Seat 4: batu157 folded before Flop (didn't bet)
+Seat 5: DeBareta folded before Flop (didn't bet)
+Seat 6: BerbatP (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260736307248:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:45:35 CET [2026/05/08 11:45:35 ET]
+Table 'Lycomedes VI' 6-max Seat #1 is the button
+Seat 1: lumilenco (€5.15 in chips) 
+Seat 2: MMTvinz (€5.31 in chips) 
+Seat 3: wil7up (€6.97 in chips) 
+Seat 4: batu157 (€11.82 in chips) 
+Seat 5: DeBareta (€5 in chips) 
+Seat 6: BerbatP (€9.47 in chips) 
+MMTvinz: posts small blind €0.02
+wil7up: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [9h 6d]
+batu157: folds 
+DeBareta: folds 
+batu157 leaves the table
+BerbatP: folds 
+lumilenco: folds 
+MMTvinz: raises €0.05 to €0.10
+wil7up: folds 
+Uncalled bet (€0.05) returned to MMTvinz
+MMTvinz collected €0.10 from pot
+MMTvinz: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Seat 1: lumilenco (button) folded before Flop (didn't bet)
+Seat 2: MMTvinz (small blind) collected (€0.10)
+Seat 3: wil7up (big blind) folded before Flop
+Seat 4: batu157 folded before Flop (didn't bet)
+Seat 5: DeBareta folded before Flop (didn't bet)
+Seat 6: BerbatP folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260736309859:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:45:52 CET [2026/05/08 11:45:52 ET]
+Table 'Lycomedes VI' 6-max Seat #2 is the button
+Seat 1: lumilenco (€5.15 in chips) 
+Seat 2: MMTvinz (€5.36 in chips) 
+Seat 3: wil7up (€6.92 in chips) 
+Seat 5: DeBareta (€5 in chips) 
+Seat 6: BerbatP (€9.47 in chips) 
+wil7up: posts small blind €0.02
+DeBareta: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [4d 7s]
+BerbatP: folds 
+lumilenco: raises €0.10 to €0.15
+MMTvinz: folds 
+wil7up: calls €0.13
+DeBareta: folds 
+*** FLOP *** [Jh Jc 3h]
+wil7up: checks 
+lumilenco: bets €0.10
+FJOLL291 joins the table at seat #4 
+wil7up: calls €0.10
+*** TURN *** [Jh Jc 3h] [3s]
+wil7up: checks 
+lumilenco: bets €0.20
+wil7up: folds 
+Uncalled bet (€0.20) returned to lumilenco
+lumilenco collected €0.52 from pot
+*** SUMMARY ***
+Total pot €0.55 | Rake €0.03 
+Board [Jh Jc 3h 3s]
+Seat 1: lumilenco collected (€0.52)
+Seat 2: MMTvinz (button) folded before Flop (didn't bet)
+Seat 3: wil7up (small blind) folded on the Turn
+Seat 5: DeBareta (big blind) folded before Flop
+Seat 6: BerbatP folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260736314722:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:46:22 CET [2026/05/08 11:46:22 ET]
+Table 'Lycomedes VI' 6-max Seat #3 is the button
+Seat 4: FJOLL291 (€5 in chips) is sitting out
+Seat 1: lumilenco (€5.42 in chips) 
+Seat 2: MMTvinz (€5.36 in chips) 
+Seat 3: wil7up (€6.67 in chips) 
+Seat 5: DeBareta (€5 in chips) 
+Seat 6: BerbatP (€9.47 in chips) 
+DeBareta: posts small blind €0.02
+BerbatP: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [Qc 5d]
+lumilenco: raises €0.10 to €0.15
+MMTvinz: folds 
+wil7up: folds 
+DeBareta: folds 
+BerbatP: folds 
+Uncalled bet (€0.10) returned to lumilenco
+lumilenco collected €0.12 from pot
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 4: FJOLL291
+Seat 1: lumilenco collected (€0.12)
+Seat 2: MMTvinz folded before Flop (didn't bet)
+Seat 3: wil7up (button) folded before Flop (didn't bet)
+Seat 5: DeBareta (small blind) folded before Flop
+Seat 6: BerbatP (big blind) folded before Flop
+
+
+
+PokerStars Hand #260736319459:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:46:52 CET [2026/05/08 11:46:52 ET]
+Table 'Lycomedes VI' 6-max Seat #5 is the button
+Seat 4: FJOLL291 (€5 in chips) is sitting out
+Seat 1: lumilenco (€5.49 in chips) 
+Seat 2: MMTvinz (€5.36 in chips) 
+Seat 3: wil7up (€6.67 in chips) 
+Seat 5: DeBareta (€5 in chips) 
+Seat 6: BerbatP (€9.42 in chips) 
+BerbatP: posts small blind €0.02
+lumilenco: posts big blind €0.05
+FJOLL291: sits out 
+*** HOLE CARDS ***
+Dealt to BerbatP [Tc 9s]
+MMTvinz: folds 
+wil7up: raises €0.10 to €0.15
+DeBareta: folds 
+BerbatP: folds 
+lumilenco: raises €0.35 to €0.50
+wil7up: calls €0.35
+*** FLOP *** [Jd Ac 8h]
+lumilenco: bets €0.48
+wil7up: calls €0.48
+*** TURN *** [Jd Ac 8h] [6h]
+lumilenco: bets €0.75
+wil7up: calls €0.75
+*** RIVER *** [Jd Ac 8h 6h] [7d]
+lumilenco: checks 
+wil7up: bets €2.45
+lumilenco: calls €2.45
+*** SHOW DOWN ***
+wil7up: shows [8d 8c] (three of a kind, Eights)
+lumilenco: mucks hand 
+wil7up collected €7.88 from pot
+*** SUMMARY ***
+Total pot €8.38 | Rake €0.50 
+Board [Jd Ac 8h 6h 7d]
+Seat 4: FJOLL291
+Seat 1: lumilenco (big blind) mucked [Ah Kh]
+Seat 2: MMTvinz folded before Flop (didn't bet)
+Seat 3: wil7up showed [8d 8c] and won (€7.88) with three of a kind, Eights
+Seat 5: DeBareta (button) folded before Flop (didn't bet)
+Seat 6: BerbatP (small blind) folded before Flop
+
+
+
+PokerStars Hand #260736331814:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:48:11 CET [2026/05/08 11:48:11 ET]
+Table 'Lycomedes VI' 6-max Seat #6 is the button
+Seat 4: FJOLL291 (€5 in chips) is sitting out
+Seat 1: lumilenco (€1.31 in chips) 
+Seat 2: MMTvinz (€5.36 in chips) 
+Seat 3: wil7up (€10.37 in chips) 
+Seat 5: DeBareta (€5 in chips) 
+Seat 6: BerbatP (€9.40 in chips) 
+lumilenco: posts small blind €0.02
+MMTvinz: posts big blind €0.05
+FJOLL291: sits out 
+*** HOLE CARDS ***
+Dealt to BerbatP [6d 2d]
+wil7up: folds 
+DeBareta: raises €0.07 to €0.12
+lumilenco is disconnected 
+BerbatP has timed out
+BerbatP: folds 
+lumilenco has timed out while disconnected
+lumilenco: folds 
+MMTvinz: folds 
+Uncalled bet (€0.07) returned to DeBareta
+lumilenco leaves the table
+DeBareta collected €0.12 from pot
+DeBareta: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 4: FJOLL291
+Seat 1: lumilenco (small blind) folded before Flop
+Seat 2: MMTvinz (big blind) folded before Flop
+Seat 3: wil7up folded before Flop (didn't bet)
+Seat 5: DeBareta collected (€0.12)
+Seat 6: BerbatP (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260736338010:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:48:50 CET [2026/05/08 11:48:50 ET]
+Table 'Lycomedes VI' 6-max Seat #2 is the button
+Seat 2: MMTvinz (€5.31 in chips) 
+Seat 3: wil7up (€10.37 in chips) 
+Seat 4: FJOLL291 (€5 in chips) 
+Seat 5: DeBareta (€5.07 in chips) 
+Seat 6: BerbatP (€9.40 in chips) 
+wil7up: posts small blind €0.02
+FJOLL291: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [2c 4h]
+DeBareta: raises €0.07 to €0.12
+BerbatP: folds 
+MMTvinz: folds 
+wil7up: folds 
+FJOLL291: folds 
+Uncalled bet (€0.07) returned to DeBareta
+DeBareta collected €0.12 from pot
+DeBareta: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 2: MMTvinz (button) folded before Flop (didn't bet)
+Seat 3: wil7up (small blind) folded before Flop
+Seat 4: FJOLL291 (big blind) folded before Flop
+Seat 5: DeBareta collected (€0.12)
+Seat 6: BerbatP folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260736341869:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:49:15 CET [2026/05/08 11:49:15 ET]
+Table 'Lycomedes VI' 6-max Seat #3 is the button
+Seat 2: MMTvinz (€5.31 in chips) 
+Seat 3: wil7up (€10.35 in chips) 
+Seat 4: FJOLL291 (€5 in chips) 
+Seat 5: DeBareta (€5.14 in chips) 
+Seat 6: BerbatP (€9.40 in chips) 
+FJOLL291: posts small blind €0.02
+DeBareta: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [Js 3h]
+BerbatP has timed out
+BerbatP: folds 
+MMTvinz: folds 
+wil7up: folds 
+FJOLL291: folds 
+Uncalled bet (€0.03) returned to DeBareta
+DeBareta collected €0.04 from pot
+DeBareta: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.04 | Rake €0 
+Seat 2: MMTvinz folded before Flop (didn't bet)
+Seat 3: wil7up (button) folded before Flop (didn't bet)
+Seat 4: FJOLL291 (small blind) folded before Flop
+Seat 5: DeBareta (big blind) collected (€0.04)
+Seat 6: BerbatP folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260736345358:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:49:37 CET [2026/05/08 11:49:37 ET]
+Table 'Lycomedes VI' 6-max Seat #4 is the button
+Seat 2: MMTvinz (€5.31 in chips) 
+Seat 3: wil7up (€10.35 in chips) 
+Seat 4: FJOLL291 (€5 in chips) 
+Seat 5: DeBareta (€5.16 in chips) 
+Seat 6: BerbatP (€9.40 in chips) 
+DeBareta: posts small blind €0.02
+BerbatP: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [Jh Ts]
+MMTvinz: calls €0.05
+wil7up: raises €0.15 to €0.20
+FJOLL291: raises €0.45 to €0.65
+DeBareta: folds 
+BerbatP: folds 
+MMTvinz: calls €0.60
+wil7up: folds 
+*** FLOP *** [Td 8d 5d]
+MMTvinz: bets €0.15
+FJOLL291: calls €0.15
+*** TURN *** [Td 8d 5d] [3s]
+MMTvinz: bets €0.35
+FJOLL291: folds 
+Uncalled bet (€0.35) returned to MMTvinz
+MMTvinz collected €1.76 from pot
+MMTvinz: doesn't show hand 
+*** SUMMARY ***
+Total pot €1.87 | Rake €0.11 
+Board [Td 8d 5d 3s]
+Seat 2: MMTvinz collected (€1.76)
+Seat 3: wil7up folded before Flop
+Seat 4: FJOLL291 (button) folded on the Turn
+Seat 5: DeBareta (small blind) folded before Flop
+Seat 6: BerbatP (big blind) folded before Flop
+
+
+
+PokerStars Hand #260736354961:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:50:40 CET [2026/05/08 11:50:40 ET]
+Table 'Lycomedes VI' 6-max Seat #5 is the button
+Seat 2: MMTvinz (€6.27 in chips) 
+Seat 3: wil7up (€10.15 in chips) 
+Seat 4: FJOLL291 (€5 in chips) 
+Seat 5: DeBareta (€5.14 in chips) 
+Seat 6: BerbatP (€9.35 in chips) 
+BerbatP: posts small blind €0.02
+MMTvinz: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [8d Kh]
+wil7up: folds 
+FJOLL291: folds 
+DeBareta: folds 
+BerbatP: raises €0.07 to €0.12
+MMTvinz: calls €0.07
+*** FLOP *** [Qh Th 5d]
+BerbatP: checks 
+MMTvinz: checks 
+*** TURN *** [Qh Th 5d] [9d]
+BerbatP: checks 
+MMTvinz: checks 
+*** RIVER *** [Qh Th 5d 9d] [5s]
+Dude23323 joins the table at seat #1 
+BerbatP: bets €0.23
+MMTvinz: folds 
+Uncalled bet (€0.23) returned to BerbatP
+BerbatP collected €0.23 from pot
+BerbatP: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.24 | Rake €0.01 
+Board [Qh Th 5d 9d 5s]
+Seat 2: MMTvinz (big blind) folded on the River
+Seat 3: wil7up folded before Flop (didn't bet)
+Seat 4: FJOLL291 folded before Flop (didn't bet)
+Seat 5: DeBareta (button) folded before Flop (didn't bet)
+Seat 6: BerbatP (small blind) collected (€0.23)
+
+
+
+PokerStars Hand #260736361975:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:51:25 CET [2026/05/08 11:51:25 ET]
+Table 'Lycomedes VI' 6-max Seat #6 is the button
+Seat 1: Dude23323 (€5 in chips) is sitting out
+Seat 2: MMTvinz (€6.15 in chips) 
+Seat 3: wil7up (€10.15 in chips) 
+Seat 4: FJOLL291 (€5 in chips) 
+Seat 5: DeBareta (€5.14 in chips) 
+Seat 6: BerbatP (€9.46 in chips) 
+MMTvinz: posts small blind €0.02
+wil7up: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [3h 8s]
+FJOLL291: folds 
+DeBareta: folds 
+BerbatP: folds 
+MMTvinz: raises €0.10 to €0.15
+wil7up: calls €0.10
+*** FLOP *** [7h Qh 5s]
+MMTvinz: bets €0.20
+wil7up: folds 
+Uncalled bet (€0.20) returned to MMTvinz
+MMTvinz collected €0.28 from pot
+MMTvinz: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.30 | Rake €0.02 
+Board [7h Qh 5s]
+Seat 1: Dude23323
+Seat 2: MMTvinz (small blind) collected (€0.28)
+Seat 3: wil7up (big blind) folded on the Flop
+Seat 4: FJOLL291 folded before Flop (didn't bet)
+Seat 5: DeBareta folded before Flop (didn't bet)
+Seat 6: BerbatP (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260736367562:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:52:01 CET [2026/05/08 11:52:01 ET]
+Table 'Lycomedes VI' 6-max Seat #2 is the button
+Seat 1: Dude23323 (€5 in chips) is sitting out
+Seat 2: MMTvinz (€6.28 in chips) 
+Seat 3: wil7up (€10 in chips) 
+Seat 4: FJOLL291 (€5 in chips) 
+Seat 5: DeBareta (€5.14 in chips) 
+Seat 6: BerbatP (€9.46 in chips) 
+wil7up: posts small blind €0.02
+FJOLL291: posts big blind €0.05
+Dude23323: sits out 
+*** HOLE CARDS ***
+Dealt to BerbatP [2d 6d]
+DeBareta: folds 
+DeBareta leaves the table
+BerbatP: folds 
+MMTvinz: folds 
+wil7up: folds 
+Uncalled bet (€0.03) returned to FJOLL291
+FJOLL291 collected €0.04 from pot
+FJOLL291: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.04 | Rake €0 
+Seat 1: Dude23323
+Seat 2: MMTvinz (button) folded before Flop (didn't bet)
+Seat 3: wil7up (small blind) folded before Flop
+Seat 4: FJOLL291 (big blind) collected (€0.04)
+Seat 5: DeBareta folded before Flop (didn't bet)
+Seat 6: BerbatP folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260736369999:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:52:17 CET [2026/05/08 11:52:17 ET]
+Table 'Lycomedes VI' 6-max Seat #3 is the button
+Seat 1: Dude23323 (€5 in chips) is sitting out
+Seat 2: MMTvinz (€6.28 in chips) 
+Seat 3: wil7up (€9.98 in chips) 
+Seat 4: FJOLL291 (€5.02 in chips) 
+Seat 6: BerbatP (€9.46 in chips) 
+FJOLL291: posts small blind €0.02
+BerbatP: posts big blind €0.05
+Dude23323: sits out 
+*** HOLE CARDS ***
+Dealt to BerbatP [5c 4h]
+MMTvinz: calls €0.05
+wil7up: folds 
+FJOLL291: folds 
+BerbatP: checks 
+*** FLOP *** [5h 9d 3c]
+BerbatP: checks 
+MMTvinz: bets €0.20
+BerbatP: calls €0.20
+*** TURN *** [5h 9d 3c] [Kc]
+BerbatP: checks 
+MMTvinz: bets €0.45
+BerbatP: folds 
+Uncalled bet (€0.45) returned to MMTvinz
+MMTvinz collected €0.49 from pot
+MMTvinz: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.52 | Rake €0.03 
+Board [5h 9d 3c Kc]
+Seat 1: Dude23323
+Seat 2: MMTvinz collected (€0.49)
+Seat 3: wil7up (button) folded before Flop (didn't bet)
+Seat 4: FJOLL291 (small blind) folded before Flop
+Seat 6: BerbatP (big blind) folded on the Turn
+
+
+
+PokerStars Hand #260736377942:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:53:07 CET [2026/05/08 11:53:07 ET]
+Table 'Lycomedes VI' 6-max Seat #4 is the button
+Seat 1: Dude23323 (€5 in chips) 
+Seat 2: MMTvinz (€6.52 in chips) 
+Seat 3: wil7up (€9.98 in chips) 
+Seat 4: FJOLL291 (€5 in chips) 
+Seat 6: BerbatP (€9.21 in chips) 
+BerbatP: posts small blind €0.02
+Dude23323: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [3d Qh]
+MMTvinz: calls €0.05
+wil7up: folds 
+FJOLL291: folds 
+BerbatP: folds 
+Dude23323: raises €0.16 to €0.21
+MMTvinz: folds 
+Uncalled bet (€0.16) returned to Dude23323
+Dude23323 collected €0.12 from pot
+Dude23323: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 1: Dude23323 (big blind) collected (€0.12)
+Seat 2: MMTvinz folded before Flop
+Seat 3: wil7up folded before Flop (didn't bet)
+Seat 4: FJOLL291 (button) folded before Flop (didn't bet)
+Seat 6: BerbatP (small blind) folded before Flop
+
+
+
+PokerStars Hand #260736382790:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:53:39 CET [2026/05/08 11:53:39 ET]
+Table 'Lycomedes VI' 6-max Seat #6 is the button
+Seat 1: Dude23323 (€5.07 in chips) 
+Seat 2: MMTvinz (€6.47 in chips) 
+Seat 3: wil7up (€9.98 in chips) 
+Seat 4: FJOLL291 (€5 in chips) 
+Seat 6: BerbatP (€9.19 in chips) 
+Dude23323: posts small blind €0.02
+MMTvinz: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [8c Ks]
+wil7up: raises €0.10 to €0.15
+FJOLL291: raises €0.30 to €0.45
+BerbatP: folds 
+Dude23323: raises €0.71 to €1.16
+MMTvinz: folds 
+wil7up: folds 
+FJOLL291: folds 
+Uncalled bet (€0.71) returned to Dude23323
+Dude23323 collected €1.10 from pot
+Dude23323: doesn't show hand 
+*** SUMMARY ***
+Total pot €1.10 | Rake €0 
+Seat 1: Dude23323 (small blind) collected (€1.10)
+Seat 2: MMTvinz (big blind) folded before Flop
+Seat 3: wil7up folded before Flop
+Seat 4: FJOLL291 folded before Flop
+Seat 6: BerbatP (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #260736391261:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:54:33 CET [2026/05/08 11:54:33 ET]
+Table 'Lycomedes VI' 6-max Seat #1 is the button
+Seat 1: Dude23323 (€5.72 in chips) 
+Seat 2: MMTvinz (€6.42 in chips) 
+Seat 3: wil7up (€9.83 in chips) 
+Seat 4: FJOLL291 (€4.55 in chips) 
+Seat 6: BerbatP (€9.19 in chips) 
+MMTvinz: posts small blind €0.02
+wil7up: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [Jd Ks]
+FJOLL291: folds 
+BerbatP: raises €0.07 to €0.12
+Dude23323: calls €0.12
+MMTvinz: calls €0.10
+wil7up: folds 
+*** FLOP *** [9d 3d 4s]
+MMTvinz: checks 
+BerbatP: checks 
+Dude23323: checks 
+*** TURN *** [9d 3d 4s] [7c]
+MMTvinz: checks 
+BerbatP: checks 
+Dude23323: checks 
+*** RIVER *** [9d 3d 4s 7c] [5d]
+MMTvinz: bets €0.30
+BerbatP: folds 
+Dude23323: folds 
+Uncalled bet (€0.30) returned to MMTvinz
+MMTvinz collected €0.39 from pot
+MMTvinz: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.41 | Rake €0.02 
+Board [9d 3d 4s 7c 5d]
+Seat 1: Dude23323 (button) folded on the River
+Seat 2: MMTvinz (small blind) collected (€0.39)
+Seat 3: wil7up (big blind) folded before Flop
+Seat 4: FJOLL291 folded before Flop (didn't bet)
+Seat 6: BerbatP folded on the River
+
+
+
+PokerStars Hand #260736400053:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:55:34 CET [2026/05/08 11:55:34 ET]
+Table 'Lycomedes VI' 6-max Seat #2 is the button
+Seat 1: Dude23323 (€5.60 in chips) 
+Seat 2: MMTvinz (€6.69 in chips) 
+Seat 3: wil7up (€9.78 in chips) 
+Seat 4: FJOLL291 (€4.55 in chips) 
+Seat 6: BerbatP (€9.07 in chips) 
+wil7up: posts small blind €0.02
+FJOLL291: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [2c 2s]
+BerbatP: calls €0.05
+Dude23323: raises €0.22 to €0.27
+MMTvinz: folds 
+wil7up: folds 
+FJOLL291: folds 
+BerbatP: calls €0.22
+*** FLOP *** [Qh 5s Td]
+BerbatP: checks 
+Dude23323: bets €0.21
+BerbatP: folds 
+Uncalled bet (€0.21) returned to Dude23323
+Dude23323 collected €0.57 from pot
+Dude23323: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.61 | Rake €0.04 
+Board [Qh 5s Td]
+Seat 1: Dude23323 collected (€0.57)
+Seat 2: MMTvinz (button) folded before Flop (didn't bet)
+Seat 3: wil7up (small blind) folded before Flop
+Seat 4: FJOLL291 (big blind) folded before Flop
+Seat 6: BerbatP folded on the Flop
+
+
+
+PokerStars Hand #260736402891:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:55:59 CET [2026/05/08 11:55:59 ET]
+Table 'Lycomedes VI' 6-max Seat #3 is the button
+Seat 1: Dude23323 (€5.90 in chips) 
+Seat 2: MMTvinz (€6.69 in chips) 
+Seat 3: wil7up (€9.76 in chips) 
+Seat 4: FJOLL291 (€4.50 in chips) 
+Seat 6: BerbatP (€8.80 in chips) 
+FJOLL291: posts small blind €0.02
+BerbatP: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [8c Ah]
+Dude23323: folds 
+MMTvinz: raises €0.05 to €0.10
+wil7up: folds 
+FJOLL291: calls €0.08
+BerbatP: calls €0.05
+*** FLOP *** [6s 2s 3c]
+FJOLL291: checks 
+BerbatP: bets €0.09
+MMTvinz: raises €0.09 to €0.18
+FJOLL291: folds 
+BerbatP: folds 
+Uncalled bet (€0.09) returned to MMTvinz
+MMTvinz collected €0.45 from pot
+MMTvinz: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.48 | Rake €0.03 
+Board [6s 2s 3c]
+Seat 1: Dude23323 folded before Flop (didn't bet)
+Seat 2: MMTvinz collected (€0.45)
+Seat 3: wil7up (button) folded before Flop (didn't bet)
+Seat 4: FJOLL291 (small blind) folded on the Flop
+Seat 6: BerbatP (big blind) folded on the Flop
+
+
+
+PokerStars Hand #260736406666:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:56:31 CET [2026/05/08 11:56:31 ET]
+Table 'Lycomedes VI' 6-max Seat #4 is the button
+Seat 1: Dude23323 (€5.90 in chips) 
+Seat 2: MMTvinz (€6.95 in chips) 
+Seat 3: wil7up (€9.76 in chips) 
+Seat 4: FJOLL291 (€5 in chips) 
+Seat 6: BerbatP (€8.61 in chips) 
+BerbatP: posts small blind €0.02
+Dude23323: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [2d Qc]
+MMTvinz: calls €0.05
+ginodeon joins the table at seat #5 
+wil7up: folds 
+FJOLL291: folds 
+BerbatP: folds 
+Dude23323: checks 
+*** FLOP *** [9d 3h 9c]
+Dude23323: checks 
+MMTvinz: bets €0.10
+Dude23323: folds 
+Uncalled bet (€0.10) returned to MMTvinz
+MMTvinz collected €0.11 from pot
+MMTvinz: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0.01 
+Board [9d 3h 9c]
+Seat 1: Dude23323 (big blind) folded on the Flop
+Seat 2: MMTvinz collected (€0.11)
+Seat 3: wil7up folded before Flop (didn't bet)
+Seat 4: FJOLL291 (button) folded before Flop (didn't bet)
+Seat 6: BerbatP (small blind) folded before Flop
+
+
+
+PokerStars Hand #260736410374:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:57:03 CET [2026/05/08 11:57:03 ET]
+Table 'Lycomedes VI' 6-max Seat #6 is the button
+Seat 5: ginodeon (€5 in chips) is sitting out
+Seat 1: Dude23323 (€5.85 in chips) 
+Seat 2: MMTvinz (€7.01 in chips) 
+Seat 3: wil7up (€9.76 in chips) 
+Seat 4: FJOLL291 (€5 in chips) 
+Seat 6: BerbatP (€8.59 in chips) 
+Dude23323: posts small blind €0.02
+MMTvinz: posts big blind €0.05
+ginodeon: sits out 
+*** HOLE CARDS ***
+Dealt to BerbatP [As 5d]
+wil7up: folds 
+FJOLL291: folds 
+BerbatP: raises €0.07 to €0.12
+Dude23323: folds 
+MMTvinz: calls €0.07
+*** FLOP *** [9h Ad Kh]
+MMTvinz: bets €0.20
+BerbatP: calls €0.20
+*** TURN *** [9h Ad Kh] [6d]
+ginodeon leaves the table
+MMTvinz: bets €0.40
+BerbatP: calls €0.40
+*** RIVER *** [9h Ad Kh 6d] [Qs]
+MMTvinz: checks 
+BerbatP: bets €0.35
+MMTvinz: calls €0.35
+*** SHOW DOWN ***
+BerbatP: shows [As 5d] (a pair of Aces)
+MMTvinz: mucks hand 
+BerbatP collected €2.03 from pot
+*** SUMMARY ***
+Total pot €2.16 | Rake €0.13 
+Board [9h Ad Kh 6d Qs]
+Seat 5: ginodeon
+Seat 1: Dude23323 (small blind) folded before Flop
+Seat 2: MMTvinz (big blind) mucked [4d Kd]
+Seat 3: wil7up folded before Flop (didn't bet)
+Seat 4: FJOLL291 folded before Flop (didn't bet)
+Seat 6: BerbatP (button) showed [As 5d] and won (€2.03) with a pair of Aces
+
+
+
+PokerStars Hand #260736419439:  Hold'em No Limit (€0.02/€0.05 EUR) - 2026/05/08 17:58:19 CET [2026/05/08 11:58:19 ET]
+Table 'Lycomedes VI' 6-max Seat #1 is the button
+Seat 1: Dude23323 (€5.83 in chips) 
+Seat 2: MMTvinz (€5.94 in chips) 
+Seat 3: wil7up (€9.76 in chips) 
+Seat 4: FJOLL291 (€5 in chips) 
+Seat 6: BerbatP (€9.55 in chips) 
+MMTvinz: posts small blind €0.02
+wil7up: posts big blind €0.05
+*** HOLE CARDS ***
+Dealt to BerbatP [8s Qd]
+FJOLL291: folds 
+BerbatP: folds 
+Dude23323: raises €0.07 to €0.12
+MMTvinz: folds 
+wil7up: folds 
+Uncalled bet (€0.07) returned to Dude23323
+monboisse joins the table at seat #5 
+Dude23323 collected €0.12 from pot
+Dude23323: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.12 | Rake €0 
+Seat 1: Dude23323 (button) collected (€0.12)
+Seat 2: MMTvinz (small blind) folded before Flop
+Seat 3: wil7up (big blind) folded before Flop
+Seat 4: FJOLL291 folded before Flop (didn't bet)
+Seat 6: BerbatP folded before Flop (didn't bet)
+
+
+

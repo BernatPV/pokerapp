@@ -1,0 +1,36 @@
+PokerStars Hand #243490160000: Tournament #2837640872, $4.60+$0.40 USD Hold'em No Limit - Level V (75/150) - 2021/05/04 14:00:00 ET
+Table '2837640872 12' 9-max Seat #4 is the button
+Seat 1: Alpha (3000 in chips)
+Seat 2: Bravo (4500 in chips)
+Seat 3: Hero (6000 in chips)
+Seat 4: Delta (2200 in chips)
+Seat 5: Echo (5000 in chips)
+Alpha: posts the ante 20
+Bravo: posts the ante 20
+Hero: posts the ante 20
+Delta: posts the ante 20
+Echo: posts the ante 20
+Echo: posts small blind 75
+Alpha: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Hero [Qs Qh]
+Bravo: folds
+Hero: raises 300 to 450
+Delta: folds
+Echo: folds
+Alpha: calls 300
+*** FLOP *** [2c 7d Qd]
+Alpha: checks
+Hero: bets 500
+Alpha: calls 500
+*** TURN *** [2c 7d Qd] [9s]
+Alpha: checks
+Hero: bets 1200
+Alpha: folds
+Uncalled bet (1200) returned to Hero
+Hero collected 2075 from pot
+*** SUMMARY ***
+Total pot 2075 | Rake 0
+Board [2c 7d Qd 9s]
+Seat 1: Alpha (big blind) folded on the Turn
+Seat 3: Hero (button) collected (2075)
