@@ -132,13 +132,16 @@ export function renderTable(els, { hand, frame, actingPlayer, equity }) {
 
     seatsEl.append(seat);
 
-    // Chip pile drawn between the seat and the centre.
+    // Chip pile drawn between the seat and the centre. Pushed 40% of the way to
+    // the pot so it clears the hole cards (which sit on the seat's centre-facing
+    // edge — otherwise the hero's bet overlaps the hero's cards at the bottom).
     if (p.committed > 0) {
+      const toCenter = 0.4;
       const chips = document.createElement('div');
       chips.className = 'chips';
       chips.textContent = formatMoney(p.committed, hand);
-      chips.style.left = `${x + (50 - x) * 0.3}%`;
-      chips.style.top = `${y + (50 - y) * 0.3}%`;
+      chips.style.left = `${x + (50 - x) * toCenter}%`;
+      chips.style.top = `${y + (50 - y) * toCenter}%`;
       seatsEl.append(chips);
     }
   });
