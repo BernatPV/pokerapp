@@ -26,6 +26,15 @@
       <div class="list-controls">
         <input id="search" type="search" placeholder="Search players, tags, notes, IDs…"
           aria-label="Search hands" />
+        <button id="btn-marked" class="ghost star-filter" aria-pressed="false"
+          title="Show only marked hands" aria-label="Filter to marked hands">★</button>
+      </div>
+      <div class="filters-row">
+        <input type="date" id="date-from" aria-label="From date" title="From date" />
+        <span class="dash">–</span>
+        <input type="date" id="date-to" aria-label="To date" title="To date" />
+        <button id="btn-collapse-all" class="ghost" title="Collapse / expand all sessions"
+          aria-label="Collapse or expand all sessions">⊟</button>
         <button id="btn-clear" class="ghost" title="Remove all stored hands">Clear</button>
       </div>
 
@@ -74,6 +83,7 @@
     <aside id="log-panel" aria-label="Action log">
       <header>Action Feed</header>
       <div id="hand-meta" class="hand-meta"></div>
+      <div id="hand-edit" class="hand-edit" hidden></div>
       <div id="equity" class="equity-panel" hidden></div>
       <ol id="action-log" class="action-log"></ol>
       <div id="summary" class="summary" hidden></div>

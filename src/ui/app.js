@@ -6,7 +6,8 @@ import { loadHands, saveHands, addHands } from '../store/db.js';
 import { renderTable } from './table.js';
 import { renderMeta, renderLog, renderSummary } from './actionlog.js';
 import { renderStreetNav, renderTimeline, timelineSeekTarget, updateControlBar } from './controls.js';
-import { renderList } from './handlist.js';
+import { renderList, highlightActive, filterHands, allSessionKeys } from './handlist.js';
+import { renderHandEdit } from './handedit.js';
 import { renderEquityPanel } from './equity.js';
 
 const $ = (id) => document.getElementById(id);
@@ -15,8 +16,13 @@ const els = {
   paste: $('paste'),
   fileInput: $('file-input'),
   search: $('search'),
+  markedBtn: $('btn-marked'),
+  dateFrom: $('date-from'),
+  dateTo: $('date-to'),
+  collapseAll: $('btn-collapse-all'),
   list: $('hand-list'),
   listEmpty: $('list-empty'),
+  handEdit: $('hand-edit'),
   boardEl: $('board'),
   potEl: $('pot'),
   seatsEl: $('seats'),
@@ -47,6 +53,14 @@ const SAMPLE_FILES = [
   'tests/samples/omaha_plo.txt',
 ];
 
+const COLLAPSE_KEY = 'phr.collapsed.v1';
+const loadCollapsed = () => {
+  try { return new Set(JSON.parse(localStorage.getItem(COLLAPSE_KEY) || '[]')); } catch { return new Set(); }
+};
+const saveCollapsed = () => {
+  try { localStorage.setItem(COLLAPSE_KEY, JSON.stringify([...state.collapsed])); } catch { /* ignore */ }
+};
+
 const state = {
   hands: loadHands(),
   currentId: null,
@@ -55,9 +69,14 @@ const state = {
   playing: false,
   speed: 1,
   query: '',
+  markedOnly: false,
+  dateFrom: '',
+  dateTo: '',
+  collapsed: loadCollapsed(),
 };
 
 let timer = null;
+let saveTimer = null;
 
 // ── Equity (showdown contestants, per street) ────────────────
 const streetKeyForBoard = (n) => (n >= 5 ? 'river' : n >= 4 ? 'turn' : n >= 3 ? 'flop' : 'preflop');
@@ -77,16 +96,79 @@ function computeHandEquity(hand, frames) {
   return { contestants: contestants.map((p) => p.name), byStreet };
 }
 
-// ── Rendering ────────────────────────────────────────────────
+// ── Library: filtering, grouping, marking, tags & notes ──────
+function currentFilter() {
+  return { query: state.query, markedOnly: state.markedOnly, from: state.dateFrom, to: state.dateTo };
+}
+
 function renderLibrary() {
   renderList(els.list, els.listEmpty, {
-    hands: state.hands,
+    hands: filterHands(state.hands, currentFilter()),
+    totalCount: state.hands.length,
     currentId: state.currentId,
-    query: state.query,
+    collapsed: state.collapsed,
     onSelect: selectHand,
     onDelete: deleteHand,
+    onToggleMark: toggleMark,
+    onToggleCollapse: toggleCollapse,
   });
 }
+
+function renderEditor() {
+  const hand = state.hands.find((h) => h.id === state.currentId) || null;
+  renderHandEdit(els.handEdit, hand, editCb);
+}
+
+function updateHand(id, mutate) {
+  const h = state.hands.find((x) => x.id === id);
+  if (!h) return null;
+  mutate(h);
+  saveHands(state.hands);
+  return h;
+}
+
+function toggleMark(id) {
+  updateHand(id, (h) => { h.marked = !h.marked; });
+  renderLibrary();
+  renderEditor();
+}
+
+function toggleCollapse(key) {
+  if (state.collapsed.has(key)) state.collapsed.delete(key);
+  else state.collapsed.add(key);
+  saveCollapsed();
+  renderLibrary();
+}
+
+function toggleCollapseAll() {
+  const keys = allSessionKeys(filterHands(state.hands, currentFilter()));
+  const anyExpanded = keys.some((k) => !state.collapsed.has(k));
+  for (const k of keys) { if (anyExpanded) state.collapsed.add(k); else state.collapsed.delete(k); }
+  saveCollapsed();
+  renderLibrary();
+}
+
+const editCb = {
+  onToggleMark: toggleMark,
+  onAddTag: (id, tag) => {
+    updateHand(id, (h) => { h.tags = h.tags || []; if (!h.tags.includes(tag)) h.tags.push(tag); });
+    renderLibrary();
+    renderEditor();
+  },
+  onRemoveTag: (id, tag) => {
+    updateHand(id, (h) => { h.tags = (h.tags || []).filter((t) => t !== tag); });
+    renderLibrary();
+    renderEditor();
+  },
+  // Notes save debounced and without re-render, so the textarea keeps focus.
+  onNotes: (id, text) => {
+    const h = state.hands.find((x) => x.id === id);
+    if (!h) return;
+    h.notes = text;
+    clearTimeout(saveTimer);
+    saveTimer = setTimeout(() => saveHands(state.hands), 400);
+  },
+};
 
 function renderFrame() {
   if (!state.replay) return;
@@ -122,8 +204,9 @@ function selectHand(id) {
   state.replay.equity = computeHandEquity(hand, state.replay.frames);
   state.index = 0;
   els.tableEmpty.style.display = 'none';
-  renderLibrary();
+  highlightActive(els.list, id); // cheap; avoids rebuilding the whole list
   renderMeta(els.meta, hand);
+  renderEditor();
   renderFrame();
 }
 
@@ -146,6 +229,7 @@ function deleteHand(id) {
     els.timeline.replaceChildren();
   }
   renderLibrary();
+  renderEditor();
 }
 
 function setIndex(i) {
@@ -281,6 +365,15 @@ function wire() {
   });
 
   els.search.addEventListener('input', (e) => { state.query = e.target.value; renderLibrary(); });
+  els.markedBtn.addEventListener('click', () => {
+    state.markedOnly = !state.markedOnly;
+    els.markedBtn.classList.toggle('on', state.markedOnly);
+    els.markedBtn.setAttribute('aria-pressed', String(state.markedOnly));
+    renderLibrary();
+  });
+  els.dateFrom.addEventListener('change', (e) => { state.dateFrom = e.target.value; renderLibrary(); });
+  els.dateTo.addEventListener('change', (e) => { state.dateTo = e.target.value; renderLibrary(); });
+  els.collapseAll.addEventListener('click', toggleCollapseAll);
 
   els.bar.start.addEventListener('click', toStart);
   els.bar.prev.addEventListener('click', prev);

@@ -29,9 +29,11 @@
   --turn: #d29922;
   --river: #f85149;
   --shadow: 0 8px 30px rgba(0, 0, 0, 0.45);
+  color-scheme: dark;
 }
 
 [data-theme='light'] {
+  color-scheme: light;
   --bg: #eef1f5;
   --panel: #ffffff;
   --panel-2: #f3f5f8;
@@ -125,14 +127,28 @@ textarea { resize: vertical; width: 100%; font-family: ui-monospace, 'SF Mono', 
 .empty-hint { color: var(--muted); padding: 8px 16px; font-size: 13px; }
 
 .hand-row {
-  padding: 9px 10px;
+  display: flex;
+  align-items: flex-start;
+  gap: 3px;
+  padding: 6px 8px;
   border-radius: 8px;
-  cursor: pointer;
   border: 1px solid transparent;
-  margin-bottom: 3px;
+  margin-bottom: 2px;
 }
 .hand-row:hover { background: var(--panel-2); }
 .hand-row.active { background: var(--panel-2); border-color: var(--accent); }
+.hand-row .row-main { flex: 1; min-width: 0; cursor: pointer; }
+.star {
+  background: none; border: none; padding: 0 2px; font-size: 15px;
+  line-height: 1.5; color: var(--muted); cursor: pointer;
+}
+.star:hover { color: var(--chip); background: none; border-color: transparent; }
+.star.on { color: var(--chip); }
+.row-tags { display: flex; flex-wrap: wrap; gap: 3px; margin-top: 3px; }
+.chip {
+  background: var(--panel-3); border: 1px solid var(--border); border-radius: 10px;
+  padding: 0 7px; font-size: 10.5px; color: var(--text); white-space: nowrap;
+}
 .hand-row .row-top { display: flex; justify-content: space-between; gap: 8px; }
 .hand-row .stakes { font-weight: 600; }
 .hand-row .net { font-variant-numeric: tabular-nums; font-weight: 700; }
@@ -141,6 +157,43 @@ textarea { resize: vertical; width: 100%; font-family: ui-monospace, 'SF Mono', 
 .hand-row .net.flat { color: var(--muted); }
 .hand-row .row-sub { color: var(--muted); font-size: 12px; display: flex; justify-content: space-between; gap: 8px; margin-top: 2px; }
 .hand-row .badge-inc { color: var(--turn); font-size: 11px; }
+
+/* Session groups */
+.session { list-style: none; margin-bottom: 2px; }
+.session-header {
+  display: flex; align-items: center; gap: 6px; padding: 6px 8px;
+  border-radius: 7px; cursor: pointer; font-size: 12.5px; color: var(--muted);
+}
+.session-header:hover { background: var(--panel-2); }
+.session-header .caret { width: 11px; flex: none; }
+.session-header .session-title { color: var(--text); font-weight: 600; flex: 1; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.session-header .session-meta { font-variant-numeric: tabular-nums; white-space: nowrap; }
+.session-header .net.win { color: var(--win); }
+.session-header .net.lose { color: var(--lose); }
+.session-header .net.flat { color: var(--muted); }
+.session-hands { list-style: none; margin: 0 0 4px 11px; padding-left: 6px; border-left: 1px solid var(--border); }
+
+/* Filters row */
+.star-filter { font-size: 15px; line-height: 1; padding: 6px 10px; }
+.star-filter.on { color: var(--chip); border-color: var(--chip); }
+.filters-row { display: flex; align-items: center; gap: 5px; padding: 0 12px 10px; }
+.filters-row input[type='date'] { flex: 1; min-width: 0; font-size: 12px; padding: 5px 6px; }
+.filters-row .dash { color: var(--muted); }
+.filters-row #btn-collapse-all, .filters-row #btn-clear { padding: 6px 8px; font-size: 12px; flex: none; }
+
+/* Tags & notes editor */
+.hand-edit { padding: 10px 16px; border-bottom: 1px solid var(--border); }
+.edit-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 7px; font-weight: 700; font-size: 13px; }
+.mark-btn { font-size: 12px; padding: 4px 9px; }
+.mark-btn.on { color: var(--chip); border-color: var(--chip); }
+.tag-list { display: flex; flex-wrap: wrap; gap: 4px; align-items: center; }
+.chip.removable { display: inline-flex; align-items: center; gap: 3px; }
+.chip .x { background: none; border: none; color: var(--muted); cursor: pointer; padding: 0; font-size: 13px; line-height: 1; }
+.chip .x:hover { color: var(--lose); background: none; }
+.tag-input { flex: 1; min-width: 70px; padding: 3px 6px; font-size: 12px; }
+.quick-tags { display: flex; flex-wrap: wrap; gap: 4px; margin: 6px 0; }
+.quick-tags .quick { font-size: 11px; padding: 2px 7px; color: var(--muted); }
+.notes-input { width: 100%; font-family: inherit; font-size: 12.5px; margin-top: 2px; }
 
 /* ── Main / table ───────────────────────────────────────────── */
 #main { position: relative; display: flex; flex-direction: column; min-width: 0; min-height: 0; }

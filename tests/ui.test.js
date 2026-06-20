@@ -89,6 +89,63 @@ test('a call shows a pot-odds note in the action feed', () => {
   assert.ok(notes.some((t) => /Pot odds \d+%/.test(t)), `expected a pot-odds note, got ${notes.join(' | ')}`);
 });
 
+const rows = () => window.document.querySelectorAll('#hand-list .hand-row');
+const fire = (el, type, init) => el.dispatchEvent(new window[type === 'keydown' ? 'KeyboardEvent' : 'Event'](type, { bubbles: true, ...init }));
+
+test('marking a hand and the marked-only filter', () => {
+  // Two hands now loaded (cash_6max + allin_sidepot) in two sessions.
+  assert.equal(rows().length, 2);
+  $('hand-edit').querySelector('.mark-btn').click(); // mark the selected hand
+  $('btn-marked').click(); // show only marked
+  assert.equal(rows().length, 1, 'marked-only shows one hand');
+  assert.ok(rows()[0].querySelector('.star.on'), 'its star is filled');
+  $('btn-marked').click(); // clear filter
+  assert.equal(rows().length, 2);
+});
+
+test('collapsing a session hides its hands', () => {
+  const headers = () => window.document.querySelectorAll('#hand-list .session-header');
+  assert.ok(headers().length >= 2, 'two sessions render');
+  const before = rows().length;
+  headers()[0].click(); // collapse the most-recent session
+  assert.ok(rows().length < before, 'collapsing removes that session\'s rows');
+  headers()[0].click(); // expand again
+  assert.equal(rows().length, before);
+});
+
+test('adding a tag shows a chip, tags the row, and is searchable', () => {
+  const input = $('hand-edit').querySelector('.tag-input');
+  input.value = 'bluffcatch';
+  fire(input, 'keydown', { key: 'Enter' });
+  assert.ok([...$('hand-edit').querySelectorAll('.chip')].some((c) => /bluffcatch/.test(c.textContent)), 'chip in editor');
+  assert.ok(window.document.querySelector('#hand-list .row-tags'), 'tag chip on the row');
+  $('search').value = 'bluffcatch';
+  fire($('search'), 'input');
+  assert.equal(rows().length, 1, 'search by tag finds the hand');
+  $('search').value = '';
+  fire($('search'), 'input');
+});
+
+test('notes are saved and searchable', () => {
+  const notes = $('hand-edit').querySelector('.notes-input');
+  notes.value = 'sick river cooler';
+  fire(notes, 'input');
+  $('search').value = 'cooler';
+  fire($('search'), 'input');
+  assert.equal(rows().length, 1, 'search by notes finds the hand');
+  $('search').value = '';
+  fire($('search'), 'input');
+});
+
+test('date-range filter narrows the list', () => {
+  $('date-from').value = '2099-01-01';
+  fire($('date-from'), 'change');
+  assert.equal(rows().length, 0, 'future from-date hides everything');
+  $('date-from').value = '';
+  fire($('date-from'), 'change');
+  assert.ok(rows().length >= 2, 'clearing the date restores the list');
+});
+
 test('no DOM errors were thrown during the whole interaction', () => {
   assert.deepEqual(errors, [], `jsdom errors: ${errors.join(' | ')}`);
 });

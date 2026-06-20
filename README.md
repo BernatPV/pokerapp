@@ -39,8 +39,9 @@ hands.
 | **§1 Import** — paste, open file, drag & drop, multi-hand files | ✅ |
 | **§1.3 Parser** — id, date, table, stakes, seats, blinds/antes, actions, board, showdown, pots, rake, winners | ✅ (PokerStars + generic fallback) |
 | **§1.5 Error handling** — incomplete flag, warnings, never drops data | ✅ |
-| **§2.1 Storage** — local persistence, hand list | ✅ (localStorage) |
-| **§2.5 Search** — players / tags / notes / id | ✅ |
+| **§2.1 Storage** — local persistence; hand list grouped into collapsible sessions (table/day or tournament) with per-session net | ✅ (localStorage) |
+| **§2.4 Tagging & notes** — mark/star hands, custom tags (+ quick presets), free-text notes | ✅ |
+| **§2.5 Search** — players / tags / notes / id, **marked-only** filter, **date-range** picker | ✅ |
 | **§3 Visual table** — oval felt, seats, hole cards, badges, chip piles, board, pot | ✅ |
 | **§3.5 Action feed** — plain-English log, current highlight, click to jump | ✅ |
 | **§4 Controls** — start/back/play/forward/end, speed, keyboard shortcuts | ✅ |
@@ -68,7 +69,7 @@ src/
   engine/evaluator.js  7-card Hold'em hand evaluator (comparable scores)
   engine/equity.js     equity calculator (exact enumeration / Monte-Carlo)
   store/db.js          localStorage persistence (swappable for IndexedDB)
-  ui/                  Vanilla DOM views: table, cards, controls, log, list, equity, app
+  ui/                  Vanilla DOM views: table, cards, controls, log, list, handedit, equity, app
 tests/                 node:test suites (incl. jsdom UI tests) + sample hands
 ```
 
@@ -95,7 +96,6 @@ tests/                 node:test suites (incl. jsdom UI tests) + sample hands
 
 - **§7 Multi-site** — dedicated GG / 888 / partypoker / Winamax parsers; watch-folder import (needs Electron/Tauri).
 - **§5 Review tools** — street-by-street summary panel, range matrix annotation, player HUD stats (VPIP/PFR/AF).
-- **§2 / §8 polish** — tagging & notes UI, CSV/JSON export & backup, side-pot
-  splitting, settings panel.
+- **§8 polish** — CSV/JSON export & backup, side-pot splitting, settings panel.
 
 Bundled sample histories are synthetic, for testing and demos.
